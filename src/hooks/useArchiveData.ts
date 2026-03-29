@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import type { ProfileData, WeekSnapshot } from '../types';
 import { CATEGORY_MAP } from '../data/categories';
 
-const BASE_URL = import.meta.env.VITE_DATA_BASE_URL || '';
+const BASE_URL = import.meta.env.VITE_DATA_BASE_URL || import.meta.env.BASE_URL || './';
 
 export function useArchiveData(enabled: boolean) {
   const [archive, setArchive] = useState<WeekSnapshot[]>([]);
@@ -15,13 +15,13 @@ export function useArchiveData(enabled: boolean) {
     async function load() {
       setLoading(true);
       try {
-        const res = await fetch(`${BASE_URL}/data/archive/index.json`);
+        const res = await fetch(`${BASE_URL}data/archive/index.json`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const files: string[] = await res.json();
 
         const snapshots = await Promise.all(
           files.map(async (filename) => {
-            const r = await fetch(`${BASE_URL}/data/archive/${filename}`);
+            const r = await fetch(`${BASE_URL}data/archive/${filename}`);
             if (!r.ok) throw new Error(`HTTP ${r.status} for ${filename}`);
             const profiles: ProfileData[] = await r.json();
             const dateMatch = filename.match(/scores_(\d{4}-\d{2}-\d{2})/);
