@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1e3a5f;
+  --color-primary-light: #2d5a8e;
+  --color-accent: #f97316;
+  --color-accent-dark: #ea580c;
+  --color-surface: #f8fafc;
+
+  --color-cat-journalist: #3b82f6;
+  --color-cat-influencer: #8b5cf6;
+  --color-cat-media: #14b8a6;
+  --color-cat-politician: #f59e0b;
+
+  --color-verdict-true: #22c55e;
+  --color-verdict-mostly-true: #86efac;
+  --color-verdict-unverifiable: #9ca3af;
+  --color-verdict-misleading: #f97316;
+  --color-verdict-mostly-false: #b91c1c;
+  --color-verdict-false: #dc2626;
+
+  --font-family-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: var(--font-family-sans);
+  margin: 0;
+  background: #ffffff;
+  color: #1e293b;
+  -webkit-font-smoothing: antialiased;
+}
+
+.recharts-tooltip-wrapper {
+  z-index: 100 !important;
+}

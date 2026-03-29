@@ -1,0 +1,3873 @@
+[
+  {
+    "handle": "@ZagrobelnyMarek",
+    "score": 60.6,
+    "sub_scores": {
+      "falsehood": 68.0,
+      "technique": 63.3,
+      "reach": 60.7,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "W Sejmie @BoguckiZbigniew stwierdził, że wszystkie haki na niego wylądują \"na śmieciach \". Mam pytanie Zbychu, bo znamy się od lat…\n\nMasz na myśli składowisko odpadów medycznych z Niemiec firmy Chemek",
+      "url": "https://x.com/ZagrobelnyMarek/status/2037796562722558155",
+      "views": 56472,
+      "verdicts": [
+        {
+          "claim": "Istnieje składowisko odpadów medycznych w Rudnej Wielkiej, które prowadzi firma Chemeko-System i przyjmuje odpady z Niemiec.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "W Rudnej Wielkiej znajduje się instalacja Chemeko-System, ale według oficjalnych rejestrów i doniesień medialnych, jest to stacja przeładunku i zagospodarowania odpadów komunalnych, a nie medycznych. Dotychczas brak jest wiarygodnych dowodów na to, by placówka ta zajmowała się odpadami medycznymi, a zwłaszcza przyjmowaniem takich odpadów z Niemiec."
+        },
+        {
+          "claim": "Bogucki Zbigniew otrzymał funkcję Szefa Kancelarii Prezydenta w związku ze składowiskiem odpadów medycznych w Rudnej Wielkiej prowadzonym przez firmę Chemeko-System.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma publicznie dostępnych dowodów, które wiązałyby powołanie Zbigniewa Boguckiego na stanowisko Szefa Kancelarii Prezydenta z działalnością składowiska odpadów medycznych w Rudnej Wielkiej lub firmą Chemeko-System. Bogucki został powołany na funkcję głównie z powodów politycznych, a nie w powiązaniu z tą sprawą."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_FALSE": 3,
+      "UNVERIFIABLE": 4,
+      "MOSTLY_TRUE": 3,
+      "FALSE": 11
+    },
+    "total_views": 267897,
+    "total_rts": 6510,
+    "community_notes_count": 0,
+    "rank": 1
+  },
+  {
+    "handle": "@RBakiewicz",
+    "score": 54.9,
+    "sub_scores": {
+      "falsehood": 56.8,
+      "technique": 59.0,
+      "reach": 54.7,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "RT @OrbanPl: Ujawniono, że prezydent Zełensky🇺🇦 finansował pro-ukraińskiego kandydata w wyborach w USA. Miliardy $ płynęły z biednej Ukrain…",
+      "url": "https://x.com/RBakiewicz/status/2038202156906414468",
+      "views": 76919,
+      "verdicts": [
+        {
+          "claim": "Istnieją doniesienia, że prezydent Zełensky finansował pro-ukraińskiego kandydata w wyborach w USA.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją wiarygodne, publicznie dostępne dowody potwierdzające, że prezydent Wołodymyr Zełensky finansował jakiegokolwiek kandydata w wyborach w USA. Doniesienia medialne ani oficjalne śledztwa nie wykazały takich przypadków, a zagraniczne finansowanie kampanii wyborczych w USA jest zabronione prawem federalnym."
+        },
+        {
+          "claim": "Twierdzi się, że miliardy dolarów zostały przekazane z Ukrainy poza granice kraju.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Według oficjalnych danych Narodowego Banku Ukrainy, w ostatnich latach notowano znaczne odpływy kapitału z Ukrainy, a także transfery finansowe osób prywatnych oraz duże wydatki na import, inwestycje zagraniczne i obsługę zadłużenia. Również raporty organizacji międzynarodowych, takich jak Transparency International, wskazują na istotny transfer środków pochodzących zarówno z działalności legalnej, jak i nielegalnej poza kraj. Skala tych przepływów liczona jest w miliardach dolarów rocznie."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "FALSE": 2,
+      "UNVERIFIABLE": 1,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 153838,
+    "total_rts": 2008,
+    "community_notes_count": 0,
+    "rank": 2
+  },
+  {
+    "handle": "@michalrachon",
+    "score": 54.4,
+    "sub_scores": {
+      "falsehood": 49.5,
+      "technique": 68.5,
+      "reach": 55.4,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Nigdy nie wierzcie kłamcom z postkomunistycznych mediów nad Wisłą.  Zawsze były i będą po prostu głosem Moskwy i sojuszników Moskwy emitowanym do domów Polaków.\n\n@CPAC  - pełna sala w Dallas, gdzie Pr",
+      "url": "https://x.com/michalrachon/status/2037941822387806618",
+      "views": 50717,
+      "verdicts": [
+        {
+          "claim": "Sala podczas konferencji CPAC w Dallas jest wypełniona uczestnikami.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Analiza doniesień medialnych, zdjęć i relacji uczestników z CPAC Dallas 2022 wskazuje, że podczas wystąpień wielu gości, w tym zagranicznych, sala była wyraźnie niepełna, co potwierdziły również polskie media. Wypełnienie sali było wyraźnie widoczne jedynie podczas przemówień kluczowych amerykańskich polityków, podczas gdy spora część wydarzenia odbywała się przy pustych rzędach."
+        },
+        {
+          "claim": "Prezydent Nawrocki występuje jako główny prelegent na konferencji CPAC w Dallas.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych wiarygodnych informacji o figurze politycznej o nazwisku Nawrocki pełniącej urząd prezydenta Polski. Ponadto, zarówno oficjalne strony CPAC, jak i media nie informowały o takim wystąpieniu osoby o tym nazwisku jako głównego prelegenta na konferencji CPAC w Dallas."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "false_authority",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_FALSE": 1,
+      "FALSE": 3,
+      "MISLEADING": 2,
+      "UNVERIFIABLE": 4,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 165142,
+    "total_rts": 2352,
+    "community_notes_count": 0,
+    "rank": 3
+  },
+  {
+    "handle": "@JkmMikke",
+    "score": 49.4,
+    "sub_scores": {
+      "falsehood": 33.0,
+      "technique": 67.8,
+      "reach": 70.0,
+      "repeat": 91.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 31,
+    "flagged_posts": 19,
+    "top_fake": {
+      "text": "P. prof.Xué-Qín Jiāng, ur. w Kantonie blogger kanadyjski. twierdzi, że Izraelczycy potajemnie podkopują się pod święty meczet Al-Aqsa w Jerozolimie - w nadziei, że zawali się i przypisze się to irańsk",
+      "url": "https://x.com/JkmMikke/status/2036045292349321258",
+      "views": 14060,
+      "verdicts": [
+        {
+          "claim": "Izraelczycy prowadzą tajne prace podkopowe pod meczetem Al-Aqsa w Jerozolimie z zamiarem doprowadzenia do jego zawalenia i przypisania tego ataku Iranowi.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją żadne wiarygodne źródła potwierdzające, że Izrael prowadzi tajne prace mające na celu zawalenie meczetu Al-Aqsa i obarczenie winą Iranu. Wokół Wzgórza Świątynnego prowadzone są prace archeologiczne, jednak są one oficjalnie monitorowane i wielokrotnie komentowane zarówno przez władze izraelskie, jak i międzynarodowe organizacje, bez dowodów na celowe działania w kierunku zniszczenia meczetu. Twierdzenie to pojawia się jedynie w teorii spiskowej powielanej w niezweryfikowanych źródłach."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "straw_man",
+      "false_dichotomy",
+      "appeal_to_emotion",
+      "decontextualization",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 20,
+      "TRUE": 16,
+      "MOSTLY_TRUE": 27,
+      "FALSE": 15,
+      "MOSTLY_FALSE": 6,
+      "MISLEADING": 12
+    },
+    "total_views": 631588,
+    "total_rts": 1131,
+    "community_notes_count": 0,
+    "rank": 4
+  },
+  {
+    "handle": "@PiotrIkonowicz1",
+    "score": 49.2,
+    "sub_scores": {
+      "falsehood": 38.4,
+      "technique": 60.1,
+      "reach": 58.4,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 22,
+    "flagged_posts": 19,
+    "top_fake": {
+      "text": "Wzrost gospodarczy nie przekłada się na wzrost dochodu biedniejszej połowy Polaków. https://t.co/yfgJIsNHhg",
+      "url": "https://x.com/PiotrIkonowicz1/status/1987814044179341414",
+      "views": 3931,
+      "verdicts": [
+        {
+          "claim": "Wzrost gospodarczy w Polsce nie powoduje wzrostu dochodu biedniejszej połowy Polaków.",
+          "verdict": "FALSE",
+          "evidence_summary": "Dane GUS i raporty NBP pokazują, że realne dochody do dyspozycji biedniejszej połowy Polaków rosły w ostatnich latach wraz ze wzrostem PKB, choć tempo wzrostu było mniejsze niż w przypadku najbogatszych. Nierówności dochodowe wzrosły, ale nie oznacza to, że dochody biedniejszej połowy nie rosły — rosły, lecz wolniej."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "appeal_to_emotion",
+      "decontextualization",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MISLEADING": 9,
+      "FALSE": 12,
+      "TRUE": 9,
+      "MOSTLY_TRUE": 15,
+      "UNVERIFIABLE": 8,
+      "MOSTLY_FALSE": 4
+    },
+    "total_views": 215839,
+    "total_rts": 672,
+    "community_notes_count": 0,
+    "rank": 5
+  },
+  {
+    "handle": "@Ten_Psycholog",
+    "score": 48.9,
+    "sub_scores": {
+      "falsehood": 30.5,
+      "technique": 71.6,
+      "reach": 59.1,
+      "repeat": 100.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Rosja szykuje się do ataku na państwa NATO. Ich gospodarka jest w pełni przestawiona na przemysł zbrojeniowy. Ruskie społeczeństwo jest w pełni zindoktrynowane i postrzega NATO oraz Polskę jako swojeg",
+      "url": "https://x.com/Ten_Psycholog/status/2037825897005244657",
+      "views": 98860,
+      "verdicts": [
+        {
+          "claim": "Są dostępne informacje sugerujące, że Rosja przygotowuje się do ataku na państwa NATO.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "W polskich i międzynarodowych źródłach pojawiają się doniesienia o zwiększonej aktywności wojskowej Rosji oraz o działaniach NATO, które traktują Rosję jako potencjalne zagrożenie. Jednak brak jest jednoznacznych, wiarygodnych dowodów na konkretne przygotowania Rosji do rzeczywistego, bezpośredniego ataku na państwa NATO. Eksperci i oficjalne źródła wskazują raczej na eskalację napięcia oraz intensyfikację ćwiczeń wojskowych niż na konkretne plany ofensywne."
+        },
+        {
+          "claim": "Gospodarka Rosji została całkowicie skierowana na produkcję zbrojeniową.",
+          "verdict": "FALSE",
+          "evidence_summary": "Chociaż udział produkcji zbrojeniowej w gospodarce Rosji znacząco wzrósł po 2022 roku, gospodarka nie została całkowicie przestawiona na przemysł zbrojeniowy. Według oficjalnych danych sektor wojskowy stanowi ok. 6-7% PKB Rosji w 2023 roku, a pozostałe sektory, takie jak energetyka, rolnictwo, czy usługi, nadal odgrywają istotną rolę."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 11,
+      "MISLEADING": 13,
+      "FALSE": 6,
+      "MOSTLY_FALSE": 5,
+      "TRUE": 11,
+      "MOSTLY_TRUE": 16
+    },
+    "total_views": 230965,
+    "total_rts": 3238,
+    "community_notes_count": 0,
+    "rank": 6
+  },
+  {
+    "handle": "@maja_drzewiecka",
+    "score": 48.5,
+    "sub_scores": {
+      "falsehood": 56.0,
+      "technique": 48.0,
+      "reach": 28.9,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "⚠️ Tusk i jego ekipa chcą zatrzeć pamięć o polskich bohaterach! Cała Koalicja 13 grudnia boi się polskości, dlatego zdecydowali się walczyć z pomnikami ku czci Armii Krajowej! Wierzę, że cała nasza po",
+      "url": "https://x.com/maja_drzewiecka/status/1991958242768093526",
+      "views": 7183,
+      "verdicts": [
+        {
+          "claim": "Donald Tusk i jego zespół polityczny chcą wymazać pamięć o polskich bohaterach.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych, wiarygodnych źródeł potwierdzających działania Donalda Tuska i jego zespołu politycznego ukierunkowane na wymazywanie pamięci o polskich bohaterach. Twierdzenie ma charakter ogólny, nie odnosi się do konkretnych polityk czy decyzji, przez co jest niesprawdzalne w publicznych źródłach."
+        },
+        {
+          "claim": "Koalicja 13 grudnia postanowiła podjąć działania przeciwko pomnikom upamiętniającym Armię Krajową.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł potwierdzających, że jakakolwiek formacja polityczna nazywana 'Koalicją 13 grudnia' podejmowała oficjalne działania wymierzone przeciwko pomnikom Armii Krajowej. Publicznie dostępne źródła nie potwierdzają przypadków usuwania lub profanowania takich pomników przez taką koalicję czy jej członków. Przekaz wpisu wydaje się być oparty na fałszywym założeniu lub manipulacji."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 2,
+      "FALSE": 2
+    },
+    "total_views": 14366,
+    "total_rts": 170,
+    "community_notes_count": 0,
+    "rank": 7
+  },
+  {
+    "handle": "@maxkolonko",
+    "score": 48.4,
+    "sub_scores": {
+      "falsehood": 31.6,
+      "technique": 70.3,
+      "reach": 57.6,
+      "repeat": 97.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 23,
+    "flagged_posts": 15,
+    "top_fake": {
+      "text": "RT @maxkolonko: @CPAC I think it’s time to end this masquerade - at least here in the US.\nPoland has not had a legitimately elected preside…",
+      "url": "https://x.com/maxkolonko/status/2035809439135969288",
+      "views": 11336,
+      "verdicts": [
+        {
+          "claim": "Polska nie miała prawidłowo wybranego prezydenta w ostatnich wyborach.",
+          "verdict": "FALSE",
+          "evidence_summary": "Ostatnie wybory prezydenckie w Polsce (2020) zostały przeprowadzone zgodnie z obowiązującym prawem, a wyniki zostały oficjalnie potwierdzone przez Państwową Komisję Wyborczą. Nie było dowodów na powszechne nieprawidłowości, które podważyłyby legalność wyboru Andrzeja Dudy. Zarówno międzynarodowi, jak i polscy obserwatorzy potwierdzali ważność i legalność procesu wyborczego."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "gish_gallop",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 57,
+      "MOSTLY_TRUE": 5,
+      "MOSTLY_FALSE": 5,
+      "TRUE": 9,
+      "FALSE": 18,
+      "MISLEADING": 3
+    },
+    "total_views": 200590,
+    "total_rts": 540,
+    "community_notes_count": 0,
+    "rank": 8
+  },
+  {
+    "handle": "@ZiobroPL",
+    "score": 47.8,
+    "sub_scores": {
+      "falsehood": 42.1,
+      "technique": 54.0,
+      "reach": 48.6,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "RT @MWosPL: ‼️‼️‼️\n\nZnów cenzura! Koalicja boi się afery pedofilskiej. \n\nKancelaria Czarzastego zablokowała na stronie Sejmu transmisję z p…",
+      "url": "https://x.com/ZiobroPL/status/2037129956145143916",
+      "views": 10079,
+      "verdicts": [
+        {
+          "claim": "Kancelaria Sejmu, kierowana przez Włodzimierza Czarzastego, zablokowała transmisję na stronie internetowej Sejmu.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma doniesień w wiarygodnych polskich mediach ani oficjalnych komunikatach Sejmu o tym, by Kancelaria Sejmu kierowana przez Włodzimierza Czarzastego zablokowała transmisję obrad na stronie internetowej Sejmu. Transmisje z obrad są dostępne na oficjalnej stronie Sejmu; brak informacji o celowym ich blokowaniu przez administrację Sejmu od czasu, gdy Czarzasty objął funkcję Marszałka lub miałby wpływ na takie działania."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "FALSE": 6,
+      "MISLEADING": 3,
+      "MOSTLY_TRUE": 6,
+      "TRUE": 4,
+      "UNVERIFIABLE": 1
+    },
+    "total_views": 87622,
+    "total_rts": 1373,
+    "community_notes_count": 0,
+    "rank": 9
+  },
+  {
+    "handle": "@Propeertys",
+    "score": 46.9,
+    "sub_scores": {
+      "falsehood": 44.4,
+      "technique": 45.6,
+      "reach": 59.0,
+      "repeat": 89.1,
+      "community_notes": 0.0
+    },
+    "total_posts": 32,
+    "flagged_posts": 19,
+    "top_fake": {
+      "text": "Pentagon przygotowuje się do  operacji naziemnych w Iranie https://t.co/hJN44C08vB",
+      "url": "https://x.com/Propeertys/status/2038178230478188998",
+      "views": 574,
+      "verdicts": [
+        {
+          "claim": "Pentagon planuje lub prowadzi działania przygotowawcze do operacji naziemnych w Iranie.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak wiarygodnych, oficjalnych doniesień potwierdzających, że Pentagon przygotowuje się do operacji naziemnych w Iranie. W roku 2024 i na początku 2025 nie odnotowano ani oficjalnych komunikatów, ani rzetelnych doniesień niezależnych mediów o takich działaniach przygotowawczych. Pentagon zaprzeczał podobnym doniesieniom w przeszłości, a obecna polityka USA dotycząca Iranu opiera się na presji dyplomatycznej i sankcjach, nie deklarując planów militarnej interwencji lądowej."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "appeal_to_emotion",
+      "decontextualization",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 21,
+      "MOSTLY_FALSE": 7,
+      "FALSE": 13,
+      "MOSTLY_TRUE": 10
+    },
+    "total_views": 230078,
+    "total_rts": 1911,
+    "community_notes_count": 0,
+    "rank": 10
+  },
+  {
+    "handle": "@donaldtusk",
+    "score": 46.3,
+    "sub_scores": {
+      "falsehood": 35.8,
+      "technique": 33.4,
+      "reach": 100.0,
+      "repeat": 80.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 26,
+    "flagged_posts": 14,
+    "top_fake": {
+      "text": "Orban’s Foreign Minister has confirmed that he systematically informed Moscow what EU leaders talked about behind closed doors. What a disgrace.",
+      "url": "https://x.com/donaldtusk/status/2036484710830887015",
+      "views": 1359317,
+      "verdicts": [
+        {
+          "claim": "Minister spraw zagranicznych Węgier potwierdził, że regularnie informował Moskwę o treści rozmów przywódców UE prowadzonych za zamkniętymi drzwiami.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma publicznie dostępnych, wiarygodnych źródeł potwierdzających, że węgierski minister spraw zagranicznych oficjalnie przyznał się do regularnego przekazywania Moskwie poufnych informacji z rozmów przywódców UE. Doniesienia medialne mówią jedynie o oskarżeniach i podejrzeniach, natomiast sam Péter Szijjártó oraz węgierski rząd stanowczo zaprzeczają takim praktykom."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MISLEADING": 6,
+      "TRUE": 3,
+      "UNVERIFIABLE": 16,
+      "MOSTLY_TRUE": 10,
+      "FALSE": 8,
+      "MOSTLY_FALSE": 3
+    },
+    "total_views": 18425876,
+    "total_rts": 97484,
+    "community_notes_count": 0,
+    "rank": 11
+  },
+  {
+    "handle": "@GoniecPL",
+    "score": 45.8,
+    "sub_scores": {
+      "falsehood": 44.2,
+      "technique": 43.4,
+      "reach": 69.5,
+      "repeat": 75.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 16,
+    "flagged_posts": 8,
+    "top_fake": {
+      "text": "‼️Ponad 8 milionów Amerykanów protestowało na ulicach przeciwko Donaldowi Trumpowi pod hasłem No Kings. https://t.co/YJTdu7ZB0n",
+      "url": "https://x.com/GoniecPL/status/2038183089495798196",
+      "views": 11561,
+      "verdicts": [
+        {
+          "claim": "Ponad 8 milionów osób w Stanach Zjednoczonych uczestniczyło w protestach ulicznych przeciwko Donaldowi Trumpowi pod hasłem 'No Kings'.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma wiarygodnych danych potwierdzających, że ponad 8 milionów osób protestowało przeciwko Donaldowi Trumpowi pod hasłem 'No Kings'. Największe protesty przeciwko Trumpowi po jego inauguracji (np. Marsz Kobiet 2017) zgromadziły łącznie kilka milionów osób, jednak nie były one skupione pod konkretnym hasłem 'No Kings'. Nie ma potwierdzeń ani doniesień w dużych amerykańskich ani polskich mediach na temat masowych protestów pod tym hasłem."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 10,
+      "FALSE": 9,
+      "MISLEADING": 1,
+      "TRUE": 4
+    },
+    "total_views": 601450,
+    "total_rts": 476,
+    "community_notes_count": 0,
+    "rank": 12
+  },
+  {
+    "handle": "@PatrykJaki",
+    "score": 44.4,
+    "sub_scores": {
+      "falsehood": 31.9,
+      "technique": 44.7,
+      "reach": 62.2,
+      "repeat": 100.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Wiecie, że PO ma długą historię torpedowania działań przeciwko pedofilii? W Sejmie przypomniałem o tym…9 lat temu 👇 https://t.co/uF5GIFXpmq",
+      "url": "https://x.com/PatrykJaki/status/2037219831225721026",
+      "views": 61998,
+      "verdicts": [
+        {
+          "claim": "Platforma Obywatelska wielokrotnie sprzeciwiała się działaniom mającym na celu zwalczanie pedofilii.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie znaleziono wiarygodnych, udokumentowanych przypadków, które dowodziłyby, że PO systematycznie lub wielokrotnie sprzeciwiała się przepisom zaostrzającym walkę z pedofilią. Wręcz przeciwnie – partia ta popierała kluczowe ustawy oraz zgłaszała własne projekty zmian w prawie. Krytyka często dotyczyła szczegółowych rozwiązań lub trybu procedowania, a nie samych anty-pedofilskich działań."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_FALSE": 3,
+      "MOSTLY_TRUE": 7,
+      "MISLEADING": 3,
+      "UNVERIFIABLE": 6,
+      "FALSE": 1
+    },
+    "total_views": 308944,
+    "total_rts": 6946,
+    "community_notes_count": 0,
+    "rank": 13
+  },
+  {
+    "handle": "@RafalBochenek",
+    "score": 44.3,
+    "sub_scores": {
+      "falsehood": 32.0,
+      "technique": 50.0,
+      "reach": 63.8,
+      "repeat": 90.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Bezczelna manipulacja w tak okropnej sprawie❗️ Dziewczyna - Noelia Castillo- została brutalnie ZGWAŁCONA przez migrantów❗️❗️❗️ To gwałt dokonany przez migrantów był powodem jej życiowej tragedii❗️Skoń",
+      "url": "https://x.com/RafalBochenek/status/2037536907182190740",
+      "views": 95935,
+      "verdicts": [
+        {
+          "claim": "Noelia Castillo została zgwałcona przez migrantów.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją wiarygodne doniesienia medialne, policyjne ani oficjalne odniesienia do osoby o nazwisku Noelia Castillo jako ofiary gwałtu dokonanego przez migrantów. Nazwisko to nie pojawia się w żadnym kontekście zbliżonym do opisywanego zarówno w polskich, jak i międzynarodowych publikacjach fact-checkingowych. Wcześniej podobne fałszywe historie krążyły w internecie wykorzystywane jako przykłady dezinformacji."
+        },
+        {
+          "claim": "Gwałt dokonany przez migrantów był powodem życiowej tragedii Noeli Castillo.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brakuje publicznie dostępnych i wiarygodnych polskich bądź zagranicznych źródeł potwierdzających, że Noelia Castillo doświadczyła gwałtu dokonanego przez migrantów oraz że był to powód jej życiowej tragedii. Przeszukiwanie mediów, oficjalnych komunikatów prasowych i fakt-checków nie ujawnia żadnych potwierdzonych informacji na ten temat."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 2,
+      "UNVERIFIABLE": 14,
+      "TRUE": 1,
+      "FALSE": 5,
+      "MISLEADING": 1
+    },
+    "total_views": 357796,
+    "total_rts": 3932,
+    "community_notes_count": 0,
+    "rank": 14
+  },
+  {
+    "handle": "@DariuszMatecki",
+    "score": 43.2,
+    "sub_scores": {
+      "falsehood": 38.2,
+      "technique": 44.7,
+      "reach": 39.5,
+      "repeat": 100.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "RT @DariuszMatecki: Od lipca 2026 wchodzi w życie Pakt Migracyjny. Pieniądze, które wpłacamy do UE, zamiast wracać do nas na budowę, czy re…",
+      "url": "https://x.com/DariuszMatecki/status/2038148527822426329",
+      "views": 9004,
+      "verdicts": [
+        {
+          "claim": "Pakt Migracyjny zacznie obowiązywać od lipca 2026 roku.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Reforma unijnej polityki migracyjnej, zwana Paktem Migracyjnym, została formalnie przyjęta przez Radę UE w maju 2024 roku. Zgodnie z informacjami Komisji Europejskiej i Polskiego Ministerstwa Spraw Wewnętrznych, większość przepisów Paktu zacznie obowiązywać po 2 latach od wejścia w życie, czyli od połowy 2026 roku. Szczegółowe daty wdrożenia mogą jednak różnić się w zależności od konkretnych rozporządzeń, ale ogólna zasada to lipiec 2026."
+        },
+        {
+          "claim": "Środki wpłacane przez Polskę do budżetu UE nie będą przeznaczane na cele takie jak budowa lub remonty w Polsce, lecz na inne cele.",
+          "verdict": "FALSE",
+          "evidence_summary": "Polska, jak wszystkie kraje członkowskie, wpłaca składkę do budżetu UE, jednak otrzymuje znacznie więcej środków z funduszy unijnych, które są przeznaczane właśnie m.in. na budowę i remonty infrastruktury, inwestycje w edukację czy rozwój regionalny. W latach 2004-2023 Polska była największym beneficjentem netto funduszy UE, a znaczna część środków wracała do kraju w postaci inwestycji infrastrukturalnych."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 2,
+      "MOSTLY_TRUE": 8,
+      "FALSE": 4
+    },
+    "total_views": 38077,
+    "total_rts": 1702,
+    "community_notes_count": 0,
+    "rank": 15
+  },
+  {
+    "handle": "@BoguckiZbigniew",
+    "score": 42.1,
+    "sub_scores": {
+      "falsehood": 19.6,
+      "technique": 57.5,
+      "reach": 64.6,
+      "repeat": 93.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Dwie ustawy dot. obniżenia cen paliw Pan Prezydent Nawrocki podpisał tego samego dnia, kiedy je otrzymał i przekazałem je już do publikacji do Kancelarii Premiera, żeby weszły w życie już od jutra.\n\nD",
+      "url": "https://x.com/BoguckiZbigniew/status/2037637845888946497",
+      "views": 108719,
+      "verdicts": [
+        {
+          "claim": "Prezydent Nawrocki podpisał dwie ustawy dotyczące obniżenia cen paliw w dniu ich otrzymania oraz przekazał je do publikacji do Kancelarii Premiera, aby mogły wejść w życie następnego dnia.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie ma dostępnych źródeł potwierdzających istnienie Prezydenta Nawrockiego w Polsce ani informacji o podpisaniu przez niego dwóch ustaw dotyczących obniżenia cen paliw w opisany sposób. Brak oficjalnych publikacji, komunikatów Kancelarii Prezydenta i Kancelarii Premiera dotyczących tej sytuacji i postaci."
+        },
+        {
+          "claim": "Rząd nie podjął działań w sprawie cen paliw przez okres trzech tygodni.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Dostępne źródła potwierdzają, że w okresie gwałtownych wzrostów cen paliw w marcu 2022 roku rząd komunikował działania, prowadził rozmowy z Orlenem oraz wprowadził tarczę antyinflacyjną obejmującą paliwa. Część decyzji została ogłoszona i wdrożona w ciągu kilku dni od pierwszych publicznych alarmów o problemie. Brak potwierdzenia, by przez pełne trzy tygodnie rząd był bierny."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "appeal_to_emotion",
+      "decontextualization",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "FALSE": 2,
+      "TRUE": 7,
+      "UNVERIFIABLE": 14,
+      "MOSTLY_TRUE": 7,
+      "MISLEADING": 3,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 384590,
+    "total_rts": 6810,
+    "community_notes_count": 0,
+    "rank": 16
+  },
+  {
+    "handle": "@JasKapela",
+    "score": 42.0,
+    "sub_scores": {
+      "falsehood": 34.2,
+      "technique": 55.0,
+      "reach": 27.1,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Ciekawe, że Stanowski nie widział niegospodarności, gdy PiSowskie fundacyjki dostawały setki milionów na projekty, również kulturalne, które nigdy nie powstały… Chłopski rozum tak daleko nie sięga? XD",
+      "url": "https://x.com/JasKapela/status/2038209277312041180",
+      "views": 38,
+      "verdicts": [
+        {
+          "claim": "Organizacje określane jako fundacje związane z Prawem i Sprawiedliwością otrzymały setki milionów złotych na projekty, również kulturalne, które nie zostały zrealizowane.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Faktycznie organizacje i fundacje powiązane z osobami z PiS lub przez opinię publiczną uważane za im bliskie otrzymywały znaczące kwoty wsparcia ze środków publicznych, w tym na projekty kulturalne (np. od Narodowego Instytutu Wolności, Narodowego Centrum Kultury, Funduszu Patriotycznego). Brakuje jednak dowodów, że suma wsparcia wynosiła 'setki milionów' i że większość przyznanych środków dotyczyła projektów, które nie zostały zrealizowane. W indywidualnych przypadkach media nagłaśniały niepowodzenia lub kontrowersje wokół konkretnego projektu czy rozliczania dotacji, jednak nie ma całościowych raportów potwierdzających, że 'setki milionów' przyznane na projekty nie zostały zrealizowane."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_FALSE": 2,
+      "MOSTLY_TRUE": 1,
+      "TRUE": 1,
+      "MISLEADING": 1,
+      "UNVERIFIABLE": 1
+    },
+    "total_views": 12168,
+    "total_rts": 0,
+    "community_notes_count": 0,
+    "rank": 17
+  },
+  {
+    "handle": "@coolfonpl",
+    "score": 41.5,
+    "sub_scores": {
+      "falsehood": 31.2,
+      "technique": 45.8,
+      "reach": 79.6,
+      "repeat": 63.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 26,
+    "flagged_posts": 11,
+    "top_fake": {
+      "text": "SAFE to środek do celu, który określił Altiero Spinelli w swoim manifeście z Ventotene. \nTo budowa ultrakomunistycznej, socjalistycznej dyktatury. https://t.co/gSr6URZTu5",
+      "url": "https://x.com/coolfonpl/status/2032064562388766755",
+      "views": 7878,
+      "verdicts": [
+        {
+          "claim": "Manifest z Ventotene autorstwa Altiero Spinelliego określa cel, do którego środkiem ma być SAFE.",
+          "verdict": "FALSE",
+          "evidence_summary": "Manifest z Ventotene, napisany przez Altiero Spinelliego w 1941 roku, był programem zjednoczenia Europy poprzez federację państw, będąc podstawą ideologiczną dla integracji europejskiej. SAFE (Strategic Autonomy for Europe, lub inne, nigdzie nie występuje w dokumencie ani w opracowaniach nt. manifestu; nie ma żadnych historycznych lub formalnych przesłanek, że Spinelli odnosił się do SAFE lub uznawał to za środek do jakiegokolwiek celu. SAFE to współczesny projekt, który pojawił się dziesiątki lat po manifeście z Ventotene."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 17,
+      "TRUE": 3,
+      "UNVERIFIABLE": 13,
+      "FALSE": 7,
+      "MISLEADING": 4,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 1523950,
+    "total_rts": 6414,
+    "community_notes_count": 0,
+    "rank": 18
+  },
+  {
+    "handle": "@TheCejrowski",
+    "score": 40.9,
+    "sub_scores": {
+      "falsehood": 38.1,
+      "technique": 51.7,
+      "reach": 65.1,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "RT @conspiracyb0t: Observe closely as the chemtrail plane switches off the sprayers once it completes delivering it's payload https://t.co/…",
+      "url": "https://x.com/TheCejrowski/status/2037208731151192284",
+      "views": 176176,
+      "verdicts": [
+        {
+          "claim": "Samolot rozpylający chemikalia wyłącza opryskiwacze po dostarczeniu ładunku.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją dowody naukowe ani oficjalne potwierdzenie, że istnieją samoloty rozpyjające chemikalia (tzw. chemtrails). Smugi kondensacyjne powstają na dużych wysokościach wskutek kondensacji pary wodnej z silników samolotów. Wiele źródeł naukowych i instytucji rządowych jednoznacznie odrzuca teorię o celowym rozpylaniu chemikaliów przez samoloty pasażerskie czy transportowe."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "appeal_to_emotion",
+      "gish_gallop",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 5,
+      "FALSE": 2,
+      "UNVERIFIABLE": 1,
+      "MISLEADING": 1
+    },
+    "total_views": 401092,
+    "total_rts": 4574,
+    "community_notes_count": 0,
+    "rank": 19
+  },
+  {
+    "handle": "@RobertBiedron",
+    "score": 40.4,
+    "sub_scores": {
+      "falsehood": 38.8,
+      "technique": 31.3,
+      "reach": 54.1,
+      "repeat": 83.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Lewica dowozi. ‼️\n\nZUS odpowiedział na wniosek ministra Sebastiana Gajewskiego, informując, że będzie respektował małżeństwa jednopłciowe zawarte za granicą na równi z tymi zawartymi w kraju.\n\nKolejny",
+      "url": "https://x.com/RobertBiedron/status/2037549671950749803",
+      "views": 8823,
+      "verdicts": [
+        {
+          "claim": "Zakład Ubezpieczeń Społecznych poinformował, że będzie respektował małżeństwa jednopłciowe zawarte za granicą na tych samych zasadach, co małżeństwa zawarte w kraju.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma oficjalnych komunikatów ZUS potwierdzających uznanie małżeństw jednopłciowych zawartych za granicą na równi z polskimi małżeństwami. Polskie prawo nadal nie uznaje małżeństw jednopłciowych, a ZUS stosuje się do obowiązujących przepisów. Według komunikatu ZUS z 5 kwietnia 2024 oraz stanowiska rzecznika prasowego, nie wprowadzono takich zmian w interpretacji przepisów."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "FALSE": 3,
+      "TRUE": 3,
+      "MOSTLY_FALSE": 2,
+      "MOSTLY_TRUE": 5,
+      "UNVERIFIABLE": 1
+    },
+    "total_views": 145717,
+    "total_rts": 482,
+    "community_notes_count": 0,
+    "rank": 20
+  },
+  {
+    "handle": "@LeszekMiller",
+    "score": 39.7,
+    "sub_scores": {
+      "falsehood": 26.1,
+      "technique": 38.9,
+      "reach": 69.9,
+      "repeat": 81.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "RT @RM44590: Ukraina zaatakowała kolejny kraj NATO!\nUkraińskie drony uszkodziły turecki tankowiec w Cieśninie Bosfor przewożący 140 tys ton…",
+      "url": "https://x.com/LeszekMiller/status/2037170297476903037",
+      "views": 8689,
+      "verdicts": [
+        {
+          "claim": "Według doniesień, Ukraina przeprowadziła atak na statek należący do kraju członkowskiego NATO.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak jest dowodów w wiarygodnych źródłach na to, by Ukraina przeprowadziła atak na statek należący do kraju członkowskiego NATO. W marcu 2026 ani polskie, ani międzynarodowe media nie odnotowały takiego incydentu, a oficjalne stanowiska rządowe wykluczają taki przypadek. Nie ma żadnych doniesień potwierdzających agresję Ukrainy wobec NATO."
+        },
+        {
+          "claim": "Według doniesień, drony przypisywane Ukrainie uszkodziły turecki tankowiec znajdujący się w Cieśninie Bosfor, który przewoził 140 tysięcy ton ładunku.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją wiarygodne doniesienia o ataku ukraińskich dronów na turecki tankowiec w Cieśninie Bosfor. Takie zdarzenie nie byłoby możliwe do przeoczenia ze względu na ogromne konsekwencje dla międzynarodowej żeglugi oraz relacji turecko-ukraińskich, a ponadto nie zostało potwierdzone przez żadne oficjalne źródła, agencje prasowe ani media polskie czy zagraniczne."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "FALSE": 8,
+      "UNVERIFIABLE": 5,
+      "MOSTLY_TRUE": 24,
+      "TRUE": 10,
+      "MISLEADING": 1
+    },
+    "total_views": 626254,
+    "total_rts": 5748,
+    "community_notes_count": 0,
+    "rank": 21
+  },
+  {
+    "handle": "@RadomirWit",
+    "score": 39.3,
+    "sub_scores": {
+      "falsehood": 56.0,
+      "technique": 0.0,
+      "reach": 56.4,
+      "repeat": 75.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Naczelny Sąd Administracyjny zobowiązał urząd stanu cywilnego do wpisania do polskiego rejestru aktu małżeństwa jednopłciowego zawartego za granicą. \nhttps://t.co/zfEcXuwV41",
+      "url": "https://x.com/RadomirWit/status/2034931875781775765",
+      "views": 50504,
+      "verdicts": [
+        {
+          "claim": "Naczelny Sąd Administracyjny wydał decyzję zobowiązującą urząd stanu cywilnego do wpisania do polskiego rejestru aktu małżeństwa jednopłciowego zawartego za granicą.",
+          "verdict": "FALSE",
+          "evidence_summary": "Naczelny Sąd Administracyjny wielokrotnie orzekał, że polskie urzędy stanu cywilnego nie mogą wpisać do rejestru aktu małżeństwa jednopłciowego zawartego za granicą, gdyż polskie prawo nie dopuszcza takich związków. Wyroki NSA z ostatnich lat (m.in. II OSK 1868/13, II OSK 896/13, II OSK 2946/12, II OSK 1398/14) potwierdzają tę linię orzeczniczą."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "FALSE": 2,
+      "UNVERIFIABLE": 2
+    },
+    "total_views": 180352,
+    "total_rts": 1136,
+    "community_notes_count": 0,
+    "rank": 22
+  },
+  {
+    "handle": "@RuchNarodowy",
+    "score": 38.8,
+    "sub_scores": {
+      "falsehood": 31.3,
+      "technique": 57.8,
+      "reach": 9.0,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 8,
+    "top_fake": {
+      "text": "Wiceprezes @MichalWawer: W piątek cały Sejm (oprócz oczywiście jednej jedynej Konfederacji) zabrał się do rozwiązywania problemu cen paliwa w najstarszy znany ludzkości i zarazem najgłupszy znany ludz",
+      "url": "https://x.com/RuchNarodowy/status/2038165261816156437",
+      "views": 471,
+      "verdicts": [
+        {
+          "claim": "W dniu wskazanym jako piątek Sejm RP głosował nad ustawą wprowadzającą ceny maksymalne paliwa, a Konfederacja jako jedyne ugrupowanie nie poparło tej propozycji.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak jest oficjalnych informacji, żeby Sejm RP w marcu 2026 roku przyjmował ustawę wprowadzającą ceny maksymalne paliw. Według dostępnych archiwów legislacyjnych oraz doniesień medialnych nie odbyło się takie głosowanie, a temat cen maksymalnych paliw nie był procedowany w Sejmie w wymienionym okresie. W przeszłości, podczas innych głosowań dotyczących regulacji rynku paliw, Konfederacja nie była jedynym ugrupowaniem zgłaszającym zastrzeżenia, ale nie dotyczyło to maksymalizacji cen."
+        },
+        {
+          "claim": "428 posłów głosowało za wprowadzeniem cen maksymalnych na paliwo.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych dowodów, aby Sejm RP głosował nad ustawą o wprowadzeniu cen maksymalnych na paliwo z poparciem 428 posłów. Wyniki głosowań sejmowych są publicznie dostępne — najwyższa możliwa liczba głosów 'za' to 460 (liczba posłów), jednak takie głosowanie dot. cen maksymalnych na paliwo nie miało miejsca w ostatnich latach. Brak takich informacji w oficjalnych rejestrach głosowań i w mediach."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 4,
+      "MOSTLY_TRUE": 14,
+      "MOSTLY_FALSE": 2,
+      "MISLEADING": 7,
+      "FALSE": 3,
+      "TRUE": 1
+    },
+    "total_views": 2288,
+    "total_rts": 24,
+    "community_notes_count": 0,
+    "rank": 23
+  },
+  {
+    "handle": "@GadowskiWitold",
+    "score": 38.0,
+    "sub_scores": {
+      "falsehood": 22.1,
+      "technique": 57.5,
+      "reach": 72.5,
+      "repeat": 52.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 20,
+    "flagged_posts": 7,
+    "top_fake": {
+      "text": "Zeleński grozi Orbanowi a \"polskie\" partie i politycy udają, że deszcz pada...tak pada - banderowski smród na Polskę!",
+      "url": "https://x.com/GadowskiWitold/status/2030739528906883323",
+      "views": 21959,
+      "verdicts": [
+        {
+          "claim": "Wołodymyr Zełenski skierował groźby wobec Viktora Orbána.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma wiarygodnych, publicznie dostępnych dowodów na to, że Wołodymyr Zełenski skierował groźby wobec Viktora Orbána. W dostępnych polskich i międzynarodowych serwisach informacyjnych opisywano napięcia i krytykę ze strony Zełenskiego wobec postawy Węgier i ich premiera w sprawie wojny rosyjsko-ukraińskiej, ale nie odnotowano groźby lub bezpośredniego zastraszania Orbána przez Zełenskiego."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "whataboutism",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 10,
+      "UNVERIFIABLE": 16,
+      "TRUE": 3,
+      "FALSE": 3,
+      "MOSTLY_FALSE": 1,
+      "MISLEADING": 3
+    },
+    "total_views": 792276,
+    "total_rts": 4882,
+    "community_notes_count": 0,
+    "rank": 24
+  },
+  {
+    "handle": "@KONFEDERACJA_",
+    "score": 37.9,
+    "sub_scores": {
+      "falsehood": 42.0,
+      "technique": 32.0,
+      "reach": 11.7,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "RT @DominikMazurRN: 🟥 Gdańsk Dulkiewiczowej. Ponad 22 miliony na propagandę władzy\n\nPonad 22 miliony złotych.\nTyle w trzy lata ma kosztować…",
+      "url": "https://x.com/KONFEDERACJA_/status/2038185667184734596",
+      "views": 1473,
+      "verdicts": [
+        {
+          "claim": "W Gdańsku wydatki na propagandę władzy mają wynieść ponad 22 miliony złotych w ciągu trzech lat.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Za lata 2023–2025 w projekcie budżetu Gdańska przewidziano ponad 22 mln zł na szeroko rozumianą promocję miasta, co obejmuje działania informacyjne, promocyjne i wizerunkowe, nie tylko propagandę władzy. Część tych środków przeznaczana jest na kampanie społeczne, informacje miejskie czy wydarzenia kulturalne. Termin 'propaganda władzy' jest oceną wartościującą i nie oddaje charakteru wszystkich tych wydatków."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MISLEADING": 2
+    },
+    "total_views": 2946,
+    "total_rts": 32,
+    "community_notes_count": 0,
+    "rank": 25
+  },
+  {
+    "handle": "@DanielObajtek",
+    "score": 37.1,
+    "sub_scores": {
+      "falsehood": 19.1,
+      "technique": 51.5,
+      "reach": 58.8,
+      "repeat": 75.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Podwyżki w hurcie o ok. 300 zł, czyli w detalu żadnych obniżek nie będzie. Tak poganiali też @NawrockiKn z podpisaniem ustawy, a na efekty Domański każe teraz czekać do wtorku. I jeszcze Motyka, który",
+      "url": "https://x.com/DanielObajtek/status/2037948618468933651",
+      "views": 72199,
+      "verdicts": [
+        {
+          "claim": "Ceny hurtowe danego produktu wzrosły o około 300 zł.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Twierdzenie jest zbyt ogólne – nie podano, o jaki produkt chodzi ani w jakim okresie miała miejsce podwyżka, przez co nie jest możliwe jednoznaczne sprawdzenie tej informacji w wiarygodnych, publicznie dostępnych źródłach. Brak konkretnego kontekstu uniemożliwia ocenę prawdziwości."
+        },
+        {
+          "claim": "Nie są planowane obniżki cen detalicznych danego produktu.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brakuje informacji, o jaki konkretny produkt chodzi. Nie da się zweryfikować, czy plany obniżek dotyczą wszystkich produktów detalicznych bez wskazania konkretnej grupy lub produktu. Publicznie dostępne źródła nie pozwalają na szeroką weryfikację tak ogólnego twierdzenia."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 11,
+      "FALSE": 2,
+      "TRUE": 3,
+      "MOSTLY_TRUE": 4
+    },
+    "total_views": 224106,
+    "total_rts": 2264,
+    "community_notes_count": 0,
+    "rank": 26
+  },
+  {
+    "handle": "@MagdaBiejat",
+    "score": 37.1,
+    "sub_scores": {
+      "falsehood": 21.9,
+      "technique": 51.3,
+      "reach": 80.5,
+      "repeat": 47.4,
+      "community_notes": 0.0
+    },
+    "total_posts": 19,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Najpierw ambasador ustala, z którym konstytucyjnym organem Stany będą miały kontakty w Polsce, a teraz co? Pilnuje, żeby na RBN zabezpieczyć amerykańskie interesy? Mottem PiS-u i prezydenta powinno by",
+      "url": "https://x.com/MagdaBiejat/status/2021560246553162057",
+      "views": 86499,
+      "verdicts": [
+        {
+          "claim": "Ambasador Stanów Zjednoczonych w Polsce ustalił, z którym konstytucyjnym organem USA będą utrzymywać kontakty w Polsce.",
+          "verdict": "FALSE",
+          "evidence_summary": "Ambasador USA nie decyduje samodzielnie, z którym konstytucyjnym organem w Polsce będą utrzymywać kontakty w imieniu Stanów Zjednoczonych. Zgodnie z konwencją wiedeńską o stosunkach dyplomatycznych i praktyką dyplomatyczną, państwo wysyłające (USA) przyjmuje do wiadomości oficjalnych przedstawicieli państwa przyjmującego (Polski) zgodnie z konstytucją i praktyką tego państwa. Ambasador wykonuje decyzje swojego rządu na podstawie uznania organów państwa polskiego przez władze USA. Ambasador nie podejmuje takich decyzji autonomicznie."
+        },
+        {
+          "claim": "Ambasador Stanów Zjednoczonych dba o zabezpieczenie amerykańskich interesów podczas posiedzenia Rady Bezpieczeństwa Narodowego w Polsce.",
+          "verdict": "FALSE",
+          "evidence_summary": "Ambasador USA nie jest członkiem polskiej Rady Bezpieczeństwa Narodowego (RBN) i nie bierze udziału w jej posiedzeniach. RBN to konstytucyjny organ doradczy Prezydenta RP, w którego skład wchodzą wyłącznie polscy urzędnicy. Nie ma wiarygodnych informacji, aby ambasador Stanów Zjednoczonych mógł formalnie uczestniczyć w zabezpieczaniu amerykańskich interesów podczas posiedzeń RBN."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 16,
+      "TRUE": 12,
+      "UNVERIFIABLE": 19,
+      "FALSE": 7,
+      "MISLEADING": 1
+    },
+    "total_views": 1658764,
+    "total_rts": 2915,
+    "community_notes_count": 0,
+    "rank": 27
+  },
+  {
+    "handle": "@Tomasz5ek",
+    "score": 37.0,
+    "sub_scores": {
+      "falsehood": 23.2,
+      "technique": 55.7,
+      "reach": 64.7,
+      "repeat": 53.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Dlaczego próbują wyrwać Polskę z europejskiej wspólnoty obronnej i zarazem rozwalić NBP?\nPan Glapiński dostał pałac od firmy powiązanej z oligarchami RU. \nPan @NawrockiKn w 2018 r. pojechał do Moskwy,",
+      "url": "https://x.com/Tomasz5ek/status/2029301443086135773",
+      "views": 20922,
+      "verdicts": [
+        {
+          "claim": "Adam Glapiński otrzymał pałac od firmy powiązanej z rosyjskimi oligarchami.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych wiarygodnych informacji potwierdzających, że Adam Glapiński otrzymał pałac od firmy powiązanej z rosyjskimi oligarchami. Publicznie dostępne źródła i media nie opisywały takich zdarzeń, a oskarżenie to nie pojawia się w poważnych opracowaniach czy doniesieniach śledczych."
+        },
+        {
+          "claim": "Kn Nawrocki w 2018 roku odwiedził Moskwę i spotkał się z osobą określaną jako zaufany człowiek Władimira Putina.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających, że Kn Nawrocki w 2018 roku odwiedził Moskwę i spotkał się z osobą określaną jako zaufany człowiek Władimira Putina. W ogólnodostępnych archiwach medialnych i oficjalnych komunikatach brak potwierdzenia takiego wydarzenia."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 7,
+      "UNVERIFIABLE": 17,
+      "FALSE": 4,
+      "TRUE": 3,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 387060,
+    "total_rts": 10546,
+    "community_notes_count": 0,
+    "rank": 28
+  },
+  {
+    "handle": "@NocnaZ",
+    "score": 36.6,
+    "sub_scores": {
+      "falsehood": 35.0,
+      "technique": 42.4,
+      "reach": 44.3,
+      "repeat": 61.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 17,
+    "flagged_posts": 7,
+    "top_fake": {
+      "text": "Przed państwem mistrzowie olimpijscy, a teraz mistrzowie świata: Laurence Fournier Beaudry i Guillaume Cizeron 🇫🇷🌹\nhttps://t.co/EaGpVNiOym",
+      "url": "https://x.com/NocnaZ/status/2038209308727382036",
+      "views": 77,
+      "verdicts": [
+        {
+          "claim": "Laurence Fournier Beaudry i Guillaume Cizeron zdobyli tytuł mistrzów olimpijskich oraz tytuł mistrzów świata.",
+          "verdict": "FALSE",
+          "evidence_summary": "Guillaume Cizeron jest rzeczywiście mistrzem olimpijskim (złoto, Pekin 2022) i wielokrotnym mistrzem świata w tańcu na lodzie, jednak jego partnerką sportową jest Gabriella Papadakis, nie Laurence Fournier Beaudry. Laurence Fournier Beaudry, reprezentująca Kanadę, również osiągnęła znaczące sukcesy w łyżwiarstwie figurowym, ale nigdy nie zdobyła tytułu mistrzyni olimpijskiej ani mistrzyni świata."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "FALSE": 5,
+      "UNVERIFIABLE": 11,
+      "MOSTLY_FALSE": 2,
+      "MOSTLY_TRUE": 5,
+      "MISLEADING": 1,
+      "TRUE": 2
+    },
+    "total_views": 59317,
+    "total_rts": 1967,
+    "community_notes_count": 0,
+    "rank": 29
+  },
+  {
+    "handle": "@jacek_liberski",
+    "score": 36.2,
+    "sub_scores": {
+      "falsehood": 24.7,
+      "technique": 50.0,
+      "reach": 53.7,
+      "repeat": 63.2,
+      "community_notes": 0.0
+    },
+    "total_posts": 19,
+    "flagged_posts": 8,
+    "top_fake": {
+      "text": "Mija 233 dni od kiedy Polki i Polacy płacą o 33% tańszy prąd. \nJak obiecał, tak zrobił. \nDziękujemy, \"panie prezydencie\" @NawrockiKn! \nCzekamy teraz na te miliardy z @nbppl...",
+      "url": "https://x.com/jacek_liberski/status/2037436348311777369",
+      "views": 3467,
+      "verdicts": [
+        {
+          "claim": "Od 233 dni ceny energii elektrycznej dla obywateli Polski są o 33% niższe w porównaniu do wcześniejszego okresu.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma potwierdzonych doniesień, aby w ciągu ostatnich 233 dni ceny energii elektrycznej dla obywateli Polski były o 33% niższe niż wcześniej. W 2023 i 2024 roku ceny prądu w Polsce były zamrożone na ustawowym poziomie, co zapobiegało podwyżkom, ale nie oznaczało realnego spadku cen o 33%. Brak jakichkolwiek doniesień o obniżkach tej skali, a część konsumentów mogła nawet odnotować niewielkie podwyżki po przekroczeniu limitów zużycia."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 19,
+      "UNVERIFIABLE": 19,
+      "TRUE": 9,
+      "MISLEADING": 6,
+      "MOSTLY_FALSE": 4,
+      "FALSE": 5
+    },
+    "total_views": 140086,
+    "total_rts": 2222,
+    "community_notes_count": 0,
+    "rank": 30
+  },
+  {
+    "handle": "@kuba_w",
+    "score": 36.1,
+    "sub_scores": {
+      "falsehood": 29.3,
+      "technique": 49.0,
+      "reach": 56.7,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "\"Strefa wolnego handlu między Stanami Zjednoczonymi a Europą\" - a wy już wiecie, że Mateusz Morawiecki popiera całkowite spacyfikowanie polskich i europejskich zdolności przemysłowych i kolonizację na",
+      "url": "https://x.com/kuba_w/status/2037510894377128010",
+      "views": 12698,
+      "verdicts": [
+        {
+          "claim": "Mateusz Morawiecki deklarował publicznie poparcie dla działań prowadzących do ograniczenia polskich i europejskich zdolności przemysłowych.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak publicznych wypowiedzi lub dokumentów, w których Mateusz Morawiecki popierałby działania mające na celu ograniczenie możliwości przemysłowych Polski lub Europy. Przeciwnie, Morawiecki w licznych wystąpieniach podkreślał wagę wzmacniania polskiego i europejskiego przemysłu, m.in. poprzez inwestycje w nowe technologie, wsparcie dla transformacji energetycznej czy rozwój innowacji."
+        },
+        {
+          "claim": "Mateusz Morawiecki deklarował publicznie poparcie dla działań prowadzących do przejęcia polskiej gospodarki przez podmioty ze Stanów Zjednoczonych.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma publicznych wypowiedzi Mateusza Morawieckiego, które jednoznacznie popierają działania mające na celu przejęcie polskiej gospodarki przez amerykańskie podmioty. Premier wielokrotnie akcentował otwartość na inwestycje zagraniczne, w tym ze Stanów Zjednoczonych, jednak przedstawiał je jako wsparcie dla rozwoju gospodarki, nie jako dążenie do jej 'przejęcia'. Brak jest źródeł potwierdzających taką deklarację poparcia."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "appeal_to_emotion",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 8,
+      "MOSTLY_TRUE": 4,
+      "FALSE": 3,
+      "TRUE": 1,
+      "MISLEADING": 1
+    },
+    "total_views": 185238,
+    "total_rts": 404,
+    "community_notes_count": 0,
+    "rank": 31
+  },
+  {
+    "handle": "@szymon_holownia",
+    "score": 36.1,
+    "sub_scores": {
+      "falsehood": 15.7,
+      "technique": 44.3,
+      "reach": 100.0,
+      "repeat": 45.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 30,
+    "flagged_posts": 9,
+    "top_fake": {
+      "text": "W wypadku zginęła dziś Kasia Stoparczyk. Trudno w to uwierzyć… \n\nI trudno znaleźć kogoś, kto w ostatnich latach, z taką konsekwencją i pogodą tłumaczył nam, jak Korczak, że „nie ma dzieci, są ludzie”.",
+      "url": "https://x.com/szymon_holownia/status/1964017965134700810",
+      "views": 161419,
+      "verdicts": [
+        {
+          "claim": "Kasia Stoparczyk zginęła dzisiaj w wypadku.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak jakichkolwiek potwierdzonych doniesień medialnych czy oficjalnych informacji na temat śmierci Kasi Stoparczyk w wypadku w dniu dzisiejszym. Kasia Stoparczyk jest nadal aktywna zawodowo, a wiadomość o jej rzekomej śmierci nie pojawiła się w żadnym wiarygodnym polskim serwisie informacyjnym ani oficjalnych komunikatach."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "TRUE": 34,
+      "MOSTLY_TRUE": 33,
+      "MISLEADING": 3,
+      "UNVERIFIABLE": 32,
+      "FALSE": 5,
+      "MOSTLY_FALSE": 3
+    },
+    "total_views": 13036311,
+    "total_rts": 8048,
+    "community_notes_count": 0,
+    "rank": 32
+  },
+  {
+    "handle": "@DWielowieyska",
+    "score": 36.0,
+    "sub_scores": {
+      "falsehood": 28.5,
+      "technique": 48.0,
+      "reach": 34.7,
+      "repeat": 75.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Cały świat w paliwowym chaosie z powodu konfliktu na Bliskim Wschodzie, który wywołał, a ten pielesi o sali balowej w Białym Domu 🤦‍♂️",
+      "url": "https://x.com/DWielowieyska/status/2037190713897558333",
+      "views": 12257,
+      "verdicts": [
+        {
+          "claim": "Konflikt na Bliskim Wschodzie spowodował globalny kryzys na rynku paliw.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "W ostatnich latach konflikty na Bliskim Wschodzie miały wpływ na globalne rynki paliwowe, powodując wzrost cen oraz niepewność na rynku. Jednak nie wszystkie konflikty prowadziły do ogólnoświatowego kryzysu paliwowego, a większość zakłóceń miała charakter regionalny lub krótkotrwały. Globalna infrastruktura i różnicowanie źródeł surowców często ograniczają negatywne skutki jednego konfliktu dla całego świata."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 1,
+      "MISLEADING": 1
+    },
+    "total_views": 24514,
+    "total_rts": 66,
+    "community_notes_count": 0,
+    "rank": 33
+  },
+  {
+    "handle": "@pisorgpl",
+    "score": 35.8,
+    "sub_scores": {
+      "falsehood": 28.4,
+      "technique": 50.0,
+      "reach": 48.9,
+      "repeat": 56.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 29,
+    "flagged_posts": 11,
+    "top_fake": {
+      "text": "‼️ Ten rząd obniżył zwrot akcyzy dla polskiego rolnika. Panie premierze, do roboty - Poseł PiS @RobertTelus.\n🔁 Udostępnij #TuskBankructwo https://t.co/SKNLfVphI5",
+      "url": "https://x.com/pisorgpl/status/2037938360665161926",
+      "views": 1361,
+      "verdicts": [
+        {
+          "claim": "Obecny rząd obniżył wysokość zwrotu akcyzy dla polskich rolników.",
+          "verdict": "FALSE",
+          "evidence_summary": "Zgodnie z informacjami Ministerstwa Rolnictwa i prasy branżowej, w 2023 i w latach wcześniejszych kwota zwrotu akcyzy od paliwa rolniczego została podniesiona, nie obniżona. Od 2023 roku limit ten wynosi 2 zł za 1 litr oleju napędowego, wobec poprzednio obowiązujących 1,2 zł, a także wzrosła maksymalna ilość litrów na hektar. Brak doniesień o zmianach w odwrotnym kierunku przez obecny rząd."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 27,
+      "TRUE": 6,
+      "MISLEADING": 3,
+      "MOSTLY_TRUE": 6,
+      "FALSE": 5,
+      "MOSTLY_FALSE": 6
+    },
+    "total_views": 90653,
+    "total_rts": 2282,
+    "community_notes_count": 0,
+    "rank": 34
+  },
+  {
+    "handle": "@mmzawisza",
+    "score": 34.8,
+    "sub_scores": {
+      "falsehood": 20.4,
+      "technique": 42.6,
+      "reach": 63.0,
+      "repeat": 64.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 7,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "RT @majakstasko: Premier Donald Tusk kłamie. Porodówka w Lesku została zamknięta z końcem 2025 roku, przez co w całych Bieszczadach nie ma…",
+      "url": "https://x.com/mmzawisza/status/2035281784141725975",
+      "views": 20888,
+      "verdicts": [
+        {
+          "claim": "Oddział położniczy w Lesku został zamknięty z końcem 2025 roku",
+          "verdict": "FALSE",
+          "evidence_summary": "Oddział położniczy w Lesku został zamknięty z końcem 2023 roku, a doniesienia o planowanym wznowieniu działalności nie potwierdziły się. W żadnych dostępnych polskich źródłach nie ma informacji o likwidacji oddziału z końcem 2025 roku, lecz dwie klasyfikują go jako zamknięty już wcześniej."
+        },
+        {
+          "claim": "W regionie Bieszczad nie działa obecnie żaden oddział położniczy",
+          "verdict": "TRUE",
+          "evidence_summary": "Według dostępnych informacji oddział położniczy w Ustrzykach Dolnych, będący ostatnim takim oddziałem w Bieszczadach, został zamknięty w styczniu 2024 roku. Obecnie nie funkcjonuje żaden porodówka na terenie powiatów bieszczadzkiego i leskiego. Najbliższe oddziały położnicze znajdują się poza regionem, m.in. w Sanoku i Krośnie."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 8,
+      "MOSTLY_FALSE": 2,
+      "MOSTLY_TRUE": 6,
+      "TRUE": 3,
+      "FALSE": 1
+    },
+    "total_views": 331619,
+    "total_rts": 1859,
+    "community_notes_count": 0,
+    "rank": 35
+  },
+  {
+    "handle": "@Palikot_Janusz",
+    "score": 33.9,
+    "sub_scores": {
+      "falsehood": 41.3,
+      "technique": 31.3,
+      "reach": 37.6,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Mosad zanim zlikwiduje kolejnego lidera Iranu to dzwoni do niego: teraz Ty, teraz Ciebie zlikwidujemy . Dziś z Andrzejem Gąsiorowskim na JestemPalikot. Link w bio https://t.co/GMyHpjxiVY",
+      "url": "https://x.com/Palikot_Janusz/status/2038185771513811420",
+      "views": 1730,
+      "verdicts": [
+        {
+          "claim": "Izraelski Mosad informuje wcześniej irańskich liderów o planowanej likwidacji.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma wiarygodnych doniesień ani dowodów, aby Mosad uprzedzał irańskich liderów o planowanych zamachach. Wręcz przeciwnie, akcje Mosadu są planowane w ścisłej tajemnicy i utrzymywane z dala od ofiar do momentu realizacji. Media oraz eksperci ds. bezpieczeństwa potwierdzają, że element zaskoczenia jest kluczowy dla takich operacji."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "confabulation",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "FALSE": 1,
+      "UNVERIFIABLE": 2
+    },
+    "total_views": 31870,
+    "total_rts": 18,
+    "community_notes_count": 0,
+    "rank": 36
+  },
+  {
+    "handle": "@EMichalik",
+    "score": 33.0,
+    "sub_scores": {
+      "falsehood": 24.7,
+      "technique": 46.5,
+      "reach": 63.1,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "RT @GiertychRoman: Trump zamierza zabrać sprzęt, który kraje NATO kupiły dla Ukrainy i oddać go na Bliski Wschód. \nJeszcze raz wzywam NBP,…",
+      "url": "https://x.com/EMichalik/status/2037683329273643231",
+      "views": 152813,
+      "verdicts": [
+        {
+          "claim": "Donald Trump zapowiedział zamiar przekazania sprzętu zakupionego przez kraje NATO dla Ukrainy na Bliski Wschód.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma udokumentowanych wypowiedzi Donalda Trumpa, w których zapowiada, że sprzęt zakupiony przez NATO dla Ukrainy miałby zostać przekazany na Bliski Wschód. W amerykańskiej i polskiej prasie pojawiały się ogólne stwierdzenia Trumpa o konieczności większego zaangażowania Europy lub zmiany polityki wobec NATO i Ukrainy, jednak nie publicznie deklarował on zamiaru odebrania Ukrainie sprzętu i przekazania go do państw Bliskiego Wschodu."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "FALSE": 1,
+      "UNVERIFIABLE": 4,
+      "TRUE": 1
+    },
+    "total_views": 334565,
+    "total_rts": 3619,
+    "community_notes_count": 0,
+    "rank": 37
+  },
+  {
+    "handle": "@JanMencwel",
+    "score": 33.0,
+    "sub_scores": {
+      "falsehood": 26.5,
+      "technique": 43.3,
+      "reach": 50.4,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Tymczasem minister @DariuszKlimczak , szef Krajowej Rady Bezpieczeństwa Ruchu Drogowego, uważa, że w Polsce nie potrzeba więcej fotoradarów.",
+      "url": "https://x.com/JanMencwel/status/2036820305490985246",
+      "views": 3574,
+      "verdicts": [
+        {
+          "claim": "Minister Dariusz Klimczak, będący szefem Krajowej Rady Bezpieczeństwa Ruchu Drogowego, stwierdził, że w Polsce nie potrzeba więcej fotoradarów.",
+          "verdict": "FALSE",
+          "evidence_summary": "Minister Dariusz Klimczak w lutym 2024 r. publicznie zapowiadał konieczność zwiększenia liczby fotoradarów w Polsce, twierdząc, że brakuje ich szczególnie na drogach krajowych i ekspresowych. W kilku wywiadach i komunikatach rządowych potwierdzono plany ich rozbudowy, a nie ograniczenia."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 3,
+      "UNVERIFIABLE": 10,
+      "FALSE": 2,
+      "MOSTLY_FALSE": 2,
+      "TRUE": 1
+    },
+    "total_views": 104088,
+    "total_rts": 76,
+    "community_notes_count": 0,
+    "rank": 38
+  },
+  {
+    "handle": "@K_Stanowski",
+    "score": 32.8,
+    "sub_scores": {
+      "falsehood": 20.8,
+      "technique": 34.7,
+      "reach": 86.7,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 12,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Nie wiem czy kiedykolwiek żyliśmy w głupszym państwie. Jaś Kapela zaprezentował - jak twierdzi - pierwszą piosenkę z musicalu o aborcji, jaki ministerstwo kultury mu poniekąd zleciło. Dostał 60 000 zł",
+      "url": "https://x.com/K_Stanowski/status/2037989222695530862",
+      "views": 452325,
+      "verdicts": [
+        {
+          "claim": "Jaś Kapela zaprezentował utwór muzyczny opisany jako pierwsza piosenka z musicalu o aborcji.",
+          "verdict": "TRUE",
+          "evidence_summary": "W marcu 2026 r. Jaś Kapela opublikował w mediach społecznościowych oraz na platformie YouTube nagranie piosenki, którą określił jako pierwszą piosenkę z musicalu o aborcji. Zostało to potwierdzone przez bezpośrednie wpisy artysty oraz relacje medialne."
+        },
+        {
+          "claim": "Ministerstwo Kultury pośrednio zleciło Jaśowi Kapeli wykonanie musicalu o aborcji.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma dowodów, że Ministerstwo Kultury bezpośrednio lub pośrednio zleciło Jaśowi Kapeli wykonanie musicalu o aborcji. Jaś Kapela przyznał w mediach, że projekt musicalu zgłosił w naborze do programu Fundusz Popierania Twórczości, którym dysponuje Stowarzyszenie Autorów ZAiKS — organizacja niezależna od Ministerstwa Kultury. Sam ZAiKS potwierdził, że środki pochodzą z opłat reprograficznych, nie z budżetu Ministerstwa. Ministerstwo nie pośredniczy w konkursie ani nie wskazuje indywidualnych beneficjentów."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 4,
+      "UNVERIFIABLE": 17,
+      "TRUE": 4,
+      "FALSE": 2,
+      "MISLEADING": 2,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 2933423,
+    "total_rts": 4092,
+    "community_notes_count": 0,
+    "rank": 39
+  },
+  {
+    "handle": "@lis_tomasz",
+    "score": 32.6,
+    "sub_scores": {
+      "falsehood": 24.5,
+      "technique": 54.0,
+      "reach": 13.0,
+      "repeat": 75.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Zdesperowany Orban kupuje głosy rozdając biednym jedzenie, lekarstw i drewno na opał. Kogo nie może kupić razem ze swymi bsndatytami zastrasza.",
+      "url": "https://x.com/lis_tomasz/status/2038188850778980389",
+      "views": 1656,
+      "verdicts": [
+        {
+          "claim": "Viktor Orban rozdaje biednym jedzenie, leki i drewno na opał podczas kampanii wyborczej.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Liczne polskie i węgierskie media oraz raporty międzynarodowe potwierdzają praktykę rozdawania przez Fidesz (partię Viktora Orbána) pomocy materialnej, w tym żywności, drewna opałowego i leków w okresach przedwyborczych. Organizacje pozarządowe oraz reportaże wskazują, że te działania są szeroko stosowane na Węgrzech jako narzędzie mobilizacji elektoratu, zwłaszcza wśród najuboższych. Nie ma bezpośrednich oficjalnych komunikatów rządu na ten temat, jednak praktyki te są szeroko udokumentowane przez media i organizacje monitorujące wybory."
+        },
+        {
+          "claim": "Viktor Orban oraz jego współpracownicy zastraszają osoby, których nie mogą przekupić pomocą materialną.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Nie znaleziono wiarygodnych polskich lub międzynarodowych źródeł potwierdzających systematyczne przypadki zastraszania przez Viktora Orbana lub jego współpracowników osób, których nie mogą przekupić pomocą materialną. Krytyka dotycząca stylu rządów Orbana skupia się na ograniczaniu wolności mediów i niezależności sądów oraz sprzyjaniu swoim ludziom, jednak nie wykazano szeroko udokumentowanej polityki zastraszania w opisanej formie."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "confabulation",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 2,
+      "UNVERIFIABLE": 1,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 3312,
+    "total_rts": 76,
+    "community_notes_count": 0,
+    "rank": 40
+  },
+  {
+    "handle": "@adamSzlapka",
+    "score": 32.3,
+    "sub_scores": {
+      "falsehood": 22.5,
+      "technique": 29.9,
+      "reach": 88.5,
+      "repeat": 34.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 26,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Polska 🇵🇱 jest liderem wydatków na obronność w NATO.",
+      "url": "https://x.com/adamSzlapka/status/2037544962053517570",
+      "views": 42654,
+      "verdicts": [
+        {
+          "claim": "Polska wydaje najwięcej na obronność spośród wszystkich państw członkowskich NATO.",
+          "verdict": "FALSE",
+          "evidence_summary": "Według najnowszych danych NATO za rok 2023–2024 Polska znacząco zwiększyła wydatki na obronność (ponad 3% PKB), jednak to Stany Zjednoczone są największym płatnikiem, zarówno w wartościach bezwzględnych, jak i stanowiących znaczącą część wszystkich wydatków NATO. Polska jest liderem procentowego wzrostu i udziału PKB, ale nie w ogólnej kwocie wydatków."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 18,
+      "FALSE": 5,
+      "TRUE": 7,
+      "MOSTLY_TRUE": 12,
+      "MISLEADING": 1
+    },
+    "total_views": 3469942,
+    "total_rts": 21902,
+    "community_notes_count": 0,
+    "rank": 41
+  },
+  {
+    "handle": "@JanSpiewak",
+    "score": 31.0,
+    "sub_scores": {
+      "falsehood": 18.9,
+      "technique": 45.0,
+      "reach": 65.3,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 16,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Prawie połowa mieszkań sprzedawanych przez największego warszawskiego dewelopera wciąż trafia do rentierów i spekulantów. Terror inwestorów trwa. https://t.co/lOWzMx0LRc",
+      "url": "https://x.com/JanSpiewak/status/2034240416829034499",
+      "views": 22520,
+      "verdicts": [
+        {
+          "claim": "Około 50% mieszkań sprzedawanych przez największego dewelopera w Warszawie jest kupowanych przez osoby określane jako rentierzy i spekulanci.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Dane branżowe i raporty pokazują, że odsetek mieszkań kupowanych na wynajem lub w celach inwestycyjnych (przez tzw. rentierów i spekulantów) w Warszawie wynosił 30-40% w latach 2021-2023, przy czym w szczytowych momentach pandemii mógł być wyższy, ale nie przekraczał 50%. Największy deweloper (Dom Development) nie publikuje szczegółowych statystyk, natomiast żadne dostępne raporty NBP, Otodom czy JLL nie wskazują na poziom aż 50%."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "straw_man",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "TRUE": 4,
+      "UNVERIFIABLE": 8,
+      "MOSTLY_TRUE": 10,
+      "MISLEADING": 2,
+      "FALSE": 1,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 408352,
+    "total_rts": 539,
+    "community_notes_count": 0,
+    "rank": 42
+  },
+  {
+    "handle": "@ogorekmagda",
+    "score": 30.5,
+    "sub_scores": {
+      "falsehood": 20.1,
+      "technique": 47.3,
+      "reach": 43.1,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "‼️Wielki alarm dla Rodziców! Piwo udające oranżadę to celowy zabieg koncernu alkoholowego - tak przywiązuje się młodzież do marki. Następnie młody człowiek jest tylko o krok od tego, by sięgnąć po pra",
+      "url": "https://x.com/ogorekmagda/status/2033476233816666352",
+      "views": 4833,
+      "verdicts": [
+        {
+          "claim": "Producenci piwa celowo wypuszczają na rynek piwa, które wyglądają lub smakują jak oranżada.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W ostatnich latach popularność piw smakowych (radlery, piwa z sokiem, 'piwa dla młodych dorosłych') znacząco wzrosła i producenci otwarcie przyznają, że kierują te produkty do konsumentów szukających alternatywy dla klasycznego smaku piwa, często prezentując je w kolorowych opakowaniach i z owocowymi smakami. Celem tych działań jest przyciągnięcie nowych grup odbiorców, szczególnie osób młodych oraz tych, którzy nie przepadają za tradycyjnym smakiem piwa. Wyjątkowość podobieństwa do oranżady (smak, kolorystyka, butelki) jest szeroko relacjonowana przez media branżowe i ekspertów."
+        },
+        {
+          "claim": "Działania marketingowe producentów piwa mają na celu przywiązanie młodzieży do marki.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Polskie prawo (ustawa o wychowaniu w trzeźwości) zabrania kierowania reklamy piwa do osób niepełnoletnich, a kampanie piwowarskie oficjalnie są adresowane do dorosłych. Badania i raporty wskazują, że chociaż młodzież styka się z reklamami alkoholu, oficjalną intencją i celem producentów według dostępnych dokumentów i standardów rynkowych nie jest kierowanie promocji do nieletnich ani budowanie przywiązania tej grupy wiekowej do marki."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 6,
+      "TRUE": 2,
+      "MOSTLY_TRUE": 2,
+      "MOSTLY_FALSE": 1,
+      "MISLEADING": 2
+    },
+    "total_views": 52746,
+    "total_rts": 1256,
+    "community_notes_count": 0,
+    "rank": 43
+  },
+  {
+    "handle": "@MSchreiberM",
+    "score": 30.3,
+    "sub_scores": {
+      "falsehood": 25.5,
+      "technique": 43.1,
+      "reach": 57.7,
+      "repeat": 27.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Wczoraj, gdy siedziałam przykuta kajdankami do siedziby platformy obywatelskiej, podeszły do mnie dwie kobiety i mówią: \n- „Tusk jest jak Niemiec? my Niemców lubimy! Lepszy Niemiec niż Nawrocki przyja",
+      "url": "https://x.com/MSchreiberM/status/2037454193951150489",
+      "views": 54335,
+      "verdicts": [
+        {
+          "claim": "Jacek Nawrocki został określony jako przyjaciel Rosji i Władimira Putina.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją publicznie dostępne, wiarygodne źródła, które potwierdzają, że Jacek Nawrocki został określony jako przyjaciel Rosji i Władimira Putina, ani że zyskał taką etykietę w debacie publicznej. Wyszukiwanie w polskich mediach i rejestrach nie przynosi żadnych rezultatów potwierdzających powiązania lub bezpośrednie oskarżenia w tym zakresie."
+        },
+        {
+          "claim": "Donald Tusk posiada wiele zdjęć z Władimirem Putinem, natomiast Prezydent nie posiada żadnego.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Donald Tusk, jako premier Polski, rzeczywiście spotykał się kilkukrotnie z Władimirem Putinem – istnieje wiele łatwo dostępnych zdjęć przedstawiających ich razem (np. spotkania w Katyniu w 2010 roku czy szczyty międzynarodowe). Jednak prezydent Lech Kaczyński także był fotografowany z Władimirem Putinem przy różnych oficjalnych okazjach, m.in. w czasie wizyt zagranicznych i szczytów dyplomatycznych, co potwierdzają zdjęcia w polskich i zagranicznych mediach."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 6,
+      "UNVERIFIABLE": 7,
+      "FALSE": 1,
+      "MOSTLY_FALSE": 2,
+      "TRUE": 1
+    },
+    "total_views": 203705,
+    "total_rts": 621,
+    "community_notes_count": 0,
+    "rank": 44
+  },
+  {
+    "handle": "@delestoile",
+    "score": 30.2,
+    "sub_scores": {
+      "falsehood": 16.1,
+      "technique": 43.8,
+      "reach": 69.3,
+      "repeat": 35.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 42,
+    "flagged_posts": 10,
+    "top_fake": {
+      "text": "⚽️ Awansowany niedawno do reprezentacji juniorów Francji, piłkarz Kader Meïté zdecydował się grać jednak dla Wybrzeża Kości Słoniowej. Zawodnik Stade Rennais wyjaśnia swój wybór: „Moi rodzice są z Wyb",
+      "url": "https://x.com/delestoile/status/2038193541202018714",
+      "views": 3163,
+      "verdicts": [
+        {
+          "claim": "Kader Meïté, którego powołano niedawno do juniorskiej reprezentacji Francji, zdecydował się wybrać grę dla reprezentacji Wybrzeża Kości Słoniowej.",
+          "verdict": "FALSE",
+          "evidence_summary": "Kader Meïté to były piłkarz grający w latach 1998-2012. Nigdy nie występował w juniorskiej reprezentacji Francji, ani nie podjął decyzji o zmianie barw na Wybrzeże Kości Słoniowej. W rzeczywistości reprezentował Wybrzeże Kości Słoniowej (drużyna seniorska), a jego powołania nie dotyczyły Francji. Brak potwierdzenia, by wybierał pomiędzy tymi reprezentacjami na przestrzeni ostatnich lat."
+        },
+        {
+          "claim": "Kader Meïté jest zawodnikiem Stade Rennais.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak publicznie dostępnych informacji potwierdzających, że Kader Meïté kiedykolwiek był zawodnikiem Stade Rennais. Znany Kader Meïté to piłkarz z Wybrzeża Kości Słoniowej, który grał głównie we francuskich klubach takich jak Le Mans, AC Ajaccio czy Tours FC, ale nie ma informacji o jego grze w Stade Rennais."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 27,
+      "MISLEADING": 4,
+      "MOSTLY_TRUE": 40,
+      "FALSE": 6,
+      "UNVERIFIABLE": 92,
+      "MOSTLY_FALSE": 5
+    },
+    "total_views": 593857,
+    "total_rts": 3504,
+    "community_notes_count": 0,
+    "rank": 45
+  },
+  {
+    "handle": "@GazetaStonoga",
+    "score": 30.0,
+    "sub_scores": {
+      "falsehood": 15.1,
+      "technique": 50.6,
+      "reach": 79.0,
+      "repeat": 18.2,
+      "community_notes": 0.0
+    },
+    "total_posts": 33,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Za wyimaginowane przestępstwa miał spędzić w więzieniu  43 lata. Wyszedł po dwudziestu.\nBogdan Gasiński Człowiek który jako pierwszy w Polsce ujawnił więzienia CIA. Doradca Andrzeja Leppera \nZaobserwu",
+      "url": "https://x.com/GazetaStonoga/status/2017981329510437302",
+      "views": 18060,
+      "verdicts": [
+        {
+          "claim": "Bogdan Gasiński miał otrzymać wyrok 43 lat pozbawienia wolności.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma wiarygodnych informacji, że Bogdan Gasiński został skazany na 43 lata pozbawienia wolności. Dostępne źródła prasowe i sądowe nie potwierdzają ani tak wysokiego wyroku, ani nawet postępowań przeciwko niemu, które mogłyby skutkować takim wymiarem kary."
+        },
+        {
+          "claim": "Bogdan Gasiński został zwolniony z więzienia po 20 latach odbywania kary.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Dostępne źródła nie potwierdzają jednoznacznie, kiedy Bogdan Gasiński został zwolniony z więzienia ani czy odbywał dokładnie 20 lat kary. Informacje na temat odbycia przez niego kary są bardzo ograniczone, nie ma oficjalnych danych potwierdzających okres odbywania kary ani daty zwolnienia."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 94,
+      "TRUE": 16,
+      "MOSTLY_TRUE": 12,
+      "FALSE": 6,
+      "MISLEADING": 1
+    },
+    "total_views": 1444236,
+    "total_rts": 2359,
+    "community_notes_count": 0,
+    "rank": 46
+  },
+  {
+    "handle": "@MKierwinski",
+    "score": 29.9,
+    "sub_scores": {
+      "falsehood": 14.5,
+      "technique": 45.5,
+      "reach": 73.0,
+      "repeat": 31.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 33,
+    "flagged_posts": 7,
+    "top_fake": {
+      "text": "PiS zwalcza SAFE, bo byłby to sukces rządu.\nWartość Orlenu przekroczyła wartość Gazpromu i oczywiście dla PiS to kolejna fatalna informacja.\nSukces Polski to porażka Kaczyńskiego. Schemat zawsze jest ",
+      "url": "https://x.com/MKierwinski/status/2034737191323136044",
+      "views": 22177,
+      "verdicts": [
+        {
+          "claim": "Wartość rynkowa spółki Orlen przekroczyła wartość rynkową spółki Gazprom.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Na początku 2024 roku polski Orlen rzeczywiście na krótko wyprzedził Gazprom pod względem kapitalizacji giełdowej według kursów giełdowych. Był to jednak efekt specyficznych warunków: spadku międzynarodowej kapitalizacji Gazpromu po wyborze rynków rosyjskich dla notowań oraz dynamicznego wzrostu Orlenu na GPW. Długofalowo kapitalizacja Gazpromu wielokrotnie przewyższa Orlen, a sytuacja zrównania była krótkotrwała i wynikała także z ograniczeń handlu akcjami Gazpromu poza Rosją."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 39,
+      "MOSTLY_FALSE": 3,
+      "TRUE": 17,
+      "MOSTLY_TRUE": 17,
+      "MISLEADING": 4,
+      "FALSE": 1
+    },
+    "total_views": 830960,
+    "total_rts": 12609,
+    "community_notes_count": 0,
+    "rank": 47
+  },
+  {
+    "handle": "@sikorskiradek",
+    "score": 29.9,
+    "sub_scores": {
+      "falsehood": 12.0,
+      "technique": 55.0,
+      "reach": 79.0,
+      "repeat": 18.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Moscow supports Orban because he sabotages the European Union, blocks sanctions and money for Ukraine.\nErgo, he who supports Orban, helps Moscow.\nIt really is that simple.",
+      "url": "https://x.com/sikorskiradek/status/2037582318613737843",
+      "views": 376962,
+      "verdicts": [
+        {
+          "claim": "Moscow supports Orban.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Wyrażenia poparcia ze strony rosyjskich oficjeli i mediów państwowych wobec polityki Viktora Orbána są dobrze udokumentowane w polskich i międzynarodowych źródłach. Rosyjskie media komentowały z uznaniem jego działania dotyczące sceptycyzmu wobec sankcji i wsparcia Ukrainy, jednak nie ma twardych, publicznych dowodów na aktywną pomoc materialną czy formalne sojusze. Wsparcie to głównie retoryczna aprobata i korzystna narracja w Rosji."
+        },
+        {
+          "claim": "Orban sabotages the European Union.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Viktor Orban i węgierski rząd wielokrotnie opóźniali lub blokowali niektóre decyzje UE, głównie dotyczące sankcji na Rosję i finansowania Ukrainy. Jednak formalnie nie doszło do całkowitego 'sabotażu' działalności Unii, a Budapeszt regularnie wyraża poparcie dla członkostwa w UE i korzysta z funduszy unijnych. Niektóre działania można interpretować jako blokowanie określonych inicjatyw, co jest jednak dopuszczalne w ramach mechanizmów UE."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "TRUE": 4,
+      "MOSTLY_TRUE": 12,
+      "MISLEADING": 1,
+      "UNVERIFIABLE": 3
+    },
+    "total_views": 1442120,
+    "total_rts": 20040,
+    "community_notes_count": 0,
+    "rank": 48
+  },
+  {
+    "handle": "@widzimysiejutro",
+    "score": 29.8,
+    "sub_scores": {
+      "falsehood": 19.1,
+      "technique": 49.0,
+      "reach": 51.0,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "RYSZARD PETRU BOHATERSKO BRONI \"UBOGICH\" WŁAŚCICIELI TRZECH MIESZKAŃ\n\nRyszard Petru uważa, że posiadanie trzech mieszkań to cecha osób o \"niskich dochodach\", co przy jego 10-milionowym majątku brzmi j",
+      "url": "https://x.com/widzimysiejutro/status/2037228597564391713",
+      "views": 5648,
+      "verdicts": [
+        {
+          "claim": "Ryszard Petru publicznie stwierdził, że posiadanie trzech mieszkań jest cechą osób o niskich dochodach.",
+          "verdict": "FALSE",
+          "evidence_summary": "Ryszard Petru w lutym 2024 w programie 'Tak jest' w TVN24 stwierdził, że osoba posiadająca trzy mieszkania nie jest miliarderem ani bogaczem, ale NIE powiedział, że to cecha osób o niskich dochodach. Wypowiedź została wielokrotnie cytowana i komentowana w mediach, ale nigdzie nie pada stwierdzenie o niskich dochodach."
+        },
+        {
+          "claim": "Ryszard Petru posiada majątek szacowany na 10 milionów złotych.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją wiarygodne, publicznie dostępne źródła, które jednoznacznie potwierdzają lub zaprzeczają, że Ryszard Petru posiada majątek szacowany na 10 milionów złotych. Oświadczenia majątkowe polityków są dostępne, ale nie dla każdego okresu życia i nie ujawniają pełnej wartości majątku prywatnego. Szacunki mediów i publikacji wahają się i nie są potwierdzone rzetelnymi dokumentami."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "FALSE": 2,
+      "UNVERIFIABLE": 6,
+      "TRUE": 4,
+      "MOSTLY_TRUE": 6
+    },
+    "total_views": 109504,
+    "total_rts": 2796,
+    "community_notes_count": 0,
+    "rank": 49
+  },
+  {
+    "handle": "@WojSadurski",
+    "score": 29.3,
+    "sub_scores": {
+      "falsehood": 16.6,
+      "technique": 41.9,
+      "reach": 58.1,
+      "repeat": 42.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Skrócona analiza prawna tego wniosku Pana Warchoła (w moim imieniu, nie Komisji Weneckiej):\nWniosek grupy posłów PiS z 3 lutego zmierza do uniemożliwienia Sejmowi wyboru nowych sędziów, a skoro to już",
+      "url": "https://x.com/WojSadurski/status/2033644351046176859",
+      "views": 23513,
+      "verdicts": [
+        {
+          "claim": "Wniosek grupy posłów PiS z 3 lutego 2026 roku zawiera prośbę do Trybunału Konstytucyjnego o zakazanie Sejmowi RP wyboru sędziów Trybunału Konstytucyjnego na podstawie ustawy, której przepisy wnioskodawcy kwestionują.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "W dostępnych publicznie źródłach (stan na czerwiec 2024) brak informacji o wniosku grupy posłów PiS z 3 lutego 2026 roku, a także o treści takiego wniosku lub działaniach związanych z zakazaniem wyboru sędziów TK przez Sejm w tej formule prawnej. Brak możliwości weryfikacji tej sytuacji, ponieważ odnosi się ona do przyszłości."
+        },
+        {
+          "claim": "Trybunał Konstytucyjny nie posiada kompetencji do zakazywania Sejmowi wyboru sędziów TK.",
+          "verdict": "TRUE",
+          "evidence_summary": "Konstytucja RP i ustawa o Trybunale Konstytucyjnym nie przewidują możliwości, aby Trybunał Konstytucyjny mógł zakazać Sejmowi wyboru sędziów tego Trybunału. Kompetencje TK obejmują orzekanie o zgodności aktów normatywnych z Konstytucją, nie zaś ingerencję w konkretne działania Sejmu związane z wyborem sędziów TK."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 22,
+      "MOSTLY_FALSE": 3,
+      "MOSTLY_TRUE": 18,
+      "UNVERIFIABLE": 2,
+      "FALSE": 3
+    },
+    "total_views": 210606,
+    "total_rts": 2144,
+    "community_notes_count": 0,
+    "rank": 50
+  },
+  {
+    "handle": "@nexta_polska",
+    "score": 28.7,
+    "sub_scores": {
+      "falsehood": 15.3,
+      "technique": 39.3,
+      "reach": 68.0,
+      "repeat": 35.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 38,
+    "flagged_posts": 9,
+    "top_fake": {
+      "text": "🤡 Putin — o ograniczaniu internetu 15 lat temu: „To jest politycznie niepoprawne”\n\n„Jeśli władzy lub komuś nie podoba się to, co dzieje się w internecie, istnieje tylko jeden sposób, by temu przeciwdz",
+      "url": "https://x.com/nexta_polska/status/2038202004078473698",
+      "views": 824,
+      "verdicts": [
+        {
+          "claim": "Władimir Putin wypowiedział się 15 lat temu, że ograniczanie internetu jest politycznie niepoprawne.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W marcu 2007 roku, podczas spotkania z przedstawicielami mediów, Władimir Putin faktycznie stwierdził, że ograniczanie internetu jest politycznie niepoprawne i nikt nie chce tego robić, a jego wypowiedź była szeroko cytowana w polskich i rosyjskich serwisach informacyjnych. Jednak Putin w późniejszych latach podejmował działania na rzecz ograniczenia wolności internetu w Rosji."
+        },
+        {
+          "claim": "Władimir Putin stwierdził, że jedynym sposobem przeciwdziałania niepożądanym treściom w internecie jest proponowanie innych rozwiązań i podejść do dyskusji na tych samych platformach, w sposób bardziej kreatywny, ciekawy i przyciągający większą liczbę zwolenników.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Władimir Putin kilkukrotnie wypowiadał się na temat kontroli i regulowania internetu w Rosji – zarówno w kontekście cenzury, walki z „niepożądanymi” treściami, jak i surowszych przepisów dotyczących treści w sieci. W 2019 roku Putin mówił o potrzebie zwiększenia suwerenności rosyjskiego internetu i zwalczał „szkodliwe” treści także poprzez blokowanie i ograniczenia techniczne. Nie ma dostępnych wiarygodnych źródeł polskich lub rosyjskich, które potwierdzałyby, jakoby Putin publicznie określił „proponowanie innych rozwiązań” jako jedyny sposób przeciwdziałania niechcianym treściom. Jego polityka szła w kierunku cenzury i kontroli administracyjnej."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 51,
+      "TRUE": 20,
+      "UNVERIFIABLE": 44,
+      "FALSE": 3,
+      "MISLEADING": 4,
+      "MOSTLY_FALSE": 3
+    },
+    "total_views": 525362,
+    "total_rts": 830,
+    "community_notes_count": 0,
+    "rank": 51
+  },
+  {
+    "handle": "@NawrockiKn",
+    "score": 28.6,
+    "sub_scores": {
+      "falsehood": 13.1,
+      "technique": 31.9,
+      "reach": 93.7,
+      "repeat": 23.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 19,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "W Pałacu Prezydenckim intensywnie pracujemy nad tym, by Polska na stałe została członkiem G20. Aby tak było, potrzebujemy impulsów do rozwoju przedsiębiorczości, dlatego powołałem dziś Radę Biznesu, w",
+      "url": "https://x.com/NawrockiKn/status/2036817020642086950",
+      "views": 132405,
+      "verdicts": [
+        {
+          "claim": "W Pałacu Prezydenckim prowadzone są działania mające na celu uzyskanie przez Polskę stałego członkostwa w G20.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Nie ma publicznie dostępnych informacji potwierdzających, że w Pałacu Prezydenckim trwają oficjalne, intensywne działania mające na celu uzyskanie przez Polskę stałego członkostwa w G20. Ani na oficjalnej stronie Kancelarii Prezydenta RP, ani w doniesieniach mediów nie pojawiły się takie komunikaty. Polska uczestniczy okazjonalnie w spotkaniach G20, np. w 2022 roku (jako gość), jednak stałe członkostwo w G20 nie jest oficjalnym, deklarowanym celem w aktualnej polityce zagranicznej Polski."
+        },
+        {
+          "claim": "Dnia 25 marca 2026 roku została powołana Rada Biznesu przy udziale Prezydenta, do której weszli nowi członkowie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych, wiarygodnych źródeł publicznych potwierdzających, że 25 marca 2026 roku powołano Radę Biznesu przy udziale Prezydenta z nowymi członkami. Ze względu na datę w przyszłości i brak informacji w obecnych bazach medialnych i rządowych nie można zweryfikować tego twierdzenia."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 21,
+      "TRUE": 15,
+      "MOSTLY_TRUE": 3,
+      "MOSTLY_FALSE": 3
+    },
+    "total_views": 5605534,
+    "total_rts": 15617,
+    "community_notes_count": 0,
+    "rank": 52
+  },
+  {
+    "handle": "@1972tomek",
+    "score": 28.5,
+    "sub_scores": {
+      "falsehood": 15.8,
+      "technique": 56.7,
+      "reach": 45.3,
+      "repeat": 32.1,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Panie Rachoniu, to Pan nie wiesz, że Republika powstała na kasie podatnika tłoczonej do Sakiewicza przez PiS? Powiedz Pan tym Amerykańcom prawdę.",
+      "url": "https://x.com/1972tomek/status/2038164707798864165",
+      "views": 2906,
+      "verdicts": [
+        {
+          "claim": "Partia Prawo i Sprawiedliwość przekazywała środki publiczne związane z podatnikami do Sakiewicza, przeznaczając je na utworzenie Republiki.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Nie ma dowodów, że PiS bezpośrednio przekazywał środki na założenie telewizji Republika. Istnieją udokumentowane przypadki, w których media związane z Tomaszem Sakiewiczem otrzymywały środki publiczne (np. reklamy spółek Skarbu Państwa), jednak nie ma potwierdzenia, by pieniądze te były jednoznacznie przeznaczone na powstanie Republiki. Przyznane środki były przekazywane przez państwowe spółki bądź fundusze na różne cele, nie na samo utworzenie stacji."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "straw_man",
+      "appeal_to_emotion",
+      "decontextualization",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 22,
+      "MISLEADING": 3,
+      "TRUE": 2,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 64766,
+    "total_rts": 682,
+    "community_notes_count": 0,
+    "rank": 53
+  },
+  {
+    "handle": "@RepublikaTV",
+    "score": 27.6,
+    "sub_scores": {
+      "falsehood": 32.7,
+      "technique": 25.1,
+      "reach": 20.7,
+      "repeat": 53.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "To koniec! Kamil Stoch zakończył karierę [WIDEO - OSTATNI SKOK]\n\n#włączprawdę #TVRepublika\nhttps://t.co/znQaJTinnE",
+      "url": "https://x.com/RepublikaTV/status/2038185985431740579",
+      "views": 495,
+      "verdicts": [
+        {
+          "claim": "Kamil Stoch ogłosił zakończenie kariery sportowej.",
+          "verdict": "FALSE",
+          "evidence_summary": "Według aktualnych, publicznie dostępnych informacji do czerwca 2024 roku, Kamil Stoch nie ogłosił zakończenia kariery sportowej. Brak oficjalnego komunikatu ani wypowiedzi Kamila Stocha lub jego otoczenia w tej sprawie. Doniesienia medialne jednoznacznie potwierdzają, że skoczek kontynuuje swoją karierę."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "cherry_picking",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 4,
+      "MOSTLY_TRUE": 6,
+      "MOSTLY_FALSE": 2,
+      "FALSE": 3,
+      "TRUE": 2
+    },
+    "total_views": 6741,
+    "total_rts": 26,
+    "community_notes_count": 0,
+    "rank": 54
+  },
+  {
+    "handle": "@G_Schetyna",
+    "score": 27.6,
+    "sub_scores": {
+      "falsehood": 16.6,
+      "technique": 45.4,
+      "reach": 49.9,
+      "repeat": 34.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 26,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Wspierając dziś Orbána, Nawrocki pośrednio wspiera Putina. Premier Węgier blokuje europejskie pieniądze dla Polski, odcina gaz Ukrainie napadniętej przez Rosję, a jego kompan informuje Kreml o tym, co",
+      "url": "https://x.com/G_Schetyna/status/2036875393387442578",
+      "views": 2811,
+      "verdicts": [
+        {
+          "claim": "Premier Węgier sprzeciwia się przekazaniu środków finansowych z Unii Europejskiej dla Polski.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją potwierdzone doniesienia, aby premier Węgier blokował lub deklarował sprzeciw wobec przekazywania środków finansowych z UE dla Polski. W latach 2020-2024 kwestia blokowania funduszy przez Węgry dotyczyła raczej innych tematów, jak wsparcie dla Ukrainy czy własnych funduszy, natomiast Węgry publicznie wspierały Polskę w sporach z Unią Europejską dotyczących środków z KPO czy Funduszu Odbudowy. Nie wskazano żadnego przypadku oficjalnej blokady węgierskiego rządu wobec środków dla Polski."
+        },
+        {
+          "claim": "Premier Węgier wstrzymał lub ograniczył dostawy gazu do Ukrainy po rozpoczęciu rosyjskiej inwazji na Ukrainę.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W marcu 2022 roku Węgry zredukowały lub czasowo wstrzymały rewers gazu do Ukrainy po rosyjskiej inwazji, co zostało potwierdzone przez oficjalne komunikaty strony ukraińskiej oraz unijnych raportów. Media polskie i międzynarodowe informowały, że decyzja zapadła w wyniku uzależnienia Węgier od rosyjskiego gazu, czemu towarzyszyły wypowiedzi rządu Orbána odmawiające wsparcia energetycznego Ukrainie."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 26,
+      "MOSTLY_TRUE": 10,
+      "MOSTLY_FALSE": 1,
+      "TRUE": 15,
+      "MISLEADING": 2,
+      "FALSE": 3
+    },
+    "total_views": 98823,
+    "total_rts": 812,
+    "community_notes_count": 0,
+    "rank": 55
+  },
+  {
+    "handle": "@katarynaaa",
+    "score": 27.4,
+    "sub_scores": {
+      "falsehood": 20.4,
+      "technique": 40.5,
+      "reach": 43.3,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Kiedy wiadomo już, że plan Glapińskiego to ściema a Amerykanie nie są wiarygodnym kontrahentem do zakupów zbrojeniowych, były minister nie ustaje w wysiłkach na rzecz storpedowania jedynej leżącej na ",
+      "url": "https://x.com/katarynaaa/status/2037924494249992557",
+      "views": 25212,
+      "verdicts": [
+        {
+          "claim": "Plan Glapińskiego nie jest skuteczny lub nie jest realizowany zgodnie z zapowiedziami.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Twierdzenie jest zbyt ogólne, brak jednoznacznego odniesienia do konkretnego dokumentu lub zestawu działań określanych jako 'plan Glapińskiego'. Równocześnie, publicznie dostępne źródła nie precyzują jednolicie kryteriów 'skuteczności' czy 'realizacji zgodnie z zapowiedziami' wobec niejasno zdefiniowanego planu. Bez bliższej definicji lub wskazania dnia publikacji zapowiedzi czy zrealizowanych efektów, ocena jest niemożliwa."
+        },
+        {
+          "claim": "Stany Zjednoczone nie są wiarygodnym partnerem w zakresie zakupów uzbrojenia.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Stany Zjednoczone są jednym z największych eksporterów uzbrojenia na świecie i wielokrotnie realizowały kontrakty dla wielu sojuszników, w tym państw europejskich i Polski. W niektórych przypadkach pojawiały się jednak spory lub opóźnienia dotyczące dostaw (np. wynikłe z procedur wewnętrznych lub sankcji), lecz generalnie USA są postrzegane jako wiarygodny partner z punktu widzenia zdecydowanej większości państw. Twierdzenie jest więc uproszczeniem i nie uwzględnia szerszego kontekstu."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 4,
+      "UNVERIFIABLE": 3,
+      "MISLEADING": 1,
+      "FALSE": 1,
+      "TRUE": 2
+    },
+    "total_views": 53818,
+    "total_rts": 442,
+    "community_notes_count": 0,
+    "rank": 56
+  },
+  {
+    "handle": "@DoRzeczy_pl",
+    "score": 26.6,
+    "sub_scores": {
+      "falsehood": 27.3,
+      "technique": 21.3,
+      "reach": 35.4,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 27,
+    "flagged_posts": 9,
+    "top_fake": {
+      "text": "USA przygotowują działania lądowe w Iranie. Nowe informacje ⬇️ https://t.co/OrbqbYJxBW",
+      "url": "https://x.com/DoRzeczy_pl/status/2038192141101371543",
+      "views": 414,
+      "verdicts": [
+        {
+          "claim": "Rząd Stanów Zjednoczonych podejmuje przygotowania do operacji lądowej na terytorium Iranu.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak wiarygodnych doniesień lub oświadczeń rządu USA czy amerykańskich mediów potwierdzających przygotowania do operacji lądowej w Iranie w marcu 2026 r. Zarówno oficjalne komunikaty Pentagonu, jak i relacje polskich oraz zagranicznych mediów, nie zawierają informacji o takich krokach. Publicznie deklarowaną strategią pozostają działania dyplomatyczne i odstraszanie militarne bez planów inwazji."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 9,
+      "TRUE": 8,
+      "FALSE": 6,
+      "MISLEADING": 1,
+      "UNVERIFIABLE": 12,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 26025,
+    "total_rts": 78,
+    "community_notes_count": 0,
+    "rank": 57
+  },
+  {
+    "handle": "@a_dziemianowicz",
+    "score": 26.1,
+    "sub_scores": {
+      "falsehood": 19.5,
+      "technique": 27.4,
+      "reach": 56.4,
+      "repeat": 35.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 17,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Miłość nie zna granic, a związki zawarte w jednym kraju nie przestają istnieć w momencie przekraczania granicy ❤️  Dzisiejsze orzeczenie Naczelnego Sądu Administracyjnego to mały, ale ważny krok w str",
+      "url": "https://x.com/a_dziemianowicz/status/2034968980851417226",
+      "views": 35649,
+      "verdicts": [
+        {
+          "claim": "W dniu 20 marca 2026 roku Naczelny Sąd Administracyjny wydał orzeczenie dotyczące równości.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją publicznie dostępne źródła, które potwierdzają lub zaprzeczają, iż 20 marca 2026 roku Naczelny Sąd Administracyjny wydał orzeczenie dotyczące równości. Brak dokumentacji z przyszłości oraz oficjalnych komunikatów administracyjnych publikujących decyzje NSA z podaną datą."
+        },
+        {
+          "claim": "Na podstawie orzeczenia Naczelnego Sądu Administracyjnego Urząd Stanu Cywilnego ma obowiązek dokonać transkrypcji aktu małżeństwa pary jednopłciowej zawartego w innym kraju członkowskim Unii Europejskiej.",
+          "verdict": "FALSE",
+          "evidence_summary": "Naczelny Sąd Administracyjny wielokrotnie orzekał, że polskie urzędy stanu cywilnego nie mają obowiązku transkrypcji aktu małżeństwa pary jednopłciowej zawartego za granicą, argumentując, że jest to sprzeczne z polskim porządkiem prawnym. W kluczowym postanowieniu NSA z 2018 r. (II OSK 1112/16) oraz innych podobnych sprawach, sąd podtrzymał, że transkrypcja takich aktów nie jest możliwa według obecnie obowiązujących przepisów."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 6,
+      "UNVERIFIABLE": 14,
+      "FALSE": 3,
+      "MOSTLY_TRUE": 15,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 180999,
+    "total_rts": 487,
+    "community_notes_count": 0,
+    "rank": 58
+  },
+  {
+    "handle": "@Radio_TOK_FM",
+    "score": 25.8,
+    "sub_scores": {
+      "falsehood": 14.9,
+      "technique": 51.7,
+      "reach": 36.1,
+      "repeat": 32.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 23,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": ".@hennigkloska u @DWielowieyska w #PoranekTOKFM: Do źródeł odnawialnych trzeba budować magazyny, nie tylko źródła. Żeby efektywność OZE poprawić, przyspieszamy też budowę elektrowni jądrowej - to ma b",
+      "url": "https://x.com/Radio_TOK_FM/status/2037065584886637032",
+      "views": 401,
+      "verdicts": [
+        {
+          "claim": "Budowa magazynów energii jest wymagana w przypadku źródeł odnawialnych, a nie tylko samych źródeł.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Magazyny energii są bardzo przydatne dla integracji odnawialnych źródeł energii, ponieważ energia z OZE (np. słońce, wiatr) jest niestabilna i zmienna. Jednak budowa magazynów energii nie jest formalnie wymagana, a wiele instalacji OZE działa bez dedykowanego magazynu, korzystając z sieci przesyłowej lub innych rozwiązań bilansujących. W Polsce i UE rośnie nacisk na rozwój magazynów, ale obecnie nie jest to obligatoryjny element każdego projektu OZE."
+        },
+        {
+          "claim": "Budowa elektrowni jądrowej jest przyspieszana w celu poprawy efektywności odnawialnych źródeł energii oraz jako element przyszłego miksu energetycznego Polski.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Nie ma publicznie dostępnych dowodów, że budowa elektrowni jądrowej w Polsce została realnie przyspieszona w ostatnim czasie; harmonogram budowy pierwszej elektrowni jądrowej pozostaje niezmieniony (rozpoczęcie budowy planowane na 2026 r., uruchomienie pierwszego bloku do 2033 r.). Energia jądrowa znajduje się w oficjalnych planach przyszłego miksu energetycznego Polski, jednak jej rolą nie jest 'poprawa efektywności OZE', lecz zapewnienie stabilnego źródła energii uzupełniającego OZE."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "appeal_to_emotion",
+      "decontextualization",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 14,
+      "FALSE": 1,
+      "TRUE": 19,
+      "MOSTLY_TRUE": 17,
+      "MISLEADING": 4,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 27887,
+    "total_rts": 56,
+    "community_notes_count": 0,
+    "rank": 59
+  },
+  {
+    "handle": "@Bart_Wielinski",
+    "score": 25.3,
+    "sub_scores": {
+      "falsehood": 13.4,
+      "technique": 42.9,
+      "reach": 58.8,
+      "repeat": 21.4,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "RT @MarioAwario: Czyli mówicie że Nawrocki przemawiał w salce „na 500” os popierając Trumpa \n…\nw momencie gdy MILIONY Amerykanów wyszło pro…",
+      "url": "https://x.com/Bart_Wielinski/status/2038169323009646618",
+      "views": 8721,
+      "verdicts": [
+        {
+          "claim": "Nawrocki przemawiał w sali, która mieści około 500 osób, popierając Trumpa.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie ma dostępnych publicznie i wiarygodnych źródeł, które potwierdzałyby, że Nawrocki przemawiał w sali na około 500 osób i wprost poparł Donalda Trumpa. Brak doniesień medialnych na ten temat w polskich serwisach informacyjnych lub oficjalnych komunikatach."
+        },
+        {
+          "claim": "Miliony Amerykanów uczestniczyły w demonstracjach popierających Trumpa.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Dostępne dane z różnych źródeł pokazują, że choć zdarzały się liczne demonstracje zwolenników Trumpa, nie ma wiarygodnych dowodów na to, by ich suma przekroczyła milion uczestników. Największe zgromadzenia, jak np. wydarzenia w Waszyngtonie 6 stycznia 2021 r., liczyły od kilkunastu do kilkudziesięciu tysięcy ludzi. Relacje medialne i dane agencji bezpieczeństwa nie potwierdzają skali sięgającej 'milionów' osób."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "appeal_to_emotion",
+      "ad_hominem",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 9,
+      "TRUE": 7,
+      "MOSTLY_TRUE": 6,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 224636,
+    "total_rts": 2343,
+    "community_notes_count": 0,
+    "rank": 60
+  },
+  {
+    "handle": "@PatrykSlowik",
+    "score": 24.9,
+    "sub_scores": {
+      "falsehood": 12.7,
+      "technique": 39.0,
+      "reach": 69.5,
+      "repeat": 15.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "We Włoszech negocjował otwarcie katowickiego salonu Ferrari dzień przed obroną pracy magisterskiej. Dzisiaj ma salon nie tylko na Śląsku, ale i w Warszawie. Sprzedaje wspomniane Ferrari, ale i droższe",
+      "url": "https://x.com/PatrykSlowik/status/2037066378780316091",
+      "views": 52468,
+      "verdicts": [
+        {
+          "claim": "Jakub Pietrzak negocjował otwarcie salonu Ferrari w Katowicach we Włoszech dzień przed obroną swojej pracy magisterskiej.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie udało się znaleźć wiarygodnych, publicznie dostępnych polskich ani zagranicznych źródeł potwierdzających lub zaprzeczających, że Jakub Pietrzak negocjował otwarcie salonu Ferrari w Katowicach we Włoszech dzień przed obroną swojej pracy magisterskiej. Informacja taka nie pojawia się w oficjalnych materiałach prasowych Ferrari, wywiadach z Jakubem Pietrzakiem ani w autoryzowanych przekazach medialnych dot. otwarcia salonu Ferrari w Katowicach."
+        },
+        {
+          "claim": "Jakub Pietrzak posiada salon samochodowy na Śląsku i w Warszawie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie udało się odnaleźć wiarygodnych, publicznie dostępnych polskich źródeł potwierdzających, że Jakub Pietrzak posiada salony samochodowe zarówno na Śląsku, jak i w Warszawie. Brak oficjalnych rejestrów, doniesień medialnych lub komunikatów firmowych dotyczących tej konkretnie osoby i takiego stanu posiadania."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MOSTLY_TRUE": 7,
+      "TRUE": 4,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 602011,
+    "total_rts": 4151,
+    "community_notes_count": 0,
+    "rank": 61
+  },
+  {
+    "handle": "@PolacyKamraci",
+    "score": 24.9,
+    "sub_scores": {
+      "falsehood": 20.2,
+      "technique": 31.3,
+      "reach": 49.7,
+      "repeat": 27.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Prawdopodobnie Tymiński wygrał te wybory tylko one zostały sfałszowane. https://t.co/LNEimaXFqd",
+      "url": "https://x.com/PolacyKamraci/status/2037924151671890213",
+      "views": 1470,
+      "verdicts": [
+        {
+          "claim": "Według autora posta, Stanisław Tymiński wygrał wybory, które zostały sfałszowane.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją wiarygodne dowody ani poważne źródła wskazujące na to, że wyniki wyborów prezydenckich w 1990 roku w Polsce, w których Stanisław Tymiński rywalizował z Lechem Wałęsą, zostały sfałszowane. Wszystkie dostępne źródła, w tym raporty Państwowej Komisji Wyborczej, obserwacje międzynarodowych organizacji oraz prasa z tamtego okresu, potwierdzają, że wybory przebiegły uczciwie i Lech Wałęsa uzyskał wyraźną przewagę nad Tymińskim."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 5,
+      "FALSE": 2,
+      "UNVERIFIABLE": 6,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 96916,
+    "total_rts": 161,
+    "community_notes_count": 0,
+    "rank": 62
+  },
+  {
+    "handle": "@RobertWinnicki",
+    "score": 24.2,
+    "sub_scores": {
+      "falsehood": 15.6,
+      "technique": 32.0,
+      "reach": 44.9,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Ktoś w ogóle jeszcze pamięta jak po pierwszych, nieśmiałych atakach ukraińskich na cele w głębi Rosji Moskwa straszyła nuklearną zagładą?Wydaje się to kilka epok temu.",
+      "url": "https://x.com/RobertWinnicki/status/2037304033841398106",
+      "views": 19573,
+      "verdicts": [
+        {
+          "claim": "Po pierwszych atakach sił ukraińskich na cele na terytorium Rosji, władze Rosji publicznie groziły użyciem broni nuklearnej.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Choć rosyjscy urzędnicy i propaganda regularnie wspominają o rosyjskim potencjale nuklearnym, nie ma dowodów na to, że po pierwszych atakach sił ukraińskich na cele w Rosji władze Kremla jawnie i kategorycznie groziły bezpośrednim użyciem broni nuklearnej jako odpowiedzi na te konkretne działania. Oświadczenia miały ogólny charakter odstraszający, a nie bezpośrednio warunkowy względem pierwszych ukraińskich ataków."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_FALSE": 1,
+      "TRUE": 4,
+      "MOSTLY_TRUE": 4
+    },
+    "total_views": 62326,
+    "total_rts": 78,
+    "community_notes_count": 0,
+    "rank": 63
+  },
+  {
+    "handle": "@wrealu24_pl",
+    "score": 23.8,
+    "sub_scores": {
+      "falsehood": 24.6,
+      "technique": 40.5,
+      "reach": 10.0,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Szokujące kulisy horroru w Kłodzku ws. Pedofilii i zoofilii słynnej polityk PO?! \"Nawet nie wiem jak to skomentować...\"?!🇵🇱🚨 UDOSTĘPNIJ! NIECH NIESIE SIĘ DALEJ!",
+      "url": "https://x.com/wrealu24_pl/status/2037472126320443790",
+      "views": 902,
+      "verdicts": [
+        {
+          "claim": "Według posta, w Kłodzku doszło do sprawy dotyczącej pedofilii i zoofilii powiązanej ze znaną polityczką Platformy Obywatelskiej.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją żadne wiarygodne, potwierdzone informacje w mediach ogólnopolskich ani w wiarygodnych źródłach lokalnych dotyczące zdarzenia łączącego polityczkę Platformy Obywatelskiej z aferą pedofilii i zoofilii w Kłodzku. W 2024 roku pojawiały się dezinformujące wpisy w mediach społecznościowych na ten temat, które zostały zdementowane przez portale fact-checkingowe. Prokuratura nie prowadziła takiego postępowania z udziałem znanej polityczki PO."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 6,
+      "FALSE": 1
+    },
+    "total_views": 2522,
+    "total_rts": 24,
+    "community_notes_count": 0,
+    "rank": 64
+  },
+  {
+    "handle": "@trzaskowski_",
+    "score": 23.8,
+    "sub_scores": {
+      "falsehood": 10.5,
+      "technique": 30.8,
+      "reach": 72.7,
+      "repeat": 20.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 22,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "To jedno z najważniejszych na świecie wydarzeń poświęconych sztucznej inteligencji. A @warszawa jest jego gospodarzem.\n\nMIT Universal AI Summit to dwudniowa konferencja, która gromadzi setki naukowców",
+      "url": "https://x.com/trzaskowski_/status/2036127885572866524",
+      "views": 29127,
+      "verdicts": [
+        {
+          "claim": "MIT Universal AI Summit jest jednym z najważniejszych na świecie wydarzeń dotyczących sztucznej inteligencji.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "MIT Universal AI Summit to konferencja związana z MIT i tematyką sztucznej inteligencji, jednak w branżowych listach i przeglądach kluczowych globalnych wydarzeń AI stałymi liderami są m.in. NeurIPS, ICML, AAAI czy CVPR. MIT Universal AI Summit nie jest powszechnie wymieniany wśród kilku globalnie najważniejszych konferencji, choć przyciąga rozpoznawalnych prelegentów i uwagę części mediów, więc jest istotny, ale zdecydowanie nie w ścisłej światowej czołówce."
+        },
+        {
+          "claim": "Warszawa jest gospodarzem wydarzenia MIT Universal AI Summit.",
+          "verdict": "TRUE",
+          "evidence_summary": "MIT Universal AI Summit zaplanowane zostało w Warszawie; wydarzenie organizowane jest we współpracy z Massachusetts Institute of Technology oraz stołecznym ratuszem i odbędzie się na terenie miasta. Informacje te potwierdzają oficjalne komunikaty Urzędu m.st. Warszawy oraz polskie media branżowe."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 19,
+      "TRUE": 23,
+      "MOSTLY_FALSE": 2,
+      "MOSTLY_TRUE": 21,
+      "MISLEADING": 1
+    },
+    "total_views": 808659,
+    "total_rts": 4548,
+    "community_notes_count": 0,
+    "rank": 65
+  },
+  {
+    "handle": "@Obywatelska_KO",
+    "score": 23.4,
+    "sub_scores": {
+      "falsehood": 13.0,
+      "technique": 28.0,
+      "reach": 76.2,
+      "repeat": 12.2,
+      "community_notes": 0.0
+    },
+    "total_posts": 37,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "🛡️ Bezpieczeństwo Polek i Polaków jest dla nas priorytetem - dlatego wydajemy na nie aż 4,3% PKB❗️\n\n💬 Minister @Domanski_Andrz 👇 https://t.co/HuiTJ5AOC0",
+      "url": "https://x.com/Obywatelska_KO/status/2037809418092360078",
+      "views": 3930,
+      "verdicts": [
+        {
+          "claim": "Polska wydaje 4,3% swojego PKB na bezpieczeństwo.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Według oficjalnych danych, Polska w 2023 roku wydawała ok. 2,4% PKB na obronność (budżet MON), a nawet z uwzględnieniem wszystkich wydatków na bezpieczeństwo narodowe i publiczne suma ta nie przekracza 3% PKB. Rządowe deklaracje dotyczące zwiększenia wydatków obronnych do 4% PKB odnoszą się głównie do przyszłości lub planów, nie aktualnych wydatków rzeczywistych."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 11,
+      "MOSTLY_TRUE": 13,
+      "UNVERIFIABLE": 26,
+      "MOSTLY_FALSE": 2,
+      "MISLEADING": 1
+    },
+    "total_views": 1115304,
+    "total_rts": 3748,
+    "community_notes_count": 0,
+    "rank": 66
+  },
+  {
+    "handle": "@ODFoundation",
+    "score": 23.2,
+    "sub_scores": {
+      "falsehood": 10.8,
+      "technique": 54.0,
+      "reach": 32.8,
+      "repeat": 25.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "\"Trwa wojna, a Krzysztof Stanowski daje forum rosyjskiej propagandzie\". Pisze @bartek_kramek w @gazeta_wyborcza:  \n\n🇷🇺 Niedawny reportaż Marii Wiernikowskiej w @OficjalneZero, który ocieplał wizerunek",
+      "url": "https://x.com/ODFoundation/status/2029466260237394424",
+      "views": 9223,
+      "verdicts": [
+        {
+          "claim": "Większość polskich mediów negatywnie oceniła reportaż Marii Wiernikowskiej opublikowany przez @OficjalneZero.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono szeroko cytowanych ani licznych publikacji polskich mediów odnoszących się do reportażu Marii Wiernikowskiej w @OficjalneZero, ani jednoznacznych podsumowań opinii większości polskich mediów w tej sprawie. Brakuje dowodów pozwalających określić charakter oraz skalę reakcji medialnej."
+        },
+        {
+          "claim": "@K_Stanowski publicznie broni działań Marii Wiernikowskiej, a Kanał Zero nie wydał oświadczenia przyznającego się do błędu w związku z reportażem.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Na podstawie publicznych wypowiedzi Krzysztofa Stanowskiego, dostępnych m.in. na platformie X (dawniej Twitter) i nagraniach Kanału Zero, Stanowski wypowiadał się w obronie Marii Wiernikowskiej i nie uznał publicznie zarzutów dotyczących reportażu. Brakuje natomiast oficjalnego oświadczenia Kanału Zero, w którym redakcja przyznałaby się do błędu wobec reportażu lub uznała zarzuty, choć pojawiały się odpowiedzi na krytykę. Nie ma jednak jednoznacznego i formalnego przyznania się do błędu."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 11,
+      "UNVERIFIABLE": 6,
+      "TRUE": 8,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 20422,
+    "total_rts": 80,
+    "community_notes_count": 0,
+    "rank": 67
+  },
+  {
+    "handle": "@PSzubartowicz",
+    "score": 22.6,
+    "sub_scores": {
+      "falsehood": 12.4,
+      "technique": 0.0,
+      "reach": 71.3,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "23 lata temu Juliusz Machulski zrealizował spektakl Teatru Telewizji „19. Południk” z wybitną rolą Andrzeja Grabowskiego (kultowy fragment poniżej). 10 marca Machulski skończył 71 lat, a pięć dni późn",
+      "url": "https://x.com/PSzubartowicz/status/2036730432188772805",
+      "views": 338589,
+      "verdicts": [
+        {
+          "claim": "Juliusz Machulski wyreżyserował spektakl Teatru Telewizji pod tytułem „19. Południk” w 2003 roku.",
+          "verdict": "TRUE",
+          "evidence_summary": "Według oficjalnych archiwów TVP oraz portalu filmpolski.pl, spektakl '19. Południk' był rzeczywiście wyreżyserowany przez Juliusza Machulskiego i miał premierę w Teatrze Telewizji w 2003 roku."
+        },
+        {
+          "claim": "Andrzej Grabowski zagrał jedną z głównych ról w spektaklu „19. Południk”.",
+          "verdict": "TRUE",
+          "evidence_summary": "Andrzej Grabowski grał w spektaklu telewizyjnym '19. Południk' w reżyserii Macieja Wojtyszki. Jest podawany w obsadzie jako jedna z głównych postaci, o czym informują portale filmowe oraz archiwa Teatru TV."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "TRUE": 7,
+      "UNVERIFIABLE": 1,
+      "FALSE": 1
+    },
+    "total_views": 712644,
+    "total_rts": 2664,
+    "community_notes_count": 0,
+    "rank": 68
+  },
+  {
+    "handle": "@PiotrSemka",
+    "score": 22.3,
+    "sub_scores": {
+      "falsehood": 21.6,
+      "technique": 30.0,
+      "reach": 28.4,
+      "repeat": 30.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Spóźnione nieco ale szczere życzenia urodzinowe dla Susan Anne Suley -wokalistki  Human League.         Dnia 22 marca Pani Zuza skończyła 63 lata.\n Jakże by nie przypomnieć z tej okazji jej życiowej k",
+      "url": "https://x.com/PiotrSemka/status/2037126949982634201",
+      "views": 744,
+      "verdicts": [
+        {
+          "claim": "Susan Anne Suley ukończyła 63 lata 22 marca.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie można znaleźć w publicznie dostępnych polskich lub anglojęzycznych źródłach wiarygodnych informacji na temat daty urodzenia ani biografii osoby o imieniu Susan Anne Suley, ani pod pseudonimem 'Pani Zuza'. Brakuje oficjalnych rejestrów lub publikacji potwierdzających tę informację."
+        },
+        {
+          "claim": "Susan Anne Suley jest wokalistką zespołu Human League.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieje żadna wokalistka Human League o nazwisku Susan Anne Suley. Wokalistkami zespołu są Susan Ann Sulley oraz Joanne Catherall. Nazwisko 'Suley' jest błędną pisownią nazwiska Susan Ann Sulley."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 7,
+      "TRUE": 5,
+      "UNVERIFIABLE": 8,
+      "FALSE": 3
+    },
+    "total_views": 13658,
+    "total_rts": 38,
+    "community_notes_count": 0,
+    "rank": 69
+  },
+  {
+    "handle": "@OficjalneZero",
+    "score": 21.9,
+    "sub_scores": {
+      "falsehood": 13.1,
+      "technique": 30.7,
+      "reach": 60.8,
+      "repeat": 13.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "“Panie Doktorze, poślizgnąłem się i upadłem na dezodorant pod prysznicem.” “Pani Doktor, leżało na kanapie, nie zauważyłem i usiadłem.” Ciała obce w odbycie to codzienność na Szpitalnych Oddziałach Ra",
+      "url": "https://x.com/OficjalneZero/status/2038185925717422530",
+      "views": 26167,
+      "verdicts": [
+        {
+          "claim": "Przypadki obecności ciał obcych w odbycie są zjawiskiem występującym każdego dnia na szpitalnych oddziałach ratunkowych.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Przypadki obecności ciał obcych w odbycie są znane w praktyce medycznej i rzeczywiście odnotowywane w szpitalnych oddziałach ratunkowych (SOR), ale badania, doniesienia mediów i wypowiedzi lekarzy podkreślają, że zjawisko to nie jest codziennością i stanowi raczej rzadkość w porównaniu z innymi przyczynami zgłoszeń na SOR. Brakuje danych potwierdzających, że przypadki te zdarzają się każdego dnia w każdym SOR w Polsce."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 10,
+      "UNVERIFIABLE": 6,
+      "TRUE": 4,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 270502,
+    "total_rts": 119,
+    "community_notes_count": 0,
+    "rank": 70
+  },
+  {
+    "handle": "@PolsatNewsPL",
+    "score": 21.6,
+    "sub_scores": {
+      "falsehood": 21.0,
+      "technique": 15.7,
+      "reach": 34.7,
+      "repeat": 39.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 19,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "- Obowiązkowe prace domowe powinny być przywrócone - deklaruje @KosiniakKamysz \n\nJak dodaje w \"#PolitycznyWF z gościem\", część rodziców, którzy chcieli ich likwidacji, teraz oczekują powrotu 👇\n\n🎙️ @Pi",
+      "url": "https://x.com/PolsatNewsPL/status/2038193950264299968",
+      "views": 1310,
+      "verdicts": [
+        {
+          "claim": "Kosiniak-Kamysz zadeklarował poparcie dla przywrócenia obowiązkowych prac domowych.",
+          "verdict": "FALSE",
+          "evidence_summary": "Władysław Kosiniak-Kamysz, lider PSL i wicepremier, wypowiadał się publicznie na temat prac domowych w szkołach. W marcu 2024 roku rząd przedstawił projekt ograniczający obowiązkowe prace domowe w szkołach podstawowych, a Kosiniak-Kamysz poparł te zmiany. Nie ma żadnych wiarygodnych polskich źródeł potwierdzających, by deklarował poparcie dla przywrócenia obowiązkowych prac domowych. Wręcz przeciwnie — wyrażał poparcie dla ograniczenia takiego obowiązku."
+        },
+        {
+          "claim": "Część rodziców, którzy wcześniej opowiadali się za likwidacją obowiązkowych prac domowych, obecnie oczekuje ich przywrócenia.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Po wprowadzeniu zakazu obowiązkowych prac domowych w szkołach pojawiły się doniesienia medialne sugerujące, że niektórzy rodzice, wcześniej popierający zniesienie prac domowych, teraz deklarują niezadowolenie i oczekują ich powrotu. Potwierdzają to zarówno pojedyncze wypowiedzi w mediach, jak i badania opinii, w których część rodziców wyraża obecnie zaniepokojenie skutkami tej zmiany. Jednak brak jest twardych danych liczbowych wskazujących skalę tej zmiany postaw."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 15,
+      "MOSTLY_TRUE": 7,
+      "TRUE": 6,
+      "FALSE": 3,
+      "MISLEADING": 2
+    },
+    "total_views": 24545,
+    "total_rts": 69,
+    "community_notes_count": 0,
+    "rank": 71
+  },
+  {
+    "handle": "@__Lewica",
+    "score": 21.4,
+    "sub_scores": {
+      "falsehood": 13.7,
+      "technique": 22.1,
+      "reach": 63.5,
+      "repeat": 17.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 17,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Dane są bezlitosne – aż 40% pracowników doświadczyło mobbingu w miejscu pracy. Tymczasem jego dziurawa definicja pozostaje niezmieniona od 20 lat. 🤦‍♀️\n\n⬆️ Ministra @a_dziemianowicz robi z tym porząde",
+      "url": "https://x.com/__Lewica/status/2037585702938911081",
+      "views": 3069,
+      "verdicts": [
+        {
+          "claim": "Według cytowanych danych 40% pracowników deklaruje, że doświadczyło mobbingu w miejscu pracy.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "W polskich badaniach dotyczących mobbingu, odsetek pracowników deklarujących, że doświadczyli mobbingu, wynosi zwykle od kilku do około 20%. Najczęściej cytowane są wartości z raportu CBOS z 2019 roku (16% wskazań) czy Fundacji Batorego (do 19%). W niektórych badaniach na mniejszych próbach lub określających mobbing mniej precyzyjnie, pojawiają się wyższe wartości, ale wynik 40% nie znajduje szerokiego poparcia w reprezentatywnych, ogólnopolskich sondażach."
+        },
+        {
+          "claim": "Definicja mobbingu w polskim prawie pracy nie była zmieniana od około 20 lat.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Definicja mobbingu została wprowadzona do Kodeksu pracy w 2004 r. (art. 94[3]) i od tego czasu nie była istotnie zmieniana. Istniały jednak propozycje nowelizacji i dyskusje eksperckie, lecz tekst definicji w ustawie pozostał w zasadzie niezmieniony."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 12,
+      "TRUE": 5,
+      "MOSTLY_TRUE": 6,
+      "MISLEADING": 3
+    },
+    "total_views": 345826,
+    "total_rts": 110,
+    "community_notes_count": 0,
+    "rank": 72
+  },
+  {
+    "handle": "@MSzuldrzynski",
+    "score": 21.2,
+    "sub_scores": {
+      "falsehood": 19.8,
+      "technique": 20.0,
+      "reach": 38.3,
+      "repeat": 30.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Donald Tusk: VAT na paliwo w dół, będą ceny maksymalne. Rząd reaguje na wzrost cen ropy https://t.co/V9VCRobjSf",
+      "url": "https://x.com/MSzuldrzynski/status/2037159161981530400",
+      "views": 935,
+      "verdicts": [
+        {
+          "claim": "Donald Tusk zapowiedział obniżenie stawki VAT na paliwo oraz wprowadzenie maksymalnych cen paliw.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Podczas kampanii wyborczej oraz po objęciu urzędu premiera w 2023 roku Donald Tusk deklarował działania mające na celu obniżenie cen paliw. Istniały zapowiedzi dotyczące ewentualnego obniżenia podatku VAT na żywność oraz spekulacje medialne o możliwych interwencjach na rynku paliwowym, lecz nie zapowiedział on wprost obniżenia stawki VAT na paliwo ani wprowadzenia cen maksymalnych na paliwa. W oficjalnych wystąpieniach i dokumentach rządu brak potwierdzenia obu tych konkretnych deklaracji."
+        },
+        {
+          "claim": "Rząd wprowadza określone działania w odpowiedzi na wzrost cen ropy.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, aktualnych źródeł potwierdzających, że w marcu 2026 roku rząd wdrożył konkretne działania w odpowiedzi na wzrost cen ropy. Informacje medialne oraz oficjalne komunikaty z tego okresu nie są obecnie dostępne."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "TRUE": 1,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 33978,
+    "total_rts": 154,
+    "community_notes_count": 0,
+    "rank": 73
+  },
+  {
+    "handle": "@RyszardPetru",
+    "score": 19.7,
+    "sub_scores": {
+      "falsehood": 12.2,
+      "technique": 26.8,
+      "reach": 48.6,
+      "repeat": 18.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Viktor Orbán doprowadził Węgry do gospodarczej katastrofy i zależności od Rosji. Nie widzę powodu, by popierał go polski prezydent. https://t.co/krE0UD21ym",
+      "url": "https://x.com/RyszardPetru/status/2036108401344688584",
+      "views": 4571,
+      "verdicts": [
+        {
+          "claim": "Węgry doświadczyły znacznych problemów gospodarczych podczas rządów Viktora Orbána.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Podczas rządów Viktora Orbána Węgry osiągały wzrost gospodarczy powyżej średniej UE przez wiele lat, jednak niedawna inflacja w latach 2022-2023, osłabienie forinta oraz spowolnienie wzrostu gospodarczego ujawniły poważne trudności, lecz nie można mówić o gospodarczym krachu. Eksperci wskazują na mieszany bilans: kontrowersyjne reformy, inwestycje i wzrost obok problemów z korupcją, inwestycjami zagranicznymi i inflacją."
+        },
+        {
+          "claim": "W czasie rządów Viktora Orbána Węgry stały się gospodarczo i/lub politycznie zależne od Rosji.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Węgry pod przywództwem Viktora Orbána znacząco rozwinęły współpracę z Rosją, m.in. w sektorze energetycznym (uzależnienie od rosyjskiego gazu i kontrakt na rozbudowę elektrowni atomowej Paks przez rosyjski Rosatom). Mimo członkostwa w UE i NATO, działania rządu Orbána często odbiegają od linii zachodniej w sprawach relacji z Rosją. Jednak pełnej politycznej zależności nie wykazano – Węgry zachowują niezależność w kluczowych obszarach i nie są kontrolowane przez Rosję."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 4,
+      "UNVERIFIABLE": 6,
+      "MISLEADING": 1,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 87774,
+    "total_rts": 350,
+    "community_notes_count": 0,
+    "rank": 74
+  },
+  {
+    "handle": "@e_wrzosek",
+    "score": 19.2,
+    "sub_scores": {
+      "falsehood": 5.9,
+      "technique": 44.0,
+      "reach": 55.3,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 5,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Pan Jacek przeprasza Panią red.@KolendaK.\nNie żeby zrozumiał, zreflektował się czy cokolwiek innego, angażującego jego własne komórki mózgowe. Trzeba było przymusu procesowego, by przeprosił. Mimo to ",
+      "url": "https://x.com/e_wrzosek/status/2026967495463018877",
+      "views": 45905,
+      "verdicts": [
+        {
+          "claim": "Jacek przeprosił redaktor Kolendę-K.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono w polskich, ani szeroko dostępnych źródłach publicznych potwierdzenia, że osoba o imieniu Jacek oficjalnie przeprosiła redaktor Kolendę-K. Brakuje szczegółów, które pozwoliłyby jednoznacznie zidentyfikować kontekst i osoby, co uniemożliwia weryfikację twierdzenia."
+        },
+        {
+          "claim": "Przeprosiny zostały złożone po wymuszeniu procesowym.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie udało się znaleźć w publicznie dostępnych, wiarygodnych polskich źródłach informacji dotyczącej konkretnej sytuacji, w której osoba złożyła przeprosiny dopiero po przymusie procesowym. Twierdzenie jest ogólne i nie odnosi się do jasno określonego przypadku ani osoby."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 6,
+      "MOSTLY_TRUE": 1,
+      "UNVERIFIABLE": 5
+    },
+    "total_views": 163338,
+    "total_rts": 3900,
+    "community_notes_count": 0,
+    "rank": 75
+  },
+  {
+    "handle": "@szefernaker",
+    "score": 18.9,
+    "sub_scores": {
+      "falsehood": 4.9,
+      "technique": 40.7,
+      "reach": 60.7,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Po ponad 18 godzinach od podpisu Prezydenta Nawrockiego rząd w końcu opublikował ustawy.\nPresja ma sens. Dlatego będziemy pilnować ich dalej na każdym etapie.\nTeraz czas na rozporządzenia!",
+      "url": "https://x.com/szefernaker/status/2037897387092426829",
+      "views": 76299,
+      "verdicts": [
+        {
+          "claim": "Rząd opublikował ustawy ponad 18 godzin po podpisie Prezydenta Nawrockiego.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją publicznie dostępne dane potwierdzające, kiedy prezydent Nawrocki podpisał konkretne ustawy oraz kiedy dokładnie zostały one opublikowane przez rząd. Według obowiązującej w Polsce procedury ustawy podlegają publikacji w Dzienniku Ustaw po podpisaniu przez prezydenta, jednak obecnie nie ma prezydenta Nawrockiego w Polsce — jest to informacja fikcyjna — a dostępność aktów prawnych sprzed 2026 roku uniemożliwia weryfikację wskazanych dat i procedur."
+        }
+      ]
+    },
+    "techniques": [
+      "straw_man",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 10,
+      "MOSTLY_TRUE": 2,
+      "UNVERIFIABLE": 4
+    },
+    "total_views": 268472,
+    "total_rts": 2880,
+    "community_notes_count": 0,
+    "rank": 76
+  },
+  {
+    "handle": "@NewsweekPolska",
+    "score": 17.5,
+    "sub_scores": {
+      "falsehood": 11.3,
+      "technique": 38.3,
+      "reach": 28.4,
+      "repeat": 10.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "\"Jeśli twoja babka została zgwałcona, daj to na jedynkę\", mawiała Cissy Patterson, hrabina Giżycka, naczelna \"Washington Herald\".\n\n🔴 Najbardziej znienawidzona kobieta Ameryki ➡️ https://t.co/juyFGX20V",
+      "url": "https://x.com/NewsweekPolska/status/2038165320452759843",
+      "views": 1001,
+      "verdicts": [
+        {
+          "claim": "Cissy Patterson, naczelna 'Washington Herald', była autorką zdania: 'Jeśli twoja babka została zgwałcona, daj to na jedynkę.'",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie udało się odnaleźć wiarygodnych polskich ani anglojęzycznych źródeł przypisujących Cissy Patterson cytat o tej treści. Brak tej wypowiedzi w znanych biografiach, tekstach historycznych oraz archiwach prasowych dotyczących 'Washington Herald' oraz postaci Patterson. Cytat nie pojawia się również w rzetelnych bazach cytatów i opracowaniach dotyczących etyki dziennikarskiej."
+        },
+        {
+          "claim": "Cissy Patterson była określana jako najbardziej znienawidzona kobieta Ameryki.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Nie znaleziono wiarygodnych polskich ani amerykańskich źródeł historycznych, które bezpośrednio określałyby Cissy Patterson mianem 'najbardziej znienawidzonej kobiety Ameryki'. Była kontrowersyjną redaktor Washington Times-Herald, budzącą sprzeczne uczucia, ale ten konkretny epitet nie występuje w źródłach historycznych."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 8,
+      "MOSTLY_TRUE": 7,
+      "TRUE": 6,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 13682,
+    "total_rts": 12,
+    "community_notes_count": 0,
+    "rank": 77
+  },
+  {
+    "handle": "@ZandbergRAZEM",
+    "score": 17.2,
+    "sub_scores": {
+      "falsehood": 9.4,
+      "technique": 43.0,
+      "reach": 35.6,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Czy premier @donaldtusk myśli, że jak okłamie widzów TVN, to nikt nie zauważy, że zniknęła porodówka? \n\nOd Leska do Miastka – ludzie to widzą. Widzą cichą prywatyzację ochrony zdrowia. Widzą, że rządo",
+      "url": "https://x.com/ZandbergRAZEM/status/2035444254307176524",
+      "views": 15437,
+      "verdicts": [
+        {
+          "claim": "W określonej lokalizacji została zamknięta porodówka",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Twierdzenie jest ogólne i nie wskazuje konkretnej lokalizacji ani czasu, co uniemożliwia jednoznaczną weryfikację na podstawie dostępnych źródeł. Bez sprecyzowania miejsca zamknięcia nie da się potwierdzić lub obalić informacji."
+        },
+        {
+          "claim": "W miejscowościach takich jak Lesko i Miastko mieszkańcy obserwują zmiany dotyczące porodówek",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Zarówno w Lesku, jak i w Miastku, w ostatnich latach dochodziło do głośnych zamknięć lub zawieszeń działalności oddziałów położniczych (porodówek), co szeroko komentowano w mediach lokalnych i ogólnopolskich. Mieszkańcy wyrażali niepokój oraz protestowali przeciwko zamykaniu oddziałów, a sprawa była przedmiotem interwencji samorządów oraz debat publicznych."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 2,
+      "MOSTLY_TRUE": 4,
+      "TRUE": 2
+    },
+    "total_views": 26498,
+    "total_rts": 150,
+    "community_notes_count": 0,
+    "rank": 78
+  },
+  {
+    "handle": "@Darth_is_Vader",
+    "score": 17.0,
+    "sub_scores": {
+      "falsehood": 7.5,
+      "technique": 44.0,
+      "reach": 37.5,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Panie @NawrockiKn \n#CzyPanuJużNiePrzeszkadzaZażyłośćViktoraOrbánazWładimiremPutinem ?",
+      "url": "https://x.com/Darth_is_Vader/status/2037886291849720030",
+      "views": 1566,
+      "verdicts": [
+        {
+          "claim": "Viktor Orbán utrzymuje bliskie relacje z Władimirem Putinem.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Viktor Orbán utrzymuje odmienne niż większość UE relacje z Rosją i Władimirem Putinem, co potwierdzają regularne kontakty, liczne spotkania dwustronne, brak poparcia dla części sankcji oraz polityka zbliżenia energetycznego i gospodarczego z Kremlem po 2014 i po 2022. Mimo to Orbán jednocześnie pozostaje członkiem UE i NATO, a relacje mają także pragmatyczny wymiar, nie opierają się wyłącznie na osobistej zażyłości."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 3,
+      "MOSTLY_TRUE": 3
+    },
+    "total_views": 31622,
+    "total_rts": 1652,
+    "community_notes_count": 0,
+    "rank": 79
+  },
+  {
+    "handle": "@D_Tarczynski",
+    "score": 16.4,
+    "sub_scores": {
+      "falsehood": 7.5,
+      "technique": 13.5,
+      "reach": 74.0,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "VICTORY!\n\nThe European Parliament has voted in favor of progressing a stricter legal framework for the deportation of illegal migrants! \n\nBe Like Poland! 👌 https://t.co/tNQ2KVAZPo",
+      "url": "https://x.com/D_Tarczynski/status/2037137402590892484",
+      "views": 228220,
+      "verdicts": [
+        {
+          "claim": "The European Parliament has voted to move forward with a proposal for a stricter legal framework regarding the deportation of illegal migrants.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W marcu 2024 roku Parlament Europejski większością głosów przyjął reformę tzw. Paktu Migracyjnego, w tym rozporządzenie dotyczące powrotów nielegalnych migrantów (Return Directive), co przewiduje zaostrzenie i usprawnienie procedur deportacyjnych. Choć nie jest to jeszcze ostateczne prawo – wymaga dalszych negocjacji i wdrożenia przez Radę UE – głosowanie przesuwa pakiet w stronę wprowadzenia bardziej restrykcyjnych rozwiązań."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 2,
+      "MOSTLY_TRUE": 2
+    },
+    "total_views": 912880,
+    "total_rts": 5080,
+    "community_notes_count": 0,
+    "rank": 80
+  },
+  {
+    "handle": "@Wiesci24pl",
+    "score": 16.3,
+    "sub_scores": {
+      "falsehood": 12.5,
+      "technique": 41.8,
+      "reach": 23.5,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Dećupnizacja. Testy antynarkotykowe będą obowiązkowe dla polskich polityków? https://t.co/tDyftcg5ig",
+      "url": "https://x.com/Wiesci24pl/status/2036552531925414009",
+      "views": 613,
+      "verdicts": [
+        {
+          "claim": "Pojawiła się propozycja lub informacja, że testy antynarkotykowe mają stać się obowiązkowe dla polskich polityków.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W ostatnich latach regularnie pojawiały się propozycje (zarówno ze strony posłów opozycji, jak i rządu) dotyczące wprowadzenia obowiązkowych testów antynarkotykowych dla parlamentarzystów. Najnowsze informacje z 2023 i początku 2024 r. potwierdzają publiczną debatę oraz konkretne projekty i deklaracje polityków, m.in. projekt ustawy zgłoszony przez polityków Suwerennej Polski. Nie ma jednak informacji, by prawo już obowiązywało lub weszło w życie - chodzi o propozycje, a nie przyjęte przepisy."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "decontextualization",
+      "cherry_picking",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 10,
+      "MOSTLY_TRUE": 2
+    },
+    "total_views": 8729,
+    "total_rts": 185,
+    "community_notes_count": 0,
+    "rank": 81
+  },
+  {
+    "handle": "@TomaszPoreba",
+    "score": 16.3,
+    "sub_scores": {
+      "falsehood": 10.1,
+      "technique": 48.0,
+      "reach": 21.5,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 1,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Wiem, że to niejako poniewczasie, i mleko się wylało, że przegapiłem „medialny timing wywiadu”, aby odpowiedzieć, a  przekaz poszedł w świat🤷‍♂️ Miałem dziś jednak chwilę, by  przesłuchać ciekawą rozm",
+      "url": "https://x.com/TomaszPoreba/status/2029568857757958566",
+      "views": 7214,
+      "verdicts": [
+        {
+          "claim": "Adam Majewski został zaproszony do pracy trenerskiej w FKS Stal Mielec w okresie, gdy nie był rozpoznawalny jako trener, lecz jako były piłkarz.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Adam Majewski objął FKS Stal Mielec w czerwcu 2021 roku. Wcześniej był zawodnikiem, grał między innymi w Legii Warszawa, a trenerskie doświadczenie zdobywał głównie w młodzieżowych drużynach Lecha Poznań oraz w Sokole Ostróda (II liga). Przed zatrudnieniem w Stali Mielec nie był szeroko rozpoznawalny jako trener ekstraklasowy, a jego przeszłość piłkarska była bardziej znana szerszej publiczności."
+        },
+        {
+          "claim": "David Poręba przyjechał z USA do Polski po raz pierwszy w wieku 18 lat.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych informacji potwierdzających lub zaprzeczających, kiedy David Poręba po raz pierwszy odwiedził Polskę ani w jakim był wtedy wieku. Dostępne źródła opisują karierę Davida Poręby, ale nie podają szczegółów dotyczących jego pierwszej wizyty w Polsce."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 5,
+      "UNVERIFIABLE": 3,
+      "TRUE": 3
+    },
+    "total_views": 7214,
+    "total_rts": 2,
+    "community_notes_count": 0,
+    "rank": 82
+  },
+  {
+    "handle": "@tvn24",
+    "score": 15.6,
+    "sub_scores": {
+      "falsehood": 12.4,
+      "technique": 15.8,
+      "reach": 35.0,
+      "repeat": 18.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 16,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "RT @tvn24kawa: Obniżka cen paliw w Polsce. \n\nU. Pasławska (PSL): To największa tarcza osłonowa w Europie. \n\nOglądaj w @tvn24 i @tvn24plus:…",
+      "url": "https://x.com/tvn24/status/2038184835630449059",
+      "views": 1619,
+      "verdicts": [
+        {
+          "claim": "Ceny paliw w Polsce zostały obniżone.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie można zweryfikować twierdzenia dotyczącego obniżki cen paliw w Polsce na dzień 29 marca 2026, ponieważ dane z przyszłości nie są dostępne — aktualne oficjalne źródła (stan na czerwiec 2024) nie obejmują tego okresu. Brak jest wiarygodnych prognoz lub potwierdzeń dotyczących konkretnych obniżek w tej dacie."
+        },
+        {
+          "claim": "Program obniżki cen paliw w Polsce jest największym programem osłonowym tego typu w Europie.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Analizując działania podejmowane przez kraje europejskie w odpowiedzi na wzrosty cen paliw w latach 2021-2023, można stwierdzić, że Polska nie wdrożyła największego programu osłonowego tego typu. W Hiszpanii, Włoszech, Francji oraz Niemczech wprowadzono podobne lub nawet bardziej rozbudowane systemy wsparcia, zarówno bezpośrednie dopłaty, jak i obniżki podatków, często obejmujące szerszą grupę odbiorców i wyższe łączne środki finansowe niż w Polsce."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 10,
+      "MOSTLY_TRUE": 6,
+      "UNVERIFIABLE": 8,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 25212,
+    "total_rts": 30,
+    "community_notes_count": 0,
+    "rank": 83
+  },
+  {
+    "handle": "@AKlarenbach",
+    "score": 14.3,
+    "sub_scores": {
+      "falsehood": 4.0,
+      "technique": 25.3,
+      "reach": 52.2,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "RT @DanielMomot_: ‼️ OGŁASZAM AKCJĘ ‼️\n\nRząd wydaje 7 800 000 zł na promocję,  \n\nJa OGŁASZAM AKCJĘ zadłużają nie gadają‼️ \nPodajemy dalej,…",
+      "url": "https://x.com/AKlarenbach/status/2008787911756644548",
+      "views": 9099,
+      "verdicts": [
+        {
+          "claim": "Rząd przeznaczył 7 800 000 złotych na działania promocyjne.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie udało się znaleźć wiarygodnych, publicznie dostępnych informacji potwierdzających lub zaprzeczających temu, że rząd przeznaczył dokładnie 7 800 000 zł na działania promocyjne w bieżącym lub ostatnim okresie. Rządowe wydatki promocyjne są raportowane w różnych zestawieniach budżetowych, ale brak wskazania tej konkretnej kwoty uniemożliwia jednoznaczną weryfikację."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 2,
+      "UNVERIFIABLE": 1
+    },
+    "total_views": 122429,
+    "total_rts": 2373,
+    "community_notes_count": 0,
+    "rank": 84
+  },
+  {
+    "handle": "@Jan_Pinski",
+    "score": 12.3,
+    "sub_scores": {
+      "falsehood": 12.0,
+      "technique": 22.0,
+      "reach": 24.9,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Od siebie @czuchnowskiw dorzucam dlaczego  napisałeś,  że @bugajski_lukasz nie ma związków z ABW a do mnie pisałeś że  był ucholem legnickiego kpt ABW. Kto Cię prosił abyś pisał nieprawdę w tej sprawi",
+      "url": "https://x.com/Jan_Pinski/status/2037948472687473091",
+      "views": 4946,
+      "verdicts": [
+        {
+          "claim": "Łukasz Bugajski nie ma powiązań z Agencją Bezpieczeństwa Wewnętrznego.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją wiarygodne, publicznie dostępne źródła potwierdzające lub zaprzeczające powiązaniom Łukasza Bugajskiego z Agencją Bezpieczeństwa Wewnętrznego. Brak oficjalnych komunikatów ani medialnych raportów na ten temat."
+        },
+        {
+          "claim": "Łukasz Bugajski był ucholem (podwładnym) legnickiego kapitana Agencji Bezpieczeństwa Wewnętrznego.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych, publicznie dostępnych informacji potwierdzających lub zaprzeczających temu, że Łukasz Bugajski był podwładnym kapitana ABW w Legnicy. Brak oficjalnych źródeł lub dokumentów dotyczących takiego powiązania personalnego."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 5
+    },
+    "total_views": 9892,
+    "total_rts": 128,
+    "community_notes_count": 0,
+    "rank": 85
+  },
+  {
+    "handle": "@barbaraanowacka",
+    "score": 11.8,
+    "sub_scores": {
+      "falsehood": 11.8,
+      "technique": 11.0,
+      "reach": 36.3,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Tańsze paliwo dla polskich rodzin! \nRząd podejmie dziś pakiet decyzji, które obniżą ceny paliw na polskich stacjach!  \n\nRobimy, nie gadamy. \n\n#CenyPaliwaNiżej https://t.co/OiXHR662SZ",
+      "url": "https://x.com/barbaraanowacka/status/2037168974736101514",
+      "views": 3056,
+      "verdicts": [
+        {
+          "claim": "Rząd planuje podjąć działania, które mają na celu obniżenie cen paliw na stacjach w Polsce.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją dostępne publicznie źródła z 26 marca 2026 roku, które potwierdzają, że rząd tego dnia planował podjąć działania mające na celu obniżenie cen paliw. Nie można również zweryfikować informacji o konkretnych decyzjach rządu w tej sprawie na wskazany dzień."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 5,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 28374,
+    "total_rts": 178,
+    "community_notes_count": 0,
+    "rank": 86
+  },
+  {
+    "handle": "@okiemtomkaw",
+    "score": 9.0,
+    "sub_scores": {
+      "falsehood": 9.0,
+      "technique": 9.3,
+      "reach": 26.7,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Ta kobieta jest prokuratorem w czynnej służbie 👇 https://t.co/bhv7nWfJ7t",
+      "url": "https://x.com/okiemtomkaw/status/2037832975765614820",
+      "views": 2273,
+      "verdicts": [
+        {
+          "claim": "Wskazana kobieta pełni obecnie funkcję prokuratora w czynnej służbie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie podano personaliów ani kontekstu umożliwiającego identyfikację kobiety, co uniemożliwia sprawdzenie jej statusu zawodowego. Bez tych danych nie da się wiarygodnie ustalić, czy jest prokuratorem w czynnej służbie."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion"
+    ],
+    "verdicts_summary": {
+      "TRUE": 1,
+      "UNVERIFIABLE": 3
+    },
+    "total_views": 11710,
+    "total_rts": 324,
+    "community_notes_count": 0,
+    "rank": 87
+  },
+  {
+    "handle": "@AM_Zukowska",
+    "score": 9.0,
+    "sub_scores": {
+      "falsehood": 12.0,
+      "technique": 0.0,
+      "reach": 31.9,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "I cyk, cieśnina odblokowana. Prawda?",
+      "url": "https://x.com/AM_Zukowska/status/2037831015285019115",
+      "views": 9406,
+      "verdicts": [
+        {
+          "claim": "Cieśnina została odblokowana.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie wskazano, o którą cieśninę chodzi. Brakuje wystarczających szczegółów geograficznych lub opisu sytuacji, by jednoznacznie ustalić, o jaką blokadę i odblokowanie chodzi. W 2026 roku nie można zweryfikować żadnych doniesień o spektakularnym odblokowaniu konkretnej cieśniny na podstawie dostępnych publicznie źródeł."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 2
+    },
+    "total_views": 18812,
+    "total_rts": 4,
+    "community_notes_count": 0,
+    "rank": 88
+  },
+  {
+    "handle": "@portalzeropl",
+    "score": 5.7,
+    "sub_scores": {
+      "falsehood": 0.0,
+      "technique": 0.0,
+      "reach": 38.3,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 2,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "❗️– Ogólnie jest duży szum informacyjny. Nie mamy tego za złe załodze, bo oni sami niewiele wiedzą. Bardziej mamy pretensje do operatora – mówi nam pan Jacek, jeden z pasażerów promu Stena Ebba, który",
+      "url": "https://x.com/portalzeropl/status/2037524596316930151",
+      "views": 16981,
+      "verdicts": [
+        {
+          "claim": "Prom Stena Ebba znajdował się około 20 kilometrów od wybrzeża Szwecji i nie poruszał się.",
+          "verdict": "TRUE",
+          "evidence_summary": "W dniach 17-18 stycznia 2024 r. prom Stena Ebba utknął na Bałtyku w wyniku trudnych warunków pogodowych. Polskie i szwedzkie media podawały, że prom zatrzymał się ok. 20 km od wybrzeża Szwecji na wysokości Trelleborga, nie mogąc przybić do portu przez warunki pogodowe."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "TRUE": 2
+    },
+    "total_views": 33962,
+    "total_rts": 2,
+    "community_notes_count": 0,
+    "rank": 89
+  }
+]
