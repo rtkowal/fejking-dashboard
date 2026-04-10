@@ -1,0 +1,71 @@
+[
+  {
+    "handle": "@Krzysztof_Bosak",
+    "score": 61.2,
+    "sub_scores": {
+      "falsehood": 100.0,
+      "technique": 32.0,
+      "reach": 65.6,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 1,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "UE chce nas zmusić do przyjęcia 100 tys imigrantów. Zobaczcie ten dokument:",
+      "url": "https://x.com/Krzysztof_Bosak/status/test_img_003",
+      "views": 420000,
+      "verdicts": [
+        {
+          "claim": "Unia Europejska zamierza zobowiązać Polskę do przyjęcia 100 tysięcy imigrantów.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją oficjalne unijne propozycje ani zatwierdzone przepisy nakładające na Polskę obowiązek przyjęcia 100 tysięcy imigrantów. Unijny Pakt o Migracji i Azylu przewiduje co prawda mechanizm solidarnościowy, w którym państwa członkowskie mogą przyjmować migrantów, oferować wsparcie finansowe lub logistyczne, ale nie wskazuje liczby 100 tysięcy ani nie przewiduje automatycznego przymusu tej skali wobec Polski. Liczby znajdujące się w debacie publicznej są z reguły szacunkowe lub spekulacyjne."
+        }
+      ]
+    },
+    "techniques": [
+      "appeal_to_emotion",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "FALSE": 1
+    },
+    "total_views": 420000,
+    "total_rts": 3100,
+    "community_notes_count": 0,
+    "rank": 1
+  },
+  {
+    "handle": "@donaldtusk",
+    "score": 14.0,
+    "sub_scores": {
+      "falsehood": 12.0,
+      "technique": 0.0,
+      "reach": 69.5,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 1,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Dziś podpisaliśmy umowę na budowę nowego odcinka S7. Inwestycje w infrastrukturę to nasza priorytet.",
+      "url": "https://x.com/donaldtusk/status/test_img_002",
+      "views": 600000,
+      "verdicts": [
+        {
+          "claim": "W dniu 2026-03-28 podpisano umowę na budowę nowego odcinka drogi S7.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie ma dostępnych publicznie źródeł potwierdzających podpisanie umowy na budowę nowego odcinka S7 w dniu 2026-03-28. Aktualny zakres informacji kończy się na czerwcu 2024, a żadne wiarygodne media, komunikaty rządowe ani oficjalne strony GDDKiA nie potwierdzają podpisania umowy w tej dacie."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 1
+    },
+    "total_views": 600000,
+    "total_rts": 2500,
+    "community_notes_count": 0,
+    "rank": 2
+  }
+]
