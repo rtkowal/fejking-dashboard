@@ -1,10 +1,10 @@
 [
   {
     "handle": "@GiertychRoman",
-    "score": 39.9,
+    "score": 38.8,
     "sub_scores": {
       "falsehood": 31.0,
-      "technique": 43.7,
+      "technique": 38.2,
       "reach": 74.9,
       "repeat": 70.6,
       "community_notes": 0.0
@@ -24,10 +24,9 @@
       ]
     },
     "techniques": [
-      "ad_hominem",
-      "false_dichotomy",
       "cherry_picking",
-      "confabulation"
+      "confabulation",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 30,
@@ -43,10 +42,10 @@
   },
   {
     "handle": "@WojSadurski",
-    "score": 38.7,
+    "score": 36.6,
     "sub_scores": {
       "falsehood": 42.4,
-      "technique": 23.8,
+      "technique": 13.3,
       "reach": 41.6,
       "repeat": 100.0,
       "community_notes": 0.0
@@ -66,8 +65,7 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "ad_hominem"
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "TRUE": 2,
@@ -80,103 +78,11 @@
     "rank": 2
   },
   {
-    "handle": "@szumand",
-    "score": 36.5,
-    "sub_scores": {
-      "falsehood": 20.9,
-      "technique": 32.1,
-      "reach": 58.5,
-      "repeat": 100,
-      "community_notes": 0.0
-    },
-    "total_posts": 4,
-    "flagged_posts": 4,
-    "top_fake": {
-      "text": "Niedouczona kretynko @EwaZajaczkowska \nSzczepionki na HPV są jedynymi z najlepiej przetestowanych szczepionek. Od 20 lat szczepi się nimi ludzi na całym świecie. Są niezwykle skuteczne i pozwalają wye",
-      "url": "https://x.com/szumand/status/2071827051837882692",
-      "views": 55001,
-      "verdicts": [
-        {
-          "claim": "Szczepionki na HPV są jednymi z najlepiej przetestowanych szczepionek.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Szczepionki przeciwko HPV przeszły liczne badania kliniczne faz I-III, obejmujące dziesiątki tysięcy uczestników oraz lata obserwacji, co świadczy o ich wysokim stopniu przebadania. Zostały zatwierdzone przez międzynarodowe agencje takie jak EMA i FDA, które wymagają bardzo rygorystycznych danych. Jednak niektóre inne szczepionki (np. MMR czy przeciwko COVID-19) również przeszły szerokie testy, zatem HPV nie jest jedyną, ale z pewnością jedną z najlepiej przebadanych szczepionek."
-        },
-        {
-          "claim": "Szczepionki na HPV są stosowane do szczepień na całym świecie od około 20 lat.",
-          "verdict": "TRUE",
-          "evidence_summary": "Pierwsza szczepionka przeciw HPV została dopuszczona do użytku w 2006 roku, co oznacza, że od ponad 20 lat szczepienia przeciw HPV są stosowane globalnie. Szczepionki te są rekomendowane przez wiele międzynarodowych organizacji zdrowotnych i stosowane na całym świecie, w tym w Polsce."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "TRUE": 3,
-      "MISLEADING": 2,
-      "UNVERIFIABLE": 19,
-      "FALSE": 2,
-      "MOSTLY_TRUE": 1
-    },
-    "total_views": 219039,
-    "total_rts": 3008,
-    "community_notes_count": 0,
-    "rank": 3
-  },
-  {
-    "handle": "@RobertWinnicki",
-    "score": 36.1,
-    "sub_scores": {
-      "falsehood": 19.6,
-      "technique": 36.8,
-      "reach": 52.6,
-      "repeat": 100.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 9,
-    "flagged_posts": 6,
-    "top_fake": {
-      "text": "Nikt nie będzie dyktował Ukrainie,\nżeby zaprzestała czcić ludzi, których polityczną ideą i terrorystyczną praktyką było masowe ludobójstwo ponad stu tysięcy Polaków - głównie kobiet, dzieci i starców.",
-      "url": "https://x.com/RobertWinnicki/status/2071323811014971609",
-      "views": 35052,
-      "verdicts": [
-        {
-          "claim": "Niektórzy ludzie upamiętniani na Ukrainie mieli polityczne idee i praktyki związane z masowym zabójstwem ponad stu tysięcy Polaków, w tym kobiet, dzieci i osób starszych.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Historyczne badania i dokumenty potwierdzają, że niektóre postacie upamiętniane na Ukrainie, takie jak członkowie Organizacji Ukraińskich Nacjonalistów (OUN) i Ukraińskiej Powstańczej Armii (UPA), były zaangażowane w akcje mające na celu eksterminację ludności polskiej, zwłaszcza w latach 1943-1945. Szacunki ofiar sięgają nawet ponad 100 tysięcy osób, w tym kobiet, dzieci i osób starszych, w ramach tzw. rzezi wołyńskiej i innych zbrodni na Kresach Wschodnich."
-        },
-        {
-          "claim": "Polski rząd komunikował, że nie wyobraża sobie dalszego strategicznego partnerstwa i wsparcia dla państwa, które handluje w sposób rosnący z postaciami uznawanymi za odpowiedzialne za masowe zabójstwa Polaków.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na podstawie dostępnych publicznych źródeł do czerwca 2024 roku nie ma potwierdzenia, że polski rząd wydał oficjalne oświadczenie ograniczające strategiczne partnerstwo i wsparcie na takich warunkach, ani że jasno wskazał taką zmianę polityczną w związku z handlem z osobami odpowiedzialnymi za masowe zabójstwa Polaków. Brak jest też wiarygodnych informacji o rosnącym handlu tego typu osobami przez jakiekolwiek państwo rozpoznawane w relacjach z Polską."
-        }
-      ]
-    },
-    "techniques": [
-      "ad_hominem",
-      "cherry_picking",
-      "decontextualization"
-    ],
-    "verdicts_summary": {
-      "TRUE": 6,
-      "MISLEADING": 6,
-      "MOSTLY_TRUE": 14,
-      "FALSE": 1,
-      "UNVERIFIABLE": 13,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 127238,
-    "total_rts": 660,
-    "community_notes_count": 0,
-    "rank": 4
-  },
-  {
     "handle": "@JSaryuszWolski",
-    "score": 35.7,
+    "score": 36.3,
     "sub_scores": {
       "falsehood": 25.5,
-      "technique": 25.9,
+      "technique": 28.7,
       "reach": 52.5,
       "repeat": 100,
       "community_notes": 0.0
@@ -215,61 +121,14 @@
     "total_views": 126238,
     "total_rts": 1962,
     "community_notes_count": 0,
-    "rank": 5
-  },
-  {
-    "handle": "@ZiobroPL",
-    "score": 35.1,
-    "sub_scores": {
-      "falsehood": 18.9,
-      "technique": 58.9,
-      "reach": 57.4,
-      "repeat": 60.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 5,
-    "flagged_posts": 2,
-    "top_fake": {
-      "text": "To, co wydarzyło się dziś przed Sądem Okręgowym w Warszawie w sprawie zażaleń moich obrońców na zastosowanie tymczasowego aresztowania przez sąd rejonowy, potwierdza polityczny charakter tej sprawy. D",
-      "url": "https://x.com/ZiobroPL/status/2072431303807402490",
-      "views": 3629,
-      "verdicts": [
-        {
-          "claim": "Decyzja o utrzymaniu tymczasowego aresztowania zapadła przed rozpoczęciem posiedzenia sądu.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "W polskim systemie prawnym decyzje o tymczasowym aresztowaniu podejmowane są przez sąd na rozprawie lub posiedzeniu, podczas którego oskarżony ma prawo do obrony; nie ma procedury formalnego podejmowania decyzji przed rozpoczęciem posiedzenia. Informacje o wcześniejszym podjęciu decyzji wskazują raczej na nieformalny charakter lub błędną interpretację procedury."
-        },
-        {
-          "claim": "Obrońcy złożyli wniosek o wyłączenie sędzi Szymachy-Zwolińskiej, która wcześniej brała udział w decyzji o utrzymaniu tymczasowego aresztowania wobec Marcina Romanowskiego w sprawie o tych samych zarzutach i materiale dowodowym.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających złożenie wniosku o wyłączenie sędzi Szymachy-Zwolińskiej w kontekście Marcina Romanowskiego oraz jej wcześniejszego udziału w decyzji o utrzymaniu tymczasowego aresztowania dotyczącej tych samych zarzutów i materiału dowodowego."
-        }
-      ]
-    },
-    "techniques": [
-      "ad_hominem",
-      "false_dichotomy",
-      "confabulation",
-      "cherry_picking",
-      "decontextualization"
-    ],
-    "verdicts_summary": {
-      "MISLEADING": 2,
-      "UNVERIFIABLE": 22,
-      "FALSE": 1,
-      "TRUE": 2
-    },
-    "total_views": 198161,
-    "total_rts": 2203,
-    "community_notes_count": 0,
-    "rank": 6
+    "rank": 3
   },
   {
     "handle": "@R_A_Ziemkiewicz",
-    "score": 34.7,
+    "score": 35.0,
     "sub_scores": {
       "falsehood": 39.5,
-      "technique": 13.6,
+      "technique": 15.0,
       "reach": 59.4,
       "repeat": 75.0,
       "community_notes": 0.0
@@ -299,14 +158,106 @@
     "total_views": 238644,
     "total_rts": 2848,
     "community_notes_count": 0,
-    "rank": 7
+    "rank": 4
+  },
+  {
+    "handle": "@RobertWinnicki",
+    "score": 34.5,
+    "sub_scores": {
+      "falsehood": 19.6,
+      "technique": 28.9,
+      "reach": 52.6,
+      "repeat": 100.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Nikt nie będzie dyktował Ukrainie,\nżeby zaprzestała czcić ludzi, których polityczną ideą i terrorystyczną praktyką było masowe ludobójstwo ponad stu tysięcy Polaków - głównie kobiet, dzieci i starców.",
+      "url": "https://x.com/RobertWinnicki/status/2071323811014971609",
+      "views": 35052,
+      "verdicts": [
+        {
+          "claim": "Niektórzy ludzie upamiętniani na Ukrainie mieli polityczne idee i praktyki związane z masowym zabójstwem ponad stu tysięcy Polaków, w tym kobiet, dzieci i osób starszych.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Historyczne badania i dokumenty potwierdzają, że niektóre postacie upamiętniane na Ukrainie, takie jak członkowie Organizacji Ukraińskich Nacjonalistów (OUN) i Ukraińskiej Powstańczej Armii (UPA), były zaangażowane w akcje mające na celu eksterminację ludności polskiej, zwłaszcza w latach 1943-1945. Szacunki ofiar sięgają nawet ponad 100 tysięcy osób, w tym kobiet, dzieci i osób starszych, w ramach tzw. rzezi wołyńskiej i innych zbrodni na Kresach Wschodnich."
+        },
+        {
+          "claim": "Polski rząd komunikował, że nie wyobraża sobie dalszego strategicznego partnerstwa i wsparcia dla państwa, które handluje w sposób rosnący z postaciami uznawanymi za odpowiedzialne za masowe zabójstwa Polaków.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na podstawie dostępnych publicznych źródeł do czerwca 2024 roku nie ma potwierdzenia, że polski rząd wydał oficjalne oświadczenie ograniczające strategiczne partnerstwo i wsparcie na takich warunkach, ani że jasno wskazał taką zmianę polityczną w związku z handlem z osobami odpowiedzialnymi za masowe zabójstwa Polaków. Brak jest też wiarygodnych informacji o rosnącym handlu tego typu osobami przez jakiekolwiek państwo rozpoznawane w relacjach z Polską."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "TRUE": 6,
+      "MISLEADING": 6,
+      "MOSTLY_TRUE": 14,
+      "FALSE": 1,
+      "UNVERIFIABLE": 13,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 127238,
+    "total_rts": 660,
+    "community_notes_count": 0,
+    "rank": 5
+  },
+  {
+    "handle": "@ZiobroPL",
+    "score": 34.1,
+    "sub_scores": {
+      "falsehood": 18.9,
+      "technique": 54.0,
+      "reach": 57.4,
+      "repeat": 60.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 5,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "To, co wydarzyło się dziś przed Sądem Okręgowym w Warszawie w sprawie zażaleń moich obrońców na zastosowanie tymczasowego aresztowania przez sąd rejonowy, potwierdza polityczny charakter tej sprawy. D",
+      "url": "https://x.com/ZiobroPL/status/2072431303807402490",
+      "views": 3629,
+      "verdicts": [
+        {
+          "claim": "Decyzja o utrzymaniu tymczasowego aresztowania zapadła przed rozpoczęciem posiedzenia sądu.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "W polskim systemie prawnym decyzje o tymczasowym aresztowaniu podejmowane są przez sąd na rozprawie lub posiedzeniu, podczas którego oskarżony ma prawo do obrony; nie ma procedury formalnego podejmowania decyzji przed rozpoczęciem posiedzenia. Informacje o wcześniejszym podjęciu decyzji wskazują raczej na nieformalny charakter lub błędną interpretację procedury."
+        },
+        {
+          "claim": "Obrońcy złożyli wniosek o wyłączenie sędzi Szymachy-Zwolińskiej, która wcześniej brała udział w decyzji o utrzymaniu tymczasowego aresztowania wobec Marcina Romanowskiego w sprawie o tych samych zarzutach i materiale dowodowym.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających złożenie wniosku o wyłączenie sędzi Szymachy-Zwolińskiej w kontekście Marcina Romanowskiego oraz jej wcześniejszego udziału w decyzji o utrzymaniu tymczasowego aresztowania dotyczącej tych samych zarzutów i materiału dowodowego."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "confabulation",
+      "decontextualization",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "MISLEADING": 2,
+      "UNVERIFIABLE": 22,
+      "FALSE": 1,
+      "TRUE": 2
+    },
+    "total_views": 198161,
+    "total_rts": 2203,
+    "community_notes_count": 0,
+    "rank": 6
   },
   {
     "handle": "@Gasiuk_Pihowicz",
-    "score": 33.5,
+    "score": 33.7,
     "sub_scores": {
       "falsehood": 28.0,
-      "technique": 12.6,
+      "technique": 14.0,
       "reach": 60.2,
       "repeat": 90.0,
       "community_notes": 0.0
@@ -339,61 +290,14 @@
     "total_views": 256853,
     "total_rts": 1081,
     "community_notes_count": 0,
-    "rank": 8
-  },
-  {
-    "handle": "@BoguckiZbigniew",
-    "score": 33.5,
-    "sub_scores": {
-      "falsehood": 17.3,
-      "technique": 31.4,
-      "reach": 61.0,
-      "repeat": 85.7,
-      "community_notes": 0.0
-    },
-    "total_posts": 14,
-    "flagged_posts": 8,
-    "top_fake": {
-      "text": "My swoich nie zostawiamy. Ukraińcy muszą to zrozumieć!Ukraińcy boją się tego, że w ich historii są takie karty, jak Rzeź Wołyńska, za które powinni przeprosić, ukorzyć się i nie chcą tego zrobić.\n\nUkr",
-      "url": "https://x.com/BoguckiZbigniew/status/2071842670482170224",
-      "views": 44272,
-      "verdicts": [
-        {
-          "claim": "W historii Ukraińców wydarzyła się Rzeź Wołyńska.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Rzeź Wołyńska to określenie masowych mordów dokonanych przez ukraińskich nacjonalistów, głównie z OUN-UPA, na ludności polskiej na Wołyniu i w innych regionach w latach 1943-1944. Wydarzenia te są uznawane za część tragicznej historii konfliktów etnicznych na tych terenach, dotyczących Ukraińców i Polaków. Istotne jest jednak, że była to akcja skierowana przez ukraińskich nacjonalistów przeciw polskiej ludności, a nie ogólnie „w historii Ukraińców” bez rozróżnienia."
-        },
-        {
-          "claim": "Ukraińcy mają miejscowości takie jak Irpień i Bucza.",
-          "verdict": "TRUE",
-          "evidence_summary": "Irpień i Bucza to miasta na Ukrainie położone w obwodzie kijowskim, znane z wydarzeń podczas wojny w Ukrainie. Są to oficjalne miejscowości znajdujące się na terytorium Ukrainy, co potwierdzają liczne źródła geograficzne i medialne."
-        }
-      ]
-    },
-    "techniques": [
-      "false_dichotomy",
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "MOSTLY_TRUE": 15,
-      "MOSTLY_FALSE": 3,
-      "UNVERIFIABLE": 29,
-      "TRUE": 27,
-      "FALSE": 6,
-      "MISLEADING": 1
-    },
-    "total_views": 275992,
-    "total_rts": 4227,
-    "community_notes_count": 0,
-    "rank": 9
+    "rank": 7
   },
   {
     "handle": "@jacek_liberski",
-    "score": 33.2,
+    "score": 33.5,
     "sub_scores": {
       "falsehood": 33.9,
-      "technique": 17.3,
+      "technique": 18.8,
       "reach": 55.6,
       "repeat": 75.0,
       "community_notes": 0.0
@@ -431,14 +335,14 @@
     "total_views": 167308,
     "total_rts": 1560,
     "community_notes_count": 0,
-    "rank": 10
+    "rank": 8
   },
   {
     "handle": "@wrealu24_pl",
-    "score": 32.9,
+    "score": 33.5,
     "sub_scores": {
       "falsehood": 34.3,
-      "technique": 24.1,
+      "technique": 27.0,
       "reach": 18.7,
       "repeat": 100,
       "community_notes": 0.0
@@ -470,14 +374,58 @@
     "total_views": 5620,
     "total_rts": 36,
     "community_notes_count": 0,
-    "rank": 11
+    "rank": 9
+  },
+  {
+    "handle": "@szumand",
+    "score": 33.0,
+    "sub_scores": {
+      "falsehood": 20.9,
+      "technique": 15.0,
+      "reach": 58.5,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Niedouczona kretynko @EwaZajaczkowska \nSzczepionki na HPV są jedynymi z najlepiej przetestowanych szczepionek. Od 20 lat szczepi się nimi ludzi na całym świecie. Są niezwykle skuteczne i pozwalają wye",
+      "url": "https://x.com/szumand/status/2071827051837882692",
+      "views": 55001,
+      "verdicts": [
+        {
+          "claim": "Szczepionki na HPV są jednymi z najlepiej przetestowanych szczepionek.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Szczepionki przeciwko HPV przeszły liczne badania kliniczne faz I-III, obejmujące dziesiątki tysięcy uczestników oraz lata obserwacji, co świadczy o ich wysokim stopniu przebadania. Zostały zatwierdzone przez międzynarodowe agencje takie jak EMA i FDA, które wymagają bardzo rygorystycznych danych. Jednak niektóre inne szczepionki (np. MMR czy przeciwko COVID-19) również przeszły szerokie testy, zatem HPV nie jest jedyną, ale z pewnością jedną z najlepiej przebadanych szczepionek."
+        },
+        {
+          "claim": "Szczepionki na HPV są stosowane do szczepień na całym świecie od około 20 lat.",
+          "verdict": "TRUE",
+          "evidence_summary": "Pierwsza szczepionka przeciw HPV została dopuszczona do użytku w 2006 roku, co oznacza, że od ponad 20 lat szczepienia przeciw HPV są stosowane globalnie. Szczepionki te są rekomendowane przez wiele międzynarodowych organizacji zdrowotnych i stosowane na całym świecie, w tym w Polsce."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 3,
+      "MISLEADING": 2,
+      "UNVERIFIABLE": 19,
+      "FALSE": 2,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 219039,
+    "total_rts": 3008,
+    "community_notes_count": 0,
+    "rank": 10
   },
   {
     "handle": "@KoronyPolskiej",
-    "score": 31.7,
+    "score": 32.3,
     "sub_scores": {
       "falsehood": 30.6,
-      "technique": 22.1,
+      "technique": 25.0,
       "reach": 45.8,
       "repeat": 75.0,
       "community_notes": 0.0
@@ -502,8 +450,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "MISLEADING": 3,
@@ -516,14 +464,60 @@
     "total_views": 68122,
     "total_rts": 1216,
     "community_notes_count": 0,
+    "rank": 11
+  },
+  {
+    "handle": "@BoguckiZbigniew",
+    "score": 32.1,
+    "sub_scores": {
+      "falsehood": 17.3,
+      "technique": 24.3,
+      "reach": 61.0,
+      "repeat": 85.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 8,
+    "top_fake": {
+      "text": "My swoich nie zostawiamy. Ukraińcy muszą to zrozumieć!Ukraińcy boją się tego, że w ich historii są takie karty, jak Rzeź Wołyńska, za które powinni przeprosić, ukorzyć się i nie chcą tego zrobić.\n\nUkr",
+      "url": "https://x.com/BoguckiZbigniew/status/2071842670482170224",
+      "views": 44272,
+      "verdicts": [
+        {
+          "claim": "W historii Ukraińców wydarzyła się Rzeź Wołyńska.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Rzeź Wołyńska to określenie masowych mordów dokonanych przez ukraińskich nacjonalistów, głównie z OUN-UPA, na ludności polskiej na Wołyniu i w innych regionach w latach 1943-1944. Wydarzenia te są uznawane za część tragicznej historii konfliktów etnicznych na tych terenach, dotyczących Ukraińców i Polaków. Istotne jest jednak, że była to akcja skierowana przez ukraińskich nacjonalistów przeciw polskiej ludności, a nie ogólnie „w historii Ukraińców” bez rozróżnienia."
+        },
+        {
+          "claim": "Ukraińcy mają miejscowości takie jak Irpień i Bucza.",
+          "verdict": "TRUE",
+          "evidence_summary": "Irpień i Bucza to miasta na Ukrainie położone w obwodzie kijowskim, znane z wydarzeń podczas wojny w Ukrainie. Są to oficjalne miejscowości znajdujące się na terytorium Ukrainy, co potwierdzają liczne źródła geograficzne i medialne."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 15,
+      "MOSTLY_FALSE": 3,
+      "UNVERIFIABLE": 29,
+      "TRUE": 27,
+      "FALSE": 6,
+      "MISLEADING": 1
+    },
+    "total_views": 275992,
+    "total_rts": 4227,
+    "community_notes_count": 0,
     "rank": 12
   },
   {
     "handle": "@EwaZajaczkowska",
-    "score": 31.3,
+    "score": 29.8,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 49.8,
+      "technique": 42.8,
       "reach": 70.7,
       "repeat": 41.7,
       "community_notes": 0.0
@@ -548,10 +542,9 @@
       ]
     },
     "techniques": [
-      "decontextualization",
-      "false_dichotomy",
       "cherry_picking",
-      "ad_hominem"
+      "decontextualization",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "MOSTLY_TRUE": 20,
@@ -567,103 +560,11 @@
     "rank": 13
   },
   {
-    "handle": "@widzimysiejutro",
-    "score": 30.7,
-    "sub_scores": {
-      "falsehood": 26.5,
-      "technique": 39.5,
-      "reach": 61.3,
-      "repeat": 37.5,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 2,
-    "top_fake": {
-      "text": "To prawda - Leszek Miller kiedyś „trząsł sceną”, ale nie oznacza to, że nie skończył jako polityczny bankrut. Oddajmy mu historyczne zasługi: wprowadzenie Polski do NATO i UE to fundamenty naszej wspó",
-      "url": "https://x.com/widzimysiejutro/status/2071261462732095526",
-      "views": 18795,
-      "verdicts": [
-        {
-          "claim": "Leszek Miller był premierem Polski podczas negocjacji i akcesji Polski do NATO i Unii Europejskiej.",
-          "verdict": "FALSE",
-          "evidence_summary": "Leszek Miller był premierem Polski od października 2001 do maja 2004 roku. Polska przystąpiła do NATO w marcu 1999 roku, kiedy premierem był Jerzy Buzek, oraz do Unii Europejskiej w maju 2004 roku, podczas gdy premierem był Marek Belka (w maju 2004 roku). Negocjacje akcesyjne do UE trwały także przed okresem Millera, a akcesja do NATO miała miejsce przed jego premierostwem."
-        },
-        {
-          "claim": "Leszek Miller kandydował w wyborach w 2007 roku z list partii Samoobrona RP.",
-          "verdict": "FALSE",
-          "evidence_summary": "Leszek Miller był liderem Sojuszu Lewicy Demokratycznej i kandydował w wyborach parlamentarnych w 2007 roku z list tej partii, a nie z list Samoobrony Andrzeja Leppera. Nie ma żadnych wiarygodnych informacji potwierdzających, że Miller startował z list Samoobrony."
-        }
-      ]
-    },
-    "techniques": [
-      "decontextualization",
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 15,
-      "TRUE": 5,
-      "FALSE": 5,
-      "MOSTLY_TRUE": 3
-    },
-    "total_views": 282939,
-    "total_rts": 2040,
-    "community_notes_count": 0,
-    "rank": 14
-  },
-  {
-    "handle": "@Kaminski_M_",
-    "score": 30.0,
-    "sub_scores": {
-      "falsehood": 18.8,
-      "technique": 32.6,
-      "reach": 47.9,
-      "repeat": 71.1,
-      "community_notes": 0.0
-    },
-    "total_posts": 19,
-    "flagged_posts": 9,
-    "top_fake": {
-      "text": "Komisja Europejska nie tylko nie wyciągnęła wniosków ws. skandalu z udziałem Komisarza Reyndersa, ale nawet odmawia badania podejmowanych przez niego działań. KE ma obowiązek sprawdzić czy Reynders - ",
-      "url": "https://x.com/Kaminski_M_/status/2071957930241613935",
-      "views": 5418,
-      "verdicts": [
-        {
-          "claim": "Komisja Europejska nie wyciągnęła jeszcze wniosków dotyczących sprawy związanej z Komisarzem Reyndersem i nie bada jego działań.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie, rzetelnych źródeł potwierdzających informacje o rzekomym skandalu z udziałem Komisarza Reyndersa oraz o ewentualnym braku działań Komisji Europejskiej w tej sprawie. Nie znaleziono informacji o prowadzeniu lub zaprzestaniu badań przez KE wobec Komisarza Reyndersa w dostępnych polskich ani międzynarodowych źródłach."
-        },
-        {
-          "claim": "Reynders jest oskarżany o działania korupcyjne, w tym pranie pieniędzy, a Komisja Europejska ma obowiązek zbadać, czy brał udział w pracach legislacyjnych dotyczących pakietu dotyczącego prania pieniędzy.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie istnieją publicznie dostępne wiarygodne informacje ani doniesienia o tym, że Didier Reynders jest oskarżany o działania korupcyjne czy pranie pieniędzy. Komisja Europejska nie ma formalnego obowiązku prowadzenia śledztw dotyczących udziału swoich członków w pracach legislacyjnych na podstawie niepotwierdzonych oskarżeń, a wszelkie procedury dotyczące konfliktu interesów lub zarzutów są regulowane innymi mechanizmami."
-        }
-      ]
-    },
-    "techniques": [
-      "ad_hominem",
-      "cherry_picking",
-      "decontextualization"
-    ],
-    "verdicts_summary": {
-      "TRUE": 9,
-      "UNVERIFIABLE": 41,
-      "MISLEADING": 4,
-      "FALSE": 4,
-      "MOSTLY_TRUE": 7,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 82728,
-    "total_rts": 3174,
-    "community_notes_count": 0,
-    "rank": 15
-  },
-  {
     "handle": "@KonradBerkowicz",
-    "score": 28.8,
+    "score": 29.4,
     "sub_scores": {
       "falsehood": 18.9,
-      "technique": 22.7,
+      "technique": 25.6,
       "reach": 74.0,
       "repeat": 50.0,
       "community_notes": 0.0
@@ -688,8 +589,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 40,
@@ -701,14 +602,58 @@
     "total_views": 909060,
     "total_rts": 8230,
     "community_notes_count": 0,
-    "rank": 16
+    "rank": 14
+  },
+  {
+    "handle": "@widzimysiejutro",
+    "score": 29.0,
+    "sub_scores": {
+      "falsehood": 26.5,
+      "technique": 31.2,
+      "reach": 61.3,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "To prawda - Leszek Miller kiedyś „trząsł sceną”, ale nie oznacza to, że nie skończył jako polityczny bankrut. Oddajmy mu historyczne zasługi: wprowadzenie Polski do NATO i UE to fundamenty naszej wspó",
+      "url": "https://x.com/widzimysiejutro/status/2071261462732095526",
+      "views": 18795,
+      "verdicts": [
+        {
+          "claim": "Leszek Miller był premierem Polski podczas negocjacji i akcesji Polski do NATO i Unii Europejskiej.",
+          "verdict": "FALSE",
+          "evidence_summary": "Leszek Miller był premierem Polski od października 2001 do maja 2004 roku. Polska przystąpiła do NATO w marcu 1999 roku, kiedy premierem był Jerzy Buzek, oraz do Unii Europejskiej w maju 2004 roku, podczas gdy premierem był Marek Belka (w maju 2004 roku). Negocjacje akcesyjne do UE trwały także przed okresem Millera, a akcesja do NATO miała miejsce przed jego premierostwem."
+        },
+        {
+          "claim": "Leszek Miller kandydował w wyborach w 2007 roku z list partii Samoobrona RP.",
+          "verdict": "FALSE",
+          "evidence_summary": "Leszek Miller był liderem Sojuszu Lewicy Demokratycznej i kandydował w wyborach parlamentarnych w 2007 roku z list tej partii, a nie z list Samoobrony Andrzeja Leppera. Nie ma żadnych wiarygodnych informacji potwierdzających, że Miller startował z list Samoobrony."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 15,
+      "TRUE": 5,
+      "FALSE": 5,
+      "MOSTLY_TRUE": 3
+    },
+    "total_views": 282939,
+    "total_rts": 2040,
+    "community_notes_count": 0,
+    "rank": 15
   },
   {
     "handle": "@MSchreiberM",
-    "score": 28.1,
+    "score": 28.9,
     "sub_scores": {
       "falsehood": 23.1,
-      "technique": 30.7,
+      "technique": 35.0,
       "reach": 58.3,
       "repeat": 41.7,
       "community_notes": 0.0
@@ -743,14 +688,60 @@
     "total_views": 214173,
     "total_rts": 636,
     "community_notes_count": 0,
+    "rank": 16
+  },
+  {
+    "handle": "@Kaminski_M_",
+    "score": 28.5,
+    "sub_scores": {
+      "falsehood": 18.8,
+      "technique": 25.3,
+      "reach": 47.9,
+      "repeat": 71.1,
+      "community_notes": 0.0
+    },
+    "total_posts": 19,
+    "flagged_posts": 9,
+    "top_fake": {
+      "text": "Komisja Europejska nie tylko nie wyciągnęła wniosków ws. skandalu z udziałem Komisarza Reyndersa, ale nawet odmawia badania podejmowanych przez niego działań. KE ma obowiązek sprawdzić czy Reynders - ",
+      "url": "https://x.com/Kaminski_M_/status/2071957930241613935",
+      "views": 5418,
+      "verdicts": [
+        {
+          "claim": "Komisja Europejska nie wyciągnęła jeszcze wniosków dotyczących sprawy związanej z Komisarzem Reyndersem i nie bada jego działań.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie, rzetelnych źródeł potwierdzających informacje o rzekomym skandalu z udziałem Komisarza Reyndersa oraz o ewentualnym braku działań Komisji Europejskiej w tej sprawie. Nie znaleziono informacji o prowadzeniu lub zaprzestaniu badań przez KE wobec Komisarza Reyndersa w dostępnych polskich ani międzynarodowych źródłach."
+        },
+        {
+          "claim": "Reynders jest oskarżany o działania korupcyjne, w tym pranie pieniędzy, a Komisja Europejska ma obowiązek zbadać, czy brał udział w pracach legislacyjnych dotyczących pakietu dotyczącego prania pieniędzy.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją publicznie dostępne wiarygodne informacje ani doniesienia o tym, że Didier Reynders jest oskarżany o działania korupcyjne czy pranie pieniędzy. Komisja Europejska nie ma formalnego obowiązku prowadzenia śledztw dotyczących udziału swoich członków w pracach legislacyjnych na podstawie niepotwierdzonych oskarżeń, a wszelkie procedury dotyczące konfliktu interesów lub zarzutów są regulowane innymi mechanizmami."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "TRUE": 9,
+      "UNVERIFIABLE": 41,
+      "MISLEADING": 4,
+      "FALSE": 4,
+      "MOSTLY_TRUE": 7,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 82728,
+    "total_rts": 3174,
+    "community_notes_count": 0,
     "rank": 17
   },
   {
     "handle": "@JKowalski_posel",
-    "score": 27.2,
+    "score": 27.8,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 29.1,
+      "technique": 32.0,
       "reach": 53.0,
       "repeat": 60.0,
       "community_notes": 0.0
@@ -775,8 +766,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "TRUE": 6,
@@ -790,57 +781,11 @@
     "rank": 18
   },
   {
-    "handle": "@jciesz",
-    "score": 26.9,
-    "sub_scores": {
-      "falsehood": 23.0,
-      "technique": 22.1,
-      "reach": 58.9,
-      "repeat": 45.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Jak pisze Onet w Szpitalu Południowym działają łowcy skór.\n\nBezczeszczenie zwłok, łapówki w prosektorium - to rzeczywistość placówki podlegającej @trzaskowski_.\n\nPrezydent Warszawy i jego szef M. Kier",
-      "url": "https://x.com/jciesz/status/2072318062108250478",
-      "views": 32661,
-      "verdicts": [
-        {
-          "claim": "Według serwisu Onet, w Szpitalu Południowym działają osoby określane jako łowcy skór.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie znaleziono żadnych informacji w serwisie Onet ani innych wiarygodnych polskich źródłach na temat działania 'łowców skór' w Szpitalu Południowym. Zarówno Onet, jak i oficjalne doniesienia medialne nie potwierdzają istnienia takiej działalności w tym szpitalu."
-        },
-        {
-          "claim": "W prosektorium Szpitala Południowego, który podlega władzom Warszawy, miały mieć miejsce przypadki bezczeszczenia zwłok oraz przyjmowania łapówek.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie udało się znaleźć wiarygodnych, publicznie dostępnych źródeł potwierdzających doniesienia o bezczeszczeniu zwłok i przyjmowaniu łapówek w prosektorium Szpitala Południowego podlegającego władzom Warszawy. Brak oficjalnych raportów, śledztw lub potwierdzonych informacji w polskich mediach na ten temat."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "FALSE": 1,
-      "UNVERIFIABLE": 12,
-      "MOSTLY_TRUE": 1,
-      "TRUE": 2,
-      "MOSTLY_FALSE": 1,
-      "MISLEADING": 2
-    },
-    "total_views": 226731,
-    "total_rts": 2154,
-    "community_notes_count": 0,
-    "rank": 19
-  },
-  {
     "handle": "@Sluzby_w_akcji",
-    "score": 25.8,
+    "score": 26.7,
     "sub_scores": {
       "falsehood": 12.7,
-      "technique": 30.6,
+      "technique": 34.9,
       "reach": 85.6,
       "repeat": 20.3,
       "community_notes": 0.0
@@ -865,8 +810,8 @@
       ]
     },
     "techniques": [
-      "confabulation",
       "cherry_picking",
+      "confabulation",
       "decontextualization"
     ],
     "verdicts_summary": {
@@ -880,145 +825,59 @@
     "total_views": 2664140,
     "total_rts": 8731,
     "community_notes_count": 0,
+    "rank": 19
+  },
+  {
+    "handle": "@jciesz",
+    "score": 25.3,
+    "sub_scores": {
+      "falsehood": 23.0,
+      "technique": 14.0,
+      "reach": 58.9,
+      "repeat": 45.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Jak pisze Onet w Szpitalu Południowym działają łowcy skór.\n\nBezczeszczenie zwłok, łapówki w prosektorium - to rzeczywistość placówki podlegającej @trzaskowski_.\n\nPrezydent Warszawy i jego szef M. Kier",
+      "url": "https://x.com/jciesz/status/2072318062108250478",
+      "views": 32661,
+      "verdicts": [
+        {
+          "claim": "Według serwisu Onet, w Szpitalu Południowym działają osoby określane jako łowcy skór.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie znaleziono żadnych informacji w serwisie Onet ani innych wiarygodnych polskich źródłach na temat działania 'łowców skór' w Szpitalu Południowym. Zarówno Onet, jak i oficjalne doniesienia medialne nie potwierdzają istnienia takiej działalności w tym szpitalu."
+        },
+        {
+          "claim": "W prosektorium Szpitala Południowego, który podlega władzom Warszawy, miały mieć miejsce przypadki bezczeszczenia zwłok oraz przyjmowania łapówek.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie udało się znaleźć wiarygodnych, publicznie dostępnych źródeł potwierdzających doniesienia o bezczeszczeniu zwłok i przyjmowaniu łapówek w prosektorium Szpitala Południowego podlegającego władzom Warszawy. Brak oficjalnych raportów, śledztw lub potwierdzonych informacji w polskich mediach na ten temat."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "FALSE": 1,
+      "UNVERIFIABLE": 12,
+      "MOSTLY_TRUE": 1,
+      "TRUE": 2,
+      "MOSTLY_FALSE": 1,
+      "MISLEADING": 2
+    },
+    "total_views": 226731,
+    "total_rts": 2154,
+    "community_notes_count": 0,
     "rank": 20
   },
   {
-    "handle": "@marekgrobarczyk",
-    "score": 25.8,
-    "sub_scores": {
-      "falsehood": 16.1,
-      "technique": 28.0,
-      "reach": 65.3,
-      "repeat": 37.5,
-      "community_notes": 0.0
-    },
-    "total_posts": 12,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Wczoraj zablokowanie budowy stopnia wodnego w Siarzewie, dzisiaj groźba zamknięcia elektrowni w Kozienicach z powodu patoekologow, osobowość prawna rzeki Odry i likwidacja wszystkich inwestycji hydrot",
-      "url": "https://x.com/marekgrobarczyk/status/2070448875014438934",
-      "views": 22234,
-      "verdicts": [
-        {
-          "claim": "Budowa stopnia wodnego w Siarzewie została zablokowana dzień przed publikacją posta.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień 26 czerwca 2026 nie znaleziono w polskich mediach wysokiego lub średniego zaufania informacji potwierdzających lub zaprzeczających zablokowaniu budowy stopnia wodnego w Siarzewie w dniu 25 czerwca 2026. Dostępne informacje o projekcie i statusie budowy stopnia są ograniczone lub nieaktualne."
-        },
-        {
-          "claim": "Zgłoszono groźbę zamknięcia elektrowni w Kozienicach z powodu działań środowiskowych określanych jako patoekologia.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł potwierdzających, że elektrownia Kozienice jest bezpośrednio zagrożona zamknięciem z powodu działań organizacji środowiskowych określanych jako patoekolodzy. Termin 'patoekologia' jest rzadko używany i nie ma jasnej definicji ani powiązania z groźbą zamknięcia tej elektrowni. Brak oficjalnych komunikatów lub medialnych doniesień potwierdzających taką groźbę."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 22,
-      "TRUE": 4,
-      "MOSTLY_TRUE": 7,
-      "FALSE": 2,
-      "MISLEADING": 1
-    },
-    "total_views": 409949,
-    "total_rts": 12350,
-    "community_notes_count": 0,
-    "rank": 21
-  },
-  {
-    "handle": "@DariuszMatecki",
-    "score": 25.6,
-    "sub_scores": {
-      "falsehood": 16.2,
-      "technique": 32.1,
-      "reach": 52.3,
-      "repeat": 42.9,
-      "community_notes": 0.0
-    },
-    "total_posts": 14,
-    "flagged_posts": 4,
-    "top_fake": {
-      "text": "Włączcie teraz Sejm.\n\nChcą zmuszać przedsiębiorców, żeby w spółkach były parytety płci. Poszaleli.",
-      "url": "https://x.com/DariuszMatecki/status/2072356350416306502",
-      "views": 5265,
-      "verdicts": [
-        {
-          "claim": "Istnieje propozycja zmuszenia przedsiębiorców do wprowadzenia parytetów płci w spółkach.",
-          "verdict": "MOSTLY_FALSE",
-          "evidence_summary": "Aktualnie w Polsce nie ma obowiązku wprowadzania parytetów płci w spółkach przez przedsiębiorców. Pojawiają się natomiast dyskusje i nieformalne sugestie promujące większą równowagę płci w zarządach lub na innych stanowiskach kierowniczych, ale nie ma formalnej propozycji prawnej nakładającej taki obowiązek na wszystkie spółki."
-        }
-      ]
-    },
-    "techniques": [
-      "ad_hominem",
-      "cherry_picking",
-      "confabulation"
-    ],
-    "verdicts_summary": {
-      "MISLEADING": 3,
-      "UNVERIFIABLE": 19,
-      "MOSTLY_TRUE": 9,
-      "TRUE": 2,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 123345,
-    "total_rts": 1615,
-    "community_notes_count": 0,
-    "rank": 22
-  },
-  {
-    "handle": "@RafalBochenek",
-    "score": 24.9,
-    "sub_scores": {
-      "falsehood": 17.0,
-      "technique": 42.5,
-      "reach": 48.1,
-      "repeat": 27.3,
-      "community_notes": 0.0
-    },
-    "total_posts": 11,
-    "flagged_posts": 2,
-    "top_fake": {
-      "text": "Łowcy Sķór 2.0 - nielegalny handel ciałami zmarłych🫢 Wszystko pod okiem działaczy PO. \n\n#NekroAferaPO https://t.co/d05aFzOZmW",
-      "url": "https://x.com/RafalBochenek/status/2072311225090789653",
-      "views": 3412,
-      "verdicts": [
-        {
-          "claim": "Istnieje twierdzenie o nielegalnym handlu ciałami zmarłych określane jako 'Łowcy Skór 2.0'.",
-          "verdict": "TRUE",
-          "evidence_summary": "W polskich mediach i źródłach publicznych pojawiają się doniesienia i dyskusje dotyczące nielegalnego handlu ciałami zmarłych określanego w niektórych środowiskach jako 'Łowcy Skór 2.0'. Termin ten funkcjonuje w kontekście oskarżeń o handel organami lub ciałami, jednak brak naukowo potwierdzonych dowodów na realny proceder, co wskazuje na pojawianie się takich twierdzeń. Istnienie samego twierdzenia jest więc potwierdzone, nie zaś prawdziwość rzekomych praktyk."
-        },
-        {
-          "claim": "Istnieje twierdzenie, że działacze partii PO nadzorują nielegalny handel ciałami zmarłych.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie ma żadnych wiarygodnych ani opublikowanych źródeł potwierdzających, że działacze Platformy Obywatelskiej (PO) nadzorują nielegalny handel ciałami zmarłych. Takie zarzuty nie pojawiły się w mediach głównego nurtu ani w oficjalnych raportach organów ścigania."
-        }
-      ]
-    },
-    "techniques": [
-      "ad_hominem",
-      "false_dichotomy",
-      "cherry_picking",
-      "confabulation"
-    ],
-    "verdicts_summary": {
-      "TRUE": 5,
-      "FALSE": 2,
-      "UNVERIFIABLE": 16
-    },
-    "total_views": 83935,
-    "total_rts": 1365,
-    "community_notes_count": 0,
-    "rank": 23
-  },
-  {
     "handle": "@1972tomek",
-    "score": 24.8,
+    "score": 25.1,
     "sub_scores": {
       "falsehood": 25.0,
-      "technique": 11.1,
+      "technique": 12.5,
       "reach": 25.4,
       "repeat": 75.0,
       "community_notes": 0.0
@@ -1047,108 +906,14 @@
     "total_views": 10404,
     "total_rts": 42,
     "community_notes_count": 0,
-    "rank": 24
-  },
-  {
-    "handle": "@oko_press",
-    "score": 24.6,
-    "sub_scores": {
-      "falsehood": 16.6,
-      "technique": 38.9,
-      "reach": 51.3,
-      "repeat": 27.9,
-      "community_notes": 0.0
-    },
-    "total_posts": 43,
-    "flagged_posts": 8,
-    "top_fake": {
-      "text": "Były głównodowodzący i obecny ambasador na Ukrainie w Wielkiej Brytanii Walerij Załużny potwierdził chęć kandydowania w wyborach prezydenckich w Ukrainie. Donoszą o tym ukraińskie media, w tym Ukraińs",
-      "url": "https://x.com/oko_press/status/2072303928364962294",
-      "views": 2013,
-      "verdicts": [
-        {
-          "claim": "Walerij Załużny, były głównodowodzący i obecny ambasador Ukrainy w Wielkiej Brytanii, potwierdził zamiar kandydowania w wyborach prezydenckich na Ukrainie.",
-          "verdict": "FALSE",
-          "evidence_summary": "Walerij Załużny jest obecnie głównodowodzącym Sił Zbrojnych Ukrainy, a nie byłym, i nie pełni funkcji ambasadora w Wielkiej Brytanii. Nie ma publicznych informacji ani wypowiedzi potwierdzających, że Załużny planuje kandydować w wyborach prezydenckich Ukrainy. Funkcja ambasadora na Ukrainie w Wielkiej Brytanii jest odrębna od roli wojskowego dowódcy."
-        },
-        {
-          "claim": "Ukraińskie media, w tym Ukraińska Prawda, informują o zamiarze kandydowania Walerija Załużnego w wyborach prezydenckich na Ukrainie.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień 1 lipca 2026 brak jest publicznie dostępnych, potwierdzonych informacji w polskich ani ukraińskich źródłach mainstreamowych dotyczących oficjalnego zamiaru Walerija Załużnego kandydowania na prezydenta Ukrainy. Ukraińska Prawda i inne media nie opublikowały zweryfikowanych doniesień w tej sprawie. Informacja ta nie została potwierdzona przez oficjalne oświadczenia zainteresowanego ani przez ukraińskie instytucje."
-        }
-      ]
-    },
-    "techniques": [
-      "ad_hominem",
-      "false_dichotomy",
-      "cherry_picking",
-      "decontextualization"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 62,
-      "TRUE": 13,
-      "MOSTLY_TRUE": 29,
-      "FALSE": 6,
-      "MISLEADING": 2,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 113040,
-    "total_rts": 491,
-    "community_notes_count": 0,
-    "rank": 25
-  },
-  {
-    "handle": "@MorawieckiM",
-    "score": 24.5,
-    "sub_scores": {
-      "falsehood": 11.9,
-      "technique": 43.2,
-      "reach": 65.7,
-      "repeat": 16.7,
-      "community_notes": 0.0
-    },
-    "total_posts": 18,
-    "flagged_posts": 2,
-    "top_fake": {
-      "text": "Zero tolerancji dla nazistów! Żądamy natychmiastowej deportacji wszystkich osób chwalących UPA i posługujących się symboliką banderowską oraz przyjęcia ustawy, która nam to umożliwi! https://t.co/CPvx",
-      "url": "https://x.com/MorawieckiM/status/2071960617422860478",
-      "views": 35292,
-      "verdicts": [
-        {
-          "claim": "Post domaga się deportacji osób chwalących UPA i posługujących się symboliką banderowską.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających istnienie takiego oficjalnego żądania ani autentyczności posta przypisywanego @MorawieckiM z 30 czerwca 2026 roku. Zdanie to nie pojawia się w oficjalnych komunikatach rządu Polski ani w serwisach informacyjnych o wysokiej wiarygodności."
-        },
-        {
-          "claim": "Post domaga się przyjęcia ustawy umożliwiającej deportację osób chwalących UPA i posługujących się symboliką banderowską.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających istnienie takiego projektu ustawy lub oficjalnego stanowiska rządu polskiego z dnia 30 czerwca 2026 roku dotyczącego deportacji osób za chwalebność UPA i używanie symboliki banderowskiej. Nie znaleziono informacji o tego typu prawnych regulacjach w dostępnych bazach danych i raportach."
-        }
-      ]
-    },
-    "techniques": [
-      "decontextualization",
-      "false_dichotomy",
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 19,
-      "MOSTLY_TRUE": 25,
-      "TRUE": 16,
-      "MISLEADING": 3
-    },
-    "total_views": 423150,
-    "total_rts": 4819,
-    "community_notes_count": 0,
-    "rank": 26
+    "rank": 21
   },
   {
     "handle": "@krzysztofbosak",
-    "score": 24.3,
+    "score": 24.9,
     "sub_scores": {
       "falsehood": 14.9,
-      "technique": 22.9,
+      "technique": 25.7,
       "reach": 58.9,
       "repeat": 42.9,
       "community_notes": 0.0
@@ -1173,8 +938,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "TRUE": 14,
@@ -1186,14 +951,54 @@
     "total_views": 226023,
     "total_rts": 1140,
     "community_notes_count": 0,
-    "rank": 27
+    "rank": 22
+  },
+  {
+    "handle": "@DariuszMatecki",
+    "score": 24.3,
+    "sub_scores": {
+      "falsehood": 16.2,
+      "technique": 25.7,
+      "reach": 52.3,
+      "repeat": 42.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Włączcie teraz Sejm.\n\nChcą zmuszać przedsiębiorców, żeby w spółkach były parytety płci. Poszaleli.",
+      "url": "https://x.com/DariuszMatecki/status/2072356350416306502",
+      "views": 5265,
+      "verdicts": [
+        {
+          "claim": "Istnieje propozycja zmuszenia przedsiębiorców do wprowadzenia parytetów płci w spółkach.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Aktualnie w Polsce nie ma obowiązku wprowadzania parytetów płci w spółkach przez przedsiębiorców. Pojawiają się natomiast dyskusje i nieformalne sugestie promujące większą równowagę płci w zarządach lub na innych stanowiskach kierowniczych, ale nie ma formalnej propozycji prawnej nakładającej taki obowiązek na wszystkie spółki."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MISLEADING": 3,
+      "UNVERIFIABLE": 19,
+      "MOSTLY_TRUE": 9,
+      "TRUE": 2,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 123345,
+    "total_rts": 1615,
+    "community_notes_count": 0,
+    "rank": 23
   },
   {
     "handle": "@kuba_w",
-    "score": 23.3,
+    "score": 23.9,
     "sub_scores": {
       "falsehood": 20.7,
-      "technique": 21.1,
+      "technique": 24.0,
       "reach": 40.6,
       "repeat": 45.0,
       "community_notes": 0.0
@@ -1213,8 +1018,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "FALSE": 2,
@@ -1226,14 +1031,58 @@
     "total_views": 42123,
     "total_rts": 48,
     "community_notes_count": 0,
-    "rank": 28
+    "rank": 24
+  },
+  {
+    "handle": "@RafalBochenek",
+    "score": 23.9,
+    "sub_scores": {
+      "falsehood": 17.0,
+      "technique": 37.3,
+      "reach": 48.1,
+      "repeat": 27.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Łowcy Sķór 2.0 - nielegalny handel ciałami zmarłych🫢 Wszystko pod okiem działaczy PO. \n\n#NekroAferaPO https://t.co/d05aFzOZmW",
+      "url": "https://x.com/RafalBochenek/status/2072311225090789653",
+      "views": 3412,
+      "verdicts": [
+        {
+          "claim": "Istnieje twierdzenie o nielegalnym handlu ciałami zmarłych określane jako 'Łowcy Skór 2.0'.",
+          "verdict": "TRUE",
+          "evidence_summary": "W polskich mediach i źródłach publicznych pojawiają się doniesienia i dyskusje dotyczące nielegalnego handlu ciałami zmarłych określanego w niektórych środowiskach jako 'Łowcy Skór 2.0'. Termin ten funkcjonuje w kontekście oskarżeń o handel organami lub ciałami, jednak brak naukowo potwierdzonych dowodów na realny proceder, co wskazuje na pojawianie się takich twierdzeń. Istnienie samego twierdzenia jest więc potwierdzone, nie zaś prawdziwość rzekomych praktyk."
+        },
+        {
+          "claim": "Istnieje twierdzenie, że działacze partii PO nadzorują nielegalny handel ciałami zmarłych.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych wiarygodnych ani opublikowanych źródeł potwierdzających, że działacze Platformy Obywatelskiej (PO) nadzorują nielegalny handel ciałami zmarłych. Takie zarzuty nie pojawiły się w mediach głównego nurtu ani w oficjalnych raportach organów ścigania."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "confabulation",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "TRUE": 5,
+      "FALSE": 2,
+      "UNVERIFIABLE": 16
+    },
+    "total_views": 83935,
+    "total_rts": 1365,
+    "community_notes_count": 0,
+    "rank": 25
   },
   {
     "handle": "@KosiniakKamysz",
-    "score": 23.3,
+    "score": 23.8,
     "sub_scores": {
       "falsehood": 14.5,
-      "technique": 19.0,
+      "technique": 21.9,
       "reach": 76.4,
       "repeat": 24.3,
       "community_notes": 0.0
@@ -1258,8 +1107,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 63,
@@ -1272,14 +1121,197 @@
     "total_views": 1133439,
     "total_rts": 3746,
     "community_notes_count": 0,
+    "rank": 26
+  },
+  {
+    "handle": "@oko_press",
+    "score": 23.7,
+    "sub_scores": {
+      "falsehood": 16.6,
+      "technique": 34.4,
+      "reach": 51.3,
+      "repeat": 27.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 43,
+    "flagged_posts": 8,
+    "top_fake": {
+      "text": "Były głównodowodzący i obecny ambasador na Ukrainie w Wielkiej Brytanii Walerij Załużny potwierdził chęć kandydowania w wyborach prezydenckich w Ukrainie. Donoszą o tym ukraińskie media, w tym Ukraińs",
+      "url": "https://x.com/oko_press/status/2072303928364962294",
+      "views": 2013,
+      "verdicts": [
+        {
+          "claim": "Walerij Załużny, były głównodowodzący i obecny ambasador Ukrainy w Wielkiej Brytanii, potwierdził zamiar kandydowania w wyborach prezydenckich na Ukrainie.",
+          "verdict": "FALSE",
+          "evidence_summary": "Walerij Załużny jest obecnie głównodowodzącym Sił Zbrojnych Ukrainy, a nie byłym, i nie pełni funkcji ambasadora w Wielkiej Brytanii. Nie ma publicznych informacji ani wypowiedzi potwierdzających, że Załużny planuje kandydować w wyborach prezydenckich Ukrainy. Funkcja ambasadora na Ukrainie w Wielkiej Brytanii jest odrębna od roli wojskowego dowódcy."
+        },
+        {
+          "claim": "Ukraińskie media, w tym Ukraińska Prawda, informują o zamiarze kandydowania Walerija Załużnego w wyborach prezydenckich na Ukrainie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień 1 lipca 2026 brak jest publicznie dostępnych, potwierdzonych informacji w polskich ani ukraińskich źródłach mainstreamowych dotyczących oficjalnego zamiaru Walerija Załużnego kandydowania na prezydenta Ukrainy. Ukraińska Prawda i inne media nie opublikowały zweryfikowanych doniesień w tej sprawie. Informacja ta nie została potwierdzona przez oficjalne oświadczenia zainteresowanego ani przez ukraińskie instytucje."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 62,
+      "TRUE": 13,
+      "MOSTLY_TRUE": 29,
+      "FALSE": 6,
+      "MISLEADING": 2,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 113040,
+    "total_rts": 491,
+    "community_notes_count": 0,
+    "rank": 27
+  },
+  {
+    "handle": "@GodekKajaU",
+    "score": 23.5,
+    "sub_scores": {
+      "falsehood": 16.0,
+      "technique": 39.0,
+      "reach": 27.7,
+      "repeat": 45.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Warszawa, 30.06.2026r.\n\nZAMIAST WYDAWAĆ KOMUNIKATY, SKOŃCZCIE Z ABORCJĄ!\n\nOświadczenie ws. stanowiska Wojewódzkiego Szpitala Specjalistycznego w Lublinie z dn. 29.06.2026 r.\n\nPod komunikatem prasowym ",
+      "url": "https://x.com/GodekKajaU/status/2071892047846391881",
+      "views": 1407,
+      "verdicts": [
+        {
+          "claim": "Komunikat prasowy z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny im. Stefana Kardynała Wyszyńskiego w Lublinie nie był podpisany przez żadnego przedstawiciela szpitala.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie źródeł ani archiwów potwierdzających treść i formę komunikatu prasowego Szpitala z dnia 29 czerwca 2026 roku, w tym informacje o podpisie lub jego braku pod komunikatem."
+        },
+        {
+          "claim": "Treść komunikatu z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny w Lublinie została w dużej mierze wygenerowana przez sztuczną inteligencję.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie źródeł ani potwierdzeń dotyczących sposobu powstania komunikatu Wojewódzkiego Szpitala Specjalistycznego w Lublinie z 29 czerwca 2026 roku. Analiza treści bez dostępu do oryginalnego dokumentu i kontekstu nie pozwala zweryfikować użycia sztucznej inteligencji."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "TRUE": 12,
+      "MOSTLY_TRUE": 15,
+      "UNVERIFIABLE": 18,
+      "FALSE": 1,
+      "MISLEADING": 4,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 12782,
+    "total_rts": 306,
+    "community_notes_count": 0,
+    "rank": 28
+  },
+  {
+    "handle": "@MorawieckiM",
+    "score": 23.4,
+    "sub_scores": {
+      "falsehood": 11.9,
+      "technique": 37.2,
+      "reach": 65.7,
+      "repeat": 16.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Zero tolerancji dla nazistów! Żądamy natychmiastowej deportacji wszystkich osób chwalących UPA i posługujących się symboliką banderowską oraz przyjęcia ustawy, która nam to umożliwi! https://t.co/CPvx",
+      "url": "https://x.com/MorawieckiM/status/2071960617422860478",
+      "views": 35292,
+      "verdicts": [
+        {
+          "claim": "Post domaga się deportacji osób chwalących UPA i posługujących się symboliką banderowską.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających istnienie takiego oficjalnego żądania ani autentyczności posta przypisywanego @MorawieckiM z 30 czerwca 2026 roku. Zdanie to nie pojawia się w oficjalnych komunikatach rządu Polski ani w serwisach informacyjnych o wysokiej wiarygodności."
+        },
+        {
+          "claim": "Post domaga się przyjęcia ustawy umożliwiającej deportację osób chwalących UPA i posługujących się symboliką banderowską.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających istnienie takiego projektu ustawy lub oficjalnego stanowiska rządu polskiego z dnia 30 czerwca 2026 roku dotyczącego deportacji osób za chwalebność UPA i używanie symboliki banderowskiej. Nie znaleziono informacji o tego typu prawnych regulacjach w dostępnych bazach danych i raportach."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 19,
+      "MOSTLY_TRUE": 25,
+      "TRUE": 16,
+      "MISLEADING": 3
+    },
+    "total_views": 423150,
+    "total_rts": 4819,
+    "community_notes_count": 0,
     "rank": 29
   },
   {
+    "handle": "@marekgrobarczyk",
+    "score": 23.4,
+    "sub_scores": {
+      "falsehood": 16.1,
+      "technique": 15.8,
+      "reach": 65.3,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 12,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Wczoraj zablokowanie budowy stopnia wodnego w Siarzewie, dzisiaj groźba zamknięcia elektrowni w Kozienicach z powodu patoekologow, osobowość prawna rzeki Odry i likwidacja wszystkich inwestycji hydrot",
+      "url": "https://x.com/marekgrobarczyk/status/2070448875014438934",
+      "views": 22234,
+      "verdicts": [
+        {
+          "claim": "Budowa stopnia wodnego w Siarzewie została zablokowana dzień przed publikacją posta.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień 26 czerwca 2026 nie znaleziono w polskich mediach wysokiego lub średniego zaufania informacji potwierdzających lub zaprzeczających zablokowaniu budowy stopnia wodnego w Siarzewie w dniu 25 czerwca 2026. Dostępne informacje o projekcie i statusie budowy stopnia są ograniczone lub nieaktualne."
+        },
+        {
+          "claim": "Zgłoszono groźbę zamknięcia elektrowni w Kozienicach z powodu działań środowiskowych określanych jako patoekologia.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł potwierdzających, że elektrownia Kozienice jest bezpośrednio zagrożona zamknięciem z powodu działań organizacji środowiskowych określanych jako patoekolodzy. Termin 'patoekologia' jest rzadko używany i nie ma jasnej definicji ani powiązania z groźbą zamknięcia tej elektrowni. Brak oficjalnych komunikatów lub medialnych doniesień potwierdzających taką groźbę."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 22,
+      "TRUE": 4,
+      "MOSTLY_TRUE": 7,
+      "FALSE": 2,
+      "MISLEADING": 1
+    },
+    "total_views": 409949,
+    "total_rts": 12350,
+    "community_notes_count": 0,
+    "rank": 30
+  },
+  {
     "handle": "@Bart_Wielinski",
-    "score": 22.8,
+    "score": 23.1,
     "sub_scores": {
       "falsehood": 19.8,
-      "technique": 10.2,
+      "technique": 11.7,
       "reach": 48.5,
       "repeat": 50.0,
       "community_notes": 0.0
@@ -1312,106 +1344,14 @@
     "total_views": 87090,
     "total_rts": 1048,
     "community_notes_count": 0,
-    "rank": 30
-  },
-  {
-    "handle": "@GodekKajaU",
-    "score": 22.6,
-    "sub_scores": {
-      "falsehood": 16.0,
-      "technique": 34.7,
-      "reach": 27.7,
-      "repeat": 45.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Warszawa, 30.06.2026r.\n\nZAMIAST WYDAWAĆ KOMUNIKATY, SKOŃCZCIE Z ABORCJĄ!\n\nOświadczenie ws. stanowiska Wojewódzkiego Szpitala Specjalistycznego w Lublinie z dn. 29.06.2026 r.\n\nPod komunikatem prasowym ",
-      "url": "https://x.com/GodekKajaU/status/2071892047846391881",
-      "views": 1407,
-      "verdicts": [
-        {
-          "claim": "Komunikat prasowy z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny im. Stefana Kardynała Wyszyńskiego w Lublinie nie był podpisany przez żadnego przedstawiciela szpitala.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie źródeł ani archiwów potwierdzających treść i formę komunikatu prasowego Szpitala z dnia 29 czerwca 2026 roku, w tym informacje o podpisie lub jego braku pod komunikatem."
-        },
-        {
-          "claim": "Treść komunikatu z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny w Lublinie została w dużej mierze wygenerowana przez sztuczną inteligencję.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie źródeł ani potwierdzeń dotyczących sposobu powstania komunikatu Wojewódzkiego Szpitala Specjalistycznego w Lublinie z 29 czerwca 2026 roku. Analiza treści bez dostępu do oryginalnego dokumentu i kontekstu nie pozwala zweryfikować użycia sztucznej inteligencji."
-        }
-      ]
-    },
-    "techniques": [
-      "false_dichotomy",
-      "cherry_picking",
-      "decontextualization"
-    ],
-    "verdicts_summary": {
-      "TRUE": 12,
-      "MOSTLY_TRUE": 15,
-      "UNVERIFIABLE": 18,
-      "FALSE": 1,
-      "MISLEADING": 4,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 12782,
-    "total_rts": 306,
-    "community_notes_count": 0,
     "rank": 31
   },
   {
-    "handle": "@DanielObajtek",
-    "score": 22.6,
-    "sub_scores": {
-      "falsehood": 16.9,
-      "technique": 23.1,
-      "reach": 71.1,
-      "repeat": 15.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "Macie prezent na wakacje od Koalicji Obywatelskiej 🫣 \n\nRopa po 73 dolary, dolar 3,7 zł - przy podobnych parametrach za naszych czasów paliwo było po 5,60 ❗️",
-      "url": "https://x.com/DanielObajtek/status/2072189740351095196",
-      "views": 290844,
-      "verdicts": [
-        {
-          "claim": "Cena ropy wynosiła 73 dolary za baryłkę.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie ma możliwości zweryfikowania dokładnej ceny ropy za baryłkę z dnia 1 lipca 2026 roku, ponieważ data ta jest w przyszłości względem dostępnych danych. Aktualnie dostępne informacje o cenach ropy kończą się na danych z roku 2024."
-        },
-        {
-          "claim": "Kurs dolara wynosił 3,7 zł.",
-          "verdict": "FALSE",
-          "evidence_summary": "W dniu 1 lipca 2026 roku kurs dolara amerykańskiego względem złotego wynosił około 4,0-4,1 zł, co jest wartością znacznie wyższą niż 3,7 zł. Dane z Narodowego Banku Polskiego oraz serwisów finansowych jasno pokazują, że kurs dolara w tym czasie nie wynosił 3,7 zł."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 8,
-      "FALSE": 1,
-      "MISLEADING": 1,
-      "TRUE": 2,
-      "MOSTLY_TRUE": 7
-    },
-    "total_views": 700568,
-    "total_rts": 4305,
-    "community_notes_count": 0,
-    "rank": 32
-  },
-  {
     "handle": "@MNiedorozwoju",
-    "score": 22.0,
+    "score": 22.3,
     "sub_scores": {
       "falsehood": 14.1,
-      "technique": 13.6,
+      "technique": 15.0,
       "reach": 68.2,
       "repeat": 32.1,
       "community_notes": 0.0
@@ -1447,14 +1387,14 @@
     "total_views": 534546,
     "total_rts": 396,
     "community_notes_count": 0,
-    "rank": 33
+    "rank": 32
   },
   {
     "handle": "@SlawomirMentzen",
-    "score": 21.7,
+    "score": 22.3,
     "sub_scores": {
       "falsehood": 8.5,
-      "technique": 24.6,
+      "technique": 27.5,
       "reach": 76.1,
       "repeat": 18.8,
       "community_notes": 0.0
@@ -1474,8 +1414,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "TRUE": 13,
@@ -1486,14 +1426,14 @@
     "total_views": 1109522,
     "total_rts": 1494,
     "community_notes_count": 0,
-    "rank": 34
+    "rank": 33
   },
   {
     "handle": "@Kpelczynska",
-    "score": 21.3,
+    "score": 21.9,
     "sub_scores": {
       "falsehood": 11.2,
-      "technique": 25.9,
+      "technique": 28.7,
       "reach": 66.5,
       "repeat": 18.8,
       "community_notes": 0.0
@@ -1530,55 +1470,14 @@
     "total_views": 455392,
     "total_rts": 564,
     "community_notes_count": 0,
-    "rank": 35
-  },
-  {
-    "handle": "@waldemar_buda",
-    "score": 21.1,
-    "sub_scores": {
-      "falsehood": 12.9,
-      "technique": 38.4,
-      "reach": 54.5,
-      "repeat": 8.8,
-      "community_notes": 0.0
-    },
-    "total_posts": 17,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "NFZ jeszcze dokręca śrubę pacjentom, wprowadzą roczne rozliczenia nadwykonań to znaczy będzie mniej nadwykonań!\nPanie premierze wszystko dobrze u pana w te upały?\nhttps://t.co/sxjqYcCGXY",
-      "url": "https://x.com/waldemar_buda/status/2072269828279197729",
-      "views": 1419,
-      "verdicts": [
-        {
-          "claim": "NFZ wprowadza roczne rozliczenia nadwykonań, co może skutkować zmniejszeniem liczby nadwykonań.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień obecny (czerwiec 2024) nie ma publicznie dostępnych informacji ani oficjalnych komunikatów Narodowego Funduszu Zdrowia dotyczących wprowadzenia rocznych rozliczeń nadwykonań usług medycznych. Brak potwierdzonych źródeł wskazujących na takie zmiany w polityce rozliczeń NFZ."
-        }
-      ]
-    },
-    "techniques": [
-      "ad_hominem",
-      "false_dichotomy",
-      "cherry_picking",
-      "decontextualization"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 23,
-      "TRUE": 4,
-      "MOSTLY_TRUE": 4,
-      "MISLEADING": 1
-    },
-    "total_views": 151436,
-    "total_rts": 2940,
-    "community_notes_count": 0,
-    "rank": 36
+    "rank": 34
   },
   {
     "handle": "@K_Stanowski",
-    "score": 20.9,
+    "score": 21.2,
     "sub_scores": {
       "falsehood": 13.5,
-      "technique": 11.1,
+      "technique": 12.5,
       "reach": 78.6,
       "repeat": 18.8,
       "community_notes": 0.0
@@ -1613,14 +1512,14 @@
     "total_views": 1394144,
     "total_rts": 4295,
     "community_notes_count": 0,
-    "rank": 37
+    "rank": 35
   },
   {
     "handle": "@okiemtomkaw",
-    "score": 20.6,
+    "score": 20.9,
     "sub_scores": {
       "falsehood": 17.5,
-      "technique": 14.1,
+      "technique": 15.6,
       "reach": 50.0,
       "repeat": 33.3,
       "community_notes": 0.0
@@ -1651,14 +1550,58 @@
     "total_views": 100177,
     "total_rts": 1940,
     "community_notes_count": 0,
-    "rank": 38
+    "rank": 36
+  },
+  {
+    "handle": "@DanielObajtek",
+    "score": 20.8,
+    "sub_scores": {
+      "falsehood": 16.9,
+      "technique": 14.0,
+      "reach": 71.1,
+      "repeat": 15.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Macie prezent na wakacje od Koalicji Obywatelskiej 🫣 \n\nRopa po 73 dolary, dolar 3,7 zł - przy podobnych parametrach za naszych czasów paliwo było po 5,60 ❗️",
+      "url": "https://x.com/DanielObajtek/status/2072189740351095196",
+      "views": 290844,
+      "verdicts": [
+        {
+          "claim": "Cena ropy wynosiła 73 dolary za baryłkę.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie ma możliwości zweryfikowania dokładnej ceny ropy za baryłkę z dnia 1 lipca 2026 roku, ponieważ data ta jest w przyszłości względem dostępnych danych. Aktualnie dostępne informacje o cenach ropy kończą się na danych z roku 2024."
+        },
+        {
+          "claim": "Kurs dolara wynosił 3,7 zł.",
+          "verdict": "FALSE",
+          "evidence_summary": "W dniu 1 lipca 2026 roku kurs dolara amerykańskiego względem złotego wynosił około 4,0-4,1 zł, co jest wartością znacznie wyższą niż 3,7 zł. Dane z Narodowego Banku Polskiego oraz serwisów finansowych jasno pokazują, że kurs dolara w tym czasie nie wynosił 3,7 zł."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 8,
+      "FALSE": 1,
+      "MISLEADING": 1,
+      "TRUE": 2,
+      "MOSTLY_TRUE": 7
+    },
+    "total_views": 700568,
+    "total_rts": 4305,
+    "community_notes_count": 0,
+    "rank": 37
   },
   {
     "handle": "@PolaMatysiak",
-    "score": 20.2,
+    "score": 20.5,
     "sub_scores": {
       "falsehood": 13.2,
-      "technique": 13.6,
+      "technique": 15.0,
       "reach": 52.9,
       "repeat": 37.5,
       "community_notes": 0.0
@@ -1694,14 +1637,54 @@
     "total_views": 130451,
     "total_rts": 566,
     "community_notes_count": 0,
+    "rank": 38
+  },
+  {
+    "handle": "@waldemar_buda",
+    "score": 20.0,
+    "sub_scores": {
+      "falsehood": 12.9,
+      "technique": 32.9,
+      "reach": 54.5,
+      "repeat": 8.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 17,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "NFZ jeszcze dokręca śrubę pacjentom, wprowadzą roczne rozliczenia nadwykonań to znaczy będzie mniej nadwykonań!\nPanie premierze wszystko dobrze u pana w te upały?\nhttps://t.co/sxjqYcCGXY",
+      "url": "https://x.com/waldemar_buda/status/2072269828279197729",
+      "views": 1419,
+      "verdicts": [
+        {
+          "claim": "NFZ wprowadza roczne rozliczenia nadwykonań, co może skutkować zmniejszeniem liczby nadwykonań.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień obecny (czerwiec 2024) nie ma publicznie dostępnych informacji ani oficjalnych komunikatów Narodowego Funduszu Zdrowia dotyczących wprowadzenia rocznych rozliczeń nadwykonań usług medycznych. Brak potwierdzonych źródeł wskazujących na takie zmiany w polityce rozliczeń NFZ."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 23,
+      "TRUE": 4,
+      "MOSTLY_TRUE": 4,
+      "MISLEADING": 1
+    },
+    "total_views": 151436,
+    "total_rts": 2940,
+    "community_notes_count": 0,
     "rank": 39
   },
   {
     "handle": "@adamSzlapka",
-    "score": 19.3,
+    "score": 19.6,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 10.0,
+      "technique": 11.4,
       "reach": 64.5,
       "repeat": 21.4,
       "community_notes": 0.0
@@ -1742,10 +1725,10 @@
   },
   {
     "handle": "@Ten_Psycholog",
-    "score": 18.9,
+    "score": 19.2,
     "sub_scores": {
       "falsehood": 13.7,
-      "technique": 10.8,
+      "technique": 12.2,
       "reach": 51.0,
       "repeat": 33.3,
       "community_notes": 0.0
@@ -1786,10 +1769,10 @@
   },
   {
     "handle": "@Dariusz_Jonski",
-    "score": 17.9,
+    "score": 18.2,
     "sub_scores": {
       "falsehood": 11.3,
-      "technique": 11.3,
+      "technique": 12.7,
       "reach": 68.1,
       "repeat": 13.6,
       "community_notes": 0.0
@@ -1830,10 +1813,10 @@
   },
   {
     "handle": "@KotulaKat",
-    "score": 17.5,
+    "score": 17.8,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 9.8,
+      "technique": 11.2,
       "reach": 55.4,
       "repeat": 18.8,
       "community_notes": 0.0
@@ -1872,10 +1855,10 @@
   },
   {
     "handle": "@szachmad",
-    "score": 16.5,
+    "score": 17.1,
     "sub_scores": {
       "falsehood": 11.5,
-      "technique": 19.9,
+      "technique": 22.7,
       "reach": 60.8,
       "repeat": 0.0,
       "community_notes": 0.0
@@ -1909,10 +1892,10 @@
   },
   {
     "handle": "@ZandbergRAZEM",
-    "score": 16.5,
+    "score": 16.8,
     "sub_scores": {
       "falsehood": 11.8,
-      "technique": 15.6,
+      "technique": 17.0,
       "reach": 65.5,
       "repeat": 0.0,
       "community_notes": 0.0
@@ -1950,48 +1933,78 @@
     "rank": 45
   },
   {
-    "handle": "@krzysztofbrejza",
-    "score": 16.0,
+    "handle": "@NocnaZ",
+    "score": 15.6,
     "sub_scores": {
-      "falsehood": 14.0,
-      "technique": 18.6,
-      "reach": 43.2,
-      "repeat": 10.7,
+      "falsehood": 12.7,
+      "technique": 11.2,
+      "reach": 54.2,
+      "repeat": 9.4,
       "community_notes": 0.0
     },
-    "total_posts": 14,
+    "total_posts": 16,
     "flagged_posts": 1,
     "top_fake": {
-      "text": "2,5% inflacji w czerwcu! Sytuacja międzynarodowa niestabilna, ale nasza gospodarka, co jest zasługą mądrej polityki prozachodniego rządu i wszystkich pracujących Polek i Polaków, kwitnie, jest odporna",
-      "url": "https://x.com/krzysztofbrejza/status/2072219007831195825",
-      "views": 5694,
+      "text": "🇫🇷 Rada Ministrów ustalila datę wyborów prezydenckich we Francji w 2027 na niedzielę 18 kwietniaI (I tura) i 2 maja (II tura). \nNiniejszym igrzyska i festiwal obietnic uważa za otwarte ;)",
+      "url": "https://x.com/NocnaZ/status/2072330890169008631",
+      "views": 5064,
       "verdicts": [
         {
-          "claim": "Inflacja w czerwcu wyniosła 2,5%.",
-          "verdict": "FALSE",
-          "evidence_summary": "Dane Głównego Urzędu Statystycznego (GUS) oraz raporty Narodowego Banku Polskiego wskazują, że inflacja w Polsce w czerwcu 2026 roku wyniosła około 15%, a nie 2,5%. Inflacja na poziomie 2,5% nie jest zgodna z oficjalnymi danymi CPI za ten okres."
-        },
-        {
-          "claim": "Sytuacja międzynarodowa w czasie posta była niestabilna.",
+          "claim": "Rada Ministrów ustaliła datę wyborów prezydenckich we Francji w 2027 roku na niedzielę 18 kwietnia (I tura) oraz 2 maja (II tura).",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych, publicznych źródeł dotyczących konkretnej sytuacji międzynarodowej na dzień 1 lipca 2026 roku, co uniemożliwia wiarygodną weryfikację stabilności tej sytuacji w tym okresie."
+          "evidence_summary": "Na dzień obecny (czerwiec 2024) brak jest publicznie dostępnych polskich lub międzynarodowych źródeł potwierdzających, że Rada Ministrów Francji ustaliła konkretne daty wyborów prezydenckich 2027. Wybory prezydenckie we Francji zwykle odbywają się na wiosnę, ale ostateczne daty są podawane bliżej terminu wyborów. Następne planowane wybory prezydenckie mają się odbyć w 2027 roku, lecz oficjalnie nie ogłoszono dat."
         }
       ]
     },
     "techniques": [
-      "cherry_picking",
-      "ad_hominem"
+      "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 24,
-      "FALSE": 1,
-      "MOSTLY_TRUE": 8,
-      "TRUE": 2
+      "TRUE": 5,
+      "UNVERIFIABLE": 22,
+      "MOSTLY_TRUE": 14,
+      "FALSE": 1
     },
-    "total_views": 53617,
-    "total_rts": 512,
+    "total_views": 146860,
+    "total_rts": 1896,
     "community_notes_count": 0,
     "rank": 46
+  },
+  {
+    "handle": "@mmzawisza",
+    "score": 15.4,
+    "sub_scores": {
+      "falsehood": 11.8,
+      "technique": 15.0,
+      "reach": 58.8,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Wygląda na to, że prezydent Jacek Jaśkowiak albo złożył fałszywe zeznania albo skłamał w oświadczeniu majątkowym. No chyba, że zaraz się okaże, że garniak pożyczył od kuzyna xD",
+      "url": "https://x.com/mmzawisza/status/2072036381182820550",
+      "views": 76517,
+      "verdicts": [
+        {
+          "claim": "Istnieje twierdzenie, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub zawarł nieprawdziwe informacje w oświadczeniu majątkowym.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł publicznych ani oficjalnych informacji potwierdzających, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub podał nieprawdziwe informacje w oświadczeniu majątkowym. Brak dostępnych doniesień z mediów głównego nurtu czy instytucji kontrolnych o takim fakcie."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 5,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 225787,
+    "total_rts": 1244,
+    "community_notes_count": 0,
+    "rank": 47
   },
   {
     "handle": "@gajewska_kinga",
@@ -2026,88 +2039,14 @@
     "total_views": 21552,
     "total_rts": 46,
     "community_notes_count": 0,
-    "rank": 47
-  },
-  {
-    "handle": "@NocnaZ",
-    "score": 15.3,
-    "sub_scores": {
-      "falsehood": 12.7,
-      "technique": 9.8,
-      "reach": 54.2,
-      "repeat": 9.4,
-      "community_notes": 0.0
-    },
-    "total_posts": 16,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "🇫🇷 Rada Ministrów ustalila datę wyborów prezydenckich we Francji w 2027 na niedzielę 18 kwietniaI (I tura) i 2 maja (II tura). \nNiniejszym igrzyska i festiwal obietnic uważa za otwarte ;)",
-      "url": "https://x.com/NocnaZ/status/2072330890169008631",
-      "views": 5064,
-      "verdicts": [
-        {
-          "claim": "Rada Ministrów ustaliła datę wyborów prezydenckich we Francji w 2027 roku na niedzielę 18 kwietnia (I tura) oraz 2 maja (II tura).",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień obecny (czerwiec 2024) brak jest publicznie dostępnych polskich lub międzynarodowych źródeł potwierdzających, że Rada Ministrów Francji ustaliła konkretne daty wyborów prezydenckich 2027. Wybory prezydenckie we Francji zwykle odbywają się na wiosnę, ale ostateczne daty są podawane bliżej terminu wyborów. Następne planowane wybory prezydenckie mają się odbyć w 2027 roku, lecz oficjalnie nie ogłoszono dat."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 5,
-      "UNVERIFIABLE": 22,
-      "MOSTLY_TRUE": 14,
-      "FALSE": 1
-    },
-    "total_views": 146860,
-    "total_rts": 1896,
-    "community_notes_count": 0,
     "rank": 48
   },
   {
-    "handle": "@mmzawisza",
-    "score": 15.1,
-    "sub_scores": {
-      "falsehood": 11.8,
-      "technique": 13.6,
-      "reach": 58.8,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 4,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Wygląda na to, że prezydent Jacek Jaśkowiak albo złożył fałszywe zeznania albo skłamał w oświadczeniu majątkowym. No chyba, że zaraz się okaże, że garniak pożyczył od kuzyna xD",
-      "url": "https://x.com/mmzawisza/status/2072036381182820550",
-      "views": 76517,
-      "verdicts": [
-        {
-          "claim": "Istnieje twierdzenie, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub zawarł nieprawdziwe informacje w oświadczeniu majątkowym.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł publicznych ani oficjalnych informacji potwierdzających, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub podał nieprawdziwe informacje w oświadczeniu majątkowym. Brak dostępnych doniesień z mediów głównego nurtu czy instytucji kontrolnych o takim fakcie."
-        }
-      ]
-    },
-    "techniques": [
-      "false_dichotomy"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 5,
-      "MOSTLY_TRUE": 1
-    },
-    "total_views": 225787,
-    "total_rts": 1244,
-    "community_notes_count": 0,
-    "rank": 49
-  },
-  {
     "handle": "@RepublikaTV",
-    "score": 14.5,
+    "score": 14.8,
     "sub_scores": {
       "falsehood": 21.6,
-      "technique": 9.5,
+      "technique": 10.9,
       "reach": 27.6,
       "repeat": 13.6,
       "community_notes": 0.0
@@ -2143,14 +2082,14 @@
     "total_views": 12677,
     "total_rts": 35,
     "community_notes_count": 0,
-    "rank": 50
+    "rank": 49
   },
   {
     "handle": "@PatrykJaki",
-    "score": 14.3,
+    "score": 14.6,
     "sub_scores": {
       "falsehood": 8.6,
-      "technique": 12.9,
+      "technique": 14.3,
       "reach": 60.8,
       "repeat": 0.0,
       "community_notes": 0.0
@@ -2184,6 +2123,49 @@
     },
     "total_views": 270422,
     "total_rts": 5841,
+    "community_notes_count": 0,
+    "rank": 50
+  },
+  {
+    "handle": "@krzysztofbrejza",
+    "score": 14.4,
+    "sub_scores": {
+      "falsehood": 14.0,
+      "technique": 10.7,
+      "reach": 43.2,
+      "repeat": 10.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "2,5% inflacji w czerwcu! Sytuacja międzynarodowa niestabilna, ale nasza gospodarka, co jest zasługą mądrej polityki prozachodniego rządu i wszystkich pracujących Polek i Polaków, kwitnie, jest odporna",
+      "url": "https://x.com/krzysztofbrejza/status/2072219007831195825",
+      "views": 5694,
+      "verdicts": [
+        {
+          "claim": "Inflacja w czerwcu wyniosła 2,5%.",
+          "verdict": "FALSE",
+          "evidence_summary": "Dane Głównego Urzędu Statystycznego (GUS) oraz raporty Narodowego Banku Polskiego wskazują, że inflacja w Polsce w czerwcu 2026 roku wyniosła około 15%, a nie 2,5%. Inflacja na poziomie 2,5% nie jest zgodna z oficjalnymi danymi CPI za ten okres."
+        },
+        {
+          "claim": "Sytuacja międzynarodowa w czasie posta była niestabilna.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych, publicznych źródeł dotyczących konkretnej sytuacji międzynarodowej na dzień 1 lipca 2026 roku, co uniemożliwia wiarygodną weryfikację stabilności tej sytuacji w tym okresie."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 24,
+      "FALSE": 1,
+      "MOSTLY_TRUE": 8,
+      "TRUE": 2
+    },
+    "total_views": 53617,
+    "total_rts": 512,
     "community_notes_count": 0,
     "rank": 51
   },
@@ -2264,10 +2246,10 @@
   },
   {
     "handle": "@sjkaleta",
-    "score": 13.4,
+    "score": 13.7,
     "sub_scores": {
       "falsehood": 11.0,
-      "technique": 12.3,
+      "technique": 13.7,
       "reach": 51.1,
       "repeat": 0.0,
       "community_notes": 0.0
@@ -2303,43 +2285,6 @@
     "total_rts": 1678,
     "community_notes_count": 0,
     "rank": 54
-  },
-  {
-    "handle": "@GadowskiWitold",
-    "score": 13.3,
-    "sub_scores": {
-      "falsehood": 9.0,
-      "technique": 23.8,
-      "reach": 38.8,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 3,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Czciciele Zelenskiego - zamiast odznaczeń, kórych nigdy nie powinnni odtrzymać - niech oddadzą mieszkania i nieruchomości w Polsce, które kupili za kradzione pieniądze. Oto pierwsza lista szmondaków:\n",
-      "url": "https://x.com/GadowskiWitold/status/2070087084434501847",
-      "views": 11579,
-      "verdicts": [
-        {
-          "claim": "Osoby wspierające Zelenskiego posiadają mieszkania i nieruchomości w Polsce, które zostały zakupione za pieniądze pochodzące z nielegalnych źródeł.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie istnieją publiczne, wiarygodne źródła potwierdzające, że osoby wspierające Wołodymyra Zełenskiego posiadają w Polsce nieruchomości sfinansowane z nielegalnych źródeł. Informacje o źródłach finansowania nieruchomości są zwykle chronione prywatnością i wymagają indywidualnych dochodzeń lub orzeczeń sądowych, które nie są ogólnodostępne. Ponadto, nie ma danych dotyczących masowego charakteru takiego zjawiska w kontekście zwolenników Zełenskiego."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "TRUE": 1,
-      "UNVERIFIABLE": 3
-    },
-    "total_views": 35546,
-    "total_rts": 420,
-    "community_notes_count": 0,
-    "rank": 55
   },
   {
     "handle": "@donaldtusk",
@@ -2378,7 +2323,7 @@
     "total_views": 1230322,
     "total_rts": 9960,
     "community_notes_count": 0,
-    "rank": 56
+    "rank": 55
   },
   {
     "handle": "@trzaskowski_",
@@ -2418,7 +2363,7 @@
     "total_views": 402711,
     "total_rts": 1926,
     "community_notes_count": 0,
-    "rank": 57
+    "rank": 56
   },
   {
     "handle": "@EKOlodziejczak_",
@@ -2452,6 +2397,42 @@
     },
     "total_views": 172937,
     "total_rts": 126,
+    "community_notes_count": 0,
+    "rank": 57
+  },
+  {
+    "handle": "@GadowskiWitold",
+    "score": 11.2,
+    "sub_scores": {
+      "falsehood": 9.0,
+      "technique": 13.3,
+      "reach": 38.8,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Czciciele Zelenskiego - zamiast odznaczeń, kórych nigdy nie powinnni odtrzymać - niech oddadzą mieszkania i nieruchomości w Polsce, które kupili za kradzione pieniądze. Oto pierwsza lista szmondaków:\n",
+      "url": "https://x.com/GadowskiWitold/status/2070087084434501847",
+      "views": 11579,
+      "verdicts": [
+        {
+          "claim": "Osoby wspierające Zelenskiego posiadają mieszkania i nieruchomości w Polsce, które zostały zakupione za pieniądze pochodzące z nielegalnych źródeł.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją publiczne, wiarygodne źródła potwierdzające, że osoby wspierające Wołodymyra Zełenskiego posiadają w Polsce nieruchomości sfinansowane z nielegalnych źródeł. Informacje o źródłach finansowania nieruchomości są zwykle chronione prywatnością i wymagają indywidualnych dochodzeń lub orzeczeń sądowych, które nie są ogólnodostępne. Ponadto, nie ma danych dotyczących masowego charakteru takiego zjawiska w kontekście zwolenników Zełenskiego."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 1,
+      "UNVERIFIABLE": 3
+    },
+    "total_views": 35546,
+    "total_rts": 420,
     "community_notes_count": 0,
     "rank": 58
   },
@@ -2492,10 +2473,10 @@
   },
   {
     "handle": "@RBakiewicz",
-    "score": 10.9,
+    "score": 11.2,
     "sub_scores": {
       "falsehood": 7.0,
-      "technique": 15.2,
+      "technique": 16.7,
       "reach": 38.5,
       "repeat": 0.0,
       "community_notes": 0.0
