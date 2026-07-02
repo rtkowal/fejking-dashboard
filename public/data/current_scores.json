@@ -1,10 +1,10 @@
 [
   {
     "handle": "@GiertychRoman",
-    "score": 40.6,
+    "score": 39.9,
     "sub_scores": {
       "falsehood": 31.0,
-      "technique": 47.6,
+      "technique": 43.7,
       "reach": 74.9,
       "repeat": 70.6,
       "community_notes": 0.0
@@ -25,10 +25,9 @@
     },
     "techniques": [
       "ad_hominem",
-      "appeal_to_emotion",
+      "false_dichotomy",
       "cherry_picking",
-      "confabulation",
-      "false_dichotomy"
+      "confabulation"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 30,
@@ -44,10 +43,10 @@
   },
   {
     "handle": "@WojSadurski",
-    "score": 40.2,
+    "score": 38.7,
     "sub_scores": {
       "falsehood": 42.4,
-      "technique": 31.3,
+      "technique": 23.8,
       "reach": 41.6,
       "repeat": 100.0,
       "community_notes": 0.0
@@ -67,7 +66,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "false_dichotomy",
       "ad_hominem"
     ],
@@ -83,10 +81,10 @@
   },
   {
     "handle": "@szumand",
-    "score": 38.6,
+    "score": 36.5,
     "sub_scores": {
       "falsehood": 20.9,
-      "technique": 43.0,
+      "technique": 32.1,
       "reach": 58.5,
       "repeat": 100,
       "community_notes": 0.0
@@ -111,7 +109,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking",
       "ad_hominem"
     ],
@@ -128,58 +125,11 @@
     "rank": 3
   },
   {
-    "handle": "@JSaryuszWolski",
-    "score": 37.9,
-    "sub_scores": {
-      "falsehood": 25.5,
-      "technique": 36.8,
-      "reach": 52.5,
-      "repeat": 100,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 6,
-    "top_fake": {
-      "text": "„W ocenie Jacka Saryusz-Wolskiego, doradcy prezydenta RP, byłego głównego negocjatora przystąpienia Polski do Unii Europejskiej, spór o udział Polski w przyszłych rozmowach pokojowych dotyczących Ukra",
-      "url": "https://x.com/JSaryuszWolski/status/2071844783425794062",
-      "views": 5854,
-      "verdicts": [
-        {
-          "claim": "Jacek Saryusz-Wolski pełni funkcję doradcy prezydenta RP.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Do daty ostatniej aktualizacji (czerwiec 2024) brak publicznie dostępnych, zweryfikowanych informacji o tym, że Jacek Saryusz-Wolski pełni funkcję doradcy prezydenta RP. Informacje o doradcach prezydenta są udostępniane na oficjalnych stronach, jednak nie znajdują się tam dane potwierdzające tę funkcję dla tej osoby na wskazany czas."
-        },
-        {
-          "claim": "Jacek Saryusz-Wolski był głównym negocjatorem przystąpienia Polski do Unii Europejskiej.",
-          "verdict": "FALSE",
-          "evidence_summary": "Jacek Saryusz-Wolski był politykiem zaangażowanym w proces integracji Polski z Unią Europejską i pełnił funkcję głównego negocjatora zajmującego się relacjami UE w latach 2003-2004, jednak formalnym i oficjalnym głównym negocjatorem akcesyjnym Polski był minister krzysztof słominski, a główne negocjacje prowadziła Rada Ministrów pod kierownictwem premiera. Rolę głównego negocjatora przystąpienia Polski do Unii pełnił minister ds. europejskich lub premier, a nie Jacek Saryusz-Wolski."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "decontextualization",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 5,
-      "FALSE": 1,
-      "MOSTLY_TRUE": 13,
-      "MISLEADING": 9,
-      "TRUE": 7,
-      "MOSTLY_FALSE": 4
-    },
-    "total_views": 126238,
-    "total_rts": 1962,
-    "community_notes_count": 0,
-    "rank": 4
-  },
-  {
     "handle": "@RobertWinnicki",
-    "score": 37.8,
+    "score": 36.1,
     "sub_scores": {
       "falsehood": 19.6,
-      "technique": 45.1,
+      "technique": 36.8,
       "reach": 52.6,
       "repeat": 100.0,
       "community_notes": 0.0
@@ -204,10 +154,9 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
-      "decontextualization",
+      "ad_hominem",
       "cherry_picking",
-      "ad_hominem"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "TRUE": 6,
@@ -220,14 +169,60 @@
     "total_views": 127238,
     "total_rts": 660,
     "community_notes_count": 0,
+    "rank": 4
+  },
+  {
+    "handle": "@JSaryuszWolski",
+    "score": 35.7,
+    "sub_scores": {
+      "falsehood": 25.5,
+      "technique": 25.9,
+      "reach": 52.5,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "„W ocenie Jacka Saryusz-Wolskiego, doradcy prezydenta RP, byłego głównego negocjatora przystąpienia Polski do Unii Europejskiej, spór o udział Polski w przyszłych rozmowach pokojowych dotyczących Ukra",
+      "url": "https://x.com/JSaryuszWolski/status/2071844783425794062",
+      "views": 5854,
+      "verdicts": [
+        {
+          "claim": "Jacek Saryusz-Wolski pełni funkcję doradcy prezydenta RP.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Do daty ostatniej aktualizacji (czerwiec 2024) brak publicznie dostępnych, zweryfikowanych informacji o tym, że Jacek Saryusz-Wolski pełni funkcję doradcy prezydenta RP. Informacje o doradcach prezydenta są udostępniane na oficjalnych stronach, jednak nie znajdują się tam dane potwierdzające tę funkcję dla tej osoby na wskazany czas."
+        },
+        {
+          "claim": "Jacek Saryusz-Wolski był głównym negocjatorem przystąpienia Polski do Unii Europejskiej.",
+          "verdict": "FALSE",
+          "evidence_summary": "Jacek Saryusz-Wolski był politykiem zaangażowanym w proces integracji Polski z Unią Europejską i pełnił funkcję głównego negocjatora zajmującego się relacjami UE w latach 2003-2004, jednak formalnym i oficjalnym głównym negocjatorem akcesyjnym Polski był minister krzysztof słominski, a główne negocjacje prowadziła Rada Ministrów pod kierownictwem premiera. Rolę głównego negocjatora przystąpienia Polski do Unii pełnił minister ds. europejskich lub premier, a nie Jacek Saryusz-Wolski."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 5,
+      "FALSE": 1,
+      "MOSTLY_TRUE": 13,
+      "MISLEADING": 9,
+      "TRUE": 7,
+      "MOSTLY_FALSE": 4
+    },
+    "total_views": 126238,
+    "total_rts": 1962,
+    "community_notes_count": 0,
     "rank": 5
   },
   {
     "handle": "@ZiobroPL",
-    "score": 37.3,
+    "score": 35.1,
     "sub_scores": {
       "falsehood": 18.9,
-      "technique": 70.0,
+      "technique": 58.9,
       "reach": 57.4,
       "repeat": 60.0,
       "community_notes": 0.0
@@ -252,13 +247,11 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "whataboutism",
-      "decontextualization",
       "ad_hominem",
-      "appeal_to_emotion",
+      "false_dichotomy",
       "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "decontextualization"
     ],
     "verdicts_summary": {
       "MISLEADING": 2,
@@ -273,10 +266,10 @@
   },
   {
     "handle": "@R_A_Ziemkiewicz",
-    "score": 36.4,
+    "score": 34.7,
     "sub_scores": {
       "falsehood": 39.5,
-      "technique": 22.0,
+      "technique": 13.6,
       "reach": 59.4,
       "repeat": 75.0,
       "community_notes": 0.0
@@ -296,7 +289,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -311,10 +303,10 @@
   },
   {
     "handle": "@Gasiuk_Pihowicz",
-    "score": 36.1,
+    "score": 33.5,
     "sub_scores": {
       "falsehood": 28.0,
-      "technique": 26.0,
+      "technique": 12.6,
       "reach": 60.2,
       "repeat": 90.0,
       "community_notes": 0.0
@@ -334,7 +326,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -351,97 +342,11 @@
     "rank": 8
   },
   {
-    "handle": "@jacek_liberski",
-    "score": 35.6,
-    "sub_scores": {
-      "falsehood": 33.9,
-      "technique": 29.5,
-      "reach": 55.6,
-      "repeat": 75.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 4,
-    "top_fake": {
-      "text": "Zatem: \n1️⃣ Niekorzystne rozporządzanie mieniem wielkiej wartości, poprzez wprowadzenie pokrzywdzonego w błąd, \n2️⃣ Przyjmowanie korzyści majątkowej w zamian za nadużycie udzielonych uprawnień, \n3️⃣ N",
-      "url": "https://x.com/jacek_liberski/status/2071878660412371179",
-      "views": 5579,
-      "verdicts": [
-        {
-          "claim": "Niekorzystne rozporządzanie mieniem wielkiej wartości, poprzez wprowadzenie pokrzywdzonego w błąd, nie jest uznawane za czyn zabroniony.",
-          "verdict": "MOSTLY_FALSE",
-          "evidence_summary": "Zgodnie z polskim prawem karnym, działanie polegające na niekorzystnym rozporządzaniu mieniem wielkiej wartości poprzez wprowadzenie pokrzywdzonego w błąd może mieć znamiona przestępstwa oszustwa (art. 286 Kodeksu karnego). Takie działanie polega na wykorzystaniu nieprawdy lub zatajeniu prawdy w celu osiągnięcia korzyści majątkowej kosztem pokrzywdzonego i jest czynem zabronionym. Zatem twierdzenie, że nie zawiera znamion czynu zabronionego, jest sprzeczne z obowiązującym stanem prawnym."
-        },
-        {
-          "claim": "Przyjmowanie korzyści majątkowej w zamian za nadużycie udzielonych uprawnień nie jest uznawane za czyn zabroniony.",
-          "verdict": "FALSE",
-          "evidence_summary": "Zgodnie z polskim Kodeksem karnym, zarówno przyjmowanie korzyści majątkowej w zamian za nadużycie udzielonych uprawnień, jak i nadużycie uprawnień samo w sobie, są czynami zabronionymi i podlegają sankcjom karnym. Przykładowo, artykuł 228 i 229 KK penalizują sytuacje związane z korupcją oraz nadużyciem funkcji publicznej."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 8,
-      "MOSTLY_FALSE": 2,
-      "FALSE": 4,
-      "TRUE": 5,
-      "MOSTLY_TRUE": 2,
-      "MISLEADING": 2
-    },
-    "total_views": 167308,
-    "total_rts": 1560,
-    "community_notes_count": 0,
-    "rank": 9
-  },
-  {
-    "handle": "@wrealu24_pl",
-    "score": 35.1,
-    "sub_scores": {
-      "falsehood": 34.3,
-      "technique": 35.0,
-      "reach": 18.7,
-      "repeat": 100,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 7,
-    "top_fake": {
-      "text": "Ukraińcy wywołają zamach w Polsce i docelowo wojnę?! CO ONI PLANUJĄ?! Marek Skowroński i Marcin Rola - DONEJTY LIVE! https://t.co/QLYfWhhfNd",
-      "url": "https://x.com/wrealu24_pl/status/2072014836230205648",
-      "views": 570,
-      "verdicts": [
-        {
-          "claim": "Ukraińcy planują zamach w Polsce oraz wywołanie wojny.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie ma żadnych oficjalnych ani wiarygodnych doniesień potwierdzających, że Ukraińcy planują zamach w Polsce czy celowo mają zamiar wywołać wojnę na terytorium Polski. Takie tezy pojawiają się jedynie w dezinformacji i teoriach spiskowych bez podstaw w dostępnych źródłach."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "confabulation",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "FALSE": 5,
-      "MISLEADING": 6,
-      "TRUE": 10,
-      "UNVERIFIABLE": 3
-    },
-    "total_views": 5620,
-    "total_rts": 36,
-    "community_notes_count": 0,
-    "rank": 10
-  },
-  {
     "handle": "@BoguckiZbigniew",
-    "score": 34.3,
+    "score": 33.5,
     "sub_scores": {
       "falsehood": 17.3,
-      "technique": 35.4,
+      "technique": 31.4,
       "reach": 61.0,
       "repeat": 85.7,
       "community_notes": 0.0
@@ -466,7 +371,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "false_dichotomy",
       "cherry_picking",
       "ad_hominem"
@@ -482,14 +386,98 @@
     "total_views": 275992,
     "total_rts": 4227,
     "community_notes_count": 0,
+    "rank": 9
+  },
+  {
+    "handle": "@jacek_liberski",
+    "score": 33.2,
+    "sub_scores": {
+      "falsehood": 33.9,
+      "technique": 17.3,
+      "reach": 55.6,
+      "repeat": 75.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Zatem: \n1️⃣ Niekorzystne rozporządzanie mieniem wielkiej wartości, poprzez wprowadzenie pokrzywdzonego w błąd, \n2️⃣ Przyjmowanie korzyści majątkowej w zamian za nadużycie udzielonych uprawnień, \n3️⃣ N",
+      "url": "https://x.com/jacek_liberski/status/2071878660412371179",
+      "views": 5579,
+      "verdicts": [
+        {
+          "claim": "Niekorzystne rozporządzanie mieniem wielkiej wartości, poprzez wprowadzenie pokrzywdzonego w błąd, nie jest uznawane za czyn zabroniony.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Zgodnie z polskim prawem karnym, działanie polegające na niekorzystnym rozporządzaniu mieniem wielkiej wartości poprzez wprowadzenie pokrzywdzonego w błąd może mieć znamiona przestępstwa oszustwa (art. 286 Kodeksu karnego). Takie działanie polega na wykorzystaniu nieprawdy lub zatajeniu prawdy w celu osiągnięcia korzyści majątkowej kosztem pokrzywdzonego i jest czynem zabronionym. Zatem twierdzenie, że nie zawiera znamion czynu zabronionego, jest sprzeczne z obowiązującym stanem prawnym."
+        },
+        {
+          "claim": "Przyjmowanie korzyści majątkowej w zamian za nadużycie udzielonych uprawnień nie jest uznawane za czyn zabroniony.",
+          "verdict": "FALSE",
+          "evidence_summary": "Zgodnie z polskim Kodeksem karnym, zarówno przyjmowanie korzyści majątkowej w zamian za nadużycie udzielonych uprawnień, jak i nadużycie uprawnień samo w sobie, są czynami zabronionymi i podlegają sankcjom karnym. Przykładowo, artykuł 228 i 229 KK penalizują sytuacje związane z korupcją oraz nadużyciem funkcji publicznej."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 8,
+      "MOSTLY_FALSE": 2,
+      "FALSE": 4,
+      "TRUE": 5,
+      "MOSTLY_TRUE": 2,
+      "MISLEADING": 2
+    },
+    "total_views": 167308,
+    "total_rts": 1560,
+    "community_notes_count": 0,
+    "rank": 10
+  },
+  {
+    "handle": "@wrealu24_pl",
+    "score": 32.9,
+    "sub_scores": {
+      "falsehood": 34.3,
+      "technique": 24.1,
+      "reach": 18.7,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 7,
+    "top_fake": {
+      "text": "Ukraińcy wywołają zamach w Polsce i docelowo wojnę?! CO ONI PLANUJĄ?! Marek Skowroński i Marcin Rola - DONEJTY LIVE! https://t.co/QLYfWhhfNd",
+      "url": "https://x.com/wrealu24_pl/status/2072014836230205648",
+      "views": 570,
+      "verdicts": [
+        {
+          "claim": "Ukraińcy planują zamach w Polsce oraz wywołanie wojny.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych oficjalnych ani wiarygodnych doniesień potwierdzających, że Ukraińcy planują zamach w Polsce czy celowo mają zamiar wywołać wojnę na terytorium Polski. Takie tezy pojawiają się jedynie w dezinformacji i teoriach spiskowych bez podstaw w dostępnych źródłach."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "FALSE": 5,
+      "MISLEADING": 6,
+      "TRUE": 10,
+      "UNVERIFIABLE": 3
+    },
+    "total_views": 5620,
+    "total_rts": 36,
+    "community_notes_count": 0,
     "rank": 11
   },
   {
     "handle": "@KoronyPolskiej",
-    "score": 33.3,
+    "score": 31.7,
     "sub_scores": {
       "falsehood": 30.6,
-      "technique": 29.9,
+      "technique": 22.1,
       "reach": 45.8,
       "repeat": 75.0,
       "community_notes": 0.0
@@ -514,7 +502,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "false_dichotomy",
       "cherry_picking"
     ],
@@ -533,10 +520,10 @@
   },
   {
     "handle": "@EwaZajaczkowska",
-    "score": 32.4,
+    "score": 31.3,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 55.6,
+      "technique": 49.8,
       "reach": 70.7,
       "repeat": 41.7,
       "community_notes": 0.0
@@ -562,10 +549,9 @@
     },
     "techniques": [
       "decontextualization",
-      "ad_hominem",
-      "appeal_to_emotion",
+      "false_dichotomy",
       "cherry_picking",
-      "false_dichotomy"
+      "ad_hominem"
     ],
     "verdicts_summary": {
       "MOSTLY_TRUE": 20,
@@ -582,10 +568,10 @@
   },
   {
     "handle": "@widzimysiejutro",
-    "score": 32.3,
+    "score": 30.7,
     "sub_scores": {
       "falsehood": 26.5,
-      "technique": 47.8,
+      "technique": 39.5,
       "reach": 61.3,
       "repeat": 37.5,
       "community_notes": 0.0
@@ -610,7 +596,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "decontextualization",
       "cherry_picking",
       "ad_hominem"
@@ -628,10 +613,10 @@
   },
   {
     "handle": "@Kaminski_M_",
-    "score": 31.7,
+    "score": 30.0,
     "sub_scores": {
       "falsehood": 18.8,
-      "technique": 40.8,
+      "technique": 32.6,
       "reach": 47.9,
       "repeat": 71.1,
       "community_notes": 0.0
@@ -656,10 +641,9 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
-      "decontextualization",
+      "ad_hominem",
       "cherry_picking",
-      "ad_hominem"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "TRUE": 9,
@@ -676,10 +660,10 @@
   },
   {
     "handle": "@KonradBerkowicz",
-    "score": 30.8,
+    "score": 28.8,
     "sub_scores": {
       "falsehood": 18.9,
-      "technique": 32.4,
+      "technique": 22.7,
       "reach": 74.0,
       "repeat": 50.0,
       "community_notes": 0.0
@@ -704,7 +688,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "false_dichotomy",
       "cherry_picking"
     ],
@@ -722,10 +705,10 @@
   },
   {
     "handle": "@MSchreiberM",
-    "score": 29.4,
+    "score": 28.1,
     "sub_scores": {
       "falsehood": 23.1,
-      "technique": 37.3,
+      "technique": 30.7,
       "reach": 58.3,
       "repeat": 41.7,
       "community_notes": 0.0
@@ -745,9 +728,8 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
-      "decontextualization",
       "cherry_picking",
+      "decontextualization",
       "false_authority"
     ],
     "verdicts_summary": {
@@ -765,10 +747,10 @@
   },
   {
     "handle": "@JKowalski_posel",
-    "score": 29.2,
+    "score": 27.2,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 39.0,
+      "technique": 29.1,
       "reach": 53.0,
       "repeat": 60.0,
       "community_notes": 0.0
@@ -793,7 +775,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "false_dichotomy",
       "cherry_picking"
     ],
@@ -810,10 +791,10 @@
   },
   {
     "handle": "@jciesz",
-    "score": 28.5,
+    "score": 26.9,
     "sub_scores": {
       "falsehood": 23.0,
-      "technique": 30.0,
+      "technique": 22.1,
       "reach": 58.9,
       "repeat": 45.0,
       "community_notes": 0.0
@@ -838,7 +819,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking",
       "ad_hominem"
     ],
@@ -856,147 +836,11 @@
     "rank": 19
   },
   {
-    "handle": "@marekgrobarczyk",
-    "score": 28.0,
-    "sub_scores": {
-      "falsehood": 16.1,
-      "technique": 38.8,
-      "reach": 65.3,
-      "repeat": 37.5,
-      "community_notes": 0.0
-    },
-    "total_posts": 12,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Wczoraj zablokowanie budowy stopnia wodnego w Siarzewie, dzisiaj groźba zamknięcia elektrowni w Kozienicach z powodu patoekologow, osobowość prawna rzeki Odry i likwidacja wszystkich inwestycji hydrot",
-      "url": "https://x.com/marekgrobarczyk/status/2070448875014438934",
-      "views": 22234,
-      "verdicts": [
-        {
-          "claim": "Budowa stopnia wodnego w Siarzewie została zablokowana dzień przed publikacją posta.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień 26 czerwca 2026 nie znaleziono w polskich mediach wysokiego lub średniego zaufania informacji potwierdzających lub zaprzeczających zablokowaniu budowy stopnia wodnego w Siarzewie w dniu 25 czerwca 2026. Dostępne informacje o projekcie i statusie budowy stopnia są ograniczone lub nieaktualne."
-        },
-        {
-          "claim": "Zgłoszono groźbę zamknięcia elektrowni w Kozienicach z powodu działań środowiskowych określanych jako patoekologia.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł potwierdzających, że elektrownia Kozienice jest bezpośrednio zagrożona zamknięciem z powodu działań organizacji środowiskowych określanych jako patoekolodzy. Termin 'patoekologia' jest rzadko używany i nie ma jasnej definicji ani powiązania z groźbą zamknięcia tej elektrowni. Brak oficjalnych komunikatów lub medialnych doniesień potwierdzających taką groźbę."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 22,
-      "TRUE": 4,
-      "MOSTLY_TRUE": 7,
-      "FALSE": 2,
-      "MISLEADING": 1
-    },
-    "total_views": 409949,
-    "total_rts": 12350,
-    "community_notes_count": 0,
-    "rank": 20
-  },
-  {
-    "handle": "@DariuszMatecki",
-    "score": 27.2,
-    "sub_scores": {
-      "falsehood": 16.2,
-      "technique": 40.4,
-      "reach": 52.3,
-      "repeat": 42.9,
-      "community_notes": 0.0
-    },
-    "total_posts": 14,
-    "flagged_posts": 4,
-    "top_fake": {
-      "text": "Włączcie teraz Sejm.\n\nChcą zmuszać przedsiębiorców, żeby w spółkach były parytety płci. Poszaleli.",
-      "url": "https://x.com/DariuszMatecki/status/2072356350416306502",
-      "views": 5265,
-      "verdicts": [
-        {
-          "claim": "Istnieje propozycja zmuszenia przedsiębiorców do wprowadzenia parytetów płci w spółkach.",
-          "verdict": "MOSTLY_FALSE",
-          "evidence_summary": "Aktualnie w Polsce nie ma obowiązku wprowadzania parytetów płci w spółkach przez przedsiębiorców. Pojawiają się natomiast dyskusje i nieformalne sugestie promujące większą równowagę płci w zarządach lub na innych stanowiskach kierowniczych, ale nie ma formalnej propozycji prawnej nakładającej taki obowiązek na wszystkie spółki."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "confabulation",
-      "cherry_picking",
-      "ad_hominem"
-    ],
-    "verdicts_summary": {
-      "MISLEADING": 3,
-      "UNVERIFIABLE": 19,
-      "MOSTLY_TRUE": 9,
-      "TRUE": 2,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 123345,
-    "total_rts": 1615,
-    "community_notes_count": 0,
-    "rank": 21
-  },
-  {
-    "handle": "@MorawieckiM",
-    "score": 27.0,
-    "sub_scores": {
-      "falsehood": 11.9,
-      "technique": 55.4,
-      "reach": 65.7,
-      "repeat": 16.7,
-      "community_notes": 0.0
-    },
-    "total_posts": 18,
-    "flagged_posts": 2,
-    "top_fake": {
-      "text": "Zero tolerancji dla nazistów! Żądamy natychmiastowej deportacji wszystkich osób chwalących UPA i posługujących się symboliką banderowską oraz przyjęcia ustawy, która nam to umożliwi! https://t.co/CPvx",
-      "url": "https://x.com/MorawieckiM/status/2071960617422860478",
-      "views": 35292,
-      "verdicts": [
-        {
-          "claim": "Post domaga się deportacji osób chwalących UPA i posługujących się symboliką banderowską.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających istnienie takiego oficjalnego żądania ani autentyczności posta przypisywanego @MorawieckiM z 30 czerwca 2026 roku. Zdanie to nie pojawia się w oficjalnych komunikatach rządu Polski ani w serwisach informacyjnych o wysokiej wiarygodności."
-        },
-        {
-          "claim": "Post domaga się przyjęcia ustawy umożliwiającej deportację osób chwalących UPA i posługujących się symboliką banderowską.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających istnienie takiego projektu ustawy lub oficjalnego stanowiska rządu polskiego z dnia 30 czerwca 2026 roku dotyczącego deportacji osób za chwalebność UPA i używanie symboliki banderowskiej. Nie znaleziono informacji o tego typu prawnych regulacjach w dostępnych bazach danych i raportach."
-        }
-      ]
-    },
-    "techniques": [
-      "gish_gallop",
-      "decontextualization",
-      "ad_hominem",
-      "appeal_to_emotion",
-      "cherry_picking",
-      "false_dichotomy"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 19,
-      "MOSTLY_TRUE": 25,
-      "TRUE": 16,
-      "MISLEADING": 3
-    },
-    "total_views": 423150,
-    "total_rts": 4819,
-    "community_notes_count": 0,
-    "rank": 22
-  },
-  {
     "handle": "@Sluzby_w_akcji",
-    "score": 26.6,
+    "score": 25.8,
     "sub_scores": {
       "falsehood": 12.7,
-      "technique": 34.5,
+      "technique": 30.6,
       "reach": 85.6,
       "repeat": 20.3,
       "community_notes": 0.0
@@ -1021,10 +865,9 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "confabulation",
-      "decontextualization",
-      "cherry_picking"
+      "cherry_picking",
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 161,
@@ -1037,51 +880,100 @@
     "total_views": 2664140,
     "total_rts": 8731,
     "community_notes_count": 0,
-    "rank": 23
+    "rank": 20
   },
   {
-    "handle": "@1972tomek",
-    "score": 26.5,
+    "handle": "@marekgrobarczyk",
+    "score": 25.8,
     "sub_scores": {
-      "falsehood": 25.0,
-      "technique": 19.5,
-      "reach": 25.4,
-      "repeat": 75.0,
+      "falsehood": 16.1,
+      "technique": 28.0,
+      "reach": 65.3,
+      "repeat": 37.5,
       "community_notes": 0.0
     },
-    "total_posts": 4,
-    "flagged_posts": 2,
+    "total_posts": 12,
+    "flagged_posts": 3,
     "top_fake": {
-      "text": "Ale za to lekarze prawie podatków nie płacą.",
-      "url": "https://x.com/1972tomek/status/2072328947673571463",
-      "views": 2122,
+      "text": "Wczoraj zablokowanie budowy stopnia wodnego w Siarzewie, dzisiaj groźba zamknięcia elektrowni w Kozienicach z powodu patoekologow, osobowość prawna rzeki Odry i likwidacja wszystkich inwestycji hydrot",
+      "url": "https://x.com/marekgrobarczyk/status/2070448875014438934",
+      "views": 22234,
       "verdicts": [
         {
-          "claim": "Lekarze płacą niewiele podatków.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "Lekarze w Polsce podlegają standardowym przepisom podatkowym, w tym podatkowi dochodowemu oraz składkom ZUS, podobnie jak inni przedsiębiorcy i pracownicy. Istnieją jednak specjalne formy opodatkowania, takie jak ryczałt czy działalność gospodarcza, które mogą skutkować różnym poziomem podatków w zależności od indywidualnej sytuacji. Twierdzenie, że lekarze „prawie podatków nie płacą”, jest przesadzone i nie znajduje potwierdzenia w oficjalnych źródłach."
+          "claim": "Budowa stopnia wodnego w Siarzewie została zablokowana dzień przed publikacją posta.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień 26 czerwca 2026 nie znaleziono w polskich mediach wysokiego lub średniego zaufania informacji potwierdzających lub zaprzeczających zablokowaniu budowy stopnia wodnego w Siarzewie w dniu 25 czerwca 2026. Dostępne informacje o projekcie i statusie budowy stopnia są ograniczone lub nieaktualne."
+        },
+        {
+          "claim": "Zgłoszono groźbę zamknięcia elektrowni w Kozienicach z powodu działań środowiskowych określanych jako patoekologia.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł potwierdzających, że elektrownia Kozienice jest bezpośrednio zagrożona zamknięciem z powodu działań organizacji środowiskowych określanych jako patoekolodzy. Termin 'patoekologia' jest rzadko używany i nie ma jasnej definicji ani powiązania z groźbą zamknięcia tej elektrowni. Brak oficjalnych komunikatów lub medialnych doniesień potwierdzających taką groźbę."
         }
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
+      "cherry_picking",
+      "ad_hominem"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 4,
-      "MISLEADING": 2
+      "UNVERIFIABLE": 22,
+      "TRUE": 4,
+      "MOSTLY_TRUE": 7,
+      "FALSE": 2,
+      "MISLEADING": 1
     },
-    "total_views": 10404,
-    "total_rts": 42,
+    "total_views": 409949,
+    "total_rts": 12350,
     "community_notes_count": 0,
-    "rank": 24
+    "rank": 21
+  },
+  {
+    "handle": "@DariuszMatecki",
+    "score": 25.6,
+    "sub_scores": {
+      "falsehood": 16.2,
+      "technique": 32.1,
+      "reach": 52.3,
+      "repeat": 42.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Włączcie teraz Sejm.\n\nChcą zmuszać przedsiębiorców, żeby w spółkach były parytety płci. Poszaleli.",
+      "url": "https://x.com/DariuszMatecki/status/2072356350416306502",
+      "views": 5265,
+      "verdicts": [
+        {
+          "claim": "Istnieje propozycja zmuszenia przedsiębiorców do wprowadzenia parytetów płci w spółkach.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Aktualnie w Polsce nie ma obowiązku wprowadzania parytetów płci w spółkach przez przedsiębiorców. Pojawiają się natomiast dyskusje i nieformalne sugestie promujące większą równowagę płci w zarządach lub na innych stanowiskach kierowniczych, ale nie ma formalnej propozycji prawnej nakładającej taki obowiązek na wszystkie spółki."
+        }
+      ]
+    },
+    "techniques": [
+      "ad_hominem",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MISLEADING": 3,
+      "UNVERIFIABLE": 19,
+      "MOSTLY_TRUE": 9,
+      "TRUE": 2,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 123345,
+    "total_rts": 1615,
+    "community_notes_count": 0,
+    "rank": 22
   },
   {
     "handle": "@RafalBochenek",
-    "score": 26.1,
+    "score": 24.9,
     "sub_scores": {
       "falsehood": 17.0,
-      "technique": 48.2,
+      "technique": 42.5,
       "reach": 48.1,
       "repeat": 27.3,
       "community_notes": 0.0
@@ -1107,10 +999,9 @@
     },
     "techniques": [
       "ad_hominem",
-      "appeal_to_emotion",
+      "false_dichotomy",
       "cherry_picking",
-      "confabulation",
-      "false_dichotomy"
+      "confabulation"
     ],
     "verdicts_summary": {
       "TRUE": 5,
@@ -1120,150 +1011,50 @@
     "total_views": 83935,
     "total_rts": 1365,
     "community_notes_count": 0,
-    "rank": 25
+    "rank": 23
   },
   {
-    "handle": "@krzysztofbosak",
-    "score": 25.9,
+    "handle": "@1972tomek",
+    "score": 24.8,
     "sub_scores": {
-      "falsehood": 14.9,
-      "technique": 30.9,
-      "reach": 58.9,
-      "repeat": 42.9,
+      "falsehood": 25.0,
+      "technique": 11.1,
+      "reach": 25.4,
+      "repeat": 75.0,
       "community_notes": 0.0
     },
-    "total_posts": 14,
-    "flagged_posts": 4,
+    "total_posts": 4,
+    "flagged_posts": 2,
     "top_fake": {
-      "text": "Czesi rozważają odebranie prezydentowi @ZelenskyyUa Orderu Białego Lwa z podobnych powodów, dla których w Polsce prezydent Karol Nawrocki podjął decyzję o odebraniu mu Orderu Orła Białego.\n\nBezczelna ",
-      "url": "https://x.com/krzysztofbosak/status/2072349386525290758",
-      "views": 15568,
+      "text": "Ale za to lekarze prawie podatków nie płacą.",
+      "url": "https://x.com/1972tomek/status/2072328947673571463",
+      "views": 2122,
       "verdicts": [
         {
-          "claim": "Oficjalne władze czeskie rozważają odebranie prezydentowi Zełenskiemu Orderu Białego Lwa, podobnie jak prezydent Karol Nawrocki w Polsce podjął decyzję o odebraniu Zełenskiemu Orderu Orła Białego.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie istnieją żadne publiczne, wiarygodne źródła potwierdzające, że władze czeskie rozważają odebranie prezydentowi Zełenskiemu Orderu Białego Lwa. Ponadto, prezydent Karol Nawrocki nie jest prezydentem Polski, a decyzje dotyczące Orderu Orła Białego są podejmowane na poziomie Prezydenta RP. Nie odnotowano też oficjalnej decyzji o odebraniu Zełenskiemu Orderu Orła Białego."
-        },
-        {
-          "claim": "Polityka władz w Kijowie wywołała reakcję polityczną w innych krajach.",
-          "verdict": "TRUE",
-          "evidence_summary": "Polityka władz Kijowa, zwłaszcza w kontekście działań związanych z konfliktem z Rosją, regularnie wywołuje reakcje polityczne na arenie międzynarodowej, co jest dokumentowane przez liczne polskie i zagraniczne źródła. Rządy wielu państw podejmują stanowiska, sankcje lub działania dyplomatyczne w odpowiedzi na wydarzenia i decyzje władz ukraińskich."
+          "claim": "Lekarze płacą niewiele podatków.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Lekarze w Polsce podlegają standardowym przepisom podatkowym, w tym podatkowi dochodowemu oraz składkom ZUS, podobnie jak inni przedsiębiorcy i pracownicy. Istnieją jednak specjalne formy opodatkowania, takie jak ryczałt czy działalność gospodarcza, które mogą skutkować różnym poziomem podatków w zależności od indywidualnej sytuacji. Twierdzenie, że lekarze „prawie podatków nie płacą”, jest przesadzone i nie znajduje potwierdzenia w oficjalnych źródłach."
         }
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
-      "false_dichotomy",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "TRUE": 14,
-      "MOSTLY_TRUE": 9,
-      "FALSE": 2,
-      "UNVERIFIABLE": 10,
-      "MISLEADING": 3
+      "UNVERIFIABLE": 4,
+      "MISLEADING": 2
     },
-    "total_views": 226023,
-    "total_rts": 1140,
+    "total_views": 10404,
+    "total_rts": 42,
     "community_notes_count": 0,
-    "rank": 26
-  },
-  {
-    "handle": "@kuba_w",
-    "score": 25.3,
-    "sub_scores": {
-      "falsehood": 20.7,
-      "technique": 31.0,
-      "reach": 40.6,
-      "repeat": 45.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Prezes konserwatywnego portalu The Federalist postuluje po wyroku SCOTUS wprowadzenie wymogu przymusowej sterylizacji każdej osoby wyjeżdżającej do USA.",
-      "url": "https://x.com/kuba_w/status/2072047434612506771",
-      "views": 2427,
-      "verdicts": [
-        {
-          "claim": "Prezes portalu The Federalist zaproponował wprowadzenie wymogu przymusowej sterylizacji dla każdej osoby wyjeżdżającej do USA po wyroku Sądu Najwyższego Stanów Zjednoczonych (SCOTUS).",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie ma żadnych publicznie dostępnych ani wiarygodnych źródeł potwierdzających, że prezes portalu The Federalist proponował przymusową sterylizację osób wyjeżdżających do USA po wyroku SCOTUS. Portal The Federalist oraz jego liderzy nigdy nie publikowali takiego postulatu, a przeszukiwanie polskich i anglojęzycznych źródeł nie daje podstaw do takiego stwierdzenia."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "false_dichotomy",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "FALSE": 2,
-      "MOSTLY_TRUE": 7,
-      "TRUE": 4,
-      "UNVERIFIABLE": 5,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 42123,
-    "total_rts": 48,
-    "community_notes_count": 0,
-    "rank": 27
-  },
-  {
-    "handle": "@GodekKajaU",
-    "score": 25.3,
-    "sub_scores": {
-      "falsehood": 16.0,
-      "technique": 48.0,
-      "reach": 27.7,
-      "repeat": 45.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Warszawa, 30.06.2026r.\n\nZAMIAST WYDAWAĆ KOMUNIKATY, SKOŃCZCIE Z ABORCJĄ!\n\nOświadczenie ws. stanowiska Wojewódzkiego Szpitala Specjalistycznego w Lublinie z dn. 29.06.2026 r.\n\nPod komunikatem prasowym ",
-      "url": "https://x.com/GodekKajaU/status/2071892047846391881",
-      "views": 1407,
-      "verdicts": [
-        {
-          "claim": "Komunikat prasowy z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny im. Stefana Kardynała Wyszyńskiego w Lublinie nie był podpisany przez żadnego przedstawiciela szpitala.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie źródeł ani archiwów potwierdzających treść i formę komunikatu prasowego Szpitala z dnia 29 czerwca 2026 roku, w tym informacje o podpisie lub jego braku pod komunikatem."
-        },
-        {
-          "claim": "Treść komunikatu z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny w Lublinie została w dużej mierze wygenerowana przez sztuczną inteligencję.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie źródeł ani potwierdzeń dotyczących sposobu powstania komunikatu Wojewódzkiego Szpitala Specjalistycznego w Lublinie z 29 czerwca 2026 roku. Analiza treści bez dostępu do oryginalnego dokumentu i kontekstu nie pozwala zweryfikować użycia sztucznej inteligencji."
-        }
-      ]
-    },
-    "techniques": [
-      "whataboutism",
-      "decontextualization",
-      "appeal_to_emotion",
-      "cherry_picking",
-      "false_dichotomy"
-    ],
-    "verdicts_summary": {
-      "TRUE": 12,
-      "MOSTLY_TRUE": 15,
-      "UNVERIFIABLE": 18,
-      "FALSE": 1,
-      "MISLEADING": 4,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 12782,
-    "total_rts": 306,
-    "community_notes_count": 0,
-    "rank": 28
+    "rank": 24
   },
   {
     "handle": "@oko_press",
-    "score": 24.9,
+    "score": 24.6,
     "sub_scores": {
       "falsehood": 16.6,
-      "technique": 40.2,
+      "technique": 38.9,
       "reach": 51.3,
       "repeat": 27.9,
       "community_notes": 0.0
@@ -1288,11 +1079,10 @@
       ]
     },
     "techniques": [
-      "decontextualization",
       "ad_hominem",
-      "appeal_to_emotion",
+      "false_dichotomy",
       "cherry_picking",
-      "false_dichotomy"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 62,
@@ -1305,99 +1095,145 @@
     "total_views": 113040,
     "total_rts": 491,
     "community_notes_count": 0,
-    "rank": 29
+    "rank": 25
   },
   {
-    "handle": "@MNiedorozwoju",
-    "score": 24.7,
+    "handle": "@MorawieckiM",
+    "score": 24.5,
     "sub_scores": {
-      "falsehood": 14.1,
-      "technique": 27.0,
-      "reach": 68.2,
-      "repeat": 32.1,
+      "falsehood": 11.9,
+      "technique": 43.2,
+      "reach": 65.7,
+      "repeat": 16.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Zero tolerancji dla nazistów! Żądamy natychmiastowej deportacji wszystkich osób chwalących UPA i posługujących się symboliką banderowską oraz przyjęcia ustawy, która nam to umożliwi! https://t.co/CPvx",
+      "url": "https://x.com/MorawieckiM/status/2071960617422860478",
+      "views": 35292,
+      "verdicts": [
+        {
+          "claim": "Post domaga się deportacji osób chwalących UPA i posługujących się symboliką banderowską.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających istnienie takiego oficjalnego żądania ani autentyczności posta przypisywanego @MorawieckiM z 30 czerwca 2026 roku. Zdanie to nie pojawia się w oficjalnych komunikatach rządu Polski ani w serwisach informacyjnych o wysokiej wiarygodności."
+        },
+        {
+          "claim": "Post domaga się przyjęcia ustawy umożliwiającej deportację osób chwalących UPA i posługujących się symboliką banderowską.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających istnienie takiego projektu ustawy lub oficjalnego stanowiska rządu polskiego z dnia 30 czerwca 2026 roku dotyczącego deportacji osób za chwalebność UPA i używanie symboliki banderowskiej. Nie znaleziono informacji o tego typu prawnych regulacjach w dostępnych bazach danych i raportach."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "false_dichotomy",
+      "cherry_picking",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 19,
+      "MOSTLY_TRUE": 25,
+      "TRUE": 16,
+      "MISLEADING": 3
+    },
+    "total_views": 423150,
+    "total_rts": 4819,
+    "community_notes_count": 0,
+    "rank": 26
+  },
+  {
+    "handle": "@krzysztofbosak",
+    "score": 24.3,
+    "sub_scores": {
+      "falsehood": 14.9,
+      "technique": 22.9,
+      "reach": 58.9,
+      "repeat": 42.9,
       "community_notes": 0.0
     },
     "total_posts": 14,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Pozostał już tylko rok na to, aby AI zastąpiło 25% zawodów na świecie. Myślicie, że przepowiednia Rafała Brzoski się spełni?\n\nPodpowiedź: organizacja PracodawcyRP, dalej lobbuje za ściąganiem do Polsk",
-      "url": "https://x.com/MNiedorozwoju/status/2071510898410193076",
-      "views": 14327,
-      "verdicts": [
-        {
-          "claim": "W ciągu najbliższego roku AI ma zastąpić 25% zawodów na świecie.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "Obecne raporty i analizy prognozują znaczący wpływ AI na rynek pracy, ale zastąpienie 25% zawodów w ciągu jednego roku jest nadmiernie optymistyczne i niepotwierdzone. Eksperci wskazują, że automatyzacja i AI będą zmieniać wiele zawodów, ale proces ten może rozciągać się na lata, a nie rok. Nie istnieją wiarygodne polskie ani międzynarodowe źródła potwierdzające tak szybkie i szerokie zastąpienie zawodów."
-        },
-        {
-          "claim": "Organizacja PracodawcyRP prowadzi działania lobbingowe na rzecz przyciągania imigrantów do Polski z krajów rozwijających się.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "PracodawcyRP jako reprezentant interesów pracodawców w Polsce otwarcie opowiadają się za ułatwieniami prawnymi i programami umożliwiającymi zatrudnienie imigrantów, w tym z krajów rozwijających się, aby wypełnić luki na rynku pracy. Organizacja podkreśla konieczność ułatwiania migracji zarobkowej oraz integracji cudzoziemców, co jest formą lobbingu na rzecz zwiększenia napływu takich pracowników."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 13,
-      "MOSTLY_TRUE": 9,
-      "TRUE": 3,
-      "MISLEADING": 3
-    },
-    "total_views": 534546,
-    "total_rts": 396,
-    "community_notes_count": 0,
-    "rank": 30
-  },
-  {
-    "handle": "@Bart_Wielinski",
-    "score": 24.6,
-    "sub_scores": {
-      "falsehood": 19.8,
-      "technique": 19.5,
-      "reach": 48.5,
-      "repeat": 50.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 12,
     "flagged_posts": 4,
     "top_fake": {
-      "text": "Nikt nie mówił o zamachu na prezydenta? Bardzo dziwne...",
-      "url": "https://x.com/Bart_Wielinski/status/2072339370938425408",
-      "views": 8124,
+      "text": "Czesi rozważają odebranie prezydentowi @ZelenskyyUa Orderu Białego Lwa z podobnych powodów, dla których w Polsce prezydent Karol Nawrocki podjął decyzję o odebraniu mu Orderu Orła Białego.\n\nBezczelna ",
+      "url": "https://x.com/krzysztofbosak/status/2072349386525290758",
+      "views": 15568,
       "verdicts": [
         {
-          "claim": "Nie pojawiły się publiczne wypowiedzi dotyczące zamachu na prezydenta.",
+          "claim": "Oficjalne władze czeskie rozważają odebranie prezydentowi Zełenskiemu Orderu Białego Lwa, podobnie jak prezydent Karol Nawrocki w Polsce podjął decyzję o odebraniu Zełenskiemu Orderu Orła Białego.",
           "verdict": "FALSE",
-          "evidence_summary": "Po przejrzeniu dostępnych polskich źródeł medialnych i oficjalnych komunikatów z okresu wokół daty 1 lipca 2026, stwierdzono liczne wypowiedzi polityków, ekspertów i mediów dotyczące potencjalnych zagrożeń i incydentów interpretowanych jako zamachy na prezydenta. Wypowiedzi te były szeroko relacjonowane i komentowane publicznie."
+          "evidence_summary": "Nie istnieją żadne publiczne, wiarygodne źródła potwierdzające, że władze czeskie rozważają odebranie prezydentowi Zełenskiemu Orderu Białego Lwa. Ponadto, prezydent Karol Nawrocki nie jest prezydentem Polski, a decyzje dotyczące Orderu Orła Białego są podejmowane na poziomie Prezydenta RP. Nie odnotowano też oficjalnej decyzji o odebraniu Zełenskiemu Orderu Orła Białego."
+        },
+        {
+          "claim": "Polityka władz w Kijowie wywołała reakcję polityczną w innych krajach.",
+          "verdict": "TRUE",
+          "evidence_summary": "Polityka władz Kijowa, zwłaszcza w kontekście działań związanych z konfliktem z Rosją, regularnie wywołuje reakcje polityczne na arenie międzynarodowej, co jest dokumentowane przez liczne polskie i zagraniczne źródła. Rządy wielu państw podejmują stanowiska, sankcje lub działania dyplomatyczne w odpowiedzi na wydarzenia i decyzje władz ukraińskich."
         }
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
+      "false_dichotomy",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "TRUE": 7,
-      "UNVERIFIABLE": 7,
-      "MOSTLY_TRUE": 7,
+      "TRUE": 14,
+      "MOSTLY_TRUE": 9,
       "FALSE": 2,
-      "MOSTLY_FALSE": 1,
-      "MISLEADING": 2
+      "UNVERIFIABLE": 10,
+      "MISLEADING": 3
     },
-    "total_views": 87090,
-    "total_rts": 1048,
+    "total_views": 226023,
+    "total_rts": 1140,
     "community_notes_count": 0,
-    "rank": 31
+    "rank": 27
+  },
+  {
+    "handle": "@kuba_w",
+    "score": 23.3,
+    "sub_scores": {
+      "falsehood": 20.7,
+      "technique": 21.1,
+      "reach": 40.6,
+      "repeat": 45.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Prezes konserwatywnego portalu The Federalist postuluje po wyroku SCOTUS wprowadzenie wymogu przymusowej sterylizacji każdej osoby wyjeżdżającej do USA.",
+      "url": "https://x.com/kuba_w/status/2072047434612506771",
+      "views": 2427,
+      "verdicts": [
+        {
+          "claim": "Prezes portalu The Federalist zaproponował wprowadzenie wymogu przymusowej sterylizacji dla każdej osoby wyjeżdżającej do USA po wyroku Sądu Najwyższego Stanów Zjednoczonych (SCOTUS).",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych publicznie dostępnych ani wiarygodnych źródeł potwierdzających, że prezes portalu The Federalist proponował przymusową sterylizację osób wyjeżdżających do USA po wyroku SCOTUS. Portal The Federalist oraz jego liderzy nigdy nie publikowali takiego postulatu, a przeszukiwanie polskich i anglojęzycznych źródeł nie daje podstaw do takiego stwierdzenia."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "FALSE": 2,
+      "MOSTLY_TRUE": 7,
+      "TRUE": 4,
+      "UNVERIFIABLE": 5,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 42123,
+    "total_rts": 48,
+    "community_notes_count": 0,
+    "rank": 28
   },
   {
     "handle": "@KosiniakKamysz",
-    "score": 24.3,
+    "score": 23.3,
     "sub_scores": {
       "falsehood": 14.5,
-      "technique": 24.2,
+      "technique": 19.0,
       "reach": 76.4,
       "repeat": 24.3,
       "community_notes": 0.0
@@ -1422,7 +1258,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "false_dichotomy",
       "cherry_picking"
     ],
@@ -1437,14 +1272,101 @@
     "total_views": 1133439,
     "total_rts": 3746,
     "community_notes_count": 0,
-    "rank": 32
+    "rank": 29
+  },
+  {
+    "handle": "@Bart_Wielinski",
+    "score": 22.8,
+    "sub_scores": {
+      "falsehood": 19.8,
+      "technique": 10.2,
+      "reach": 48.5,
+      "repeat": 50.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 12,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Nikt nie mówił o zamachu na prezydenta? Bardzo dziwne...",
+      "url": "https://x.com/Bart_Wielinski/status/2072339370938425408",
+      "views": 8124,
+      "verdicts": [
+        {
+          "claim": "Nie pojawiły się publiczne wypowiedzi dotyczące zamachu na prezydenta.",
+          "verdict": "FALSE",
+          "evidence_summary": "Po przejrzeniu dostępnych polskich źródeł medialnych i oficjalnych komunikatów z okresu wokół daty 1 lipca 2026, stwierdzono liczne wypowiedzi polityków, ekspertów i mediów dotyczące potencjalnych zagrożeń i incydentów interpretowanych jako zamachy na prezydenta. Wypowiedzi te były szeroko relacjonowane i komentowane publicznie."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 7,
+      "UNVERIFIABLE": 7,
+      "MOSTLY_TRUE": 7,
+      "FALSE": 2,
+      "MOSTLY_FALSE": 1,
+      "MISLEADING": 2
+    },
+    "total_views": 87090,
+    "total_rts": 1048,
+    "community_notes_count": 0,
+    "rank": 30
+  },
+  {
+    "handle": "@GodekKajaU",
+    "score": 22.6,
+    "sub_scores": {
+      "falsehood": 16.0,
+      "technique": 34.7,
+      "reach": 27.7,
+      "repeat": 45.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Warszawa, 30.06.2026r.\n\nZAMIAST WYDAWAĆ KOMUNIKATY, SKOŃCZCIE Z ABORCJĄ!\n\nOświadczenie ws. stanowiska Wojewódzkiego Szpitala Specjalistycznego w Lublinie z dn. 29.06.2026 r.\n\nPod komunikatem prasowym ",
+      "url": "https://x.com/GodekKajaU/status/2071892047846391881",
+      "views": 1407,
+      "verdicts": [
+        {
+          "claim": "Komunikat prasowy z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny im. Stefana Kardynała Wyszyńskiego w Lublinie nie był podpisany przez żadnego przedstawiciela szpitala.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie źródeł ani archiwów potwierdzających treść i formę komunikatu prasowego Szpitala z dnia 29 czerwca 2026 roku, w tym informacje o podpisie lub jego braku pod komunikatem."
+        },
+        {
+          "claim": "Treść komunikatu z 29 czerwca 2026 roku przez Wojewódzki Szpital Specjalistyczny w Lublinie została w dużej mierze wygenerowana przez sztuczną inteligencję.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie źródeł ani potwierdzeń dotyczących sposobu powstania komunikatu Wojewódzkiego Szpitala Specjalistycznego w Lublinie z 29 czerwca 2026 roku. Analiza treści bez dostępu do oryginalnego dokumentu i kontekstu nie pozwala zweryfikować użycia sztucznej inteligencji."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "TRUE": 12,
+      "MOSTLY_TRUE": 15,
+      "UNVERIFIABLE": 18,
+      "FALSE": 1,
+      "MISLEADING": 4,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 12782,
+    "total_rts": 306,
+    "community_notes_count": 0,
+    "rank": 31
   },
   {
     "handle": "@DanielObajtek",
-    "score": 24.0,
+    "score": 22.6,
     "sub_scores": {
       "falsehood": 16.9,
-      "technique": 30.0,
+      "technique": 23.1,
       "reach": 71.1,
       "repeat": 15.0,
       "community_notes": 0.0
@@ -1469,7 +1391,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking",
       "ad_hominem"
     ],
@@ -1483,57 +1404,96 @@
     "total_views": 700568,
     "total_rts": 4305,
     "community_notes_count": 0,
+    "rank": 32
+  },
+  {
+    "handle": "@MNiedorozwoju",
+    "score": 22.0,
+    "sub_scores": {
+      "falsehood": 14.1,
+      "technique": 13.6,
+      "reach": 68.2,
+      "repeat": 32.1,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Pozostał już tylko rok na to, aby AI zastąpiło 25% zawodów na świecie. Myślicie, że przepowiednia Rafała Brzoski się spełni?\n\nPodpowiedź: organizacja PracodawcyRP, dalej lobbuje za ściąganiem do Polsk",
+      "url": "https://x.com/MNiedorozwoju/status/2071510898410193076",
+      "views": 14327,
+      "verdicts": [
+        {
+          "claim": "W ciągu najbliższego roku AI ma zastąpić 25% zawodów na świecie.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Obecne raporty i analizy prognozują znaczący wpływ AI na rynek pracy, ale zastąpienie 25% zawodów w ciągu jednego roku jest nadmiernie optymistyczne i niepotwierdzone. Eksperci wskazują, że automatyzacja i AI będą zmieniać wiele zawodów, ale proces ten może rozciągać się na lata, a nie rok. Nie istnieją wiarygodne polskie ani międzynarodowe źródła potwierdzające tak szybkie i szerokie zastąpienie zawodów."
+        },
+        {
+          "claim": "Organizacja PracodawcyRP prowadzi działania lobbingowe na rzecz przyciągania imigrantów do Polski z krajów rozwijających się.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "PracodawcyRP jako reprezentant interesów pracodawców w Polsce otwarcie opowiadają się za ułatwieniami prawnymi i programami umożliwiającymi zatrudnienie imigrantów, w tym z krajów rozwijających się, aby wypełnić luki na rynku pracy. Organizacja podkreśla konieczność ułatwiania migracji zarobkowej oraz integracji cudzoziemców, co jest formą lobbingu na rzecz zwiększenia napływu takich pracowników."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MOSTLY_TRUE": 9,
+      "TRUE": 3,
+      "MISLEADING": 3
+    },
+    "total_views": 534546,
+    "total_rts": 396,
+    "community_notes_count": 0,
     "rank": 33
   },
   {
-    "handle": "@K_Stanowski",
-    "score": 23.3,
+    "handle": "@SlawomirMentzen",
+    "score": 21.7,
     "sub_scores": {
-      "falsehood": 13.5,
-      "technique": 23.2,
-      "reach": 78.6,
+      "falsehood": 8.5,
+      "technique": 24.6,
+      "reach": 76.1,
       "repeat": 18.8,
       "community_notes": 0.0
     },
     "total_posts": 8,
     "flagged_posts": 1,
     "top_fake": {
-      "text": "Pani Paulina Nodzyńska z Wyborczej w skrócie rozpisała, czym jest Kanał Zero:\n\n\"Kanał, który Stanowski założył, swoim znakiem rozpoznawczym uczynił wpuszczanie do sieci kłamliwych, fragmentarycznych f",
-      "url": "https://x.com/K_Stanowski/status/2071913856230674808",
-      "views": 172657,
+      "text": "Bardzo dobrze, że Prezydent Nawrocki odebrał order Zełenskiemu! https://t.co/qVRrxL6iFo",
+      "url": "https://x.com/SlawomirMentzen/status/2070188144872259833",
+      "views": 28446,
       "verdicts": [
         {
-          "claim": "Kanał założony przez Stanowskiego publikuje fragmentaryczne filmy, które są określane jako kłamliwe.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "Kanał założony przez Kacpra Stanowskiego znany jest z publikowania materiałów dotyczących sportu, które czasem są krytykowane za selektywne dobieranie fragmentów, jednak określanie ich jednoznacznie jako kłamliwe wymaga konkretnych, udokumentowanych dowodów. W mediach pojawiają się opinie o fragmentarycznym charakterze materiałów, lecz brak jest powszechnej i potwierdzonej informacji o systematycznym wprowadzaniu w błąd."
-        },
-        {
-          "claim": "Celem publikowanych filmów jest ośmieszenie gości audycji lub rozpowszechnianie fałszywych informacji.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych źródeł potwierdzających jednoznacznie intencje twórców filmów, które mają na celu albo ośmieszenie gości audycji, albo celowe rozpowszechnianie fałszywych informacji. Intencje te są subiektywne i nie są możliwe do obiektywnego potwierdzenia wyłącznie na podstawie dostępnych danych."
+          "claim": "Prezydent Nawrocki odebrał order, który został przyznany Zełenskiemu.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych publicznie dostępnych informacji ani wiarygodnych polskich źródeł potwierdzających, że prezydent o nazwisku Nawrocki istniał lub odebrał order przyznany prezydentowi Zełenskiemu. Prezydent Ukrainy, Wołodymyr Zełenski, otrzymał wiele wyróżnień od różnych państw, ale żadne z nich nie zostało oficjalnie odebrane przez osobę o nazwisku Nawrocki. Informacja ta nie jest znana w polskich mediach ani oficjalnych komunikatach państwowych."
         }
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
+      "false_dichotomy",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 23,
-      "MOSTLY_TRUE": 1,
-      "MISLEADING": 1
+      "TRUE": 13,
+      "MOSTLY_TRUE": 3,
+      "FALSE": 1,
+      "UNVERIFIABLE": 1
     },
-    "total_views": 1394144,
-    "total_rts": 4295,
+    "total_views": 1109522,
+    "total_rts": 1494,
     "community_notes_count": 0,
     "rank": 34
   },
   {
     "handle": "@Kpelczynska",
-    "score": 23.0,
+    "score": 21.3,
     "sub_scores": {
       "falsehood": 11.2,
-      "technique": 34.2,
+      "technique": 25.9,
       "reach": 66.5,
       "repeat": 18.8,
       "community_notes": 0.0
@@ -1558,9 +1518,8 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
-      "decontextualization",
-      "cherry_picking"
+      "cherry_picking",
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 28,
@@ -1574,90 +1533,11 @@
     "rank": 35
   },
   {
-    "handle": "@SlawomirMentzen",
-    "score": 22.4,
-    "sub_scores": {
-      "falsehood": 8.5,
-      "technique": 28.0,
-      "reach": 76.1,
-      "repeat": 18.8,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "Bardzo dobrze, że Prezydent Nawrocki odebrał order Zełenskiemu! https://t.co/qVRrxL6iFo",
-      "url": "https://x.com/SlawomirMentzen/status/2070188144872259833",
-      "views": 28446,
-      "verdicts": [
-        {
-          "claim": "Prezydent Nawrocki odebrał order, który został przyznany Zełenskiemu.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie ma żadnych publicznie dostępnych informacji ani wiarygodnych polskich źródeł potwierdzających, że prezydent o nazwisku Nawrocki istniał lub odebrał order przyznany prezydentowi Zełenskiemu. Prezydent Ukrainy, Wołodymyr Zełenski, otrzymał wiele wyróżnień od różnych państw, ale żadne z nich nie zostało oficjalnie odebrane przez osobę o nazwisku Nawrocki. Informacja ta nie jest znana w polskich mediach ani oficjalnych komunikatach państwowych."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "false_dichotomy",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 13,
-      "MOSTLY_TRUE": 3,
-      "FALSE": 1,
-      "UNVERIFIABLE": 1
-    },
-    "total_views": 1109522,
-    "total_rts": 1494,
-    "community_notes_count": 0,
-    "rank": 36
-  },
-  {
-    "handle": "@okiemtomkaw",
-    "score": 22.2,
-    "sub_scores": {
-      "falsehood": 17.5,
-      "technique": 22.0,
-      "reach": 50.0,
-      "repeat": 33.3,
-      "community_notes": 0.0
-    },
-    "total_posts": 9,
-    "flagged_posts": 2,
-    "top_fake": {
-      "text": "Nawet Elon zawiesił herszta Piebiaka. https://t.co/SMEoQ2QHSn",
-      "url": "https://x.com/okiemtomkaw/status/2072051353975685594",
-      "views": 3534,
-      "verdicts": [
-        {
-          "claim": "Elon zawiesił Herszta Piebiaka.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie istnieją żadne wiarygodne doniesienia, które potwierdzałyby, że Elon Musk, znany przedsiębiorca technologiczny, miał jakikolwiek związek z zawieszeniem lub odwołaniem Zbigniewa Piebiaka, byłego polskiego wiceministra sprawiedliwości. \"Herszt Piebiak\" to nieformalny przydomek odnoszący się do Zbigniewa Piebiaka i nie ma publicznych informacji wskazujących na działania Elona Muska w sferze polskiej polityki, a tym bardziej dotyczących bezpośredniego zawieszenia Piebiaka."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 13,
-      "TRUE": 2,
-      "MISLEADING": 1,
-      "FALSE": 1
-    },
-    "total_views": 100177,
-    "total_rts": 1940,
-    "community_notes_count": 0,
-    "rank": 37
-  },
-  {
     "handle": "@waldemar_buda",
-    "score": 22.1,
+    "score": 21.1,
     "sub_scores": {
       "falsehood": 12.9,
-      "technique": 43.5,
+      "technique": 38.4,
       "reach": 54.5,
       "repeat": 8.8,
       "community_notes": 0.0
@@ -1677,11 +1557,10 @@
       ]
     },
     "techniques": [
-      "decontextualization",
       "ad_hominem",
-      "appeal_to_emotion",
+      "false_dichotomy",
       "cherry_picking",
-      "false_dichotomy"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 23,
@@ -1692,14 +1571,94 @@
     "total_views": 151436,
     "total_rts": 2940,
     "community_notes_count": 0,
+    "rank": 36
+  },
+  {
+    "handle": "@K_Stanowski",
+    "score": 20.9,
+    "sub_scores": {
+      "falsehood": 13.5,
+      "technique": 11.1,
+      "reach": 78.6,
+      "repeat": 18.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Pani Paulina Nodzyńska z Wyborczej w skrócie rozpisała, czym jest Kanał Zero:\n\n\"Kanał, który Stanowski założył, swoim znakiem rozpoznawczym uczynił wpuszczanie do sieci kłamliwych, fragmentarycznych f",
+      "url": "https://x.com/K_Stanowski/status/2071913856230674808",
+      "views": 172657,
+      "verdicts": [
+        {
+          "claim": "Kanał założony przez Stanowskiego publikuje fragmentaryczne filmy, które są określane jako kłamliwe.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Kanał założony przez Kacpra Stanowskiego znany jest z publikowania materiałów dotyczących sportu, które czasem są krytykowane za selektywne dobieranie fragmentów, jednak określanie ich jednoznacznie jako kłamliwe wymaga konkretnych, udokumentowanych dowodów. W mediach pojawiają się opinie o fragmentarycznym charakterze materiałów, lecz brak jest powszechnej i potwierdzonej informacji o systematycznym wprowadzaniu w błąd."
+        },
+        {
+          "claim": "Celem publikowanych filmów jest ośmieszenie gości audycji lub rozpowszechnianie fałszywych informacji.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych źródeł potwierdzających jednoznacznie intencje twórców filmów, które mają na celu albo ośmieszenie gości audycji, albo celowe rozpowszechnianie fałszywych informacji. Intencje te są subiektywne i nie są możliwe do obiektywnego potwierdzenia wyłącznie na podstawie dostępnych danych."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 23,
+      "MOSTLY_TRUE": 1,
+      "MISLEADING": 1
+    },
+    "total_views": 1394144,
+    "total_rts": 4295,
+    "community_notes_count": 0,
+    "rank": 37
+  },
+  {
+    "handle": "@okiemtomkaw",
+    "score": 20.6,
+    "sub_scores": {
+      "falsehood": 17.5,
+      "technique": 14.1,
+      "reach": 50.0,
+      "repeat": 33.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Nawet Elon zawiesił herszta Piebiaka. https://t.co/SMEoQ2QHSn",
+      "url": "https://x.com/okiemtomkaw/status/2072051353975685594",
+      "views": 3534,
+      "verdicts": [
+        {
+          "claim": "Elon zawiesił Herszta Piebiaka.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją żadne wiarygodne doniesienia, które potwierdzałyby, że Elon Musk, znany przedsiębiorca technologiczny, miał jakikolwiek związek z zawieszeniem lub odwołaniem Zbigniewa Piebiaka, byłego polskiego wiceministra sprawiedliwości. \"Herszt Piebiak\" to nieformalny przydomek odnoszący się do Zbigniewa Piebiaka i nie ma publicznych informacji wskazujących na działania Elona Muska w sferze polskiej polityki, a tym bardziej dotyczących bezpośredniego zawieszenia Piebiaka."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "TRUE": 2,
+      "MISLEADING": 1,
+      "FALSE": 1
+    },
+    "total_views": 100177,
+    "total_rts": 1940,
+    "community_notes_count": 0,
     "rank": 38
   },
   {
     "handle": "@PolaMatysiak",
-    "score": 21.9,
+    "score": 20.2,
     "sub_scores": {
       "falsehood": 13.2,
-      "technique": 22.0,
+      "technique": 13.6,
       "reach": 52.9,
       "repeat": 37.5,
       "community_notes": 0.0
@@ -1724,7 +1683,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -1739,56 +1697,11 @@
     "rank": 39
   },
   {
-    "handle": "@Ten_Psycholog",
-    "score": 20.7,
-    "sub_scores": {
-      "falsehood": 13.7,
-      "technique": 19.8,
-      "reach": 51.0,
-      "repeat": 33.3,
-      "community_notes": 0.0
-    },
-    "total_posts": 9,
-    "flagged_posts": 2,
-    "top_fake": {
-      "text": "Przyznaję, że prawica ładnie pocisnęła z fantastycznymi pomysłami na wakacje. Co tydzień nowa rewelacja i to coraz grubsze tematy. Ludzie będą mieli o czym mówić przy grillu, na rodzinnych spotkaniach",
-      "url": "https://x.com/Ten_Psycholog/status/2070912640835084658",
-      "views": 15093,
-      "verdicts": [
-        {
-          "claim": "Po okresie prawie trzech lat nie wystąpiły żadne afery.",
-          "verdict": "FALSE",
-          "evidence_summary": "W ciągu ostatnich trzech lat w Polsce miały miejsce liczne afery polityczne i społeczne, takie jak afery dotyczące m.in. nieprawidłowości w funduszach publicznych, korupcji czy skandali medialnych. Informacje na ten temat są szeroko dostępne w polskich mediach o wysokiej wiarygodności."
-        },
-        {
-          "claim": "Stopa bezrobocia jest niska.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie można zweryfikować prawdziwości tego twierdzenia dla czerwca 2026 roku, ponieważ obecne dostępne źródła statystyczne dotyczą okresu do początku 2024 roku. Aktualne dane o stopie bezrobocia, jeśli opublikowane, nie są jeszcze powszechnie dostępne."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 14,
-      "TRUE": 6,
-      "FALSE": 1,
-      "MOSTLY_TRUE": 4,
-      "MISLEADING": 1
-    },
-    "total_views": 109543,
-    "total_rts": 1028,
-    "community_notes_count": 0,
-    "rank": 40
-  },
-  {
     "handle": "@adamSzlapka",
-    "score": 20.4,
+    "score": 19.3,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 15.6,
+      "technique": 10.0,
       "reach": 64.5,
       "repeat": 21.4,
       "community_notes": 0.0
@@ -1813,7 +1726,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -1826,14 +1738,58 @@
     "total_views": 378563,
     "total_rts": 4154,
     "community_notes_count": 0,
+    "rank": 40
+  },
+  {
+    "handle": "@Ten_Psycholog",
+    "score": 18.9,
+    "sub_scores": {
+      "falsehood": 13.7,
+      "technique": 10.8,
+      "reach": 51.0,
+      "repeat": 33.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Przyznaję, że prawica ładnie pocisnęła z fantastycznymi pomysłami na wakacje. Co tydzień nowa rewelacja i to coraz grubsze tematy. Ludzie będą mieli o czym mówić przy grillu, na rodzinnych spotkaniach",
+      "url": "https://x.com/Ten_Psycholog/status/2070912640835084658",
+      "views": 15093,
+      "verdicts": [
+        {
+          "claim": "Po okresie prawie trzech lat nie wystąpiły żadne afery.",
+          "verdict": "FALSE",
+          "evidence_summary": "W ciągu ostatnich trzech lat w Polsce miały miejsce liczne afery polityczne i społeczne, takie jak afery dotyczące m.in. nieprawidłowości w funduszach publicznych, korupcji czy skandali medialnych. Informacje na ten temat są szeroko dostępne w polskich mediach o wysokiej wiarygodności."
+        },
+        {
+          "claim": "Stopa bezrobocia jest niska.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie można zweryfikować prawdziwości tego twierdzenia dla czerwca 2026 roku, ponieważ obecne dostępne źródła statystyczne dotyczą okresu do początku 2024 roku. Aktualne dane o stopie bezrobocia, jeśli opublikowane, nie są jeszcze powszechnie dostępne."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 14,
+      "TRUE": 6,
+      "FALSE": 1,
+      "MOSTLY_TRUE": 4,
+      "MISLEADING": 1
+    },
+    "total_views": 109543,
+    "total_rts": 1028,
+    "community_notes_count": 0,
     "rank": 41
   },
   {
     "handle": "@Dariusz_Jonski",
-    "score": 19.9,
+    "score": 17.9,
     "sub_scores": {
       "falsehood": 11.3,
-      "technique": 21.4,
+      "technique": 11.3,
       "reach": 68.1,
       "repeat": 13.6,
       "community_notes": 0.0
@@ -1858,7 +1814,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -1875,10 +1830,10 @@
   },
   {
     "handle": "@KotulaKat",
-    "score": 19.2,
+    "score": 17.5,
     "sub_scores": {
       "falsehood": 14.8,
-      "technique": 18.2,
+      "technique": 9.8,
       "reach": 55.4,
       "repeat": 18.8,
       "community_notes": 0.0
@@ -1903,7 +1858,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -1917,11 +1871,48 @@
     "rank": 43
   },
   {
+    "handle": "@szachmad",
+    "score": 16.5,
+    "sub_scores": {
+      "falsehood": 11.5,
+      "technique": 19.9,
+      "reach": 60.8,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Piotr Matan po szarży w taksówce nie jest już pełnomocnikiem wojewody. https://t.co/Uk5pbOv0hA",
+      "url": "https://x.com/szachmad/status/2072372651100688681",
+      "views": 14555,
+      "verdicts": [
+        {
+          "claim": "Piotr Matan nie pełni już funkcji pełnomocnika wojewody po incydencie związanym z szarżą w taksówce.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych źródeł potwierdzających, że Piotr Matan przestał być pełnomocnikiem wojewody po incydencie z taksówką. Dostępne informacje o incydencie lub jego zwolnieniu nie są udokumentowane w wiarygodnych polskich mediach ani oficjalnych komunikatach."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 24,
+      "TRUE": 1
+    },
+    "total_views": 269970,
+    "total_rts": 1410,
+    "community_notes_count": 0,
+    "rank": 44
+  },
+  {
     "handle": "@ZandbergRAZEM",
-    "score": 19.2,
+    "score": 16.5,
     "sub_scores": {
       "falsehood": 11.8,
-      "technique": 29.0,
+      "technique": 15.6,
       "reach": 65.5,
       "repeat": 0.0,
       "community_notes": 0.0
@@ -1946,7 +1937,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -1957,128 +1947,14 @@
     "total_views": 417986,
     "total_rts": 934,
     "community_notes_count": 0,
-    "rank": 44
-  },
-  {
-    "handle": "@mmzawisza",
-    "score": 17.8,
-    "sub_scores": {
-      "falsehood": 11.8,
-      "technique": 27.0,
-      "reach": 58.8,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 4,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Wygląda na to, że prezydent Jacek Jaśkowiak albo złożył fałszywe zeznania albo skłamał w oświadczeniu majątkowym. No chyba, że zaraz się okaże, że garniak pożyczył od kuzyna xD",
-      "url": "https://x.com/mmzawisza/status/2072036381182820550",
-      "views": 76517,
-      "verdicts": [
-        {
-          "claim": "Istnieje twierdzenie, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub zawarł nieprawdziwe informacje w oświadczeniu majątkowym.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł publicznych ani oficjalnych informacji potwierdzających, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub podał nieprawdziwe informacje w oświadczeniu majątkowym. Brak dostępnych doniesień z mediów głównego nurtu czy instytucji kontrolnych o takim fakcie."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "false_dichotomy"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 5,
-      "MOSTLY_TRUE": 1
-    },
-    "total_views": 225787,
-    "total_rts": 1244,
-    "community_notes_count": 0,
     "rank": 45
   },
   {
-    "handle": "@szachmad",
-    "score": 17.6,
-    "sub_scores": {
-      "falsehood": 11.5,
-      "technique": 25.3,
-      "reach": 60.8,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 11,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Piotr Matan po szarży w taksówce nie jest już pełnomocnikiem wojewody. https://t.co/Uk5pbOv0hA",
-      "url": "https://x.com/szachmad/status/2072372651100688681",
-      "views": 14555,
-      "verdicts": [
-        {
-          "claim": "Piotr Matan nie pełni już funkcji pełnomocnika wojewody po incydencie związanym z szarżą w taksówce.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych źródeł potwierdzających, że Piotr Matan przestał być pełnomocnikiem wojewody po incydencie z taksówką. Dostępne informacje o incydencie lub jego zwolnieniu nie są udokumentowane w wiarygodnych polskich mediach ani oficjalnych komunikatach."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "confabulation",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 24,
-      "TRUE": 1
-    },
-    "total_views": 269970,
-    "total_rts": 1410,
-    "community_notes_count": 0,
-    "rank": 46
-  },
-  {
-    "handle": "@NocnaZ",
-    "score": 17.6,
-    "sub_scores": {
-      "falsehood": 12.7,
-      "technique": 21.4,
-      "reach": 54.2,
-      "repeat": 9.4,
-      "community_notes": 0.0
-    },
-    "total_posts": 16,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "🇫🇷 Rada Ministrów ustalila datę wyborów prezydenckich we Francji w 2027 na niedzielę 18 kwietniaI (I tura) i 2 maja (II tura). \nNiniejszym igrzyska i festiwal obietnic uważa za otwarte ;)",
-      "url": "https://x.com/NocnaZ/status/2072330890169008631",
-      "views": 5064,
-      "verdicts": [
-        {
-          "claim": "Rada Ministrów ustaliła datę wyborów prezydenckich we Francji w 2027 roku na niedzielę 18 kwietnia (I tura) oraz 2 maja (II tura).",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień obecny (czerwiec 2024) brak jest publicznie dostępnych polskich lub międzynarodowych źródeł potwierdzających, że Rada Ministrów Francji ustaliła konkretne daty wyborów prezydenckich 2027. Wybory prezydenckie we Francji zwykle odbywają się na wiosnę, ale ostateczne daty są podawane bliżej terminu wyborów. Następne planowane wybory prezydenckie mają się odbyć w 2027 roku, lecz oficjalnie nie ogłoszono dat."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 5,
-      "UNVERIFIABLE": 22,
-      "MOSTLY_TRUE": 14,
-      "FALSE": 1
-    },
-    "total_views": 146860,
-    "total_rts": 1896,
-    "community_notes_count": 0,
-    "rank": 47
-  },
-  {
     "handle": "@krzysztofbrejza",
-    "score": 17.6,
+    "score": 16.0,
     "sub_scores": {
       "falsehood": 14.0,
-      "technique": 26.6,
+      "technique": 18.6,
       "reach": 43.2,
       "repeat": 10.7,
       "community_notes": 0.0
@@ -2103,7 +1979,6 @@
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking",
       "ad_hominem"
     ],
@@ -2116,174 +1991,7 @@
     "total_views": 53617,
     "total_rts": 512,
     "community_notes_count": 0,
-    "rank": 48
-  },
-  {
-    "handle": "@PatrykJaki",
-    "score": 16.7,
-    "sub_scores": {
-      "falsehood": 8.6,
-      "technique": 24.9,
-      "reach": 60.8,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 14,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Nowa narracja PO: badania zmarłemu nie robiono, aby ukryć przekręty, ale prowadzono tam badania jak nad …Tutanchamonem 👇 https://t.co/mq5c9pihto",
-      "url": "https://x.com/PatrykJaki/status/2070095046913798175",
-      "views": 5193,
-      "verdicts": [
-        {
-          "claim": "Nie wykonano badań na zmarłym, co według narracji miało na celu ukrycie przekrętów.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Dostępne publicznie źródła nie zawierają jednoznacznej informacji potwierdzającej lub zaprzeczającej, że nie wykonano badań na zmarłym, aby ukryć przekręty. Brak jest również wiarygodnych źródeł, które potwierdzałyby motywację takiej decyzji lub jej skutki. Sprawa wymaga dalszych, szczegółowych ustaleń."
-        },
-        {
-          "claim": "Prowadzono badania na zmarłym, które porównuje się do badań prowadzonych na Tutanchamonie.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie istnieją publicznie dostępne informacje ani wiarygodne źródła potwierdzające, że prowadzone są lub były badania na jakimś zmarłym, które są porównywane do badań nad Tutanchamonem w kontekście podanym w twierdzeniu. Brak szczegółów dotyczących osoby zmarłej lub rodzaju badań uniemożliwia weryfikację tej informacji."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 10,
-      "UNVERIFIABLE": 21,
-      "MOSTLY_TRUE": 3
-    },
-    "total_views": 270422,
-    "total_rts": 5841,
-    "community_notes_count": 0,
-    "rank": 49
-  },
-  {
-    "handle": "@RepublikaTV",
-    "score": 16.1,
-    "sub_scores": {
-      "falsehood": 21.6,
-      "technique": 17.5,
-      "reach": 27.6,
-      "repeat": 13.6,
-      "community_notes": 0.0
-    },
-    "total_posts": 11,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "#GośćDzisiaj | @CzarnekP: baryłka na rynkach światowych kosztuje dużo mniej niż w czasach rządów na Orlenie - Obajtka, nie ma powodów, żeby paliwo drożało. \n\n📺 Zobacz całość: https://t.co/z1BL0jrLyw\n\n",
-      "url": "https://x.com/RepublikaTV/status/2072412653545222579",
-      "views": 1357,
-      "verdicts": [
-        {
-          "claim": "Cena baryłki ropy na rynkach światowych jest niższa niż w okresie, kiedy Obajtek kierował Orlenem.",
-          "verdict": "MOSTLY_FALSE",
-          "evidence_summary": "Andrzej Obajtek został prezesem Orlenu w lutym 2018 roku. W okresie jego kierowania (2018-2026) ceny ropy na światowych rynkach ulegały dużym wahaniom, osiągając zarówno znacznie wyższe poziomy (np. w 2022 roku przekraczające 100 USD za baryłkę), jak i niższe. Na dzień 1 lipca 2026 roku cena baryłki ropy jest notowana na poziomie zbliżonym do lub wyższym niż średnie ceny w niektórych wcześniejszych okresach rządów Obajtka, co wskazuje, że nie można jednoznacznie stwierdzić, że obecna cena jest "
-        },
-        {
-          "claim": "Według autora, nie występują czynniki, które mogłyby spowodować wzrost cen paliwa.",
-          "verdict": "FALSE",
-          "evidence_summary": "Ceny paliw na rynku są uzależnione od wielu czynników takich jak cena ropy naftowej, kursy walut, podatki i sytuacja geopolityczna. Od połowy 2026 roku notowano wzrosty cen ropy naftowej na rynkach światowych oraz napięcia geopolityczne, które podnoszą ceny paliw. W Polsce dodatkowo wpływają zmiany podatkowe i koszty produkcji, co wskazuje na istnienie przyczyn wzrostu cen paliwa."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 13,
-      "MOSTLY_FALSE": 1,
-      "FALSE": 1,
-      "TRUE": 1
-    },
-    "total_views": 12677,
-    "total_rts": 35,
-    "community_notes_count": 0,
-    "rank": 50
-  },
-  {
-    "handle": "@sjkaleta",
-    "score": 16.1,
-    "sub_scores": {
-      "falsehood": 11.0,
-      "technique": 25.8,
-      "reach": 51.1,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Miały być rozliczenia, a pierwszy wniosek o uchylenie immunitetu z zarzutami korupcji wobec polityka w tej kadencji dotyczy człowieka z ekipy Tuska i jest ordynarnie w Sejmie skręcany‼️\n\nTeraz wiecie ",
-      "url": "https://x.com/sjkaleta/status/2070440879735603677",
-      "views": 5848,
-      "verdicts": [
-        {
-          "claim": "Pierwszy wniosek o uchylenie immunitetu z zarzutami korupcji wobec polityka w tej kadencji dotyczy osoby z partii związanej z Donaldem Tuskiem.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień 26 czerwca 2026 brak jest publicznie dostępnych, wiarygodnych informacji medialnych lub oficjalnych komunikatów potwierdzających, który polityk i z jakiej partii był przedmiotem pierwszego wniosku o uchylenie immunitetu w nowej kadencji Sejmu."
-        },
-        {
-          "claim": "Prokuratura Europejska wszczęła postępowanie wobec możliwości korupcji posła Wojciecha Króla.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych informacji z wiarygodnych polskich lub europejskich źródeł potwierdzających, że Prokuratura Europejska (EPPO) wszczęła postępowanie wobec posła Wojciecha Króla w związku z możliwością korupcji. Dostępne raporty EPPO oraz doniesienia medialne do czerwca 2026 nie zawierają takiego potwierdzenia."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 12,
-      "TRUE": 1,
-      "MOSTLY_TRUE": 1
-    },
-    "total_views": 110795,
-    "total_rts": 1678,
-    "community_notes_count": 0,
-    "rank": 51
-  },
-  {
-    "handle": "@JanSpiewak",
-    "score": 15.8,
-    "sub_scores": {
-      "falsehood": 10.1,
-      "technique": 9.3,
-      "reach": 72.4,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 6,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "RT @jakubwiech: No to mamy nowy polski rekord ciepła dla czerwca.\n\n39,1°C - najwyższa temperatura w historii polskich czerwcowych pomiarów.…",
-      "url": "https://x.com/JanSpiewak/status/2071197896087642362",
-      "views": 317243,
-      "verdicts": [
-        {
-          "claim": "Temperatura 39,1°C jest najwyższą zanotowaną wartością w czerwcu w polskich pomiarach meteorologicznych.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Do czerwca 2024 roku najwyższa zanotowana temperatura w Polsce w czerwcu wynosiła około 38°C. Brak jest publicznie dostępnych danych meteorologicznych potwierdzających pomiar 39,1°C w czerwcu, szczególnie dla daty 28 czerwca 2026, która jeszcze nie nastąpiła."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 10,
-      "MOSTLY_TRUE": 1,
-      "TRUE": 5
-    },
-    "total_views": 788796,
-    "total_rts": 418,
-    "community_notes_count": 0,
-    "rank": 52
+    "rank": 46
   },
   {
     "handle": "@gajewska_kinga",
@@ -2318,45 +2026,166 @@
     "total_views": 21552,
     "total_rts": 46,
     "community_notes_count": 0,
-    "rank": 53
+    "rank": 47
   },
   {
-    "handle": "@GadowskiWitold",
-    "score": 14.8,
+    "handle": "@NocnaZ",
+    "score": 15.3,
     "sub_scores": {
-      "falsehood": 9.0,
-      "technique": 31.3,
-      "reach": 38.8,
-      "repeat": 0.0,
+      "falsehood": 12.7,
+      "technique": 9.8,
+      "reach": 54.2,
+      "repeat": 9.4,
       "community_notes": 0.0
     },
-    "total_posts": 3,
-    "flagged_posts": 0,
+    "total_posts": 16,
+    "flagged_posts": 1,
     "top_fake": {
-      "text": "Czciciele Zelenskiego - zamiast odznaczeń, kórych nigdy nie powinnni odtrzymać - niech oddadzą mieszkania i nieruchomości w Polsce, które kupili za kradzione pieniądze. Oto pierwsza lista szmondaków:\n",
-      "url": "https://x.com/GadowskiWitold/status/2070087084434501847",
-      "views": 11579,
+      "text": "🇫🇷 Rada Ministrów ustalila datę wyborów prezydenckich we Francji w 2027 na niedzielę 18 kwietniaI (I tura) i 2 maja (II tura). \nNiniejszym igrzyska i festiwal obietnic uważa za otwarte ;)",
+      "url": "https://x.com/NocnaZ/status/2072330890169008631",
+      "views": 5064,
       "verdicts": [
         {
-          "claim": "Osoby wspierające Zelenskiego posiadają mieszkania i nieruchomości w Polsce, które zostały zakupione za pieniądze pochodzące z nielegalnych źródeł.",
+          "claim": "Rada Ministrów ustaliła datę wyborów prezydenckich we Francji w 2027 roku na niedzielę 18 kwietnia (I tura) oraz 2 maja (II tura).",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie istnieją publiczne, wiarygodne źródła potwierdzające, że osoby wspierające Wołodymyra Zełenskiego posiadają w Polsce nieruchomości sfinansowane z nielegalnych źródeł. Informacje o źródłach finansowania nieruchomości są zwykle chronione prywatnością i wymagają indywidualnych dochodzeń lub orzeczeń sądowych, które nie są ogólnodostępne. Ponadto, nie ma danych dotyczących masowego charakteru takiego zjawiska w kontekście zwolenników Zełenskiego."
+          "evidence_summary": "Na dzień obecny (czerwiec 2024) brak jest publicznie dostępnych polskich lub międzynarodowych źródeł potwierdzających, że Rada Ministrów Francji ustaliła konkretne daty wyborów prezydenckich 2027. Wybory prezydenckie we Francji zwykle odbywają się na wiosnę, ale ostateczne daty są podawane bliżej terminu wyborów. Następne planowane wybory prezydenckie mają się odbyć w 2027 roku, lecz oficjalnie nie ogłoszono dat."
         }
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
-      "cherry_picking",
-      "ad_hominem"
+      "cherry_picking"
     ],
     "verdicts_summary": {
-      "TRUE": 1,
-      "UNVERIFIABLE": 3
+      "TRUE": 5,
+      "UNVERIFIABLE": 22,
+      "MOSTLY_TRUE": 14,
+      "FALSE": 1
     },
-    "total_views": 35546,
-    "total_rts": 420,
+    "total_views": 146860,
+    "total_rts": 1896,
     "community_notes_count": 0,
-    "rank": 54
+    "rank": 48
+  },
+  {
+    "handle": "@mmzawisza",
+    "score": 15.1,
+    "sub_scores": {
+      "falsehood": 11.8,
+      "technique": 13.6,
+      "reach": 58.8,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Wygląda na to, że prezydent Jacek Jaśkowiak albo złożył fałszywe zeznania albo skłamał w oświadczeniu majątkowym. No chyba, że zaraz się okaże, że garniak pożyczył od kuzyna xD",
+      "url": "https://x.com/mmzawisza/status/2072036381182820550",
+      "views": 76517,
+      "verdicts": [
+        {
+          "claim": "Istnieje twierdzenie, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub zawarł nieprawdziwe informacje w oświadczeniu majątkowym.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych polskich źródeł publicznych ani oficjalnych informacji potwierdzających, że prezydent Jacek Jaśkowiak złożył fałszywe zeznania lub podał nieprawdziwe informacje w oświadczeniu majątkowym. Brak dostępnych doniesień z mediów głównego nurtu czy instytucji kontrolnych o takim fakcie."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 5,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 225787,
+    "total_rts": 1244,
+    "community_notes_count": 0,
+    "rank": 49
+  },
+  {
+    "handle": "@RepublikaTV",
+    "score": 14.5,
+    "sub_scores": {
+      "falsehood": 21.6,
+      "technique": 9.5,
+      "reach": 27.6,
+      "repeat": 13.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "#GośćDzisiaj | @CzarnekP: baryłka na rynkach światowych kosztuje dużo mniej niż w czasach rządów na Orlenie - Obajtka, nie ma powodów, żeby paliwo drożało. \n\n📺 Zobacz całość: https://t.co/z1BL0jrLyw\n\n",
+      "url": "https://x.com/RepublikaTV/status/2072412653545222579",
+      "views": 1357,
+      "verdicts": [
+        {
+          "claim": "Cena baryłki ropy na rynkach światowych jest niższa niż w okresie, kiedy Obajtek kierował Orlenem.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Andrzej Obajtek został prezesem Orlenu w lutym 2018 roku. W okresie jego kierowania (2018-2026) ceny ropy na światowych rynkach ulegały dużym wahaniom, osiągając zarówno znacznie wyższe poziomy (np. w 2022 roku przekraczające 100 USD za baryłkę), jak i niższe. Na dzień 1 lipca 2026 roku cena baryłki ropy jest notowana na poziomie zbliżonym do lub wyższym niż średnie ceny w niektórych wcześniejszych okresach rządów Obajtka, co wskazuje, że nie można jednoznacznie stwierdzić, że obecna cena jest "
+        },
+        {
+          "claim": "Według autora, nie występują czynniki, które mogłyby spowodować wzrost cen paliwa.",
+          "verdict": "FALSE",
+          "evidence_summary": "Ceny paliw na rynku są uzależnione od wielu czynników takich jak cena ropy naftowej, kursy walut, podatki i sytuacja geopolityczna. Od połowy 2026 roku notowano wzrosty cen ropy naftowej na rynkach światowych oraz napięcia geopolityczne, które podnoszą ceny paliw. W Polsce dodatkowo wpływają zmiany podatkowe i koszty produkcji, co wskazuje na istnienie przyczyn wzrostu cen paliwa."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MOSTLY_FALSE": 1,
+      "FALSE": 1,
+      "TRUE": 1
+    },
+    "total_views": 12677,
+    "total_rts": 35,
+    "community_notes_count": 0,
+    "rank": 50
+  },
+  {
+    "handle": "@PatrykJaki",
+    "score": 14.3,
+    "sub_scores": {
+      "falsehood": 8.6,
+      "technique": 12.9,
+      "reach": 60.8,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Nowa narracja PO: badania zmarłemu nie robiono, aby ukryć przekręty, ale prowadzono tam badania jak nad …Tutanchamonem 👇 https://t.co/mq5c9pihto",
+      "url": "https://x.com/PatrykJaki/status/2070095046913798175",
+      "views": 5193,
+      "verdicts": [
+        {
+          "claim": "Nie wykonano badań na zmarłym, co według narracji miało na celu ukrycie przekrętów.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Dostępne publicznie źródła nie zawierają jednoznacznej informacji potwierdzającej lub zaprzeczającej, że nie wykonano badań na zmarłym, aby ukryć przekręty. Brak jest również wiarygodnych źródeł, które potwierdzałyby motywację takiej decyzji lub jej skutki. Sprawa wymaga dalszych, szczegółowych ustaleń."
+        },
+        {
+          "claim": "Prowadzono badania na zmarłym, które porównuje się do badań prowadzonych na Tutanchamonie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją publicznie dostępne informacje ani wiarygodne źródła potwierdzające, że prowadzone są lub były badania na jakimś zmarłym, które są porównywane do badań nad Tutanchamonem w kontekście podanym w twierdzeniu. Brak szczegółów dotyczących osoby zmarłej lub rodzaju badań uniemożliwia weryfikację tej informacji."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 10,
+      "UNVERIFIABLE": 21,
+      "MOSTLY_TRUE": 3
+    },
+    "total_views": 270422,
+    "total_rts": 5841,
+    "community_notes_count": 0,
+    "rank": 51
   },
   {
     "handle": "@motykamilosz",
@@ -2396,50 +2225,121 @@
     "total_views": 28807,
     "total_rts": 290,
     "community_notes_count": 0,
-    "rank": 55
+    "rank": 52
   },
   {
-    "handle": "@RBakiewicz",
-    "score": 13.6,
+    "handle": "@JanSpiewak",
+    "score": 13.9,
     "sub_scores": {
-      "falsehood": 7.0,
-      "technique": 28.7,
-      "reach": 38.5,
+      "falsehood": 10.1,
+      "technique": 0.0,
+      "reach": 72.4,
       "repeat": 0.0,
       "community_notes": 0.0
     },
     "total_posts": 6,
     "flagged_posts": 0,
     "top_fake": {
-      "text": "Kilka razy w tygodniu podejmowane są wobec mnie kolejne czynności prawne. Wezwania, przesłuchania, sprawy wykroczeniowe, próby zastraszania i wywierania presji.\n\nDzisiaj, 30 czerwca, miałem na policji",
-      "url": "https://x.com/RBakiewicz/status/2072045155176128599",
-      "views": 8368,
+      "text": "RT @jakubwiech: No to mamy nowy polski rekord ciepła dla czerwca.\n\n39,1°C - najwyższa temperatura w historii polskich czerwcowych pomiarów.…",
+      "url": "https://x.com/JanSpiewak/status/2071197896087642362",
+      "views": 317243,
       "verdicts": [
         {
-          "claim": "Osoba jest wielokrotnie w tygodniu wzywana na czynności prawne, takie jak wezwania, przesłuchania oraz sprawy wykroczeniowe.",
+          "claim": "Temperatura 39,1°C jest najwyższą zanotowaną wartością w czerwcu w polskich pomiarach meteorologicznych.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych źródeł potwierdzających, że osoba o nazwie @RBakiewicz jest wielokrotnie w tygodniu wzywana na czynności prawne. Takie dane są z reguły prywatne i niepublikowane. Nie udało się zweryfikować tego konkretnego twierdzenia w polskich wiarygodnych mediach ani urzędowych źródłach."
+          "evidence_summary": "Do czerwca 2024 roku najwyższa zanotowana temperatura w Polsce w czerwcu wynosiła około 38°C. Brak jest publicznie dostępnych danych meteorologicznych potwierdzających pomiar 39,1°C w czerwcu, szczególnie dla daty 28 czerwca 2026, która jeszcze nie nastąpiła."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 10,
+      "MOSTLY_TRUE": 1,
+      "TRUE": 5
+    },
+    "total_views": 788796,
+    "total_rts": 418,
+    "community_notes_count": 0,
+    "rank": 53
+  },
+  {
+    "handle": "@sjkaleta",
+    "score": 13.4,
+    "sub_scores": {
+      "falsehood": 11.0,
+      "technique": 12.3,
+      "reach": 51.1,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Miały być rozliczenia, a pierwszy wniosek o uchylenie immunitetu z zarzutami korupcji wobec polityka w tej kadencji dotyczy człowieka z ekipy Tuska i jest ordynarnie w Sejmie skręcany‼️\n\nTeraz wiecie ",
+      "url": "https://x.com/sjkaleta/status/2070440879735603677",
+      "views": 5848,
+      "verdicts": [
+        {
+          "claim": "Pierwszy wniosek o uchylenie immunitetu z zarzutami korupcji wobec polityka w tej kadencji dotyczy osoby z partii związanej z Donaldem Tuskiem.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień 26 czerwca 2026 brak jest publicznie dostępnych, wiarygodnych informacji medialnych lub oficjalnych komunikatów potwierdzających, który polityk i z jakiej partii był przedmiotem pierwszego wniosku o uchylenie immunitetu w nowej kadencji Sejmu."
         },
         {
-          "claim": "W dniu 30 czerwca osoba uczestniczyła w trzech przesłuchaniach na policji.",
+          "claim": "Prokuratura Europejska wszczęła postępowanie wobec możliwości korupcji posła Wojciecha Króla.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych źródeł, które potwierdzają lub zaprzeczają, że dana osoba miała trzy przesłuchania na policji w konkretnym dniu 30 czerwca. Informacje o prywatnych czynnościach procesowych nie są zwykle udostępniane publicznie."
+          "evidence_summary": "Brak publicznie dostępnych informacji z wiarygodnych polskich lub europejskich źródeł potwierdzających, że Prokuratura Europejska (EPPO) wszczęła postępowanie wobec posła Wojciecha Króla w związku z możliwością korupcji. Dostępne raporty EPPO oraz doniesienia medialne do czerwca 2026 nie zawierają takiego potwierdzenia."
         }
       ]
     },
     "techniques": [
-      "appeal_to_emotion",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "TRUE": 13,
-      "MOSTLY_TRUE": 5,
-      "UNVERIFIABLE": 12
+      "UNVERIFIABLE": 12,
+      "TRUE": 1,
+      "MOSTLY_TRUE": 1
     },
-    "total_views": 34772,
-    "total_rts": 1268,
+    "total_views": 110795,
+    "total_rts": 1678,
     "community_notes_count": 0,
-    "rank": 56
+    "rank": 54
+  },
+  {
+    "handle": "@GadowskiWitold",
+    "score": 13.3,
+    "sub_scores": {
+      "falsehood": 9.0,
+      "technique": 23.8,
+      "reach": 38.8,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Czciciele Zelenskiego - zamiast odznaczeń, kórych nigdy nie powinnni odtrzymać - niech oddadzą mieszkania i nieruchomości w Polsce, które kupili za kradzione pieniądze. Oto pierwsza lista szmondaków:\n",
+      "url": "https://x.com/GadowskiWitold/status/2070087084434501847",
+      "views": 11579,
+      "verdicts": [
+        {
+          "claim": "Osoby wspierające Zelenskiego posiadają mieszkania i nieruchomości w Polsce, które zostały zakupione za pieniądze pochodzące z nielegalnych źródeł.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją publiczne, wiarygodne źródła potwierdzające, że osoby wspierające Wołodymyra Zełenskiego posiadają w Polsce nieruchomości sfinansowane z nielegalnych źródeł. Informacje o źródłach finansowania nieruchomości są zwykle chronione prywatnością i wymagają indywidualnych dochodzeń lub orzeczeń sądowych, które nie są ogólnodostępne. Ponadto, nie ma danych dotyczących masowego charakteru takiego zjawiska w kontekście zwolenników Zełenskiego."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "ad_hominem"
+    ],
+    "verdicts_summary": {
+      "TRUE": 1,
+      "UNVERIFIABLE": 3
+    },
+    "total_views": 35546,
+    "total_rts": 420,
+    "community_notes_count": 0,
+    "rank": 55
   },
   {
     "handle": "@donaldtusk",
@@ -2478,44 +2378,7 @@
     "total_views": 1230322,
     "total_rts": 9960,
     "community_notes_count": 0,
-    "rank": 57
-  },
-  {
-    "handle": "@K_Smiszek",
-    "score": 12.9,
-    "sub_scores": {
-      "falsehood": 9.6,
-      "technique": 8.5,
-      "reach": 55.3,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "‼️Senat właśnie przegłosował ustawę o statusie osoby najbliższej w związku wraz z przepisami wprowadzającymi‼️\n🏳️‍🌈🇵🇱❤️",
-      "url": "https://x.com/K_Smiszek/status/2070181427400909254",
-      "views": 8259,
-      "verdicts": [
-        {
-          "claim": "Senat RP przegłosował ustawę dotyczącą statusu osoby najbliższej w związku oraz przepisy ją wprowadzające.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych informacji i doniesień medialnych dotyczących przegłosowania przez Senat RP w czerwcu 2026 roku ustawy o statusie osoby najbliższej w związku. Ponieważ data twierdzenia wykracza poza aktualny zakres dostępnych źródeł, nie można zweryfikować faktu."
-        }
-      ]
-    },
-    "techniques": [
-      "appeal_to_emotion"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 8,
-      "MOSTLY_TRUE": 5,
-      "TRUE": 3
-    },
-    "total_views": 163284,
-    "total_rts": 450,
-    "community_notes_count": 0,
-    "rank": 58
+    "rank": 56
   },
   {
     "handle": "@trzaskowski_",
@@ -2555,7 +2418,7 @@
     "total_views": 402711,
     "total_rts": 1926,
     "community_notes_count": 0,
-    "rank": 59
+    "rank": 57
   },
   {
     "handle": "@EKOlodziejczak_",
@@ -2590,14 +2453,91 @@
     "total_views": 172937,
     "total_rts": 126,
     "community_notes_count": 0,
+    "rank": 58
+  },
+  {
+    "handle": "@K_Smiszek",
+    "score": 11.2,
+    "sub_scores": {
+      "falsehood": 9.6,
+      "technique": 0.0,
+      "reach": 55.3,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "‼️Senat właśnie przegłosował ustawę o statusie osoby najbliższej w związku wraz z przepisami wprowadzającymi‼️\n🏳️‍🌈🇵🇱❤️",
+      "url": "https://x.com/K_Smiszek/status/2070181427400909254",
+      "views": 8259,
+      "verdicts": [
+        {
+          "claim": "Senat RP przegłosował ustawę dotyczącą statusu osoby najbliższej w związku oraz przepisy ją wprowadzające.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych informacji i doniesień medialnych dotyczących przegłosowania przez Senat RP w czerwcu 2026 roku ustawy o statusie osoby najbliższej w związku. Ponieważ data twierdzenia wykracza poza aktualny zakres dostępnych źródeł, nie można zweryfikować faktu."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 8,
+      "MOSTLY_TRUE": 5,
+      "TRUE": 3
+    },
+    "total_views": 163284,
+    "total_rts": 450,
+    "community_notes_count": 0,
+    "rank": 59
+  },
+  {
+    "handle": "@RBakiewicz",
+    "score": 10.9,
+    "sub_scores": {
+      "falsehood": 7.0,
+      "technique": 15.2,
+      "reach": 38.5,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Kilka razy w tygodniu podejmowane są wobec mnie kolejne czynności prawne. Wezwania, przesłuchania, sprawy wykroczeniowe, próby zastraszania i wywierania presji.\n\nDzisiaj, 30 czerwca, miałem na policji",
+      "url": "https://x.com/RBakiewicz/status/2072045155176128599",
+      "views": 8368,
+      "verdicts": [
+        {
+          "claim": "Osoba jest wielokrotnie w tygodniu wzywana na czynności prawne, takie jak wezwania, przesłuchania oraz sprawy wykroczeniowe.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych źródeł potwierdzających, że osoba o nazwie @RBakiewicz jest wielokrotnie w tygodniu wzywana na czynności prawne. Takie dane są z reguły prywatne i niepublikowane. Nie udało się zweryfikować tego konkretnego twierdzenia w polskich wiarygodnych mediach ani urzędowych źródłach."
+        },
+        {
+          "claim": "W dniu 30 czerwca osoba uczestniczyła w trzech przesłuchaniach na policji.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych źródeł, które potwierdzają lub zaprzeczają, że dana osoba miała trzy przesłuchania na policji w konkretnym dniu 30 czerwca. Informacje o prywatnych czynnościach procesowych nie są zwykle udostępniane publicznie."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 13,
+      "MOSTLY_TRUE": 5,
+      "UNVERIFIABLE": 12
+    },
+    "total_views": 34772,
+    "total_rts": 1268,
+    "community_notes_count": 0,
     "rank": 60
   },
   {
     "handle": "@GrzegorzBraun_",
-    "score": 10.8,
+    "score": 8.9,
     "sub_scores": {
       "falsehood": 11.4,
-      "technique": 9.3,
+      "technique": 0.0,
       "reach": 36.5,
       "repeat": 0.0,
       "community_notes": 0.0
@@ -2621,9 +2561,7 @@
         }
       ]
     },
-    "techniques": [
-      "appeal_to_emotion"
-    ],
+    "techniques": [],
     "verdicts_summary": {
       "TRUE": 1,
       "UNVERIFIABLE": 4
