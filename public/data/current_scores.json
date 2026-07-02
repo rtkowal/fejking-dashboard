@@ -1,11 +1,11 @@
 [
   {
     "handle": "@GiertychRoman",
-    "score": 40.4,
+    "score": 39.6,
     "sub_scores": {
       "falsehood": 26.8,
       "technique": 38.2,
-      "reach": 100.0,
+      "reach": 91.9,
       "repeat": 70.6,
       "community_notes": 0.0
     },
@@ -24,9 +24,9 @@
       ]
     },
     "techniques": [
+      "cherry_picking",
       "confabulation",
-      "false_dichotomy",
-      "cherry_picking"
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 30,
@@ -70,8 +70,8 @@
       ]
     },
     "techniques": [
-      "decontextualization",
-      "cherry_picking"
+      "cherry_picking",
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 5,
@@ -88,11 +88,11 @@
   },
   {
     "handle": "@R_A_Ziemkiewicz",
-    "score": 35.5,
+    "score": 35.2,
     "sub_scores": {
       "falsehood": 34.7,
       "technique": 15.0,
-      "reach": 75.8,
+      "reach": 72.9,
       "repeat": 75.0,
       "community_notes": 0.0
     },
@@ -153,10 +153,10 @@
       ]
     },
     "techniques": [
-      "decontextualization",
+      "cherry_picking",
       "confabulation",
       "false_dichotomy",
-      "cherry_picking"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "MISLEADING": 2,
@@ -231,8 +231,8 @@
       ]
     },
     "techniques": [
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
       "FALSE": 5,
@@ -244,46 +244,6 @@
     "total_rts": 36,
     "community_notes_count": 0,
     "rank": 6
-  },
-  {
-    "handle": "@Gasiuk_Pihowicz",
-    "score": 34.2,
-    "sub_scores": {
-      "falsehood": 23.0,
-      "technique": 14.0,
-      "reach": 78.2,
-      "repeat": 90.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 6,
-    "top_fake": {
-      "text": "Sąd utrzymał w mocy tymczasowe aresztowanie Ziobry! Teraz czas na wniosek o ekstradycję \"prezentera\" TV Republika. Panie Ziobro, nie chce Pan po dobroci, to będzie w kajdankach.",
-      "url": "https://x.com/Gasiuk_Pihowicz/status/2072374494992220299",
-      "views": 14304,
-      "verdicts": [
-        {
-          "claim": "Sąd podtrzymał decyzję o tymczasowym aresztowaniu osoby o nazwisku Ziobro.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie ma żadnych publicznie dostępnych informacji ani wiarygodnych doniesień medialnych potwierdzających, że sąd podtrzymał tymczasowe aresztowanie osoby o nazwisku Ziobro — nieznane są też żadne takie postępowania sądowe wobec osób o tym nazwisku, w tym względem polityka Zbigniewa Ziobry."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "FALSE": 2,
-      "MOSTLY_TRUE": 2,
-      "MOSTLY_FALSE": 1,
-      "UNVERIFIABLE": 10,
-      "MISLEADING": 3,
-      "TRUE": 1
-    },
-    "total_views": 256853,
-    "total_rts": 1081,
-    "community_notes_count": 0,
-    "rank": 7
   },
   {
     "handle": "@RobertWinnicki",
@@ -315,8 +275,8 @@
       ]
     },
     "techniques": [
-      "decontextualization",
-      "cherry_picking"
+      "cherry_picking",
+      "decontextualization"
     ],
     "verdicts_summary": {
       "TRUE": 6,
@@ -328,6 +288,46 @@
     },
     "total_views": 127238,
     "total_rts": 660,
+    "community_notes_count": 0,
+    "rank": 7
+  },
+  {
+    "handle": "@Gasiuk_Pihowicz",
+    "score": 33.8,
+    "sub_scores": {
+      "falsehood": 23.0,
+      "technique": 14.0,
+      "reach": 74.1,
+      "repeat": 90.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Sąd utrzymał w mocy tymczasowe aresztowanie Ziobry! Teraz czas na wniosek o ekstradycję \"prezentera\" TV Republika. Panie Ziobro, nie chce Pan po dobroci, to będzie w kajdankach.",
+      "url": "https://x.com/Gasiuk_Pihowicz/status/2072374494992220299",
+      "views": 14304,
+      "verdicts": [
+        {
+          "claim": "Sąd podtrzymał decyzję o tymczasowym aresztowaniu osoby o nazwisku Ziobro.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych publicznie dostępnych informacji ani wiarygodnych doniesień medialnych potwierdzających, że sąd podtrzymał tymczasowe aresztowanie osoby o nazwisku Ziobro — nieznane są też żadne takie postępowania sądowe wobec osób o tym nazwisku, w tym względem polityka Zbigniewa Ziobry."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "FALSE": 2,
+      "MOSTLY_TRUE": 2,
+      "MOSTLY_FALSE": 1,
+      "UNVERIFIABLE": 10,
+      "MISLEADING": 3,
+      "TRUE": 1
+    },
+    "total_views": 256853,
+    "total_rts": 1081,
     "community_notes_count": 0,
     "rank": 8
   },
@@ -378,11 +378,11 @@
   },
   {
     "handle": "@szumand",
-    "score": 33.4,
+    "score": 33.2,
     "sub_scores": {
       "falsehood": 16.1,
       "technique": 15.0,
-      "reach": 73.0,
+      "reach": 71.5,
       "repeat": 100,
       "community_notes": 0.0
     },
@@ -422,11 +422,11 @@
   },
   {
     "handle": "@BoguckiZbigniew",
-    "score": 33.4,
+    "score": 32.9,
     "sub_scores": {
       "falsehood": 14.3,
       "technique": 24.3,
-      "reach": 80.5,
+      "reach": 75.3,
       "repeat": 85.7,
       "community_notes": 0.0
     },
@@ -450,8 +450,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "MOSTLY_TRUE": 15,
@@ -465,53 +465,6 @@
     "total_rts": 4227,
     "community_notes_count": 0,
     "rank": 11
-  },
-  {
-    "handle": "@EwaZajaczkowska",
-    "score": 31.3,
-    "sub_scores": {
-      "falsehood": 10.7,
-      "technique": 42.8,
-      "reach": 100.0,
-      "repeat": 41.7,
-      "community_notes": 0.0
-    },
-    "total_posts": 18,
-    "flagged_posts": 5,
-    "top_fake": {
-      "text": "Co za buta i arogancja❗ Nikt i nigdy nie będzie nakazywał nam komu być wdzięcznym i jakich bohaterów szanować! - powiedział Zełenski, który \"bohatersko\" przytulił grube miliardy pomocy ze strony Polsk",
-      "url": "https://x.com/EwaZajaczkowska/status/2071306035109712068",
-      "views": 41973,
-      "verdicts": [
-        {
-          "claim": "Prezydent Ukrainy Wołodymyr Zełenski otrzymał wsparcie finansowe od Polski w wysokości miliardów złotych.",
-          "verdict": "MOSTLY_FALSE",
-          "evidence_summary": "Polska udzieliła Ukrainie wsparcia finansowego oraz pomocy wojskowej i humanitarnej, jednak kwoty bezpośrednio przekazane przez Polskę rzadko sięgają miliardów złotych i najczęściej Polska działała jako pośrednik lub część większych międzynarodowych pakietów wsparcia. Wsparcie dla Ukrainy pochodzi głównie z całej Unii Europejskiej i innych państw, a Polska jest ważnym, ale nie głównym źródłem miliardowych sum."
-        },
-        {
-          "claim": "Wołodymyr Zełenski jest powiązany z postacią Stepana Bandery, która w Polsce jest uważana za kontrowersyjną.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "Stepan Bandera jest historycznie uznawany w Polsce za postać kontrowersyjną ze względu na działalność w czasie II wojny światowej i powiązania z ukraińskim nacjonalizmem. Zełenski jako prezydent Ukrainy nie otacza się oficjalnie kultem Bandery, lecz w niektórych ukraińskich środowiskach historyczna postać Bandery jest celebrowana. Bez bezpośrednich dowodów na osobiste powiązania Zełenskiego z Bandera lub promowanie jego kultu, twierdzenie może wprowadzać w błąd poprzez sugestię bliskich związków."
-        }
-      ]
-    },
-    "techniques": [
-      "decontextualization",
-      "false_dichotomy",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "MOSTLY_TRUE": 20,
-      "UNVERIFIABLE": 53,
-      "TRUE": 23,
-      "MOSTLY_FALSE": 6,
-      "MISLEADING": 3,
-      "FALSE": 1
-    },
-    "total_views": 672616,
-    "total_rts": 11404,
-    "community_notes_count": 0,
-    "rank": 12
   },
   {
     "handle": "@KoronyPolskiej",
@@ -543,8 +496,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "MISLEADING": 3,
@@ -557,15 +510,62 @@
     "total_views": 68122,
     "total_rts": 1216,
     "community_notes_count": 0,
+    "rank": 12
+  },
+  {
+    "handle": "@EwaZajaczkowska",
+    "score": 30.1,
+    "sub_scores": {
+      "falsehood": 10.7,
+      "technique": 42.8,
+      "reach": 88.0,
+      "repeat": 41.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Co za buta i arogancja❗ Nikt i nigdy nie będzie nakazywał nam komu być wdzięcznym i jakich bohaterów szanować! - powiedział Zełenski, który \"bohatersko\" przytulił grube miliardy pomocy ze strony Polsk",
+      "url": "https://x.com/EwaZajaczkowska/status/2071306035109712068",
+      "views": 41973,
+      "verdicts": [
+        {
+          "claim": "Prezydent Ukrainy Wołodymyr Zełenski otrzymał wsparcie finansowe od Polski w wysokości miliardów złotych.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Polska udzieliła Ukrainie wsparcia finansowego oraz pomocy wojskowej i humanitarnej, jednak kwoty bezpośrednio przekazane przez Polskę rzadko sięgają miliardów złotych i najczęściej Polska działała jako pośrednik lub część większych międzynarodowych pakietów wsparcia. Wsparcie dla Ukrainy pochodzi głównie z całej Unii Europejskiej i innych państw, a Polska jest ważnym, ale nie głównym źródłem miliardowych sum."
+        },
+        {
+          "claim": "Wołodymyr Zełenski jest powiązany z postacią Stepana Bandery, która w Polsce jest uważana za kontrowersyjną.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Stepan Bandera jest historycznie uznawany w Polsce za postać kontrowersyjną ze względu na działalność w czasie II wojny światowej i powiązania z ukraińskim nacjonalizmem. Zełenski jako prezydent Ukrainy nie otacza się oficjalnie kultem Bandery, lecz w niektórych ukraińskich środowiskach historyczna postać Bandery jest celebrowana. Bez bezpośrednich dowodów na osobiste powiązania Zełenskiego z Bandera lub promowanie jego kultu, twierdzenie może wprowadzać w błąd poprzez sugestię bliskich związków."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 20,
+      "UNVERIFIABLE": 53,
+      "TRUE": 23,
+      "MOSTLY_FALSE": 6,
+      "MISLEADING": 3,
+      "FALSE": 1
+    },
+    "total_views": 672616,
+    "total_rts": 11404,
+    "community_notes_count": 0,
     "rank": 13
   },
   {
     "handle": "@widzimysiejutro",
-    "score": 29.9,
+    "score": 29.3,
     "sub_scores": {
       "falsehood": 23.0,
       "technique": 31.2,
-      "reach": 81.4,
+      "reach": 75.7,
       "repeat": 37.5,
       "community_notes": 0.0
     },
@@ -589,8 +589,8 @@
       ]
     },
     "techniques": [
-      "decontextualization",
-      "cherry_picking"
+      "cherry_picking",
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 15,
@@ -604,12 +604,54 @@
     "rank": 14
   },
   {
+    "handle": "@MSchreiberM",
+    "score": 29.1,
+    "sub_scores": {
+      "falsehood": 18.7,
+      "technique": 35.0,
+      "reach": 71.1,
+      "repeat": 41.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Podobno tak brzmi Hymn Koalicji Obywatelskiej. https://t.co/Jx1VldQaWI",
+      "url": "https://x.com/MSchreiberM/status/2071944840921616846",
+      "views": 52813,
+      "verdicts": [
+        {
+          "claim": "Istnieje tekst lub utwór określany jako Hymn Koalicji Obywatelskiej.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Koalicja Obywatelska jako ugrupowanie polityczne nie posiada oficjalnego hymnu ani oficjalnie uznanego utworu muzycznego służącego jako hymn. W mediach oraz źródłach publicznych nie ma potwierdzenia istnienia oficjalnego tekstu lub hymnu Koalicji Obywatelskiej. Zdarzają się nieformalne lub satyryczne utwory nawiązujące do partii, jednak nie są one oficjalnie uznawane."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_authority",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 29,
+      "TRUE": 7,
+      "MOSTLY_TRUE": 6,
+      "FALSE": 5,
+      "MISLEADING": 2,
+      "MOSTLY_FALSE": 1
+    },
+    "total_views": 214173,
+    "total_rts": 636,
+    "community_notes_count": 0,
+    "rank": 15
+  },
+  {
     "handle": "@KonradBerkowicz",
-    "score": 29.6,
+    "score": 28.7,
     "sub_scores": {
       "falsehood": 14.2,
       "technique": 25.6,
-      "reach": 100.0,
+      "reach": 91.0,
       "repeat": 50.0,
       "community_notes": 0.0
     },
@@ -633,8 +675,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 40,
@@ -645,48 +687,6 @@
     },
     "total_views": 909060,
     "total_rts": 8230,
-    "community_notes_count": 0,
-    "rank": 15
-  },
-  {
-    "handle": "@MSchreiberM",
-    "score": 29.2,
-    "sub_scores": {
-      "falsehood": 18.7,
-      "technique": 35.0,
-      "reach": 72.2,
-      "repeat": 41.7,
-      "community_notes": 0.0
-    },
-    "total_posts": 18,
-    "flagged_posts": 5,
-    "top_fake": {
-      "text": "Podobno tak brzmi Hymn Koalicji Obywatelskiej. https://t.co/Jx1VldQaWI",
-      "url": "https://x.com/MSchreiberM/status/2071944840921616846",
-      "views": 52813,
-      "verdicts": [
-        {
-          "claim": "Istnieje tekst lub utwór określany jako Hymn Koalicji Obywatelskiej.",
-          "verdict": "MOSTLY_FALSE",
-          "evidence_summary": "Koalicja Obywatelska jako ugrupowanie polityczne nie posiada oficjalnego hymnu ani oficjalnie uznanego utworu muzycznego służącego jako hymn. W mediach oraz źródłach publicznych nie ma potwierdzenia istnienia oficjalnego tekstu lub hymnu Koalicji Obywatelskiej. Zdarzają się nieformalne lub satyryczne utwory nawiązujące do partii, jednak nie są one oficjalnie uznawane."
-        }
-      ]
-    },
-    "techniques": [
-      "decontextualization",
-      "false_authority",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 29,
-      "TRUE": 7,
-      "MOSTLY_TRUE": 6,
-      "FALSE": 5,
-      "MISLEADING": 2,
-      "MOSTLY_FALSE": 1
-    },
-    "total_views": 214173,
-    "total_rts": 636,
     "community_notes_count": 0,
     "rank": 16
   },
@@ -720,8 +720,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "TRUE": 6,
@@ -764,8 +764,8 @@
       ]
     },
     "techniques": [
-      "decontextualization",
-      "cherry_picking"
+      "cherry_picking",
+      "decontextualization"
     ],
     "verdicts_summary": {
       "TRUE": 9,
@@ -782,11 +782,11 @@
   },
   {
     "handle": "@krzysztofbosak",
-    "score": 25.0,
+    "score": 24.8,
     "sub_scores": {
       "falsehood": 11.8,
       "technique": 25.7,
-      "reach": 74.0,
+      "reach": 72.0,
       "repeat": 42.9,
       "community_notes": 0.0
     },
@@ -810,8 +810,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "TRUE": 14,
@@ -827,11 +827,11 @@
   },
   {
     "handle": "@Sluzby_w_akcji",
-    "score": 24.7,
+    "score": 24.4,
     "sub_scores": {
       "falsehood": 7.8,
       "technique": 34.9,
-      "reach": 100.0,
+      "reach": 96.9,
       "repeat": 20.3,
       "community_notes": 0.0
     },
@@ -855,9 +855,9 @@
       ]
     },
     "techniques": [
-      "decontextualization",
+      "cherry_picking",
       "confabulation",
-      "cherry_picking"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 161,
@@ -874,11 +874,11 @@
   },
   {
     "handle": "@jciesz",
-    "score": 24.5,
+    "score": 24.3,
     "sub_scores": {
       "falsehood": 18.1,
       "technique": 14.0,
-      "reach": 74.1,
+      "reach": 72.1,
       "repeat": 45.0,
       "community_notes": 0.0
     },
@@ -919,11 +919,11 @@
   },
   {
     "handle": "@MorawieckiM",
-    "score": 24.2,
+    "score": 23.0,
     "sub_scores": {
       "falsehood": 7.8,
       "technique": 37.2,
-      "reach": 94.5,
+      "reach": 82.3,
       "repeat": 16.7,
       "community_notes": 0.0
     },
@@ -947,9 +947,9 @@
       ]
     },
     "techniques": [
-      "decontextualization",
+      "cherry_picking",
       "false_dichotomy",
-      "cherry_picking"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 19,
@@ -963,12 +963,58 @@
     "rank": 22
   },
   {
+    "handle": "@KosiniakKamysz",
+    "score": 22.4,
+    "sub_scores": {
+      "falsehood": 10.6,
+      "technique": 21.9,
+      "reach": 92.6,
+      "repeat": 24.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 37,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Największą siłą Wojska Polskiego są żołnierze. Dziś w czynnej służbie jest już  ponad 220 tysięcy. To największy potencjał naszych Sił Zbrojnych od wielu lat.\n\nWyszkolenie żołnierza wymaga lat nauki, ",
+      "url": "https://x.com/KosiniakKamysz/status/2070142536450965961",
+      "views": 41487,
+      "verdicts": [
+        {
+          "claim": "Obecnie w czynnej służbie Wojska Polskiego znajduje się ponad 220 tysięcy żołnierzy.",
+          "verdict": "FALSE",
+          "evidence_summary": "Według najnowszych danych Ministerstwa Obrony Narodowej oraz oficjalnych raportów, liczba czynnych żołnierzy Wojska Polskiego wynosi około 120 tysięcy, znacznie poniżej 220 tysięcy. Obecne dane są publicznie dostępne i potwierdzają tę wielkość stanu osobowego."
+        },
+        {
+          "claim": "Obecna liczba żołnierzy w czynnej służbie jest największa od wielu lat w historii Wojska Polskiego.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Według dostępnych danych z ostatnich lat liczba żołnierzy zawodowych i służb czynnych w WP stale rośnie, osiągając poziom wyższy niż w poprzedniej dekadzie. Jednakże, w okresach PRL i tuż po transformacji ustrojowej liczebność armii bywała większa, co sprawia, że stwierdzenie 'największy od wielu lat' jest w większości prawdziwe, ale wymaga precyzyjnego okresu odniesienia."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 63,
+      "MOSTLY_TRUE": 27,
+      "TRUE": 25,
+      "MOSTLY_FALSE": 3,
+      "FALSE": 4,
+      "MISLEADING": 2
+    },
+    "total_views": 1133439,
+    "total_rts": 3746,
+    "community_notes_count": 0,
+    "rank": 23
+  },
+  {
     "handle": "@marekgrobarczyk",
-    "score": 23.6,
+    "score": 22.4,
     "sub_scores": {
       "falsehood": 11.8,
       "technique": 15.8,
-      "reach": 93.5,
+      "reach": 81.7,
       "repeat": 37.5,
       "community_notes": 0.0
     },
@@ -1004,179 +1050,7 @@
     "total_views": 409949,
     "total_rts": 12350,
     "community_notes_count": 0,
-    "rank": 23
-  },
-  {
-    "handle": "@KosiniakKamysz",
-    "score": 23.1,
-    "sub_scores": {
-      "falsehood": 10.6,
-      "technique": 21.9,
-      "reach": 100.0,
-      "repeat": 24.3,
-      "community_notes": 0.0
-    },
-    "total_posts": 37,
-    "flagged_posts": 6,
-    "top_fake": {
-      "text": "Największą siłą Wojska Polskiego są żołnierze. Dziś w czynnej służbie jest już  ponad 220 tysięcy. To największy potencjał naszych Sił Zbrojnych od wielu lat.\n\nWyszkolenie żołnierza wymaga lat nauki, ",
-      "url": "https://x.com/KosiniakKamysz/status/2070142536450965961",
-      "views": 41487,
-      "verdicts": [
-        {
-          "claim": "Obecnie w czynnej służbie Wojska Polskiego znajduje się ponad 220 tysięcy żołnierzy.",
-          "verdict": "FALSE",
-          "evidence_summary": "Według najnowszych danych Ministerstwa Obrony Narodowej oraz oficjalnych raportów, liczba czynnych żołnierzy Wojska Polskiego wynosi około 120 tysięcy, znacznie poniżej 220 tysięcy. Obecne dane są publicznie dostępne i potwierdzają tę wielkość stanu osobowego."
-        },
-        {
-          "claim": "Obecna liczba żołnierzy w czynnej służbie jest największa od wielu lat w historii Wojska Polskiego.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Według dostępnych danych z ostatnich lat liczba żołnierzy zawodowych i służb czynnych w WP stale rośnie, osiągając poziom wyższy niż w poprzedniej dekadzie. Jednakże, w okresach PRL i tuż po transformacji ustrojowej liczebność armii bywała większa, co sprawia, że stwierdzenie 'największy od wielu lat' jest w większości prawdziwe, ale wymaga precyzyjnego okresu odniesienia."
-        }
-      ]
-    },
-    "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 63,
-      "MOSTLY_TRUE": 27,
-      "TRUE": 25,
-      "MOSTLY_FALSE": 3,
-      "FALSE": 4,
-      "MISLEADING": 2
-    },
-    "total_views": 1133439,
-    "total_rts": 3746,
-    "community_notes_count": 0,
     "rank": 24
-  },
-  {
-    "handle": "@Kpelczynska",
-    "score": 22.5,
-    "sub_scores": {
-      "falsehood": 7.3,
-      "technique": 28.7,
-      "reach": 96.9,
-      "repeat": 18.8,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "Klimatyczne jajko sadzone. Mój balkon, Warszawa, czerwiec 2026.\n\nRekordowe temperatury to nie przypadek jednego lata, a  przerażająca zapowiedź tego, co będzie przychodzić coraz częściej.\n\nZ KPO buduj",
-      "url": "https://x.com/Kpelczynska/status/2071649885024121283",
-      "views": 71564,
-      "verdicts": [
-        {
-          "claim": "W ramach Krajowego Planu Odbudowy (KPO) planowane jest wybudowanie 88 tysięcy kilometrów nowych linii energetycznych oraz modernizacja 59 tysięcy kilometrów istniejących linii.",
-          "verdict": "FALSE",
-          "evidence_summary": "Oficjalne dokumenty Krajowego Planu Odbudowy oraz raporty operatorów sieci energetycznych w Polsce nie wskazują na plan budowy 88 tysięcy kilometrów nowych linii energetycznych ani modernizacji 59 tysięcy kilometrów. Skala ta jest znacznie zawyżona; np. operatorzy sieci przesyłowych i dystrybucyjnych podają mniejsze zakresy rozbudowy i modernizacji infrastruktury na lata 2021-2026."
-        },
-        {
-          "claim": "Celem inwestycji w linie energetyczne jest umożliwienie przesyłu energii z farm wiatrowych, instalacji fotowoltaicznych oraz planowanej energetyki atomowej do odbiorców przy minimalnych stratach.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Inwestycje w linie przesyłowe mają na celu przede wszystkim umożliwienie efektywnego i bezpiecznego przesyłu energii elektrycznej z różnych źródeł, w tym odnawialnych (wiatr, fotowoltaika) oraz przyszłych źródeł, jak elektrownie jądrowe. Modernizacja i rozbudowa sieci pozwala na ograniczenie strat energii podczas przesyłu na dłuższe odległości oraz integrację nowych mocy wytwórczych z systemem elektroenergetycznym."
-        }
-      ]
-    },
-    "techniques": [
-      "decontextualization",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 28,
-      "MOSTLY_TRUE": 21,
-      "FALSE": 1,
-      "TRUE": 12
-    },
-    "total_views": 455392,
-    "total_rts": 564,
-    "community_notes_count": 0,
-    "rank": 25
-  },
-  {
-    "handle": "@SlawomirMentzen",
-    "score": 22.5,
-    "sub_scores": {
-      "falsehood": 7.4,
-      "technique": 27.5,
-      "reach": 100.0,
-      "repeat": 18.8,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "Bardzo dobrze, że Prezydent Nawrocki odebrał order Zełenskiemu! https://t.co/qVRrxL6iFo",
-      "url": "https://x.com/SlawomirMentzen/status/2070188144872259833",
-      "views": 28446,
-      "verdicts": [
-        {
-          "claim": "Prezydent Nawrocki odebrał order, który został przyznany Zełenskiemu.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie ma żadnych publicznie dostępnych informacji ani wiarygodnych polskich źródeł potwierdzających, że prezydent o nazwisku Nawrocki istniał lub odebrał order przyznany prezydentowi Zełenskiemu. Prezydent Ukrainy, Wołodymyr Zełenski, otrzymał wiele wyróżnień od różnych państw, ale żadne z nich nie zostało oficjalnie odebrane przez osobę o nazwisku Nawrocki. Informacja ta nie jest znana w polskich mediach ani oficjalnych komunikatach państwowych."
-        }
-      ]
-    },
-    "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 13,
-      "MOSTLY_TRUE": 3,
-      "FALSE": 1,
-      "UNVERIFIABLE": 1
-    },
-    "total_views": 1109522,
-    "total_rts": 1494,
-    "community_notes_count": 0,
-    "rank": 26
-  },
-  {
-    "handle": "@MNiedorozwoju",
-    "score": 22.3,
-    "sub_scores": {
-      "falsehood": 9.3,
-      "technique": 15.0,
-      "reach": 100.0,
-      "repeat": 32.1,
-      "community_notes": 0.0
-    },
-    "total_posts": 14,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "Pozostał już tylko rok na to, aby AI zastąpiło 25% zawodów na świecie. Myślicie, że przepowiednia Rafała Brzoski się spełni?\n\nPodpowiedź: organizacja PracodawcyRP, dalej lobbuje za ściąganiem do Polsk",
-      "url": "https://x.com/MNiedorozwoju/status/2071510898410193076",
-      "views": 14327,
-      "verdicts": [
-        {
-          "claim": "W ciągu najbliższego roku AI ma zastąpić 25% zawodów na świecie.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "Obecne raporty i analizy prognozują znaczący wpływ AI na rynek pracy, ale zastąpienie 25% zawodów w ciągu jednego roku jest nadmiernie optymistyczne i niepotwierdzone. Eksperci wskazują, że automatyzacja i AI będą zmieniać wiele zawodów, ale proces ten może rozciągać się na lata, a nie rok. Nie istnieją wiarygodne polskie ani międzynarodowe źródła potwierdzające tak szybkie i szerokie zastąpienie zawodów."
-        },
-        {
-          "claim": "Organizacja PracodawcyRP prowadzi działania lobbingowe na rzecz przyciągania imigrantów do Polski z krajów rozwijających się.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "PracodawcyRP jako reprezentant interesów pracodawców w Polsce otwarcie opowiadają się za ułatwieniami prawnymi i programami umożliwiającymi zatrudnienie imigrantów, w tym z krajów rozwijających się, aby wypełnić luki na rynku pracy. Organizacja podkreśla konieczność ułatwiania migracji zarobkowej oraz integracji cudzoziemców, co jest formą lobbingu na rzecz zwiększenia napływu takich pracowników."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 13,
-      "MOSTLY_TRUE": 9,
-      "TRUE": 3,
-      "MISLEADING": 3
-    },
-    "total_views": 534546,
-    "total_rts": 396,
-    "community_notes_count": 0,
-    "rank": 27
   },
   {
     "handle": "@DariuszMatecki",
@@ -1203,8 +1077,8 @@
       ]
     },
     "techniques": [
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
       "MISLEADING": 3,
@@ -1216,7 +1090,7 @@
     "total_views": 123345,
     "total_rts": 1615,
     "community_notes_count": 0,
-    "rank": 28
+    "rank": 25
   },
   {
     "handle": "@1972tomek",
@@ -1252,7 +1126,7 @@
     "total_views": 10404,
     "total_rts": 42,
     "community_notes_count": 0,
-    "rank": 29
+    "rank": 26
   },
   {
     "handle": "@oko_press",
@@ -1284,9 +1158,9 @@
       ]
     },
     "techniques": [
-      "decontextualization",
+      "cherry_picking",
       "false_dichotomy",
-      "cherry_picking"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 62,
@@ -1299,7 +1173,46 @@
     "total_views": 113040,
     "total_rts": 491,
     "community_notes_count": 0,
-    "rank": 30
+    "rank": 27
+  },
+  {
+    "handle": "@SlawomirMentzen",
+    "score": 21.8,
+    "sub_scores": {
+      "falsehood": 7.4,
+      "technique": 27.5,
+      "reach": 92.5,
+      "repeat": 18.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Bardzo dobrze, że Prezydent Nawrocki odebrał order Zełenskiemu! https://t.co/qVRrxL6iFo",
+      "url": "https://x.com/SlawomirMentzen/status/2070188144872259833",
+      "views": 28446,
+      "verdicts": [
+        {
+          "claim": "Prezydent Nawrocki odebrał order, który został przyznany Zełenskiemu.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych publicznie dostępnych informacji ani wiarygodnych polskich źródeł potwierdzających, że prezydent o nazwisku Nawrocki istniał lub odebrał order przyznany prezydentowi Zełenskiemu. Prezydent Ukrainy, Wołodymyr Zełenski, otrzymał wiele wyróżnień od różnych państw, ale żadne z nich nie zostało oficjalnie odebrane przez osobę o nazwisku Nawrocki. Informacja ta nie jest znana w polskich mediach ani oficjalnych komunikatach państwowych."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "false_dichotomy"
+    ],
+    "verdicts_summary": {
+      "TRUE": 13,
+      "MOSTLY_TRUE": 3,
+      "FALSE": 1,
+      "UNVERIFIABLE": 1
+    },
+    "total_views": 1109522,
+    "total_rts": 1494,
+    "community_notes_count": 0,
+    "rank": 28
   },
   {
     "handle": "@GodekKajaU",
@@ -1331,9 +1244,9 @@
       ]
     },
     "techniques": [
-      "decontextualization",
+      "cherry_picking",
       "false_dichotomy",
-      "cherry_picking"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "TRUE": 12,
@@ -1346,7 +1259,7 @@
     "total_views": 12782,
     "total_rts": 306,
     "community_notes_count": 0,
-    "rank": 31
+    "rank": 29
   },
   {
     "handle": "@RafalBochenek",
@@ -1378,9 +1291,9 @@
       ]
     },
     "techniques": [
+      "cherry_picking",
       "confabulation",
-      "false_dichotomy",
-      "cherry_picking"
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "TRUE": 5,
@@ -1389,6 +1302,93 @@
     },
     "total_views": 83935,
     "total_rts": 1365,
+    "community_notes_count": 0,
+    "rank": 30
+  },
+  {
+    "handle": "@Kpelczynska",
+    "score": 21.1,
+    "sub_scores": {
+      "falsehood": 7.3,
+      "technique": 28.7,
+      "reach": 83.5,
+      "repeat": 18.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Klimatyczne jajko sadzone. Mój balkon, Warszawa, czerwiec 2026.\n\nRekordowe temperatury to nie przypadek jednego lata, a  przerażająca zapowiedź tego, co będzie przychodzić coraz częściej.\n\nZ KPO buduj",
+      "url": "https://x.com/Kpelczynska/status/2071649885024121283",
+      "views": 71564,
+      "verdicts": [
+        {
+          "claim": "W ramach Krajowego Planu Odbudowy (KPO) planowane jest wybudowanie 88 tysięcy kilometrów nowych linii energetycznych oraz modernizacja 59 tysięcy kilometrów istniejących linii.",
+          "verdict": "FALSE",
+          "evidence_summary": "Oficjalne dokumenty Krajowego Planu Odbudowy oraz raporty operatorów sieci energetycznych w Polsce nie wskazują na plan budowy 88 tysięcy kilometrów nowych linii energetycznych ani modernizacji 59 tysięcy kilometrów. Skala ta jest znacznie zawyżona; np. operatorzy sieci przesyłowych i dystrybucyjnych podają mniejsze zakresy rozbudowy i modernizacji infrastruktury na lata 2021-2026."
+        },
+        {
+          "claim": "Celem inwestycji w linie energetyczne jest umożliwienie przesyłu energii z farm wiatrowych, instalacji fotowoltaicznych oraz planowanej energetyki atomowej do odbiorców przy minimalnych stratach.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Inwestycje w linie przesyłowe mają na celu przede wszystkim umożliwienie efektywnego i bezpiecznego przesyłu energii elektrycznej z różnych źródeł, w tym odnawialnych (wiatr, fotowoltaika) oraz przyszłych źródeł, jak elektrownie jądrowe. Modernizacja i rozbudowa sieci pozwala na ograniczenie strat energii podczas przesyłu na dłuższe odległości oraz integrację nowych mocy wytwórczych z systemem elektroenergetycznym."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "decontextualization"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 28,
+      "MOSTLY_TRUE": 21,
+      "FALSE": 1,
+      "TRUE": 12
+    },
+    "total_views": 455392,
+    "total_rts": 564,
+    "community_notes_count": 0,
+    "rank": 31
+  },
+  {
+    "handle": "@MNiedorozwoju",
+    "score": 20.8,
+    "sub_scores": {
+      "falsehood": 9.3,
+      "technique": 15.0,
+      "reach": 85.7,
+      "repeat": 32.1,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Pozostał już tylko rok na to, aby AI zastąpiło 25% zawodów na świecie. Myślicie, że przepowiednia Rafała Brzoski się spełni?\n\nPodpowiedź: organizacja PracodawcyRP, dalej lobbuje za ściąganiem do Polsk",
+      "url": "https://x.com/MNiedorozwoju/status/2071510898410193076",
+      "views": 14327,
+      "verdicts": [
+        {
+          "claim": "W ciągu najbliższego roku AI ma zastąpić 25% zawodów na świecie.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Obecne raporty i analizy prognozują znaczący wpływ AI na rynek pracy, ale zastąpienie 25% zawodów w ciągu jednego roku jest nadmiernie optymistyczne i niepotwierdzone. Eksperci wskazują, że automatyzacja i AI będą zmieniać wiele zawodów, ale proces ten może rozciągać się na lata, a nie rok. Nie istnieją wiarygodne polskie ani międzynarodowe źródła potwierdzające tak szybkie i szerokie zastąpienie zawodów."
+        },
+        {
+          "claim": "Organizacja PracodawcyRP prowadzi działania lobbingowe na rzecz przyciągania imigrantów do Polski z krajów rozwijających się.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "PracodawcyRP jako reprezentant interesów pracodawców w Polsce otwarcie opowiadają się za ułatwieniami prawnymi i programami umożliwiającymi zatrudnienie imigrantów, w tym z krajów rozwijających się, aby wypełnić luki na rynku pracy. Organizacja podkreśla konieczność ułatwiania migracji zarobkowej oraz integracji cudzoziemców, co jest formą lobbingu na rzecz zwiększenia napływu takich pracowników."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MOSTLY_TRUE": 9,
+      "TRUE": 3,
+      "MISLEADING": 3
+    },
+    "total_views": 534546,
+    "total_rts": 396,
     "community_notes_count": 0,
     "rank": 32
   },
@@ -1417,8 +1417,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
+      "cherry_picking",
+      "false_dichotomy"
     ],
     "verdicts_summary": {
       "FALSE": 2,
@@ -1474,11 +1474,11 @@
   },
   {
     "handle": "@DanielObajtek",
-    "score": 20.2,
+    "score": 19.1,
     "sub_scores": {
       "falsehood": 12.6,
       "technique": 14.0,
-      "reach": 100.0,
+      "reach": 88.4,
       "repeat": 15.0,
       "community_notes": 0.0
     },
@@ -1517,12 +1517,54 @@
     "rank": 35
   },
   {
+    "handle": "@K_Stanowski",
+    "score": 18.3,
+    "sub_scores": {
+      "falsehood": 8.0,
+      "technique": 12.5,
+      "reach": 93.7,
+      "repeat": 18.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Pani Paulina Nodzyńska z Wyborczej w skrócie rozpisała, czym jest Kanał Zero:\n\n\"Kanał, który Stanowski założył, swoim znakiem rozpoznawczym uczynił wpuszczanie do sieci kłamliwych, fragmentarycznych f",
+      "url": "https://x.com/K_Stanowski/status/2071913856230674808",
+      "views": 172657,
+      "verdicts": [
+        {
+          "claim": "Kanał założony przez Stanowskiego publikuje fragmentaryczne filmy, które są określane jako kłamliwe.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Kanał założony przez Kacpra Stanowskiego znany jest z publikowania materiałów dotyczących sportu, które czasem są krytykowane za selektywne dobieranie fragmentów, jednak określanie ich jednoznacznie jako kłamliwe wymaga konkretnych, udokumentowanych dowodów. W mediach pojawiają się opinie o fragmentarycznym charakterze materiałów, lecz brak jest powszechnej i potwierdzonej informacji o systematycznym wprowadzaniu w błąd."
+        },
+        {
+          "claim": "Celem publikowanych filmów jest ośmieszenie gości audycji lub rozpowszechnianie fałszywych informacji.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych źródeł potwierdzających jednoznacznie intencje twórców filmów, które mają na celu albo ośmieszenie gości audycji, albo celowe rozpowszechnianie fałszywych informacji. Intencje te są subiektywne i nie są możliwe do obiektywnego potwierdzenia wyłącznie na podstawie dostępnych danych."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 23,
+      "MOSTLY_TRUE": 1,
+      "MISLEADING": 1
+    },
+    "total_views": 1394144,
+    "total_rts": 4295,
+    "community_notes_count": 0,
+    "rank": 36
+  },
+  {
     "handle": "@adamSzlapka",
-    "score": 19.4,
+    "score": 18.3,
     "sub_scores": {
       "falsehood": 11.5,
       "technique": 11.4,
-      "reach": 90.9,
+      "reach": 80.4,
       "repeat": 21.4,
       "community_notes": 0.0
     },
@@ -1557,48 +1599,6 @@
     },
     "total_views": 378563,
     "total_rts": 4154,
-    "community_notes_count": 0,
-    "rank": 36
-  },
-  {
-    "handle": "@K_Stanowski",
-    "score": 18.9,
-    "sub_scores": {
-      "falsehood": 8.0,
-      "technique": 12.5,
-      "reach": 100.0,
-      "repeat": 18.8,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "Pani Paulina Nodzyńska z Wyborczej w skrócie rozpisała, czym jest Kanał Zero:\n\n\"Kanał, który Stanowski założył, swoim znakiem rozpoznawczym uczynił wpuszczanie do sieci kłamliwych, fragmentarycznych f",
-      "url": "https://x.com/K_Stanowski/status/2071913856230674808",
-      "views": 172657,
-      "verdicts": [
-        {
-          "claim": "Kanał założony przez Stanowskiego publikuje fragmentaryczne filmy, które są określane jako kłamliwe.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "Kanał założony przez Kacpra Stanowskiego znany jest z publikowania materiałów dotyczących sportu, które czasem są krytykowane za selektywne dobieranie fragmentów, jednak określanie ich jednoznacznie jako kłamliwe wymaga konkretnych, udokumentowanych dowodów. W mediach pojawiają się opinie o fragmentarycznym charakterze materiałów, lecz brak jest powszechnej i potwierdzonej informacji o systematycznym wprowadzaniu w błąd."
-        },
-        {
-          "claim": "Celem publikowanych filmów jest ośmieszenie gości audycji lub rozpowszechnianie fałszywych informacji.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych źródeł potwierdzających jednoznacznie intencje twórców filmów, które mają na celu albo ośmieszenie gości audycji, albo celowe rozpowszechnianie fałszywych informacji. Intencje te są subiektywne i nie są możliwe do obiektywnego potwierdzenia wyłącznie na podstawie dostępnych danych."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 23,
-      "MOSTLY_TRUE": 1,
-      "MISLEADING": 1
-    },
-    "total_views": 1394144,
-    "total_rts": 4295,
     "community_notes_count": 0,
     "rank": 37
   },
@@ -1675,9 +1675,9 @@
       ]
     },
     "techniques": [
-      "decontextualization",
+      "cherry_picking",
       "false_dichotomy",
-      "cherry_picking"
+      "decontextualization"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 23,
@@ -1689,50 +1689,6 @@
     "total_rts": 2940,
     "community_notes_count": 0,
     "rank": 39
-  },
-  {
-    "handle": "@Dariusz_Jonski",
-    "score": 17.9,
-    "sub_scores": {
-      "falsehood": 7.4,
-      "technique": 12.7,
-      "reach": 100.0,
-      "repeat": 13.6,
-      "community_notes": 0.0
-    },
-    "total_posts": 33,
-    "flagged_posts": 3,
-    "top_fake": {
-      "text": "120 miliardów złotych❗️\nTak kradli za rządów PiS! \nTyle wynoszą stwierdzone nieprawidłowości w 166 audytach KAS.\n\nWedług ustaleń audytów z państwowych środków pod rządami PiS wydawali kasę na  spłaty ",
-      "url": "https://x.com/Dariusz_Jonski/status/2072019401591722400",
-      "views": 87374,
-      "verdicts": [
-        {
-          "claim": "Stwierdzone nieprawidłowości finansowe w audytach KAS dotyczą kwoty 120 miliardów złotych za rządów PiS.",
-          "verdict": "FALSE",
-          "evidence_summary": "Nie istnieją wiarygodne i publicznie dostępne źródła potwierdzające, że audyty przeprowadzone przez Krajową Administrację Skarbową wskazały na nieprawidłowości finansowe na kwotę 120 miliardów złotych za rządów PiS. Podane liczby są wielokrotnie zawyżone i nie znajdują potwierdzenia w oficjalnych raportach lub analizach niezależnych instytucji finansowych."
-        },
-        {
-          "claim": "W 166 audytach KAS stwierdzono nieprawidłowości finansowe o łącznej wartości 120 miliardów złotych.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień 2026-06 nie ma publicznie dostępnych, zweryfikowanych raportów rządowych lub mediów o konkretnych wynikach 166 audytów KAS z podaną kwotą nieprawidłowości rzędu 120 mld zł. Liczby te nie pojawiają się w oficjalnych publikacjach Ministerstwa Finansów ani innych wiarygodnych polskich źródłach, co uniemożliwia potwierdzenie tego twierdzenia."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 56,
-      "TRUE": 23,
-      "MOSTLY_TRUE": 17,
-      "FALSE": 2,
-      "MISLEADING": 1
-    },
-    "total_views": 530537,
-    "total_rts": 4190,
-    "community_notes_count": 0,
-    "rank": 40
   },
   {
     "handle": "@okiemtomkaw",
@@ -1769,6 +1725,50 @@
     },
     "total_views": 100177,
     "total_rts": 1940,
+    "community_notes_count": 0,
+    "rank": 40
+  },
+  {
+    "handle": "@Dariusz_Jonski",
+    "score": 16.5,
+    "sub_scores": {
+      "falsehood": 7.4,
+      "technique": 12.7,
+      "reach": 85.6,
+      "repeat": 13.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 33,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "120 miliardów złotych❗️\nTak kradli za rządów PiS! \nTyle wynoszą stwierdzone nieprawidłowości w 166 audytach KAS.\n\nWedług ustaleń audytów z państwowych środków pod rządami PiS wydawali kasę na  spłaty ",
+      "url": "https://x.com/Dariusz_Jonski/status/2072019401591722400",
+      "views": 87374,
+      "verdicts": [
+        {
+          "claim": "Stwierdzone nieprawidłowości finansowe w audytach KAS dotyczą kwoty 120 miliardów złotych za rządów PiS.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją wiarygodne i publicznie dostępne źródła potwierdzające, że audyty przeprowadzone przez Krajową Administrację Skarbową wskazały na nieprawidłowości finansowe na kwotę 120 miliardów złotych za rządów PiS. Podane liczby są wielokrotnie zawyżone i nie znajdują potwierdzenia w oficjalnych raportach lub analizach niezależnych instytucji finansowych."
+        },
+        {
+          "claim": "W 166 audytach KAS stwierdzono nieprawidłowości finansowe o łącznej wartości 120 miliardów złotych.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień 2026-06 nie ma publicznie dostępnych, zweryfikowanych raportów rządowych lub mediów o konkretnych wynikach 166 audytów KAS z podaną kwotą nieprawidłowości rzędu 120 mld zł. Liczby te nie pojawiają się w oficjalnych publikacjach Ministerstwa Finansów ani innych wiarygodnych polskich źródłach, co uniemożliwia potwierdzenie tego twierdzenia."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 56,
+      "TRUE": 23,
+      "MOSTLY_TRUE": 17,
+      "FALSE": 2,
+      "MISLEADING": 1
+    },
+    "total_views": 530537,
+    "total_rts": 4190,
     "community_notes_count": 0,
     "rank": 41
   },
@@ -1817,54 +1817,12 @@
     "rank": 42
   },
   {
-    "handle": "@ZandbergRAZEM",
-    "score": 16.0,
-    "sub_scores": {
-      "falsehood": 7.0,
-      "technique": 17.0,
-      "reach": 94.1,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 10,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Jak rozmawiam z politykami ze Skandynawii o tym, jak u nas wygląda zarządzanie majątkiem publicznym, to oni otwierają szeroko oczy. Bo to  standardy z Uzbekistanu z lat 90. Czas powiedzieć \"dość\" tym ",
-      "url": "https://x.com/ZandbergRAZEM/status/2071511152702415090",
-      "views": 34070,
-      "verdicts": [
-        {
-          "claim": "Politycy ze Skandynawii są zaskoczeni stanem zarządzania majątkiem publicznym w Polsce podczas rozmów z autorem posta.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie ma dostępnych publicznych ani medialnych źródeł potwierdzających, że politycy ze Skandynawii wyrażali zaskoczenie stanem zarządzania majątkiem publicznym w Polsce podczas rozmów z autorem posta. Treść pochodzi od indywidualnego użytkownika na Twitterze i nie została zweryfikowana przez niezależne źródła."
-        },
-        {
-          "claim": "Standardy zarządzania majątkiem publicznym w Polsce są porównywane do standardów z Uzbekistanu z lat 90.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono wiarygodnych i neutralnych źródeł porównujących bezpośrednio standardy zarządzania majątkiem publicznym w Polsce do standardów z Uzbekistanu z lat 90. Dostępne materiały i raporty dotyczące zarządzania majątkiem publicznym w Polsce i Uzbekistanie nie zawierają takiego porównania, a dane dotyczące lat 90. w Uzbekistanie są ograniczone i trudne do zweryfikowania. Twierdzenie ma charakter subiektywnej oceny lub metafory politycznej, a nie faktu dokumentowanego w źródłach."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 13,
-      "MOSTLY_TRUE": 5,
-      "TRUE": 2
-    },
-    "total_views": 417986,
-    "total_rts": 934,
-    "community_notes_count": 0,
-    "rank": 43
-  },
-  {
     "handle": "@szachmad",
-    "score": 15.8,
+    "score": 15.3,
     "sub_scores": {
       "falsehood": 6.3,
       "technique": 22.7,
-      "reach": 79.8,
+      "reach": 74.9,
       "repeat": 0.0,
       "community_notes": 0.0
     },
@@ -1883,8 +1841,8 @@
       ]
     },
     "techniques": [
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 24,
@@ -1893,7 +1851,7 @@
     "total_views": 269970,
     "total_rts": 1410,
     "community_notes_count": 0,
-    "rank": 44
+    "rank": 43
   },
   {
     "handle": "@KotulaKat",
@@ -1935,15 +1893,57 @@
     "total_views": 164909,
     "total_rts": 542,
     "community_notes_count": 0,
+    "rank": 44
+  },
+  {
+    "handle": "@ZandbergRAZEM",
+    "score": 14.8,
+    "sub_scores": {
+      "falsehood": 7.0,
+      "technique": 17.0,
+      "reach": 82.1,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Jak rozmawiam z politykami ze Skandynawii o tym, jak u nas wygląda zarządzanie majątkiem publicznym, to oni otwierają szeroko oczy. Bo to  standardy z Uzbekistanu z lat 90. Czas powiedzieć \"dość\" tym ",
+      "url": "https://x.com/ZandbergRAZEM/status/2071511152702415090",
+      "views": 34070,
+      "verdicts": [
+        {
+          "claim": "Politycy ze Skandynawii są zaskoczeni stanem zarządzania majątkiem publicznym w Polsce podczas rozmów z autorem posta.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie ma dostępnych publicznych ani medialnych źródeł potwierdzających, że politycy ze Skandynawii wyrażali zaskoczenie stanem zarządzania majątkiem publicznym w Polsce podczas rozmów z autorem posta. Treść pochodzi od indywidualnego użytkownika na Twitterze i nie została zweryfikowana przez niezależne źródła."
+        },
+        {
+          "claim": "Standardy zarządzania majątkiem publicznym w Polsce są porównywane do standardów z Uzbekistanu z lat 90.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych i neutralnych źródeł porównujących bezpośrednio standardy zarządzania majątkiem publicznym w Polsce do standardów z Uzbekistanu z lat 90. Dostępne materiały i raporty dotyczące zarządzania majątkiem publicznym w Polsce i Uzbekistanie nie zawierają takiego porównania, a dane dotyczące lat 90. w Uzbekistanie są ograniczone i trudne do zweryfikowania. Twierdzenie ma charakter subiektywnej oceny lub metafory politycznej, a nie faktu dokumentowanego w źródłach."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MOSTLY_TRUE": 5,
+      "TRUE": 2
+    },
+    "total_views": 417986,
+    "total_rts": 934,
+    "community_notes_count": 0,
     "rank": 45
   },
   {
     "handle": "@mmzawisza",
-    "score": 13.3,
+    "score": 13.1,
     "sub_scores": {
       "falsehood": 6.6,
       "technique": 15.0,
-      "reach": 74.0,
+      "reach": 72.0,
       "repeat": 0.0,
       "community_notes": 0.0
     },
@@ -1977,48 +1977,6 @@
     "total_rts": 1244,
     "community_notes_count": 0,
     "rank": 46
-  },
-  {
-    "handle": "@PatrykJaki",
-    "score": 13.2,
-    "sub_scores": {
-      "falsehood": 4.9,
-      "technique": 14.3,
-      "reach": 79.9,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 14,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Nowa narracja PO: badania zmarłemu nie robiono, aby ukryć przekręty, ale prowadzono tam badania jak nad …Tutanchamonem 👇 https://t.co/mq5c9pihto",
-      "url": "https://x.com/PatrykJaki/status/2070095046913798175",
-      "views": 5193,
-      "verdicts": [
-        {
-          "claim": "Nie wykonano badań na zmarłym, co według narracji miało na celu ukrycie przekrętów.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Dostępne publicznie źródła nie zawierają jednoznacznej informacji potwierdzającej lub zaprzeczającej, że nie wykonano badań na zmarłym, aby ukryć przekręty. Brak jest również wiarygodnych źródeł, które potwierdzałyby motywację takiej decyzji lub jej skutki. Sprawa wymaga dalszych, szczegółowych ustaleń."
-        },
-        {
-          "claim": "Prowadzono badania na zmarłym, które porównuje się do badań prowadzonych na Tutanchamonie.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie istnieją publicznie dostępne informacje ani wiarygodne źródła potwierdzające, że prowadzone są lub były badania na jakimś zmarłym, które są porównywane do badań nad Tutanchamonem w kontekście podanym w twierdzeniu. Brak szczegółów dotyczących osoby zmarłej lub rodzaju badań uniemożliwia weryfikację tej informacji."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 10,
-      "UNVERIFIABLE": 21,
-      "MOSTLY_TRUE": 3
-    },
-    "total_views": 270422,
-    "total_rts": 5841,
-    "community_notes_count": 0,
-    "rank": 47
   },
   {
     "handle": "@NocnaZ",
@@ -2061,15 +2019,57 @@
     "total_views": 146860,
     "total_rts": 1896,
     "community_notes_count": 0,
+    "rank": 47
+  },
+  {
+    "handle": "@PatrykJaki",
+    "score": 12.7,
+    "sub_scores": {
+      "falsehood": 4.9,
+      "technique": 14.3,
+      "reach": 74.9,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Nowa narracja PO: badania zmarłemu nie robiono, aby ukryć przekręty, ale prowadzono tam badania jak nad …Tutanchamonem 👇 https://t.co/mq5c9pihto",
+      "url": "https://x.com/PatrykJaki/status/2070095046913798175",
+      "views": 5193,
+      "verdicts": [
+        {
+          "claim": "Nie wykonano badań na zmarłym, co według narracji miało na celu ukrycie przekrętów.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Dostępne publicznie źródła nie zawierają jednoznacznej informacji potwierdzającej lub zaprzeczającej, że nie wykonano badań na zmarłym, aby ukryć przekręty. Brak jest również wiarygodnych źródeł, które potwierdzałyby motywację takiej decyzji lub jej skutki. Sprawa wymaga dalszych, szczegółowych ustaleń."
+        },
+        {
+          "claim": "Prowadzono badania na zmarłym, które porównuje się do badań prowadzonych na Tutanchamonie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją publicznie dostępne informacje ani wiarygodne źródła potwierdzające, że prowadzone są lub były badania na jakimś zmarłym, które są porównywane do badań nad Tutanchamonem w kontekście podanym w twierdzeniu. Brak szczegółów dotyczących osoby zmarłej lub rodzaju badań uniemożliwia weryfikację tej informacji."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 10,
+      "UNVERIFIABLE": 21,
+      "MOSTLY_TRUE": 3
+    },
+    "total_views": 270422,
+    "total_rts": 5841,
+    "community_notes_count": 0,
     "rank": 48
   },
   {
     "handle": "@JanSpiewak",
-    "score": 12.0,
+    "score": 10.9,
     "sub_scores": {
       "falsehood": 6.0,
       "technique": 0.0,
-      "reach": 100.0,
+      "reach": 89.6,
       "repeat": 0.0,
       "community_notes": 0.0
     },
@@ -2097,85 +2097,6 @@
     "total_rts": 418,
     "community_notes_count": 0,
     "rank": 49
-  },
-  {
-    "handle": "@trzaskowski_",
-    "score": 11.1,
-    "sub_scores": {
-      "falsehood": 5.5,
-      "technique": 0.0,
-      "reach": 92.9,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 5,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Irena Paśnik (z domu Szyperska) \"Irka\". Łączniczka z Pułku \"Baszta\". Bohaterka Warszawy. Minionej nocy odeszła na wieczną wartę. W październiku skończyłaby 101 lat.\n\nPani Ireno, stolica zawsze będzie ",
-      "url": "https://x.com/trzaskowski_/status/2071843448374657391",
-      "views": 62738,
-      "verdicts": [
-        {
-          "claim": "Irena Paśnik, z domu Szyperska, była łączniczką z Pułku \"Baszta\".",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Dostępne polskie źródła historyczne potwierdzają, że Irena Paśnik, z domu Szyperska, faktycznie pełniła funkcję łączniczki w konspiracji podczas II wojny światowej, a Pułk \"Baszta\" był jednostką Armii Krajowej. Brak jednak szeroko dostępnych detalicznych informacji o jej roli w tym pułku w publicznych źródłach online, co ogranicza pełną weryfikację."
-        },
-        {
-          "claim": "Irena Paśnik została określona jako bohaterka Warszawy.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających, że Irena Paśnik została oficjalnie określona jako bohaterka Warszawy. Brak informacji w polskich bazach danych historycznych, w oficjalnych nazwiskach odznaczonych bohaterów Warszawy czy w mediach."
-        }
-      ]
-    },
-    "techniques": [],
-    "verdicts_summary": {
-      "MOSTLY_TRUE": 4,
-      "UNVERIFIABLE": 13,
-      "TRUE": 4
-    },
-    "total_views": 402711,
-    "total_rts": 1926,
-    "community_notes_count": 0,
-    "rank": 50
-  },
-  {
-    "handle": "@donaldtusk",
-    "score": 11.0,
-    "sub_scores": {
-      "falsehood": 2.9,
-      "technique": 0.0,
-      "reach": 100.0,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 8,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Setki liderów i tysiące szans dla polskich firm. Trwa #URC2026. https://t.co/fbyzd7HDln",
-      "url": "https://x.com/donaldtusk/status/2070077535077982454",
-      "views": 241462,
-      "verdicts": [
-        {
-          "claim": "Podczas wydarzenia #URC2026 obecnych jest kilkaset osób określanych jako liderzy oraz oferowane są liczne możliwości dla polskich firm.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznych źródeł potwierdzających liczbę uczestników określanych jako liderzy oraz konkretne możliwości oferowane polskim firmom podczas wydarzenia #URC2026, które odbywa się w przyszłości (czerwiec 2026)."
-        },
-        {
-          "claim": "W dniu 25 czerwca 2026 roku odbywa się wydarzenie oznaczone hashtagiem #URC2026.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie źródeł potwierdzających, że konkretne wydarzenie oznaczone hashtagiem #URC2026 odbywa się dokładnie 25 czerwca 2026 roku. Wyszukiwania w polskich i międzynarodowych mediach nie przyniosły informacji na ten temat."
-        }
-      ]
-    },
-    "techniques": [],
-    "verdicts_summary": {
-      "TRUE": 5,
-      "UNVERIFIABLE": 4
-    },
-    "total_views": 1230322,
-    "total_rts": 9960,
-    "community_notes_count": 0,
-    "rank": 51
   },
   {
     "handle": "@RepublikaTV",
@@ -2218,7 +2139,46 @@
     "total_views": 12677,
     "total_rts": 35,
     "community_notes_count": 0,
-    "rank": 52
+    "rank": 50
+  },
+  {
+    "handle": "@donaldtusk",
+    "score": 10.3,
+    "sub_scores": {
+      "falsehood": 2.9,
+      "technique": 0.0,
+      "reach": 93.0,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Setki liderów i tysiące szans dla polskich firm. Trwa #URC2026. https://t.co/fbyzd7HDln",
+      "url": "https://x.com/donaldtusk/status/2070077535077982454",
+      "views": 241462,
+      "verdicts": [
+        {
+          "claim": "Podczas wydarzenia #URC2026 obecnych jest kilkaset osób określanych jako liderzy oraz oferowane są liczne możliwości dla polskich firm.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznych źródeł potwierdzających liczbę uczestników określanych jako liderzy oraz konkretne możliwości oferowane polskim firmom podczas wydarzenia #URC2026, które odbywa się w przyszłości (czerwiec 2026)."
+        },
+        {
+          "claim": "W dniu 25 czerwca 2026 roku odbywa się wydarzenie oznaczone hashtagiem #URC2026.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie źródeł potwierdzających, że konkretne wydarzenie oznaczone hashtagiem #URC2026 odbywa się dokładnie 25 czerwca 2026 roku. Wyszukiwania w polskich i międzynarodowych mediach nie przyniosły informacji na ten temat."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "TRUE": 5,
+      "UNVERIFIABLE": 4
+    },
+    "total_views": 1230322,
+    "total_rts": 9960,
+    "community_notes_count": 0,
+    "rank": 51
   },
   {
     "handle": "@gajewska_kinga",
@@ -2252,6 +2212,46 @@
     },
     "total_views": 21552,
     "total_rts": 46,
+    "community_notes_count": 0,
+    "rank": 52
+  },
+  {
+    "handle": "@trzaskowski_",
+    "score": 10.0,
+    "sub_scores": {
+      "falsehood": 5.5,
+      "technique": 0.0,
+      "reach": 81.5,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 5,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Irena Paśnik (z domu Szyperska) \"Irka\". Łączniczka z Pułku \"Baszta\". Bohaterka Warszawy. Minionej nocy odeszła na wieczną wartę. W październiku skończyłaby 101 lat.\n\nPani Ireno, stolica zawsze będzie ",
+      "url": "https://x.com/trzaskowski_/status/2071843448374657391",
+      "views": 62738,
+      "verdicts": [
+        {
+          "claim": "Irena Paśnik, z domu Szyperska, była łączniczką z Pułku \"Baszta\".",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Dostępne polskie źródła historyczne potwierdzają, że Irena Paśnik, z domu Szyperska, faktycznie pełniła funkcję łączniczki w konspiracji podczas II wojny światowej, a Pułk \"Baszta\" był jednostką Armii Krajowej. Brak jednak szeroko dostępnych detalicznych informacji o jej roli w tym pułku w publicznych źródłach online, co ogranicza pełną weryfikację."
+        },
+        {
+          "claim": "Irena Paśnik została określona jako bohaterka Warszawy.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających, że Irena Paśnik została oficjalnie określona jako bohaterka Warszawy. Brak informacji w polskich bazach danych historycznych, w oficjalnych nazwiskach odznaczonych bohaterów Warszawy czy w mediach."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 4,
+      "UNVERIFIABLE": 13,
+      "TRUE": 4
+    },
+    "total_views": 402711,
+    "total_rts": 1926,
     "community_notes_count": 0,
     "rank": 53
   },
