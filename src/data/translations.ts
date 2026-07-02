@@ -3,13 +3,9 @@ import type { VerdictType } from '../types';
 export const TECHNIQUE_LABELS: Record<string, string> = {
   cherry_picking: 'Wybieranie danych pod tezę',
   false_dichotomy: 'Fałszywa dychotomia',
-  appeal_to_emotion: 'Apel do emocji',
   confabulation: 'Konfabulacja (zmyślone fakty)',
   decontextualization: 'Wyrwanie z kontekstu',
-  gish_gallop: 'Zasypywanie argumentami',
-  ad_hominem: 'Atak na osobę',
   false_authority: 'Fałszywy autorytet',
-  whataboutism: '„A co z…" (odwracanie uwagi)',
   straw_man: 'Chochoł (zniekształcanie argumentu)',
 };
 
@@ -49,11 +45,11 @@ export const SUB_SCORE_LABELS: Record<string, string> = {
 };
 
 export const SUB_SCORE_WEIGHTS: Record<string, number> = {
-  falsehood: 0.30,
-  technique: 0.20,
-  reach: 0.15,
+  falsehood: 0.35,
+  technique: 0.30,
+  reach: 0.10,
   repeat: 0.15,
-  community_notes: 0.20,
+  community_notes: 0.10,
 };
 
 export const DISCLAIMER = 'FejKing ocenia TREŚĆ postów, nie osoby. Każde twierdzenie jest weryfikowane wobec publicznie dostępnych źródeł. Ranking nie przypisuje intencji ani nie nazywa nikogo kłamcą. Niska pozycja w rankingu nie oznacza wiarygodności — oznacza jedynie mniej oflagowanych twierdzeń w danym tygodniu.';
