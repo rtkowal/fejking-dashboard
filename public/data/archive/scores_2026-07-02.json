@@ -1,62 +1,385 @@
 [
   {
-    "handle": "@BoguckiZbigniew",
-    "score": 42.6,
+    "handle": "@ZiobroPL",
+    "score": 48.0,
     "sub_scores": {
-      "falsehood": 19.1,
-      "technique": 60.0,
-      "reach": 28.9,
+      "falsehood": 21.8,
+      "technique": 61.4,
+      "reach": 69.6,
       "repeat": 100,
       "community_notes": 0.0
     },
-    "total_posts": 6,
-    "flagged_posts": 6,
+    "total_posts": 7,
+    "flagged_posts": 5,
     "top_fake": {
-      "text": "Czy rząd D. Tuska godzi się, by pieniądze z programu SAFE trafiały do jednostek noszących imiona zbrodniarzy UPA⁉️\n\n👉Pytanie w imieniu swoim, ale chyba także w imieniu milionów Polaków, do rządzących,",
-      "url": "https://x.com/BoguckiZbigniew/status/2070058073771671996",
-      "views": 13138,
+      "text": "Premierze bezprawia, mission failed! Przejętej siłą prokuraturze nie udało się zamieść pod dywan sprawy nielegalnego odsunięcia Dariusza Barskiego od pełnienia funkcji Prokuratora Krajowego. Sąd Okręg",
+      "url": "https://x.com/ZiobroPL/status/2069780234384142405",
+      "views": 33872,
       "verdicts": [
         {
-          "claim": "Program SAFE wiąże się z zadłużeniem Polski na długi okres.",
+          "claim": "Dariusz Barski został odsunięty od pełnienia funkcji Prokuratora Krajowego w sposób określany przez autora jako nielegalny.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych polskich źródeł zawierających szczegółowe, potwierdzone informacje o programie SAFE oraz jego wpływie na dług publiczny Polski. Nie ma jednoznacznych danych o programie skutkującym zadłużeniem Polski na dziesięciolecia."
+          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych źródeł potwierdzających szczegóły dotyczące sposobu odsunięcia Dariusza Barskiego od funkcji Prokuratora Krajowego, w tym czy było to nielegalne. Informacje o tej sprawie nie pojawiają się w ogólnodostępnych mediach ani oficjalnych komunikatach do czerwca 2026 roku."
         },
         {
-          "claim": "Kolejne pokolenia polskich podatników będą spłacać zobowiązania wynikające z Programu SAFE.",
+          "claim": "Sąd Okręgowy w Warszawie oddalił argumenty prokuratury dotyczące zajęcia się sprawą odsunięcia Dariusza Barskiego.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień obecny brak jest publicznie dostępnych, wiarygodnych źródeł z polskich mediów czy oficjalnych komunikatów dotyczących wyroku Sądu Okręgowego w Warszawie w sprawie argumentów prokuratury dotyczących odsunięcia Dariusza Barskiego."
+        }
+      ]
+    },
+    "techniques": [
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "TRUE": 2,
+      "UNVERIFIABLE": 13,
+      "MOSTLY_FALSE": 1,
+      "MOSTLY_TRUE": 3,
+      "FALSE": 3,
+      "MISLEADING": 2
+    },
+    "total_views": 197962,
+    "total_rts": 2427,
+    "community_notes_count": 0,
+    "rank": 1
+  },
+  {
+    "handle": "@BoguckiZbigniew",
+    "score": 46.1,
+    "sub_scores": {
+      "falsehood": 24.0,
+      "technique": 60.0,
+      "reach": 47.2,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 8,
+    "top_fake": {
+      "text": "Gigantyczny skandal w Szpitalu Południowym. Za to wszystko politycznie odpowiada D. Tusk‼️\n\nTo jest gigantyczny skandal. To jest szpital zarządzany przez Rafała Trzaskowskiego. Ten człowiek, który prz",
+      "url": "https://x.com/BoguckiZbigniew/status/2069694656766525700",
+      "views": 20381,
+      "verdicts": [
+        {
+          "claim": "Szpital Południowy jest zarządzany przez Rafała Trzaskowskiego.",
+          "verdict": "FALSE",
+          "evidence_summary": "Szpital Południowy w Warszawie jest jednostką podległą bezpośrednio Zarządowi Dzielnicy Warszawa Ursynów, a zarządzanie placówką należy do dyrekcji szpitala i władz urzędniczych, a nie do Rafała Trzaskowskiego, który jest prezydentem Warszawy, a nie dyrektorem szpitala. Rafał Trzaskowski pełni funkcję włodarza miasta, nie zarządza bezpośrednio konkretnymi placówkami zdrowotnymi."
+        },
+        {
+          "claim": "Rafał Trzaskowski był w Koalicji Obywatelskiej.",
+          "verdict": "TRUE",
+          "evidence_summary": "Rafał Trzaskowski, jako polityk Platformy Obywatelskiej, był przedstawicielem Koalicji Obywatelskiej, która jest koalicją partii centroprawicowych w Polsce. Koalicja Obywatelska jest oficjalnym blokiem politycznym, w którego skład wchodzi Platforma Obywatelska, a Trzaskowski brał w niej udział jako jeden z liderów."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MOSTLY_TRUE": 14,
+      "FALSE": 8,
+      "TRUE": 9,
+      "MISLEADING": 3
+    },
+    "total_views": 118110,
+    "total_rts": 4142,
+    "community_notes_count": 0,
+    "rank": 2
+  },
+  {
+    "handle": "@MNiedorozwoju",
+    "score": 44.7,
+    "sub_scores": {
+      "falsehood": 25.5,
+      "technique": 40.6,
+      "reach": 85.9,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 13,
+    "top_fake": {
+      "text": "Strach przed wzrostem cen, wynika WYŁĄCZNIE z raportu OTODOM.\n\nBo nikt inny wzrostów cen na rynku nie zaobserwował. https://t.co/06LbMAYuKt",
+      "url": "https://x.com/MNiedorozwoju/status/2069836274349826251",
+      "views": 9419,
+      "verdicts": [
+        {
+          "claim": "Obawy dotyczące wzrostu cen powstają wyłącznie na podstawie raportu OTODOM.",
+          "verdict": "FALSE",
+          "evidence_summary": "Obawy dotyczące wzrostu cen, zwłaszcza nieruchomości i innych dóbr, wynikają z wielu źródeł, takich jak raporty różnych instytucji ekonomicznych, dane GUS, analizy rynkowe, opinie ekspertów oraz sytuacja makroekonomiczna. Raport OTODOM jest jednym z wielu źródeł informacji wpływających na postrzeganie rynku, ale nie jest jedynym ani wyłącznym powodem powstawania takich obaw."
+        },
+        {
+          "claim": "Żaden inny podmiot lub instytucja nie zaobserwowała wzrostów cen na rynku.",
+          "verdict": "FALSE",
+          "evidence_summary": "Wiele instytucji, w tym Główny Urząd Statystyczny (GUS) oraz niezależne analizy ekonomiczne, regularnie raportują o wzrostach cen na różnych rynkach w Polsce. Dane dotyczące inflacji i cen towarów są publicznie dostępne i jednoznacznie wskazują na wzrost cen w ostatnim czasie, co przeczy twierdzeniu, że nikt inny ich nie zaobserwował."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 14,
+      "MOSTLY_FALSE": 3,
+      "FALSE": 4,
+      "MOSTLY_TRUE": 14,
+      "MISLEADING": 12,
+      "TRUE": 3
+    },
+    "total_views": 544491,
+    "total_rts": 1332,
+    "community_notes_count": 0,
+    "rank": 3
+  },
+  {
+    "handle": "@ZandbergRAZEM",
+    "score": 44.5,
+    "sub_scores": {
+      "falsehood": 21.3,
+      "technique": 47.5,
+      "reach": 77.7,
+      "repeat": 100,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Minister z rządu umoczonego w Szpital Południowy, a zarazem prokurator generalny, o przesłuchaniu świadka. \n\nPatrzę i trochę oczom nie wierzę... Pamiętacie, jak po patologiach Ziobry mieliśmy rozdziel",
+      "url": "https://x.com/ZandbergRAZEM/status/2069727265705934850",
+      "views": 140376,
+      "verdicts": [
+        {
+          "claim": "W rządzie obecnie jest minister, który pełni również funkcję prokuratora generalnego i jest powiązany ze sprawą Szpitala Południowego.",
+          "verdict": "FALSE",
+          "evidence_summary": "W 2026 roku funkcje ministra i prokuratora generalnego w Polsce są zazwyczaj rozdzielone. Ponadto nie ma żadnych wiarygodnych źródeł potwierdzających, że którykolwiek członek rządu jest powiązany ze sprawą Szpitala Południowego, ani nie pełni jednocześnie funkcji prokuratora generalnego. Publiczne rejestry i doniesienia medialne nie wskazują na takie fakty."
+        },
+        {
+          "claim": "Trzy lata temu planowano rozdzielenie funkcji ministra sprawiedliwości i prokuratora generalnego po wskazanych problemach związanych z ministrem Ziobro.",
           "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Programy pożyczkowe o dużej skali, takie jak Program SAFE, finansowane są poprzez dług publiczny, który jest spłacany z budżetu państwa. Budżet państwa jest zasilany podatkami, co oznacza, że przyszłe pokolenia podatników mogą ponosić koszty obsługi i spłaty tych zobowiązań. Jednak szczegółowe warunki spłaty i długoterminowe zobowiązania Programu SAFE zależą od konkretnych umów i struktury finansowania, które nie są w pełni dostępne publicznie."
+          "evidence_summary": "W 2023 roku w polskiej debacie publicznej oraz w kręgach politycznych rzeczywiście pojawiały się dyskusje o rozdzieleniu funkcji ministra sprawiedliwości i prokuratora generalnego w związku z krytyką działania Zbigniewa Ziobry. Pomysł ten nie został formalnie wprowadzony w życie, ale był poważnie rozważany jako reakcja na kontrowersje wokół działań ministra Ziobry. Nie było jednak jednoznacznego, uchwalonego prawa rozdzielającego te funkcje."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "FALSE": 2,
+      "MOSTLY_TRUE": 6,
+      "MISLEADING": 1,
+      "TRUE": 4
+    },
+    "total_views": 319506,
+    "total_rts": 1014,
+    "community_notes_count": 0,
+    "rank": 4
+  },
+  {
+    "handle": "@PiotrIkonowicz1",
+    "score": 41.6,
+    "sub_scores": {
+      "falsehood": 20.3,
+      "technique": 53.1,
+      "reach": 73.3,
+      "repeat": 75.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 16,
+    "flagged_posts": 8,
+    "top_fake": {
+      "text": "Warszawiacy to tchórze? Nie, oni pamiętają, że złodziejom, którzy się obłowili na warszawskiej prywatyzacji nie spadł włos  z głowy, a człowiek, który ich  potępiał, Janek Śpiewak okazał się jedynym s",
+      "url": "https://x.com/PiotrIkonowicz1/status/2028471682445218100",
+      "views": 33059,
+      "verdicts": [
+        {
+          "claim": "Żadna osoba oskarżona o korupcję podczas warszawskiej prywatyzacji nie została skazana.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Procesy dotyczące korupcji przy warszawskiej prywatyzacji były prowadzone, jednak większość oskarżeń nie zakończyła się wyrokami skazującymi. Nie stwierdzono szeroko udokumentowanych skazań osób bezpośrednio odpowiedzialnych za korupcję podczas tych działań, co wskazuje na problemy z efektywnym ściganiem i wymiarem sprawiedliwości."
+        },
+        {
+          "claim": "Jan Śpiewak został skazany w aferze reprywatyzacyjnej i był jedyną osobą skazaną w tej sprawie.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak informacji potwierdzających, że Jan Śpiewak został skazany za aferę reprywatyzacyjną; jest on znany jako aktywista i krytyk nieprawidłowości związanych z reprywatyzacją, a nie jako osoba skazana. Ponadto, w przypadku afery reprywatyzacyjnej w Warszawie skazanych zostało kilka osób, nie tylko jedna."
+        }
+      ]
+    },
+    "techniques": [
+      "false_authority",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 25,
+      "MOSTLY_FALSE": 3,
+      "TRUE": 4,
+      "FALSE": 4,
+      "UNVERIFIABLE": 5,
+      "MISLEADING": 1
+    },
+    "total_views": 244484,
+    "total_rts": 534,
+    "community_notes_count": 0,
+    "rank": 5
+  },
+  {
+    "handle": "@KonradBerkowicz",
+    "score": 41.5,
+    "sub_scores": {
+      "falsehood": 26.7,
+      "technique": 42.2,
+      "reach": 70.2,
+      "repeat": 83.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Premier Wielkiej Brytanii Keir Starmer podał się do dymisji. Tak kończy premier, który nachalnie promował politykę woke i multikulturalizm. Donald Tusk skończy podobnie już za rok - dobrowolna lub nie",
+      "url": "https://x.com/KonradBerkowicz/status/2069066325381558724",
+      "views": 25286,
+      "verdicts": [
+        {
+          "claim": "Keir Starmer jest premierem Wielkiej Brytanii i podał się do dymisji.",
+          "verdict": "FALSE",
+          "evidence_summary": "Keir Starmer jest aktualnym liderem Partii Pracy, a nie premierem Wielkiej Brytanii. Obecnym premierem Wielkiej Brytanii w czerwcu 2026 roku jest Rishi Sunak. Nie ma żadnych wiarygodnych informacji ani doniesień o dymisji Keira Starmera z funkcji premiera, ponieważ on nią nie jest."
+        },
+        {
+          "claim": "Keir Starmer jako premier Wielkiej Brytanii promował politykę woke i multikulturalizm.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Keir Starmer jest liderem Partii Pracy, ale do czerwca 2026 nie był premierem Wielkiej Brytanii. Jako lider opozycji wypowiadał się na tematy związane z różnorodnością i integracją społeczną, co można interpretować jako element polityki multikulturalnej, jednak nie ma jednoznacznych dowodów na nachalne promowanie 'polityki woke' na poziomie rządowym. Termin 'woke' jest również kontrowersyjny i używany różnie w debacie publicznej."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 4,
+      "FALSE": 3,
+      "MOSTLY_TRUE": 7,
+      "MISLEADING": 3,
+      "UNVERIFIABLE": 1
+    },
+    "total_views": 202661,
+    "total_rts": 1424,
+    "community_notes_count": 0,
+    "rank": 6
+  },
+  {
+    "handle": "@widzimysiejutro",
+    "score": 40.9,
+    "sub_scores": {
+      "falsehood": 17.5,
+      "technique": 68.2,
+      "reach": 81.2,
+      "repeat": 40.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Nawrocki odbiera order orła białego Zełenskiemu\n\nNawrocki zazdrości Trzaskowskiemu rozgłosu? Prezydent odebrał Order Orła Białego Zełeńskiemu w środku afery ze Szpitalem Południowym, odpalając tani po",
+      "url": "https://x.com/widzimysiejutro/status/2068364159352254574",
+      "views": 31763,
+      "verdicts": [
+        {
+          "claim": "Nawrocki odebrał Order Orła Białego Wołodymyrowi Zełenskiemu.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych publicznie dostępnych źródeł potwierdzających, że osoba o nazwisku Nawrocki odebrała Order Orła Białego przyznany Wołodymurowi Zełenskiemu. Order Orła Białego jest najwyższym polskim odznaczeniem państwowym, które przyznaje Prezydent RP, i do tej pory nie zanotowano żadnego przypadku jego odebrania Zełenskiemu."
+        },
+        {
+          "claim": "Prezydent odebrał Order Orła Białego Zełenskiemu podczas trwania afery związanej ze Szpitalem Południowym.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma dostępnych wiarygodnych informacji w polskich źródłach potwierdzających, że Prezydent Polski odebrał Order Orła Białego Wołodymyrowi Zełenskiemu. Order Orła Białego jest najwyższym polskim odznaczeniem i jego odebranie byłoby szeroko nagłośnione, zwłaszcza gdyby miało miejsce podczas afery dotyczącej Szpitala Południowego. Nie znaleziono żadnych wzmiankach o takim zdarzeniu w mediach ani oficjalnych komunikatach."
         }
       ]
     },
     "techniques": [
       "decontextualization",
       "false_dichotomy",
+      "cherry_picking",
       "confabulation",
-      "cherry_picking"
+      "straw_man"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 11,
-      "MOSTLY_TRUE": 10,
+      "UNVERIFIABLE": 19,
+      "TRUE": 4,
       "FALSE": 4,
-      "TRUE": 8,
-      "MISLEADING": 3
+      "MISLEADING": 2,
+      "MOSTLY_TRUE": 8
     },
-    "total_views": 77348,
-    "total_rts": 2884,
+    "total_views": 395934,
+    "total_rts": 1972,
     "community_notes_count": 0,
-    "rank": 1
+    "rank": 7
+  },
+  {
+    "handle": "@GadowskiWitold",
+    "score": 40.0,
+    "sub_scores": {
+      "falsehood": 26.0,
+      "technique": 44.1,
+      "reach": 84.3,
+      "repeat": 61.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 17,
+    "flagged_posts": 7,
+    "top_fake": {
+      "text": "Presja jednak ma sens. Prezydent odebrał nienależny order Zelenskiemu. Mam nadzieje, że to początek normalizacji kontaktów Polski z tym krajem.",
+      "url": "https://x.com/GadowskiWitold/status/2068037087647908144",
+      "views": 60922,
+      "verdicts": [
+        {
+          "claim": "Prezydent Polski cofnął order, który został wcześniej przyznany prezydentowi Ukrainy Wołodymyrowi Zełenskiemu.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych publicznie dostępnych informacji ani oficjalnych komunikatów potwierdzających, że prezydent Polski cofnął order przyznany prezydentowi Ukrainy Wołodymyrowi Zełenskiemu. Wręczenie orderów prezydentowi Zełenskiemu było szeroko relacjonowane, jednak ich cofnięcie nie zostało odnotowane w żadnych wiarygodnych polskich źródłach."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 18,
+      "TRUE": 2,
+      "FALSE": 5,
+      "MOSTLY_TRUE": 3,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 478679,
+    "total_rts": 5930,
+    "community_notes_count": 0,
+    "rank": 8
   },
   {
     "handle": "@krzysztofbosak",
-    "score": 39.7,
+    "score": 39.9,
     "sub_scores": {
-      "falsehood": 10.4,
-      "technique": 55.0,
-      "reach": 82.8,
-      "repeat": 75.0,
+      "falsehood": 9.9,
+      "technique": 65.0,
+      "reach": 85.3,
+      "repeat": 56.2,
       "community_notes": 0.0
     },
-    "total_posts": 6,
+    "total_posts": 8,
     "flagged_posts": 3,
     "top_fake": {
       "text": "Uwaga, oszust!\n\nJednym z uczestników dzisiejszej konferencji o odbudowie Ukrainy w Gdańsku jest burmistrz Lwowa Andrij Sadowy. To postać symboliczna dla biznesowej współpracy polsko-ukraińskiej - Sado",
@@ -77,22 +400,386 @@
     },
     "techniques": [
       "decontextualization",
-      "straw_man",
+      "false_dichotomy",
+      "cherry_picking",
       "confabulation",
-      "cherry_picking"
+      "straw_man"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 35,
-      "MOSTLY_TRUE": 9,
+      "UNVERIFIABLE": 42,
+      "MOSTLY_TRUE": 12,
       "TRUE": 12,
       "MOSTLY_FALSE": 1,
       "MISLEADING": 5,
       "FALSE": 1
     },
-    "total_views": 437766,
-    "total_rts": 4112,
+    "total_views": 515396,
+    "total_rts": 4252,
     "community_notes_count": 0,
-    "rank": 2
+    "rank": 9
+  },
+  {
+    "handle": "@EwaZajaczkowska",
+    "score": 39.7,
+    "sub_scores": {
+      "falsehood": 10.3,
+      "technique": 68.5,
+      "reach": 88.3,
+      "repeat": 45.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 20,
+    "flagged_posts": 6,
+    "top_fake": {
+      "text": "Tego jeszcze nie było❗ Zełenski wygraża prezydentowi Nawrockiemu: \"Robi to, co robił Orban, to się źle skończy.\" 🤬\n\nPrezydent Ukrainy niedawno groził premierowi Węgier, teraz takie same metody stosuje",
+      "url": "https://x.com/EwaZajaczkowska/status/2069050227214938277",
+      "views": 54361,
+      "verdicts": [
+        {
+          "claim": "Prezydent Ukrainy Wołodymyr Zełenski powiedział prezydentowi Nawrockiemu \"Robi to, co robił Orban, to się źle skończy.\"",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych, publicznie dostępnych źródeł ani potwierdzenia w mediach polskich lub międzynarodowych, że prezydent Zełenski skierował takie słowa do prezydenta Nawrockiego. Brak oficjalnych wypowiedzi, nagrań lub relacji z tego spotkania."
+        },
+        {
+          "claim": "Prezydent Ukrainy w niedawnym czasie groził premierowi Węgier.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Dostępne publicznie informacje i wiarygodne polskie oraz międzynarodowe źródła nie potwierdzają, aby prezydent Ukrainy groził premierowi Węgier w niedawnym czasie. Brak jakichkolwiek oficjalnych komunikatów, wypowiedzi medialnych czy wypowiedzi dyplomatycznych, które wskazywałyby na podobną sytuację."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation",
+      "false_authority",
+      "straw_man"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 14,
+      "UNVERIFIABLE": 42,
+      "TRUE": 17,
+      "MISLEADING": 6,
+      "FALSE": 1,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 692420,
+    "total_rts": 8122,
+    "community_notes_count": 0,
+    "rank": 10
+  },
+  {
+    "handle": "@SlawomirMentzen",
+    "score": 39.6,
+    "sub_scores": {
+      "falsehood": 15.4,
+      "technique": 52.2,
+      "reach": 85.2,
+      "repeat": 66.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Nie uwierzycie! Tusk powiedział prawdę! \n\nPrzyznał, że patologie takie jak w Szpitalu Południowym są w całym kraju. \n\nCzyli w całym kraju szpitalami nieudolnie zarządzają politycy Platformy, płacą mil",
+      "url": "https://x.com/SlawomirMentzen/status/2069833069541138791",
+      "views": 131972,
+      "verdicts": [
+        {
+          "claim": "Donald Tusk stwierdził, że patologie podobne do tych w Szpitalu Południowym występują w całym kraju.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W dostępnych wypowiedziach Donalda Tuska pojawiły się odniesienia do problemów w szpitalach i systemie opieki zdrowotnej, wskazując na występowanie patologii, które nie ograniczają się jedynie do Szpitala Południowego, lecz mają charakter szerszy, występujący w innych placówkach w Polsce. Jednak brak jednoznacznych, szczegółowych wypowiedzi lub dokumentów potwierdzających, że Tusk explicite stwierdził, że takie patologie występują 'w całym kraju' bez wyjątków."
+        },
+        {
+          "claim": "Politycy Platformy Obywatelskiej zarządzają szpitalami w całym kraju.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Zarządzanie szpitalami w Polsce jest zróżnicowane i obejmuje głównie samorządy lokalne, podmioty prywatne oraz różne instytucje publiczne; politycy Platformy Obywatelskiej nie zarządzają szpitalami w całym kraju. W niektórych regionach mogą mieć wpływ na zarządzanie placówkami, ale nie jest to stan powszechny ani pełny."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 4,
+      "MOSTLY_TRUE": 7,
+      "MOSTLY_FALSE": 1,
+      "MISLEADING": 3,
+      "UNVERIFIABLE": 2
+    },
+    "total_views": 510619,
+    "total_rts": 1093,
+    "community_notes_count": 0,
+    "rank": 11
+  },
+  {
+    "handle": "@AKlarenbach",
+    "score": 38.8,
+    "sub_scores": {
+      "falsehood": 41.6,
+      "technique": 30.0,
+      "reach": 1.9,
+      "repeat": 100.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Donald Trump ogłosił, że Stany Zjednoczone wyślą dodatkowe pięć tysięcy żołnierzy do Polski. \"Na podstawie udanego wyboru obecnego prezydenta Polski Karola Nawrockiego\"",
+      "url": "https://x.com/AKlarenbach/status/2057566338093027662",
+      "views": 1953,
+      "verdicts": [
+        {
+          "claim": "Donald Trump ogłosił, że Stany Zjednoczone wyślą dodatkowe pięć tysięcy żołnierzy do Polski.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie wiarygodnych informacji z polskich lub międzynarodowych źródeł do 2024-06 potwierdzających, że Donald Trump ogłosił wysłanie dodatkowych 5000 żołnierzy USA do Polski. Trump nie jest aktualnym prezydentem USA, i nie ma oficjalnych oświadczeń w tym zakresie. Brak też doniesień medialnych ani oficjalnych komunikatów rządu USA potwierdzających tę informację."
+        },
+        {
+          "claim": "Donald Trump powiązał decyzję o wysłaniu dodatkowych żołnierzy z wyborem Karola Nawrockiego na prezydenta Polski.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją żadne oficjalne czy medialne doniesienia ani wypowiedzi Donalda Trumpa, które łączyłyby decyzję o wysłaniu dodatkowych żołnierzy do Polski z wyborem Karola Nawrockiego na prezydenta Polski. Ponadto Karol Nawrocki nie jest prezydentem Polski, co jest faktem łatwym do zweryfikowania w publicznie dostępnych źródłach."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 4,
+      "MOSTLY_TRUE": 1,
+      "FALSE": 3
+    },
+    "total_views": 8694,
+    "total_rts": 73,
+    "community_notes_count": 0,
+    "rank": 12
+  },
+  {
+    "handle": "@jacek_liberski",
+    "score": 37.9,
+    "sub_scores": {
+      "falsehood": 11.6,
+      "technique": 61.2,
+      "reach": 70.3,
+      "repeat": 56.2,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Dwa gorące przykłady potwierdzające tezę, że nazwa kanału @OficjalneZero zobowiązuje: \n@jpinkwart rzuciła pytanie, czy jakikolwiek polski polityk otrzymał kiedykolwiek najwyższe odznaczenie ukraińskie",
+      "url": "https://x.com/jacek_liberski/status/2068914532680950200",
+      "views": 29415,
+      "verdicts": [
+        {
+          "claim": "Kilku polskich polityków otrzymało najwyższe ukraińskie odznaczenie.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Kilku polskich polityków i ważnych postaci publicznych otrzymało najwyższe ukraińskie ordery, takie jak Order Orła Białego (współpraca polsko-ukraińska) lub tzw. Bohater Ukrainy, który jest najwyższym odznaczeniem państwowym Ukrainy. Przykłady obejmują m.in. prezydentów i premierów, którzy zostali wyróżnieni za wsparcie Ukrainy. Jednakże informacje o wszystkich przypadkach nie są zawsze szeroko rozgłaszane i brakuje oficjalnej publicznej kompletnej listy, co ogranicza pełną weryfikację."
+        },
+        {
+          "claim": "Prezydent Ukrainy Wołodymyr Zełenski miał wulgarnie wyrazić się o Polsce i Polakach, mówiąc 'pierdoli Polskę i Polaków', w kontekście odradzania mu nazywania jednego z batalionów imieniem bohaterów UPA.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak wiarygodnych, potwierdzonych źródeł ani oficjalnych oświadczeń potwierdzających, że prezydent Zełenski użył takiego wulgarnego sformułowania o Polsce i Polakach. Polskie i międzynarodowe media, a także oficjalne oświadczenia ukraińskie i polskie, nie potwierdzają tej wypowiedzi. Twierdzenie jest oparte na anonimowych, niezweryfikowanych doniesieniach i ma charakter pomówienia."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 32,
+      "MOSTLY_TRUE": 6,
+      "TRUE": 6,
+      "MOSTLY_FALSE": 1,
+      "FALSE": 2
+    },
+    "total_views": 203514,
+    "total_rts": 2138,
+    "community_notes_count": 0,
+    "rank": 13
+  },
+  {
+    "handle": "@Macierewicz_A",
+    "score": 36.4,
+    "sub_scores": {
+      "falsehood": 13.4,
+      "technique": 63.0,
+      "reach": 86.6,
+      "repeat": 27.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 27,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Największym osiągnięciem Macieja Laska jest zmiana nazwy z CPK na Port Polska-nie licząc kłamliwego raportu o zbrodni smoleńskiej, pisanego pod dyktando Anodiny i Putina\nWiedział o prawdzie bo uczestn",
+      "url": "https://x.com/Macierewicz_A/status/2068957180804440152",
+      "views": 5651,
+      "verdicts": [
+        {
+          "claim": "Maciej Lasek zmienił nazwę CPK na Port Polska.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma dostępnych publicznych informacji ani medialnych doniesień potwierdzających, że Maciej Lasek zmienił nazwę Centralnego Portu Komunikacyjnego (CPK) na Port Polska. Projekt CPK jest nadzorowany przez inne instytucje, a oficjalna nazwa pozostała niezmieniona. Maciej Lasek jest znany głównie z funkcji w Urzędzie Lotnictwa Cywilnego, nie z zarządzania CPK."
+        },
+        {
+          "claim": "Raport dotyczący zbrodni smoleńskiej został napisany z udziałem Anodiny.",
+          "verdict": "FALSE",
+          "evidence_summary": "Raporty dotyczące katastrofy smoleńskiej były opracowywane głównie przez polskie komisje, takie jak Komisja Millera i Komisja Macierewicza, bez oficjalnego udziału Poliny Anodiny, rosyjskiej urzędniczki lotniczej. Anodina, jako dyrektor rosyjskiej Federalnej Agencji Transportu Lotniczego, nie była współautorką polskiego raportu smoleńskiego, ani nie brała udziału w jego pisaniu."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation",
+      "false_authority",
+      "straw_man"
+    ],
+    "verdicts_summary": {
+      "FALSE": 3,
+      "MOSTLY_FALSE": 1,
+      "MOSTLY_TRUE": 7,
+      "UNVERIFIABLE": 33,
+      "TRUE": 9,
+      "MISLEADING": 3
+    },
+    "total_views": 586256,
+    "total_rts": 5106,
+    "community_notes_count": 0,
+    "rank": 14
+  },
+  {
+    "handle": "@PolacyKamraci",
+    "score": 36.3,
+    "sub_scores": {
+      "falsehood": 33.0,
+      "technique": 38.3,
+      "reach": 7.8,
+      "repeat": 83.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 10,
+    "top_fake": {
+      "text": "W 2003 roku Unia zażądała 6 milionów młodych Polaków. https://t.co/dqCrVFnwrU",
+      "url": "https://x.com/PolacyKamraci/status/2068672914187063517",
+      "views": 2107,
+      "verdicts": [
+        {
+          "claim": "W 2003 roku Unia Europejska podniosła żądanie dotyczące 6 milionów młodych Polaków.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie istnieją wiarygodne źródła ani oficjalne dokumenty wskazujące, że w 2003 roku Unia Europejska zażądała lub podniosła jakiekolwiek żądania dotyczące 6 milionów młodych Polaków. W 2003 roku Polska nadal nie była członkiem UE, a przystąpienie nastąpiło w 2004 roku. Nie odnotowano także jakichkolwiek żądań czy kwot odniesionych do tej grupy obywateli."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "MISLEADING": 6,
+      "UNVERIFIABLE": 8,
+      "FALSE": 4,
+      "MOSTLY_TRUE": 1,
+      "TRUE": 1
+    },
+    "total_views": 31928,
+    "total_rts": 286,
+    "community_notes_count": 0,
+    "rank": 15
+  },
+  {
+    "handle": "@RobertBiedron",
+    "score": 36.3,
+    "sub_scores": {
+      "falsehood": 17.8,
+      "technique": 49.0,
+      "reach": 86.3,
+      "repeat": 45.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Nawrocki odebrał order Orła Białego prezydentowi Ukrainy.🤦🏻Putin otwiera szampana.",
+      "url": "https://x.com/RobertBiedron/status/2068030355983020406",
+      "views": 226763,
+      "verdicts": [
+        {
+          "claim": "Osoba o nazwisku Nawrocki odebrała order Orła Białego prezydentowi Ukrainy.",
+          "verdict": "FALSE",
+          "evidence_summary": "W roku 2026 prezydent Ukrainy otrzymał Order Orła Białego od Polski, który jest najwyższym odznaczeniem państwowym. Nie ma żadnych wiarygodnych źródeł ani doniesień potwierdzających, że osoba o nazwisku Nawrocki odebrała ten order prezydentowi Ukrainy. Wręczenie i odbiór orderu odbywa się zazwyczaj przez oficjalne osoby państwowe, a takie zdarzenie byłoby szeroko relacjonowane w polskich mediach, co nie miało miejsca."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 4,
+      "MOSTLY_TRUE": 10,
+      "TRUE": 6,
+      "FALSE": 3
+    },
+    "total_views": 570750,
+    "total_rts": 444,
+    "community_notes_count": 0,
+    "rank": 16
+  },
+  {
+    "handle": "@TheCejrowski",
+    "score": 36.1,
+    "sub_scores": {
+      "falsehood": 19.6,
+      "technique": 44.0,
+      "reach": 70.2,
+      "repeat": 60.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 5,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Trump zrugał Benjamina N, Obama był antysemitą i narasta krytyka wpływów Izraela w USA - odcinek niepoprawny u Rachonia! https://t.co/rsAe9HXOLC -Personel WC https://t.co/RtwTJg9YRK",
+      "url": "https://x.com/TheCejrowski/status/2064561991612514350",
+      "views": 3054,
+      "verdicts": [
+        {
+          "claim": "Donald Trump publicznie skrytykował Benjamina N.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznych informacji ani wiarygodnych źródeł dotyczących publicznej krytyki osoby o imieniu Benjamin N. przez Donalda Trumpa do daty najnowszych dostępnych danych (czerwiec 2026). Nie można potwierdzić ani zaprzeczyć temu twierdzeniu na podstawie aktualnych źródeł polskich ani zagranicznych."
+        },
+        {
+          "claim": "Były prezydent Barack Obama był określany jako antysemita.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma wiarygodnych źródeł potwierdzających, że Barack Obama był określany jako antysemita przez uznane media lub ważnych polityków w Polsce ani na świecie. Wręcz przeciwnie, Obama był często chwalony za swoje relacje z Izraelem i aktywne wsparcie dla stosunków amerykańsko-żydowskich podczas swojej prezydentury."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 5,
+      "FALSE": 1,
+      "MOSTLY_TRUE": 2,
+      "TRUE": 1,
+      "MISLEADING": 1
+    },
+    "total_views": 202217,
+    "total_rts": 2672,
+    "community_notes_count": 0,
+    "rank": 17
   },
   {
     "handle": "@1972tomek",
@@ -124,8 +811,8 @@
       ]
     },
     "techniques": [
-      "false_dichotomy",
       "confabulation",
+      "false_dichotomy",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -139,7 +826,54 @@
     "total_views": 170254,
     "total_rts": 1122,
     "community_notes_count": 0,
-    "rank": 3
+    "rank": 18
+  },
+  {
+    "handle": "@RobertWinnicki",
+    "score": 35.4,
+    "sub_scores": {
+      "falsehood": 11.6,
+      "technique": 53.6,
+      "reach": 50.7,
+      "repeat": 68.2,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Co więcej, ta scena polityczna dzieliła się w ten sposób również wtedy, kiedy Jarosław Kaczyński wykrzykiwał na Majdanie banderowskie pozdrowienie, kiedy Małgorzata Gosiewska fotografowała się z batal",
+      "url": "https://x.com/RobertWinnicki/status/2068961186347958459",
+      "views": 12990,
+      "verdicts": [
+        {
+          "claim": "Jarosław Kaczyński miał wykrzykiwać na Majdanie pozdrowienie uznawane za banderowskie w określonym czasie.",
+          "verdict": "FALSE",
+          "evidence_summary": "Brak jakichkolwiek wiarygodnych źródeł potwierdzających, że Jarosław Kaczyński wykrzykiwał na Majdanie pozdrowienie uznawane za banderowskie. Dostępne relacje medialne oraz oficjalne zapisy wydarzeń nie wskazują na takie zachowanie, a tego typu twierdzenia pochodzą głównie z niezweryfikowanych i mało wiarygodnych źródeł."
+        },
+        {
+          "claim": "Małgorzata Gosiewska była fotografowana razem z członkami batalionu Azov.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Dostępne polskie źródła wskazują na istnienie zdjęć przedstawiających Małgorzatę Gosiewską razem z żołnierzami batalionu Azov podczas jej wizyty na Ukrainie. Nie ma jednak jednoznacznych informacji o kontekście i okolicznościach powstania tych fotografii, co może wpływać na pełną interpretację sytuacji."
+        }
+      ]
+    },
+    "techniques": [
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MOSTLY_TRUE": 16,
+      "TRUE": 9,
+      "MISLEADING": 6,
+      "FALSE": 1
+    },
+    "total_views": 128025,
+    "total_rts": 250,
+    "community_notes_count": 0,
+    "rank": 19
   },
   {
     "handle": "@sjkaleta",
@@ -172,10 +906,10 @@
     },
     "techniques": [
       "decontextualization",
-      "cherry_picking",
-      "straw_man",
       "false_dichotomy",
-      "confabulation"
+      "cherry_picking",
+      "confabulation",
+      "straw_man"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 40,
@@ -187,7 +921,329 @@
     "total_views": 386624,
     "total_rts": 3886,
     "community_notes_count": 0,
-    "rank": 4
+    "rank": 20
+  },
+  {
+    "handle": "@kuba_w",
+    "score": 31.5,
+    "sub_scores": {
+      "falsehood": 15.8,
+      "technique": 47.3,
+      "reach": 77.0,
+      "repeat": 27.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Budzisz się z 20-letniej śpiączki. Idolem lewicy jest papież, a prawicy - Leszek Miller",
+      "url": "https://x.com/kuba_w/status/2063167247783182399",
+      "views": 127404,
+      "verdicts": [
+        {
+          "claim": "Papież jest postrzegany przez niektóre osoby jako idol lewicy.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Papież Franciszek jest często postrzegany jako osoba bliska wartościom lewicowym przez część opinii publicznej oraz media, ze względu na swoje zaangażowanie w kwestie społeczne, ochronę środowiska czy krytykę neoliberalizmu. Nie oznacza to jednak, że jest oficjalnym idolem całej lewicy, ale faktycznie ma znaczących zwolenników wśród osób o lewicowych poglądach."
+        },
+        {
+          "claim": "Leszek Miller jest postrzegany przez niektóre osoby jako idol prawicy.",
+          "verdict": "FALSE",
+          "evidence_summary": "Leszek Miller jest polskim politykiem lewicowym, związanym przede wszystkim z Sojuszem Lewicy Demokratycznej. Jego działalność polityczna i poglądy są tradycyjnie kojarzone z lewicą, a nie z prawicą. Publicznie dostępne źródła i opinie nie wskazują na to, że był lub jest idolizowany przez środowiska prawicowe."
+        }
+      ]
+    },
+    "techniques": [
+      "false_authority",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 14,
+      "TRUE": 3,
+      "MISLEADING": 1,
+      "FALSE": 2,
+      "MOSTLY_TRUE": 1
+    },
+    "total_views": 307268,
+    "total_rts": 681,
+    "community_notes_count": 0,
+    "rank": 21
+  },
+  {
+    "handle": "@Sluzby_w_akcji",
+    "score": 31.2,
+    "sub_scores": {
+      "falsehood": 7.6,
+      "technique": 57.2,
+      "reach": 92.8,
+      "repeat": 14.1,
+      "community_notes": 0.0
+    },
+    "total_posts": 32,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Jesteśmy dumnym narodem i mamy swój próg bólu w sprawach, które dotyczą nas i naszych sojuszników. I ten próg bólu został przekroczony, dlatego odebrałem prezydentowi Zełenskiemu Order Orła Białego - ",
+      "url": "https://x.com/Sluzby_w_akcji/status/2068329281898381386",
+      "views": 7698,
+      "verdicts": [
+        {
+          "claim": "Prezydent Karol Nawrocki oświadczył podczas wizyty na Śląsku, że odebrał prezydentowi Wołodymyrowi Zełenskiemu Order Orła Białego.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych oficjalnych informacji ani potwierdzeń, że Karol Nawrocki, będący dyrektorem IPN, posiada uprawnienia do nadawania lub odbierania Orderu Orła Białego, ani aby taki akt został dokonany wobec prezydenta Wołodymyra Zełenskiego. Order Orła Białego jest najwyższym polskim odznaczeniem państwowym, którego nadawanie lub odbieranie może się odbywać wyłącznie na mocy decyzji Prezydenta RP lub za zgodą odpowiednich władz państwowych. Brak jakichkolwiek oficjalnych komunikatów potwierdzających takie wydarzenie wskazuje, że twierdzenie jest fałszywe."
+        },
+        {
+          "claim": "Order Orła Białego został odebrany Wołodymyrowi Zełenskiemu z powodu jego zgody na nadanie jednej z jednostek Sił Zbrojnych Ukrainy nazwy „Bohaterów UPA”.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma żadnych wiarygodnych informacji w polskich mediach ani oficjalnych komunikatach, które potwierdzałyby odebranie Orderu Orła Białego Wołodymyrowi Zełenskiemu, ani że takie działanie wiązałoby się z nadaniem nazwy jednostce wojskowej UPA. Polska nie odebrała Zełenskiemu tego orderu, a takie informacje w przestrzeni publicznej są fałszywe."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation",
+      "straw_man"
+    ],
+    "verdicts_summary": {
+      "TRUE": 21,
+      "UNVERIFIABLE": 137,
+      "MOSTLY_TRUE": 19,
+      "MISLEADING": 2,
+      "FALSE": 2
+    },
+    "total_views": 1182626,
+    "total_rts": 3928,
+    "community_notes_count": 0,
+    "rank": 22
+  },
+  {
+    "handle": "@JKowalski_posel",
+    "score": 30.3,
+    "sub_scores": {
+      "falsehood": 11.3,
+      "technique": 52.2,
+      "reach": 56.4,
+      "repeat": 33.3,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "Przepiękna Byczyna jakże bliska Zamościowi i mojemu sercu. Realizowana jest właśnie inwestycja remontu pięknego ratusza. Ze świetną panią burmistrz Iwoną Sobanią z @nowePSL udało się w 2023 r. jeszcze",
+      "url": "https://x.com/JKowalski_posel/status/2069372055074574827",
+      "views": 1397,
+      "verdicts": [
+        {
+          "claim": "Byczyna znajduje się niedaleko Zamościa.",
+          "verdict": "FALSE",
+          "evidence_summary": "Byczyna to miejscowość położona w województwie opolskim, a Zamość znajduje się w województwie lubelskim, około 400 km od Byczyny, co oznacza, że nie są one blisko siebie geograficznie."
+        },
+        {
+          "claim": "W Byczynie realizowany jest remont ratusza.",
+          "verdict": "TRUE",
+          "evidence_summary": "Aktualne informacje z lokalnych urzędów miejskich i mediów lokalnych potwierdzają, że w Byczynie trwa inwestycja polegająca na remoncie ratusza, co jest częścią planów rewitalizacyjnych miasta."
+        }
+      ]
+    },
+    "techniques": [
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 30,
+      "FALSE": 2,
+      "TRUE": 4,
+      "MOSTLY_TRUE": 13,
+      "MISLEADING": 2
+    },
+    "total_views": 146039,
+    "total_rts": 1687,
+    "community_notes_count": 0,
+    "rank": 23
+  },
+  {
+    "handle": "@waldemar_buda",
+    "score": 29.9,
+    "sub_scores": {
+      "falsehood": 11.3,
+      "technique": 50.0,
+      "reach": 86.1,
+      "repeat": 15.8,
+      "community_notes": 0.0
+    },
+    "total_posts": 19,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Wypisać się z ZUS albo zapisać do KO, nigdy pacjenci nie stali przed tak dramatycznym wyborem.",
+      "url": "https://x.com/waldemar_buda/status/2069429944170488117",
+      "views": 2860,
+      "verdicts": [
+        {
+          "claim": "Pacjenci stoją przed wyborem między wypisaniem się z ZUS a zapisaniem się do KO.",
+          "verdict": "FALSE",
+          "evidence_summary": "W polskim systemie opieki zdrowotnej pacjenci automatycznie są objęci ubezpieczeniem zdrowotnym przez ZUS lub KRUS, nie mogą się z nich wypisać i jednocześnie zapisać do KO (Komplementarne Organizacji). Nie istnieje powszechny ani formalny mechanizm zmuszający pacjentów do wyboru między wypisaniem się z ZUS a zapisaniem się do KO, a takie twierdzenie nie znajduje potwierdzenia w oficjalnych dokumentach systemu zdrowotnego."
+        }
+      ]
+    },
+    "techniques": [
+      "false_authority",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 34,
+      "TRUE": 1,
+      "FALSE": 2,
+      "MOSTLY_TRUE": 2
+    },
+    "total_views": 557479,
+    "total_rts": 4093,
+    "community_notes_count": 0,
+    "rank": 24
+  },
+  {
+    "handle": "@marekgrobarczyk",
+    "score": 29.4,
+    "sub_scores": {
+      "falsehood": 9.8,
+      "technique": 68.4,
+      "reach": 18.7,
+      "repeat": 23.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 19,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Właśnie Tusk ogłosił, że o połowę ograniczają środki na udrażnianie rzek i koszenie wałów, a dzisiaj dowiadujemy się, że suszą w Polsce zajmą się dopiero w 2027 roku. Oni już naprawdę mają wszystko w ",
+      "url": "https://x.com/marekgrobarczyk/status/2067912661874946182",
+      "views": 1281,
+      "verdicts": [
+        {
+          "claim": "Donald Tusk ogłosił, że środki na udrażnianie rzek i koszenie wałów zostaną ograniczone o połowę.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających, że Donald Tusk ogłosił ograniczenie środków na udrażnianie rzek i koszenie wałów o połowę. Brak wzmianki w najważniejszych mediach i oficjalnych komunikatach. Informacja pozostaje niepotwierdzona i wymaga dalszej weryfikacji."
+        },
+        {
+          "claim": "Działania dotyczące suszy w Polsce rozpoczną się w 2027 roku.",
+          "verdict": "MOSTLY_FALSE",
+          "evidence_summary": "Polska podejmuje działania związane z przeciwdziałaniem suszy już od wielu lat, w tym strategiczne i legislacyjne inicjatywy, a rok 2027 nie jest planowanym początkiem tych działań. Prace nad programami i inwestycjami w gospodarowanie wodą oraz przeciwdziałanie suszy trwają już obecnie i będą kontynuowane po 2027 roku."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation",
+      "straw_man"
+    ],
+    "verdicts_summary": {
+      "TRUE": 7,
+      "UNVERIFIABLE": 36,
+      "MOSTLY_TRUE": 16,
+      "MISLEADING": 3,
+      "MOSTLY_FALSE": 2
+    },
+    "total_views": 61066,
+    "total_rts": 3846,
+    "community_notes_count": 0,
+    "rank": 25
+  },
+  {
+    "handle": "@K_Smiszek",
+    "score": 29.2,
+    "sub_scores": {
+      "falsehood": 25.6,
+      "technique": 25.0,
+      "reach": 82.4,
+      "repeat": 30.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Wiedziliście, że 22 czerwca w Chorwacji obchodzony jest Dzień Walki Antyfaszystowskiej? \nJest to oficjalne święto państwowe i dzień ustawowo wolny od pracy.\nBardzo potrzebne święto! Szczególnie w obec",
+      "url": "https://x.com/K_Smiszek/status/2068964567217045984",
+      "views": 29394,
+      "verdicts": [
+        {
+          "claim": "22 czerwca w Chorwacji jest obchodzony Dzień Walki Antyfaszystowskiej",
+          "verdict": "FALSE",
+          "evidence_summary": "W Chorwacji 22 czerwca nie jest obchodzony Dzień Walki Antyfaszystowskiej. Jest to święto polskie, ustanowione na pamiątkę wydarzeń związanych z okupacją i działalnością antyfaszystowską podczas II wojny światowej. W Chorwacji oficjalne święta związane z antyfaszyzmem przypadają na inne daty lub mają inną nazwę."
+        },
+        {
+          "claim": "Dzień Walki Antyfaszystowskiej jest oficjalnym świętem państwowym i dniem ustawowo wolnym od pracy w Chorwacji",
+          "verdict": "FALSE",
+          "evidence_summary": "Dzień Walki Antyfaszystowskiej (Antifašistički dan) jest obchodzony w Chorwacji jako dzień pamięci, jednak nie jest oficjalnym świętem państwowym ani dniem ustawowo wolnym od pracy. Oficjalne dni wolne od pracy w Chorwacji są określone w krajowym kodeksie pracy i nie obejmują tej daty."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 12,
+      "TRUE": 2,
+      "MOSTLY_TRUE": 1,
+      "FALSE": 4
+    },
+    "total_views": 426962,
+    "total_rts": 542,
+    "community_notes_count": 0,
+    "rank": 26
+  },
+  {
+    "handle": "@martalempart",
+    "score": 28.9,
+    "sub_scores": {
+      "falsehood": 17.3,
+      "technique": 54.3,
+      "reach": 0.9,
+      "repeat": 42.9,
+      "community_notes": 0.0
+    },
+    "total_posts": 7,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Polska1993 o demokracji. Partyjka, która wbrew opinii ok. 70% społeczeństwa, będącego za legalizacją aborcji,  złożyła w polskim Sejmie PROJEKT ZAKAZU ABORCJI. W 2024 roku. Razem z talibami z PSL.",
+      "url": "https://x.com/martalempart/status/2043470463276323229",
+      "views": 349,
+      "verdicts": [
+        {
+          "claim": "Partia polityczna złożyła w polskim Sejmie projekt zakazu aborcji w roku 2024, podczas gdy około 70% społeczeństwa jest za legalizacją aborcji.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "W polskim Sejmie w 2024 roku nie odnotowano złożenia projektu całkowitego zakazu aborcji przez żadną znaną partię; natomiast sondaże wskazują, że poparcie dla legalizacji aborcji w Polsce wynosi około 50-60%, a nie około 70%. Różne badania pokazują, że opinie społeczne na temat aborcji są podzielone, a bardzo wysoki odsetek 70% poparcia za legalizacją jest niezgodny z dostępnymi danymi."
+        },
+        {
+          "claim": "Stwierdzono, że partia Razem działa razem z PSL.",
+          "verdict": "FALSE",
+          "evidence_summary": "Nie ma wiarygodnych informacji ani oficjalnych źródeł potwierdzających, że partia Razem współpracuje lub działa razem z PSL. Analizy polityczne i media nie odnotowały takiej współpracy, a partie te mają różne programy i elektoraty."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 13,
+      "MISLEADING": 1,
+      "FALSE": 1,
+      "MOSTLY_FALSE": 1,
+      "TRUE": 1
+    },
+    "total_views": 2813,
+    "total_rts": 2,
+    "community_notes_count": 0,
+    "rank": 27
   },
   {
     "handle": "@Cenckiewicz",
@@ -232,54 +1288,95 @@
     "total_views": 29050,
     "total_rts": 89,
     "community_notes_count": 0,
-    "rank": 5
+    "rank": 28
   },
   {
-    "handle": "@EwaZajaczkowska",
-    "score": 28.1,
+    "handle": "@MorawieckiM",
+    "score": 28.3,
     "sub_scores": {
-      "falsehood": 7.6,
-      "technique": 53.7,
-      "reach": 65.3,
-      "repeat": 18.8,
+      "falsehood": 7.1,
+      "technique": 53.5,
+      "reach": 84.5,
+      "repeat": 8.8,
       "community_notes": 0.0
     },
-    "total_posts": 8,
+    "total_posts": 17,
     "flagged_posts": 1,
     "top_fake": {
-      "text": "Trzymajcie mnie❗ Banderowiec Andrij Sadowy został przez władzę Tuska cieplutko przyjęty na konferencji w Gdańsku i jeszcze pochwalił się, że dostał 2,5 miliona euro dla Lwowa zawierając umowy z pomini",
-      "url": "https://x.com/EwaZajaczkowska/status/2070219362384965898",
-      "views": 17318,
+      "text": "🚨Komisja Śledcza w sprawie afery Kacprzyka musi powstać natychmiast! Ta największa od dekad afera w ochronie zdrowia musi zostać wyjaśniona publicznie w świetle kamer, a nie w mroku rządowych gabinetó",
+      "url": "https://x.com/MorawieckiM/status/2069714284704116877",
+      "views": 21003,
       "verdicts": [
         {
-          "claim": "Andrij Sadowy został przyjęty przez władze rządowe podczas konferencji w Gdańsku.",
+          "claim": "Istnieje afera w ochronie zdrowia, która jest określana jako największa od dekad.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Dostępne do czerwca 2024 roku źródła nie zawierają informacji o wydarzeniu z udziałem Andrija Sadowego i władz rządowych Polski na konferencji w Gdańsku w 2026 roku. Nie ma potwierdzenia, że Tusk lub władze rządowe uczestniczyły w takim wydarzeniu ani że Andrij Sadowy był tam oficjalnie przyjęty."
+          "evidence_summary": "Nie znaleziono w dostępnych polskich źródłach potwierdzenia, że jest obecnie zgłaszana lub oficjalnie uznana 'największa od dekad' afera w ochronie zdrowia. Informacje na temat afer zdrowotnych są zwykle publikowane w mediach, jednak brak jednoznacznych danych i oficjalnych komunikatów potwierdzających to twierdzenie."
         },
         {
-          "claim": "Andrij Sadowy otrzymał 2,5 miliona euro na rzecz Lwowa w związku z umowami zawartymi bez udziału Polski.",
+          "claim": "W aferze Kacprzyka pojawiają się zarzuty dotyczące zdrowia Polaków, błędów medycznych, narażania życia pacjentów, zagadkowych zgonów i zmowy milczenia.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie źródeł potwierdzających, że Andrij Sadowy otrzymał 2,5 miliona euro na rzecz Lwowa w związku z umowami zawartymi bez udziału Polski. Nie znaleziono informacji o takich umowach lub finansowaniu z pominięciem Polski w polskich ani międzynarodowych źródłach do czerwca 2026."
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł polskich ani międzynarodowych potwierdzających istnienie 'afery Kacprzyka' związanej z zarzutami dotyczącymi zdrowia Polaków, błędów medycznych, narażania życia pacjentów, zagadkowych zgonów ani zmowy milczenia. Brak w mediach oraz oficjalnych raportach informacji o takim zdarzeniu lub aferze."
         }
       ]
     },
     "techniques": [
+      "confabulation",
       "straw_man",
       "false_dichotomy",
-      "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "MOSTLY_TRUE": 6,
-      "UNVERIFIABLE": 14,
       "TRUE": 9,
+      "MOSTLY_TRUE": 8,
+      "UNVERIFIABLE": 18,
+      "MISLEADING": 1
+    },
+    "total_views": 484907,
+    "total_rts": 4697,
+    "community_notes_count": 0,
+    "rank": 29
+  },
+  {
+    "handle": "@donaldtusk",
+    "score": 28.2,
+    "sub_scores": {
+      "falsehood": 11.2,
+      "technique": 35.0,
+      "reach": 100.0,
+      "repeat": 25.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 24,
+    "flagged_posts": 4,
+    "top_fake": {
+      "text": "F-35 Husarz są już w Polsce. Witamy w domu! 🇵🇱 https://t.co/cSsF46jySZ",
+      "url": "https://x.com/donaldtusk/status/2065412430600044824",
+      "views": 120629,
+      "verdicts": [
+        {
+          "claim": "Samoloty F-35 Husarz znajdują się obecnie na terenie Polski.",
+          "verdict": "FALSE",
+          "evidence_summary": "Do czerwca 2026 roku nie ma żadnych oficjalnych informacji ani potwierdzeń o tym, że Polska posiada lub że na jej terytorium znajdują się samoloty F-35 Husarz. Program Husarz jest planowany, ale realizacja dostaw jeszcze nie nastąpiła."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 7,
+      "UNVERIFIABLE": 26,
+      "FALSE": 2,
+      "MOSTLY_TRUE": 13,
       "MISLEADING": 1,
       "MOSTLY_FALSE": 1
     },
-    "total_views": 179604,
-    "total_rts": 2760,
+    "total_views": 17079013,
+    "total_rts": 48214,
     "community_notes_count": 0,
-    "rank": 6
+    "rank": 30
   },
   {
     "handle": "@DariuszMatecki",
@@ -312,10 +1409,10 @@
     },
     "techniques": [
       "decontextualization",
-      "cherry_picking",
-      "straw_man",
       "false_dichotomy",
-      "confabulation"
+      "cherry_picking",
+      "confabulation",
+      "straw_man"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 51,
@@ -325,7 +1422,101 @@
     "total_views": 138389,
     "total_rts": 4046,
     "community_notes_count": 0,
-    "rank": 7
+    "rank": 31
+  },
+  {
+    "handle": "@EKOlodziejczak_",
+    "score": 27.4,
+    "sub_scores": {
+      "falsehood": 7.6,
+      "technique": 50.7,
+      "reach": 78.7,
+      "repeat": 10.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Jak już mówimy o zarobkach w jednostkach publicznych to bądźmy dokładni. \n\nDziennikarz @TVP albo raczej propagandysta Michał Adamczyk w 2023 roku zarobił ponad 1,5 miliona zł! \nZa co? \nZa skłócanie Po",
+      "url": "https://x.com/EKOlodziejczak_/status/2067550756387831815",
+      "views": 85998,
+      "verdicts": [
+        {
+          "claim": "Michał Adamczyk pracujący w TVP otrzymał w 2023 roku wynagrodzenie przekraczające 1,5 miliona złotych.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie ma publicznie dostępnych, wiarygodnych informacji na temat dokładnych zarobków Michała Adamczyka w TVP w 2023 roku. Mediowe doniesienia o wysokich zarobkach pracowników mediów publicznych są często spekulacjami lub dotyczą ogólnych stawek, bez podania konkretnych osób. TVP nie ujawnia szczegółowo wynagrodzeń poszczególnych dziennikarzy."
+        },
+        {
+          "claim": "Danuta Holecka zarabia miesięcznie kwotę w przedziale od 60 do 70 tysięcy złotych.",
+          "verdict": "FALSE",
+          "evidence_summary": "Publicznie dostępne informacje na temat zarobków Danuty Holeckiej, polskiej dziennikarki telewizyjnej, wskazują że jej miesięczne wynagrodzenie jest znacznie niższe i oscyluje w granicach kilku tysięcy złotych, typowych dla osób z branży medialnej. Nie ma żadnych wiarygodnych źródeł potwierdzających zarobki rzędu 60-70 tysięcy złotych miesięcznie."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 11,
+      "TRUE": 10,
+      "UNVERIFIABLE": 15,
+      "FALSE": 1
+    },
+    "total_views": 340680,
+    "total_rts": 2778,
+    "community_notes_count": 0,
+    "rank": 32
+  },
+  {
+    "handle": "@Kaminski_M_",
+    "score": 26.7,
+    "sub_scores": {
+      "falsehood": 12.8,
+      "technique": 51.8,
+      "reach": 15.7,
+      "repeat": 34.1,
+      "community_notes": 0.0
+    },
+    "total_posts": 22,
+    "flagged_posts": 5,
+    "top_fake": {
+      "text": "Unią Europejską co chwila targają skandale korupcyjne z udziałem najważniejszych urzędników UE. Żadna z afer nie została dotąd rozliczona. Mieszkańcy krajów członkowskich mają dość tej degrengolady! W",
+      "url": "https://x.com/Kaminski_M_/status/2070155553301750171",
+      "views": 1163,
+      "verdicts": [
+        {
+          "claim": "W ostatnim czasie pojawiły się zgłoszenia dotyczące skandali korupcyjnych z udziałem wysokich urzędników Unii Europejskiej.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień dzisiejszy (czerwiec 2026) brak jest publicznie dostępnych polskich lub międzynarodowych źródeł potwierdzających występowanie ostatnio skandali korupcyjnych z udziałem najwyższych urzędników UE. Informacje o ewentualnych incydentach są sporadyczne i nie potwierdzają systematycznego problemu."
+        },
+        {
+          "claim": "Do chwili obecnej nie zostały podane publicznie informacje o zakończeniu śledztw lub karach w związku z tymi aferami korupcyjnymi w Unii Europejskiej.",
+          "verdict": "FALSE",
+          "evidence_summary": "Istnieją publicznie dostępne informacje o zakończeniu śledztw i wymierzeniu kar w sprawach afer korupcyjnych związanych z Unią Europejską. W ostatnich latach doszło do kilku głośnych postępowań zakończonych wyrokami, co potwierdzają raporty organów ścigania i sądów w krajach członkowskich UE oraz instytucji unijnych."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 9,
+      "MOSTLY_TRUE": 22,
+      "UNVERIFIABLE": 40,
+      "FALSE": 4,
+      "MOSTLY_FALSE": 1,
+      "MISLEADING": 2
+    },
+    "total_views": 57060,
+    "total_rts": 2648,
+    "community_notes_count": 0,
+    "rank": 33
   },
   {
     "handle": "@GiertychRoman",
@@ -358,8 +1549,8 @@
     },
     "techniques": [
       "straw_man",
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 11,
@@ -370,90 +1561,281 @@
     "total_views": 173404,
     "total_rts": 1205,
     "community_notes_count": 0,
-    "rank": 8
+    "rank": 34
   },
   {
     "handle": "@KosiniakKamysz",
-    "score": 25.2,
+    "score": 25.9,
     "sub_scores": {
-      "falsehood": 22.8,
-      "technique": 0.0,
-      "reach": 59.6,
-      "repeat": 75.0,
+      "falsehood": 8.9,
+      "technique": 34.3,
+      "reach": 96.1,
+      "repeat": 19.1,
       "community_notes": 0.0
     },
-    "total_posts": 8,
-    "flagged_posts": 4,
+    "total_posts": 47,
+    "flagged_posts": 6,
     "top_fake": {
-      "text": "Ministrowie Obrony 🇵🇱🇨🇿🇸🇰🇭🇺 znów przy jednym stole! \n\nPo latach przerwy znów spotyka się Grupa Wyszehradzka. Dziś w Budapeszcie rozmawiamy o bezpieczeństwie i współpracy wojskowej! https://t.co/y8IPUo",
-      "url": "https://x.com/KosiniakKamysz/status/2070061218044195011",
-      "views": 6232,
+      "text": "Relacje polskiego rządu z prezydentem Trumpem i administracją USA są tak złe, że właśnie otrzymaliśmy 4 mld dolarów gwarancji w amerykańskim programie Foreign Military Financing - Amerykański program ",
+      "url": "https://x.com/KosiniakKamysz/status/2066476329164284269",
+      "views": 165996,
       "verdicts": [
         {
-          "claim": "Ministrowie Obrony Polski, Czech, Słowacji i Węgier spotkali się razem.",
-          "verdict": "TRUE",
-          "evidence_summary": "Ministerstwa Obrony Polski, Czech, Słowacji i Węgier regularnie organizują spotkania w ramach regionalnej współpracy obronnej. W ostatnich komunikatach prasowych z czerwca 2026 roku potwierdzono kolejny wspólny zjazd tych ministrów, mający na celu omówienie kwestii bezpieczeństwa i współpracy wojskowej."
+          "claim": "Polska otrzymała 4 miliardy dolarów gwarancji w programie Foreign Military Financing, znanym jako program SAFE.",
+          "verdict": "FALSE",
+          "evidence_summary": "Program Foreign Military Financing (FMF) to amerykański program wsparcia wojskowego, jednak nie ma informacji ani oficjalnych źródeł potwierdzających, że Polska otrzymała 4 miliardy dolarów gwarancji w ramach tego programu, ani że taki program nazywa się SAFE. Ponadto, program SAFE (Security Assistance For Europe) dotyczy innych form wsparcia i nie operuje gwarancjami na taką skalę. Relacje między Polską a administracją USA w latach 2020-2026 nie wpłynęły na udzielenie takiego pakietu finansowego."
         },
         {
-          "claim": "Grupa Wyszehradzka spotkała się ponownie po kilku latach przerwy.",
-          "verdict": "FALSE",
-          "evidence_summary": "Grupa Wyszehradzka (V4) utrzymuje regularne spotkania, najczęściej co pół roku; nie było kilkuletniej przerwy w ich działaniach. Źródła polskie i regionalne raportują o ciągłych szczytach i spotkaniach w ostatnich latach, bez przerw dłuższych niż rok."
+          "claim": "Sekretarz Thomas DiNanno publicznie wypowiedział się pozytywnie o programie Tarcza Wschód.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznych i wiarygodnych źródeł w języku polskim lub angielskim potwierdzających, że sekretarz Thomas DiNanno publicznie wyraził pozytywną opinię na temat programu Tarcza Wschód do dnia 2026-06-15. Nie znaleziono cytatów, wywiadów ani oficjalnych oświadczeń w mediach mainstreamowych lub rządowych."
         }
       ]
     },
-    "techniques": [],
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "cherry_picking"
+    ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 12,
+      "UNVERIFIABLE": 60,
       "MOSTLY_FALSE": 2,
-      "MOSTLY_TRUE": 4,
-      "MISLEADING": 2,
-      "TRUE": 2,
-      "FALSE": 2
+      "MOSTLY_TRUE": 45,
+      "MISLEADING": 3,
+      "TRUE": 38,
+      "FALSE": 3
     },
-    "total_views": 157238,
-    "total_rts": 642,
+    "total_views": 2283923,
+    "total_rts": 11198,
     "community_notes_count": 0,
-    "rank": 9
+    "rank": 35
   },
   {
-    "handle": "@RobertWinnicki",
-    "score": 23.3,
+    "handle": "@Ten_Psycholog",
+    "score": 25.4,
     "sub_scores": {
-      "falsehood": 7.6,
-      "technique": 43.3,
-      "reach": 1.5,
-      "repeat": 50.0,
+      "falsehood": 7.0,
+      "technique": 51.7,
+      "reach": 36.7,
+      "repeat": 25.0,
       "community_notes": 0.0
     },
-    "total_posts": 3,
+    "total_posts": 6,
     "flagged_posts": 1,
     "top_fake": {
-      "text": "\"Afera szpitalna zatopi rząd Tuska?\" - zapraszam na dzisiejszy odcinek mojego programu! (link w komentarzu poniżej) Rząd zapadł na chorobę o charakterze przewlekłym. W dodatku choroba ta dotyka najbar",
-      "url": "https://x.com/RobertWinnicki/status/2070255287551082637",
-      "views": 3997,
+      "text": "Pan Nawrocki zmienił zdanie i teraz zachwala program SAFE🙂. \n\nBardzo dobra decyzja o zmianie narracji w kwestii programu SAFE. Teraz to już sukces rządu @donaldtusk i sukces Polski 🇵🇱. Rozsyłajcie koc",
+      "url": "https://x.com/Ten_Psycholog/status/2069402039654732092",
+      "views": 19469,
       "verdicts": [
         {
-          "claim": "W ostatnich latach w sektorze ochrony zdrowia w Polsce miały miejsce znaczne podwyżki, które według autora posłużyły do stworzenia prywatnych fortun zamiast systemowych zmian.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "W sektorze ochrony zdrowia w Polsce rzeczywiście odnotowano wzrost nakładów finansowych i wynagrodzeń, jednak większość środków pochłonęła rozbudowa i podwyżki dla personelu oraz inwestycje systemowe. Nie ma jednak wiarygodnych dowodów na masowe tworzenie prywatnych fortun kosztem systemu, choć pewne nieprawidłowości i patologie finansowe od czasu do czasu się pojawiają."
+          "claim": "Pan Nawrocki zmienił swoje stanowisko i obecnie pozytywnie ocenia program SAFE.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie polskich źródeł potwierdzających zmianę stanowiska Pana Nawrockiego w sprawie programu SAFE oraz jego obecnej pozytywnej oceny tego programu. Informacje na ten temat nie są szeroko udokumentowane ani omawiane w wiarygodnych mediach."
+        },
+        {
+          "claim": "Obecne pozytywne oceny programu SAFE są przypisywane rządowi Donalda Tuska i postrzegane jako sukces Polski.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych obecnie publicznie polskich źródeł, które wyraźnie przypisywałyby pozytywne oceny programu SAFE rządowi Donalda Tuska oraz wskazywały ten program jako sukces Polski. Program SAFE nie był szeroko omawiany w polskich mediach do połowy 2026 roku, a oceny sukcesu są subiektywne i mogą różnić się w zależności od źródła."
         }
       ]
     },
     "techniques": [
       "straw_man",
+      "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 12,
+      "MOSTLY_TRUE": 5,
+      "TRUE": 4,
+      "MISLEADING": 1
+    },
+    "total_views": 92602,
+    "total_rts": 1884,
+    "community_notes_count": 0,
+    "rank": 36
+  },
+  {
+    "handle": "@Kpelczynska",
+    "score": 24.6,
+    "sub_scores": {
+      "falsehood": 7.6,
+      "technique": 35.9,
+      "reach": 91.3,
+      "repeat": 13.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 22,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "W Szpitalu w Warszawie funkcjonowała ścieżka VIP dla partyjnych kolegów polityków KO. Szpitalem zarządza warszawski samorząd, a nadzoruje go 3 wiceprezydentów miasta. Miasta, w którym od 20 lat rządzi",
+      "url": "https://x.com/Kpelczynska/status/2069026072868401282",
+      "views": 287797,
+      "verdicts": [
+        {
+          "claim": "W Warszawskim szpitalu istniała ścieżka VIP dostępna dla osób powiązanych z politykami Koalicji Obywatelskiej.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie, wiarygodnych źródeł potwierdzających istnienie specjalnej ścieżki VIP w warszawskim szpitalu dedykowanej osobom powiązanym z politykami Koalicji Obywatelskiej. Nie znaleziono oficjalnych oświadczeń ani raportów kontrolnych dotyczących tego zarzutu."
+        },
+        {
+          "claim": "Zarządzanie szpitalem w Warszawie jest prowadzone przez warszawski samorząd, a nadzór sprawują trzej wiceprezydenci miasta.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Warszawski samorząd rzeczywiście zarządza miejskimi szpitalami poprzez miejskie jednostki organizacyjne lub spółki komunalne. Władze Warszawy, w tym prezydent i wiceprezydenci, pełnią nadzór nad jednostkami miejskimi, jednak podział kompetencji może się różnić w zależności od konkretnych szpitali i struktur zarządzających. Zwykle jednak nadzór sprawuje prezydent miasta wraz z kilkoma wiceprezydentami odpowiedzialnymi za ochronę zdrowia i spraw społecznych."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 50,
+      "MOSTLY_TRUE": 24,
+      "TRUE": 15,
+      "MOSTLY_FALSE": 1,
+      "FALSE": 1
+    },
+    "total_views": 933234,
+    "total_rts": 1218,
+    "community_notes_count": 0,
+    "rank": 37
+  },
+  {
+    "handle": "@KoronyPolskiej",
+    "score": 24.2,
+    "sub_scores": {
+      "falsehood": 8.2,
+      "technique": 51.1,
+      "reach": 22.1,
+      "repeat": 25.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 18,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "👉 @GrzegorzBraun_: Wasze dzieci, wnuki, prawnuki będą spłacać odsetki tych kredytów, które w Warszawie i w Brukseli wzięto na wasz koszt, na wasze konto po to, żeby nafutrować Zeleńskiego i jego bande",
+      "url": "https://x.com/KoronyPolskiej/status/2070078884331110760",
+      "views": 7143,
+      "verdicts": [
+        {
+          "claim": "Długi zostały zaciągnięte przez władze w Warszawie i Brukseli, a spłata ich odsetek obciąży przyszłe pokolenia obywateli Polski.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Polska jako kraj i członek Unii Europejskiej bierze kredyty zarówno na poziomie krajowym, jak i unijnym, które powodują powstanie zobowiązań finansowych do spłacania odsetek. Te zobowiązania obciążają budżety przyszłych lat, na które wpływ mają przyszłe pokolenia obywateli. Źródła pokazują, że długi zaciągnięte przez rząd Polski oraz zobowiązania wynikające z unijnego budżetu i funduszy są finansowane przez kolejne generacje podatników."
+        },
+        {
+          "claim": "Kredyty zaciągnięto, aby finansować działania rządu Zełenskiego.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Ukraiński rząd zaciągnął wiele kredytów i pożyczek międzynarodowych od 2019 roku i zwłaszcza od początku wojny w 2022 roku, by finansować działania państwa i obrony. Kredyty te często są przeznaczane na wsparcie budżetu państwa, co w praktyce umożliwia również finansowanie działań rządu Wołodymyra Zełenskiego. Jednak nie wszystkie kredyty są wyłącznie dedykowane bezpośrednio finansowaniu działań rządu, część ma inne przeznaczenie budżetowe i pomocowe."
+        }
+      ]
+    },
+    "techniques": [
+      "false_authority",
+      "confabulation",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 34,
+      "MOSTLY_TRUE": 8,
+      "TRUE": 13,
+      "MISLEADING": 2,
+      "FALSE": 1
+    },
+    "total_views": 66124,
+    "total_rts": 1078,
+    "community_notes_count": 0,
+    "rank": 38
+  },
+  {
+    "handle": "@jciesz",
+    "score": 23.6,
+    "sub_scores": {
+      "falsehood": 8.8,
+      "technique": 29.0,
+      "reach": 73.5,
+      "repeat": 30.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Wejście prokuratury oznaczać będzie, że wszystko zostanie utajnione, a dokumenty zajęte. Z punktu widzenia opinii publicznej wyjaśnienie sprawy zostanie zamrożone, bo analizy tysięcy stron dokumentów ",
+      "url": "https://x.com/jciesz/status/2069650811768934639",
+      "views": 48776,
+      "verdicts": [
+        {
+          "claim": "Wejście prokuratury skutkuje utajnieniem sprawy oraz zajęciem dokumentów.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Wejście prokuratury do sprawy oznacza możliwość zajęcia dokumentów oraz prowadzenie czynności operacyjnych, ale nie zawsze skutkuje automatycznym utajnieniem całej sprawy. Utajnienie jest decyzją sądu lub prokuratury i dotyczy konkretnych aspektów sprawy, a nie całkowitego utajnienia. Dokumenty mogą zostać zajęte jako dowody, co jest standardową procedurą."
+        },
+        {
+          "claim": "Analizy dokumentów przez biegłych oraz prace prokuratorskie mogą trwać co najmniej kilka miesięcy, co opóźnia wyjaśnienie sprawy dla opinii publicznej.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Analizy tysięcy stron dokumentów przez biegłych oraz prace prokuratorskie zwykle zajmują wiele miesięcy, zwłaszcza w skomplikowanych sprawach. Takie procedury często powodują opóźnienia w udostępnianiu pełnych informacji opinii publicznej. Dostępne polskie źródła wskazują, że tego typu prace mogą trwać od kilku do kilkunastu miesięcy."
+        }
+      ]
+    },
+    "techniques": [
       "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 10,
-      "MOSTLY_TRUE": 3,
-      "TRUE": 4,
-      "MISLEADING": 1
+      "MOSTLY_TRUE": 2,
+      "UNVERIFIABLE": 14,
+      "TRUE": 2,
+      "MISLEADING": 2
     },
-    "total_views": 5673,
-    "total_rts": 18,
+    "total_views": 248330,
+    "total_rts": 3261,
     "community_notes_count": 0,
-    "rank": 10
+    "rank": 39
+  },
+  {
+    "handle": "@RafalBochenek",
+    "score": 23.5,
+    "sub_scores": {
+      "falsehood": 6.6,
+      "technique": 65.0,
+      "reach": 16.5,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 4,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Klub @pisorgpl w najbliższym czasie zaproponuje w tej kwestii ustawę. Sprawa patologii w warszawskich szpitalach zarządzanych przez polityków PO nie może stać się przedmiotem walki politycznej. Komisj",
+      "url": "https://x.com/RafalBochenek/status/2069698872851476659",
+      "views": 8143,
+      "verdicts": [
+        {
+          "claim": "Klub Prawa i Sprawiedliwości planuje w najbliższym czasie zaproponować ustawę dotyczącą tej kwestii.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających plan Klubu PiS do złożenia nowej ustawy na przestrzeni najbliższego czasu w tej sprawie. Brak oficjalnych komunikatów, projektów ustaw lub wypowiedzi potwierdzających ten zamiar."
+        },
+        {
+          "claim": "W warszawskich szpitalach zarządzanych przez polityków PO występują patologie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie i wiarygodnych źródeł potwierdzających istnienie patologii w warszawskich szpitalach zarządzanych przez polityków Platformy Obywatelskiej. Nie znaleziono raportów, audytów ani doniesień medialnych jednoznacznie wskazujących na takie zjawiska w kontekście tych placówek."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 11,
+      "TRUE": 2
+    },
+    "total_views": 58136,
+    "total_rts": 852,
+    "community_notes_count": 0,
+    "rank": 40
   },
   {
     "handle": "@wrealu24_pl",
@@ -485,9 +1867,9 @@
       ]
     },
     "techniques": [
+      "confabulation",
       "straw_man",
       "false_dichotomy",
-      "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -498,19 +1880,110 @@
     "total_views": 4909,
     "total_rts": 27,
     "community_notes_count": 0,
-    "rank": 11
+    "rank": 41
+  },
+  {
+    "handle": "@DanielObajtek",
+    "score": 22.9,
+    "sub_scores": {
+      "falsehood": 7.2,
+      "technique": 52.9,
+      "reach": 12.9,
+      "repeat": 21.4,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Polska Przedsiębiorcza rusza❗️\n\n2,8 miliona polskich przedsiębiorców codziennie buduje siłę Polski – zatrudnia ludzi, płaci podatki, inwestuje i bierze ryzyko na własne barki. To oni są kręgosłupem na",
+      "url": "https://x.com/DanielObajtek/status/2069701828837589161",
+      "views": 1975,
+      "verdicts": [
+        {
+          "claim": "W Polsce działa około 2,8 miliona przedsiębiorców, którzy zatrudniają ludzi, płacą podatki, inwestują oraz podejmują ryzyko działalności gospodarczej.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Według danych Krajowego Rejestru Sądowego i GUS, w Polsce działa około 2,7-3 milionów przedsiębiorców (w tym mikroprzedsiębiorców), którzy faktycznie zatrudniają pracowników, płacą podatki i inwestują. Działalność gospodarcza wiąże się z podejmowaniem ryzyka, co jest typowe dla przedsiębiorców. Liczby mogą się nieznacznie różnić w zależności od źródła i metodologii, ale 2,8 miliona to wiarygodna liczba zbliżona do oficjalnych statystyk."
+        },
+        {
+          "claim": "Sektor przedsiębiorców odpowiada za około 75% polskiego produktu krajowego brutto (PKB) oraz 60% miejsc pracy.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Dane Głównego Urzędu Statystycznego (GUS) wskazują, że sektor przedsiębiorstw w Polsce generuje około 70-75% PKB kraju. Również udział tego sektora w tworzeniu miejsc pracy jest szacowany na około 60%, co potwierdzają raporty o stanie sektora MŚP oraz danych zatrudnienia w Polsce."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "straw_man",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 16,
+      "TRUE": 8,
+      "MOSTLY_TRUE": 8,
+      "MISLEADING": 2
+    },
+    "total_views": 53436,
+    "total_rts": 1580,
+    "community_notes_count": 0,
+    "rank": 42
+  },
+  {
+    "handle": "@PatrykJaki",
+    "score": 22.9,
+    "sub_scores": {
+      "falsehood": 9.0,
+      "technique": 43.8,
+      "reach": 9.8,
+      "repeat": 37.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 8,
+    "flagged_posts": 2,
+    "top_fake": {
+      "text": "Nowa narracja PO: badania zmarłemu nie robiono, aby ukryć przekręty, ale prowadzono tam badania jak nad …Tutanchamonem 👇 https://t.co/mq5c9pihto",
+      "url": "https://x.com/PatrykJaki/status/2070095046913798175",
+      "views": 4591,
+      "verdicts": [
+        {
+          "claim": "Badania lekarskie pośmiertne nie zostały wykonane u zmarłego, według narracji PO, aby nie ukrywać przekrętów.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Brak dowodów, że PO twierdziła, iż nie wykonano badań pośmiertnych, aby ukryć przekręty. W mediach i oficjalnych komunikatach brak potwierdzenia takiej narracji. Zazwyczaj badania pośmiertne wykonywane są zgodnie z procedurami medycznymi i prawnymi, a ich niewykonanie może mieć różne przyczyny, niekoniecznie ukrywanie przekrętów."
+        },
+        {
+          "claim": "Prowadzono badania nad zmarłym podobne do tych, które prowadzi się przy badaniu mumii Tutanchamona.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie istnieją dostępne publicznie polskie lub międzynarodowe źródła potwierdzające, że w danym kontekście (brak precyzacji kto lub co było badane) prowadzono badania nad zmarłym o charakterze porównywalnym do badań mumii Tutanchamona. Brakuje szczegółów identyfikujących, jaki zmarły lub miejsce badań jest przez to twierdzenie adresowane, co uniemożliwia weryfikację."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 14,
+      "MISLEADING": 2,
+      "MOSTLY_TRUE": 3,
+      "TRUE": 1
+    },
+    "total_views": 47740,
+    "total_rts": 1243,
+    "community_notes_count": 0,
+    "rank": 43
   },
   {
     "handle": "@K_Stanowski",
-    "score": 22.0,
+    "score": 22.3,
     "sub_scores": {
-      "falsehood": 4.6,
-      "technique": 35.0,
-      "reach": 98.5,
+      "falsehood": 4.7,
+      "technique": 35.8,
+      "reach": 98.7,
       "repeat": 0.0,
       "community_notes": 0.0
     },
-    "total_posts": 18,
+    "total_posts": 19,
     "flagged_posts": 0,
     "top_fake": {
       "text": "OK, podczas obrad Rady Warszawy wyciągnięto asa z rękawa: kto zapłaci 70 milionów za wybory kopertowe?\n\nSzach-mat.",
@@ -525,122 +1998,255 @@
       ]
     },
     "techniques": [
-      "straw_man",
       "confabulation",
+      "straw_man",
       "cherry_picking"
     ],
     "verdicts_summary": {
       "TRUE": 11,
-      "UNVERIFIABLE": 24,
+      "UNVERIFIABLE": 26,
       "MOSTLY_TRUE": 2
     },
-    "total_views": 3689377,
-    "total_rts": 10467,
+    "total_views": 3859711,
+    "total_rts": 12161,
     "community_notes_count": 0,
-    "rank": 12
+    "rank": 44
   },
   {
-    "handle": "@Kaminski_M_",
-    "score": 21.4,
+    "handle": "@NocnaZ",
+    "score": 22.1,
     "sub_scores": {
-      "falsehood": 12.2,
-      "technique": 40.0,
-      "reach": 6.2,
-      "repeat": 30.0,
+      "falsehood": 11.5,
+      "technique": 26.9,
+      "reach": 47.7,
+      "repeat": 34.6,
       "community_notes": 0.0
     },
-    "total_posts": 10,
-    "flagged_posts": 2,
+    "total_posts": 13,
+    "flagged_posts": 3,
     "top_fake": {
-      "text": "Unią Europejską co chwila targają skandale korupcyjne z udziałem najważniejszych urzędników UE. Żadna z afer nie została dotąd rozliczona. Mieszkańcy krajów członkowskich mają dość tej degrengolady! W",
-      "url": "https://x.com/Kaminski_M_/status/2070155553301750171",
-      "views": 1163,
+      "text": "Giorgia Meloni i Marine Le Pen jeszcze niedawno świętowały reelekcję Trumpa. Teraz traktują go jako polityczne obciążenie. Trumpowi kończą się europejscy przyjaciele, nawet po stronie prawicowych nacj",
+      "url": "https://x.com/NocnaZ/status/2069699956953190711",
+      "views": 7046,
       "verdicts": [
         {
-          "claim": "W ostatnim czasie pojawiły się zgłoszenia dotyczące skandali korupcyjnych z udziałem wysokich urzędników Unii Europejskiej.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień dzisiejszy (czerwiec 2026) brak jest publicznie dostępnych polskich lub międzynarodowych źródeł potwierdzających występowanie ostatnio skandali korupcyjnych z udziałem najwyższych urzędników UE. Informacje o ewentualnych incydentach są sporadyczne i nie potwierdzają systematycznego problemu."
+          "claim": "Giorgia Meloni i Marine Le Pen publicznie popierały reelekcję Donalda Trumpa.",
+          "verdict": "FALSE",
+          "evidence_summary": "Według dostępnych publicznych źródeł i wypowiedzi z lat 2024-2026 Giorgia Meloni i Marine Le Pen nie wyraziły publicznego poparcia dla reelekcji Donalda Trumpa; wręcz przeciwnie, oficjalne stanowiska obu polityczek nie wskazują na taką deklarację, a Media polskie i zagraniczne nie odnotowały takich wypowiedzi. Ponadto, Meloni i Le Pen mają różne podejścia do polityki USA i raczej zachowują dystans wobec amerykańskich wyborów prezydenckich."
         },
         {
-          "claim": "Do chwili obecnej nie zostały podane publicznie informacje o zakończeniu śledztw lub karach w związku z tymi aferami korupcyjnymi w Unii Europejskiej.",
+          "claim": "Giorgia Meloni i Marine Le Pen zmieniły ton wypowiedzi na temat Donalda Trumpa na bardziej krytyczny.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak wystarczających, publicznie dostępnych polskich ani międzynarodowych źródeł potwierdzających zmianę tonu wypowiedzi Giorgii Meloni i Marine Le Pen wobec Donalda Trumpa na bardziej krytyczny do czerwca 2026 roku. Dostępne materiały medialne z ostatnich miesięcy nie wskazują jednoznacznie na taką ewolucję w ich retoryce."
+        }
+      ]
+    },
+    "techniques": [
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "TRUE": 8,
+      "UNVERIFIABLE": 19,
+      "MOSTLY_FALSE": 1,
+      "MOSTLY_TRUE": 7,
+      "FALSE": 2
+    },
+    "total_views": 119395,
+    "total_rts": 1242,
+    "community_notes_count": 0,
+    "rank": 45
+  },
+  {
+    "handle": "@PolaMatysiak",
+    "score": 22.0,
+    "sub_scores": {
+      "falsehood": 7.0,
+      "technique": 36.4,
+      "reach": 66.0,
+      "repeat": 13.6,
+      "community_notes": 0.0
+    },
+    "total_posts": 11,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Co odpowiedziało Ministerstwo?\n\nW skrócie: że kody zawodów w ZUS są niepełne, że minister nie może wydawać wiążących poleceń ZUS (bo to państwowa osoba prawna), że nie należy sumować dochodów z różnyc",
+      "url": "https://x.com/PolaMatysiak/status/2067495984091852884",
+      "views": 4579,
+      "verdicts": [
+        {
+          "claim": "Kody zawodów stosowane w ZUS są niepełne.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Analizy i raporty dotyczące klasyfikacji zawodów w ZUS wskazują na pewne braki i ograniczenia w składzie oraz aktualizacji kodów zawodów, co może skutkować niepełnym odwzorowaniem rzeczywistej struktury zawodowej. Nie jest to jednak całkowita niekompletność, a raczej niedoskonałość systemu klasyfikacyjnego, która jest przedmiotem prac modernizacyjnych."
+        },
+        {
+          "claim": "Minister nie może wydawać wiążących poleceń Zakładowi Ubezpieczeń Społecznych, ponieważ ZUS jest państwową osobą prawną.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "ZUS jest osobą prawną sektora finansów publicznych i pozostaje pod nadzorem ministra właściwego do spraw zabezpieczenia społecznego, który może wydawać wiążące polecenia dotyczące realizacji zadań publicznych. Jednak minister nie ma pełnej samodzielności w kierowaniu ZUS, a jego uprawnienia są określone ustawowo. Stwierdzenie, że minister nie może wydawać wiążących poleceń ZUS z powodu statusu ZUS jako państwowej osoby prawnej, jest zatem uproszczone i wprowadza w błąd."
+        }
+      ]
+    },
+    "techniques": [
+      "decontextualization",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 7,
+      "UNVERIFIABLE": 10,
+      "MOSTLY_TRUE": 14,
+      "MISLEADING": 1
+    },
+    "total_views": 182442,
+    "total_rts": 436,
+    "community_notes_count": 0,
+    "rank": 46
+  },
+  {
+    "handle": "@Dariusz_Jonski",
+    "score": 21.7,
+    "sub_scores": {
+      "falsehood": 8.2,
+      "technique": 36.6,
+      "reach": 55.2,
+      "repeat": 15.5,
+      "community_notes": 0.0
+    },
+    "total_posts": 29,
+    "flagged_posts": 3,
+    "top_fake": {
+      "text": "Przegłosowane❗️\nKomisje Tran i Sede przegłosowały utworzenie wojskowego Schengen. Likwidujemy biurokratyczne bariery, aby w razie zagrożenia przyspieszyć przemieszczanie wojsk oraz sprzętu wojskowego ",
+      "url": "https://x.com/Dariusz_Jonski/status/2069326774220046359",
+      "views": 2056,
+      "verdicts": [
+        {
+          "claim": "Komisje TRAN i SEDE przegłosowały projekt utworzenia mechanizmu wojskowego Schengen.",
           "verdict": "FALSE",
-          "evidence_summary": "Istnieją publicznie dostępne informacje o zakończeniu śledztw i wymierzeniu kar w sprawach afer korupcyjnych związanych z Unią Europejską. W ostatnich latach doszło do kilku głośnych postępowań zakończonych wyrokami, co potwierdzają raporty organów ścigania i sądów w krajach członkowskich UE oraz instytucji unijnych."
+          "evidence_summary": "Według dostępnych publicznie informacji i komunikatów Parlamentu Europejskiego oraz polskich mediów do czerwca 2026 roku Komisje TRAN (Transport i Turystyka) oraz SEDE (Bezpieczeństwo i Obrona) nie przegłosowały żadnego projektu związanego z utworzeniem wojskowego mechanizmu Schengen. Obecnie nie istnieje oficjalny plan ani projekt legislacyjny w tym zakresie, a 'wojskowe Schengen' nie jest terminem stosowanym w dokumentach unijnych."
+        },
+        {
+          "claim": "Nowe regulacje mają na celu likwidację biurokratycznych barier w celu przyspieszenia przemieszczania wojsk i sprzętu wojskowego przez Europę w razie zagrożenia.",
+          "verdict": "TRUE",
+          "evidence_summary": "W 2024 roku Unia Europejska oraz NATO potwierdziły działania mające na celu uproszczenie i przyspieszenie procedur tranzytu wojsk i sprzętu wojskowego w państwach członkowskich, aby w sytuacjach kryzysowych umożliwić szybsze rozmieszczenie sił. Dokumenty unijne oraz oficjalne komunikaty polskiego Ministerstwa Obrony Narodowej wskazują na realizację takich inicjatyw mających na celu zniesienie biurokratycznych przeszkód w transporcie militarnym przez Europę."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 14,
+      "UNVERIFIABLE": 48,
+      "TRUE": 22,
+      "FALSE": 3
+    },
+    "total_views": 142070,
+    "total_rts": 2421,
+    "community_notes_count": 0,
+    "rank": 47
+  },
+  {
+    "handle": "@motykamilosz",
+    "score": 21.3,
+    "sub_scores": {
+      "falsehood": 6.8,
+      "technique": 34.4,
+      "reach": 61.2,
+      "repeat": 16.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 9,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Dziś @AgencjaUzbr zawarła umowę z Fabryką Broni Łucznik - Radom na dostawę 46 tys. tys. karabinków Gro dla polskiej armii. Wartość kontraktu to 600 milionów złotych. \n\n@KosiniakKamysz zrealizował to, ",
+      "url": "https://x.com/motykamilosz/status/2069742377086976099",
+      "views": 5027,
+      "verdicts": [
+        {
+          "claim": "@AgencjaUzbr zawarła umowę z Fabryką Broni Łucznik - Radom na dostawę 46 milionów karabinków Grot dla polskiej armii.",
+          "verdict": "FALSE",
+          "evidence_summary": "Według oficjalnych komunikatów Agencji Uzbrojenia oraz informacji medialnych, umowa zawarta z Fabryką Broni Łucznik - Radom dotyczyła dostawy 46 tysięcy, a nie 46 milionów karabinków Grot. Liczba 46 milionów jest absurdalnie wysoka i niepotwierdzona przez żadne dostępne źródła, a polska armia nie potrzebuje takiej ilości broni."
+        },
+        {
+          "claim": "Wartość umowy wynosi 600 milionów złotych.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie źródeł potwierdzających wartość kontraktu na 600 milionów złotych według podanych danych i daty (czerwiec 2026). Nie znaleziono oficjalnych komunikatów ani wiarygodnych artykułów z polskich źródeł, które mogłyby potwierdzić tę kwotę."
         }
       ]
     },
     "techniques": [
       "straw_man",
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
-      "TRUE": 6,
-      "MOSTLY_TRUE": 6,
+      "TRUE": 13,
       "UNVERIFIABLE": 15,
-      "FALSE": 2
+      "MOSTLY_TRUE": 6,
+      "FALSE": 1
     },
-    "total_views": 23128,
-    "total_rts": 1006,
+    "total_views": 163057,
+    "total_rts": 438,
     "community_notes_count": 0,
-    "rank": 13
+    "rank": 48
   },
   {
-    "handle": "@KoronyPolskiej",
+    "handle": "@JanSpiewak",
     "score": 21.2,
     "sub_scores": {
-      "falsehood": 7.5,
-      "technique": 50.0,
-      "reach": 7.7,
-      "repeat": 18.8,
+      "falsehood": 5.8,
+      "technique": 40.8,
+      "reach": 70.0,
+      "repeat": 0.0,
       "community_notes": 0.0
     },
-    "total_posts": 8,
-    "flagged_posts": 1,
+    "total_posts": 13,
+    "flagged_posts": 0,
     "top_fake": {
-      "text": "👉 @GrzegorzBraun_: Wasze dzieci, wnuki, prawnuki będą spłacać odsetki tych kredytów, które w Warszawie i w Brukseli wzięto na wasz koszt, na wasze konto po to, żeby nafutrować Zeleńskiego i jego bande",
-      "url": "https://x.com/KoronyPolskiej/status/2070078884331110760",
-      "views": 7143,
+      "text": "CBA zatrzymało w ostatnim czasie prezydenta Częstochowy, wiceprezydenta, szefa rady miejskiej i partnerkę kolejnego wiceprezydenta. Gdy władze są zajęte braniem w łapę Częstochowa wyludnia się w kosmi",
+      "url": "https://x.com/JanSpiewak/status/2070100854011462131",
+      "views": 11186,
       "verdicts": [
         {
-          "claim": "Długi zostały zaciągnięte przez władze w Warszawie i Brukseli, a spłata ich odsetek obciąży przyszłe pokolenia obywateli Polski.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Polska jako kraj i członek Unii Europejskiej bierze kredyty zarówno na poziomie krajowym, jak i unijnym, które powodują powstanie zobowiązań finansowych do spłacania odsetek. Te zobowiązania obciążają budżety przyszłych lat, na które wpływ mają przyszłe pokolenia obywateli. Źródła pokazują, że długi zaciągnięte przez rząd Polski oraz zobowiązania wynikające z unijnego budżetu i funduszy są finansowane przez kolejne generacje podatników."
+          "claim": "Centralne Biuro Antykorupcyjne zatrzymało prezydenta Częstochowy w niedawnym czasie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień 26 czerwca 2026 roku brak publicznie dostępnych informacji w polskich mediach i oficjalnych źródłach potwierdzających zatrzymanie prezydenta Częstochowy przez CBA. Brak komunikatów prasowych czy wiarygodnych doniesień w tym zakresie uniemożliwia potwierdzenie prawdziwości tego twierdzenia."
         },
         {
-          "claim": "Kredyty zaciągnięto, aby finansować działania rządu Zełenskiego.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Ukraiński rząd zaciągnął wiele kredytów i pożyczek międzynarodowych od 2019 roku i zwłaszcza od początku wojny w 2022 roku, by finansować działania państwa i obrony. Kredyty te często są przeznaczane na wsparcie budżetu państwa, co w praktyce umożliwia również finansowanie działań rządu Wołodymyra Zełenskiego. Jednak nie wszystkie kredyty są wyłącznie dedykowane bezpośrednio finansowaniu działań rządu, część ma inne przeznaczenie budżetowe i pomocowe."
+          "claim": "Centralne Biuro Antykorupcyjne zatrzymało wiceprezydenta Częstochowy w niedawnym czasie.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień dzisiejszy (lipiec 2026) nie ma publicznie dostępnych wiarygodnych źródeł potwierdzających zatrzymanie wiceprezydenta Częstochowy przez CBA. Brak informacji w największych polskich mediach oraz oficjalnych komunikatach CBA uniemożliwia potwierdzenie tego zdarzenia."
         }
       ]
     },
     "techniques": [
-      "false_authority",
-      "false_dichotomy",
       "confabulation",
+      "straw_man",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 23,
-      "MOSTLY_TRUE": 6,
-      "TRUE": 4,
-      "MISLEADING": 1
+      "UNVERIFIABLE": 21,
+      "TRUE": 6,
+      "MOSTLY_TRUE": 7
     },
-    "total_views": 31272,
-    "total_rts": 662,
+    "total_views": 200207,
+    "total_rts": 912,
     "community_notes_count": 0,
-    "rank": 14
+    "rank": 49
   },
   {
     "handle": "@Gasiuk_Pihowicz",
-    "score": 20.5,
+    "score": 21.2,
     "sub_scores": {
       "falsehood": 6.3,
-      "technique": 37.5,
-      "reach": 70.7,
+      "technique": 37.7,
+      "reach": 76.7,
       "repeat": 0.0,
       "community_notes": 0.0
     },
-    "total_posts": 12,
+    "total_posts": 13,
     "flagged_posts": 0,
     "top_fake": {
       "text": "Co wiemy już o \"świadku\" ZERO? Zamieszany w handel dyplomami, wpisywał się na fikcyjne dyżury, dopisywał do zabiegów, Trzaskowski nie chciał mu przepisać działki za darmo. A za rządów PiS szefował spó",
@@ -660,19 +2266,147 @@
       ]
     },
     "techniques": [
-      "straw_man",
       "confabulation",
+      "straw_man",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 22,
+      "UNVERIFIABLE": 24,
       "MOSTLY_TRUE": 2,
       "TRUE": 4
     },
-    "total_views": 208636,
-    "total_rts": 1110,
+    "total_views": 301299,
+    "total_rts": 1263,
     "community_notes_count": 0,
-    "rank": 15
+    "rank": 50
+  },
+  {
+    "handle": "@JSaryuszWolski",
+    "score": 21.2,
+    "sub_scores": {
+      "falsehood": 7.6,
+      "technique": 46.4,
+      "reach": 30.0,
+      "repeat": 10.7,
+      "community_notes": 0.0
+    },
+    "total_posts": 14,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "„POSEŁ LECHISTANU JESZCZE NIE PRZYBYŁ\n\nO tym, co kryje się za dyplomatycznym gestem, który przetrwał 123 lata\n\nPuste krzesło sułtana\n\nJest w historii stosunków polsko-tureckich zdanie, które przez pon",
+      "url": "https://x.com/JSaryuszWolski/status/2069755674821558568",
+      "views": 19610,
+      "verdicts": [
+        {
+          "claim": "Podczas uroczystych prezentacji dyplomatów na dworze sułtańskim padało pytanie, czy przybył poseł Lechistanu.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Dostępne polskie i międzynarodowe źródła historyczne nie zawierają informacji potwierdzających, że podczas uroczystych prezentacji dyplomatów na dworze sułtańskim zadawano pytanie o przybycie posła Lechistanu. Lechistan to historyczna, archaiczna nazwa Polski stosowana głównie do XVIII wieku, jednak brak jest źródeł dokumentujących taki zwyczaj w kontekście ceremonii dyplomatycznych na dworze sułtańskim."
+        },
+        {
+          "claim": "Za każdym razem odpowiadano, że poseł Lechistanu nie przybył i zostawiano puste krzesło.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono dostępnych, wiarygodnych źródeł potwierdzających ani zaprzeczających, że za każdym razem podawano taką odpowiedź oraz że pozostawiano puste krzesło w kontekście obecności posła Lechistanu. Informacje dotyczące tej specyficznej sytuacji nie są publicznie udokumentowane w polskich źródłach."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "decontextualization",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 20,
+      "TRUE": 3,
+      "MOSTLY_TRUE": 17,
+      "MISLEADING": 1
+    },
+    "total_views": 79388,
+    "total_rts": 1122,
+    "community_notes_count": 0,
+    "rank": 51
+  },
+  {
+    "handle": "@wlodekczarzasty",
+    "score": 20.7,
+    "sub_scores": {
+      "falsehood": 7.7,
+      "technique": 24.3,
+      "reach": 75.7,
+      "repeat": 21.4,
+      "community_notes": 0.0
+    },
+    "total_posts": 7,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Zakazując zagranicznym studentom studiowania w Polsce, poseł Kowalski przeoczył fakt, że w odwecie Polki i Polacy studiujący za granicą mogliby dostać zakaz studiowania w Anglii, Francji, Holandii i w",
+      "url": "https://x.com/wlodekczarzasty/status/2059591995937431670",
+      "views": 69586,
+      "verdicts": [
+        {
+          "claim": "Poseł Kowalski zaproponował zakaz studiowania w Polsce dla zagranicznych studentów. W odpowiedzi na to, polscy studenci za granicą mogą potencjalnie zostać objęci zakazami studiowania w krajach takich jak Anglia, Francja i Holandia.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Nie ma oficjalnych informacji o faktycznym wprowadzeniu zakazu studiowania w Polsce dla zagranicznych studentów przez posła Kowalskiego, ani o formalnych zapowiedziach odwetu w postaci zakazów studiowania polskich studentów na Zachodzie. Choć takie działania mogłyby wywołać dyplomatyczne reperkusje, brak jest obecnie dowodów na realne działania lub negocjacje zakazów ze strony krajów takich jak Anglia, Francja czy Holandia."
+        }
+      ]
+    },
+    "techniques": [
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 10,
+      "TRUE": 2,
+      "MISLEADING": 1
+    },
+    "total_views": 283106,
+    "total_rts": 2230,
+    "community_notes_count": 0,
+    "rank": 52
+  },
+  {
+    "handle": "@MSchreiberM",
+    "score": 20.3,
+    "sub_scores": {
+      "falsehood": 6.0,
+      "technique": 43.0,
+      "reach": 53.4,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 10,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Podsumowanie  dnia:\nPolacy śpiewają ukraiński hymn (z Premierem na czele) w Polsce i to w momencie, gdy ci na nas naskakują po odebraniu orderu za gloryfikowanie UPA.",
+      "url": "https://x.com/MSchreiberM/status/2070215057301008727",
+      "views": 3391,
+      "verdicts": [
+        {
+          "claim": "W Polsce odbyło się wydarzenie, podczas którego Polacy, w tym Premier, śpiewali ukraiński hymn.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W lipcu 2026 roku w Polsce miało miejsce wydarzenie państwowe, na którym pojawili się politycy w tym premier, a podczas uroczystości odśpiewano ukraiński hymn państwowy jako wyraz solidarności z Ukrainą. Nie ma jednak jednoznacznych informacji, że premier aktywnie śpiewał hymn, a relacje medialne podkreślają raczej jego obecność i symboliczną rolę tego gestu."
+        },
+        {
+          "claim": "Order został odebrany osobie lub osobom z powodu domniemanej gloryfikacji UPA, co wywołało krytykę ze strony innych osób lub grup.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Nie znaleziono wiarygodnych, publicznie dostępnych źródeł potwierdzających, że w 2026 roku order został odebrany z powodu gloryfikacji UPA, ani informacji o krytyce wobec takiej decyzji. Istnieją znane przypadki polemik dotyczących upamiętniania UPA, ale brak potwierdzenia konkretnego zdarzenia opisanego w twierdzeniu."
+        }
+      ]
+    },
+    "techniques": [
+      "confabulation",
+      "false_dichotomy",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "MOSTLY_TRUE": 3,
+      "UNVERIFIABLE": 16,
+      "TRUE": 3
+    },
+    "total_views": 136416,
+    "total_rts": 280,
+    "community_notes_count": 0,
+    "rank": 53
   },
   {
     "handle": "@krzysztofbrejza",
@@ -704,8 +2438,8 @@
       ]
     },
     "techniques": [
-      "straw_man",
       "confabulation",
+      "straw_man",
       "cherry_picking"
     ],
     "verdicts_summary": {
@@ -716,62 +2450,20 @@
     "total_views": 238028,
     "total_rts": 2074,
     "community_notes_count": 0,
-    "rank": 16
-  },
-  {
-    "handle": "@PatrykJaki",
-    "score": 19.6,
-    "sub_scores": {
-      "falsehood": 10.0,
-      "technique": 32.5,
-      "reach": 7.0,
-      "repeat": 37.5,
-      "community_notes": 0.0
-    },
-    "total_posts": 4,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "Nowa narracja PO: badania zmarłemu nie robiono, aby ukryć przekręty, ale prowadzono tam badania jak nad …Tutanchamonem 👇 https://t.co/mq5c9pihto",
-      "url": "https://x.com/PatrykJaki/status/2070095046913798175",
-      "views": 4591,
-      "verdicts": [
-        {
-          "claim": "Badania lekarskie pośmiertne nie zostały wykonane u zmarłego, według narracji PO, aby nie ukrywać przekrętów.",
-          "verdict": "MISLEADING",
-          "evidence_summary": "Brak dowodów, że PO twierdziła, iż nie wykonano badań pośmiertnych, aby ukryć przekręty. W mediach i oficjalnych komunikatach brak potwierdzenia takiej narracji. Zazwyczaj badania pośmiertne wykonywane są zgodnie z procedurami medycznymi i prawnymi, a ich niewykonanie może mieć różne przyczyny, niekoniecznie ukrywanie przekrętów."
-        },
-        {
-          "claim": "Prowadzono badania nad zmarłym podobne do tych, które prowadzi się przy badaniu mumii Tutanchamona.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie istnieją dostępne publicznie polskie lub międzynarodowe źródła potwierdzające, że w danym kontekście (brak precyzacji kto lub co było badane) prowadzono badania nad zmarłym o charakterze porównywalnym do badań mumii Tutanchamona. Brakuje szczegółów identyfikujących, jaki zmarły lub miejsce badań jest przez to twierdzenie adresowane, co uniemożliwia weryfikację."
-        }
-      ]
-    },
-    "techniques": [
-      "false_dichotomy",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 7,
-      "MISLEADING": 1
-    },
-    "total_views": 27140,
-    "total_rts": 895,
-    "community_notes_count": 0,
-    "rank": 17
+    "rank": 54
   },
   {
     "handle": "@oko_press",
-    "score": 19.5,
+    "score": 19.8,
     "sub_scores": {
-      "falsehood": 13.7,
-      "technique": 34.0,
-      "reach": 15.5,
-      "repeat": 20.0,
+      "falsehood": 11.5,
+      "technique": 33.2,
+      "reach": 30.5,
+      "repeat": 18.3,
       "community_notes": 0.0
     },
-    "total_posts": 30,
-    "flagged_posts": 4,
+    "total_posts": 41,
+    "flagged_posts": 5,
     "top_fake": {
       "text": "„To jest już piąta konferencja odbudowy Ukrainy. Niestety jest to również piąty rok pełnoskalowej inwazji i piąty rok naszych strat, ale również piąty rok naszej siły\" – mówiła Julia Swyrydenko, premi",
       "url": "https://x.com/oko_press/status/2070093628760862842",
@@ -790,109 +2482,65 @@
       ]
     },
     "techniques": [
+      "confabulation",
       "false_dichotomy",
-      "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 26,
-      "MOSTLY_TRUE": 15,
-      "TRUE": 17,
+      "UNVERIFIABLE": 43,
+      "MOSTLY_TRUE": 20,
+      "TRUE": 22,
       "FALSE": 5,
-      "MOSTLY_FALSE": 1
+      "MOSTLY_FALSE": 1,
+      "MISLEADING": 1
     },
-    "total_views": 56814,
-    "total_rts": 423,
+    "total_views": 80247,
+    "total_rts": 463,
     "community_notes_count": 0,
-    "rank": 18
+    "rank": 55
   },
   {
-    "handle": "@Sluzby_w_akcji",
-    "score": 19.0,
+    "handle": "@NawrockiKn",
+    "score": 19.8,
     "sub_scores": {
-      "falsehood": 6.3,
-      "technique": 27.5,
-      "reach": 85.5,
-      "repeat": 0.0,
+      "falsehood": 8.3,
+      "technique": 10.9,
+      "reach": 95.9,
+      "repeat": 27.3,
       "community_notes": 0.0
     },
-    "total_posts": 8,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Mamy pytanie do @KWP_Olsztyn, dlaczego w oficjalnym komunikacie KPP w Iławie czytamy, że doszło do ROZSZCZELNIENIA paczki, skoro ewidentnie mieliśmy do czynienia z wybuchem? \n\nW jakim celu zaniżono ra",
-      "url": "https://x.com/Sluzby_w_akcji/status/2070135839233859721",
-      "views": 130729,
-      "verdicts": [
-        {
-          "claim": "Oficjalny komunikat KPP w Iławie stwierdza, że doszło do rozszczelnienia paczki.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie źródeł lub oficjalnych komunikatów Komendy Powiatowej Policji w Iławie potwierdzających lub zaprzeczających, że taki komunikat został wydany i że zawiera informację o rozszczelnieniu paczki."
-        },
-        {
-          "claim": "Policjant dyżurny, mający kontakt z paczką, doznał oparzenia twarzy I stopnia.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych polskich źródeł potwierdzających, że policjant dyżurny miał kontakt z paczką i doznał oparzenia twarzy I stopnia. Nie znaleziono informacji w mediach ani oficjalnych komunikatach służb o takim zdarzeniu."
-        }
-      ]
-    },
-    "techniques": [
-      "confabulation",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 2,
-      "UNVERIFIABLE": 37,
-      "MOSTLY_TRUE": 1
-    },
-    "total_views": 526828,
-    "total_rts": 1256,
-    "community_notes_count": 0,
-    "rank": 19
-  },
-  {
-    "handle": "@Dariusz_Jonski",
-    "score": 19.0,
-    "sub_scores": {
-      "falsehood": 9.8,
-      "technique": 37.9,
-      "reach": 9.8,
-      "repeat": 21.4,
-      "community_notes": 0.0
-    },
-    "total_posts": 14,
+    "total_posts": 11,
     "flagged_posts": 2,
     "top_fake": {
-      "text": "Mołdawia jest państwem kandydującym do UE. Oficjalny status uzyskała w czerwcu 2022 r., a w czerwcu 2024 r. rozpoczęła formalne negocjacje akcesyjne. Kraj znajduje się w procesie dostosowywania swojeg",
-      "url": "https://x.com/Dariusz_Jonski/status/2070043500125581366",
-      "views": 2313,
+      "text": "Polski Kontyngent Wojskowy w Turcji realizuje kluczowe misje nad Morzem Śródziemnym i Czarnym. Dlatego podjąłem decyzję o przedłużeniu funkcjonowania kontyngentu – codzienna służba naszych żołnierzy w",
+      "url": "https://x.com/NawrockiKn/status/2069808979031577057",
+      "views": 119136,
       "verdicts": [
         {
-          "claim": "Mołdawia posiada status kraju kandydującego do Unii Europejskiej.",
-          "verdict": "TRUE",
-          "evidence_summary": "Mołdawia oficjalnie uzyskała status kraju kandydującego do UE w 2022 roku po złożeniu wniosku i pozytywnej ocenie Komisji Europejskiej. Status ten potwierdzają oficjalne komunikaty UE oraz liczne wiarygodne źródła polskie i europejskie dostępne publicznie."
+          "claim": "Polski Kontyngent Wojskowy w Turcji wykonuje misje nad Morzem Śródziemnym i Czarnym.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Polski Kontyngent Wojskowy w Turcji faktycznie uczestniczy w operacjach wojskowych i szkoleniowych obejmujących obszar Morza Czarnego, co jest potwierdzone w oficjalnych komunikatach MON RP. Znane są także jego zaangażowania w ramach sojuszniczych ćwiczeń i patroli morskich, które obejmują części Morza Śródziemnego, choć w mniejszym zakresie. Publicznie dostępne źródła niestety nie podają szczegółowego zakresu misji."
         },
         {
-          "claim": "Mołdawia uzyskała oficjalny status kraju kandydującego do UE w czerwcu 2022 roku.",
-          "verdict": "FALSE",
-          "evidence_summary": "Komisja Europejska zatwierdziła 17 czerwca 2022 roku wniosek Mołdawii o członkostwo w UE i rekomendowała przyznanie jej statusu kraju kandydującego, ale oficjalny status kandydata nadały państwa członkowskie UE w późniejszym terminie, tj. 23 czerwca 2022 roku. Zatem Mołdawia uzyskała status kandydata do UE w czerwcu 2022 roku, ale najważniejsza decyzja zapadła 23 czerwca, a nie wcześniej."
+          "claim": "Zdecydowano o przedłużeniu funkcjonowania Polskiego Kontyngentu Wojskowego w Turcji.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Na dzień 24 czerwca 2026 brak jest publicznie dostępnych, wiarygodnych polskich źródeł potwierdzających decyzję o przedłużeniu funkcjonowania Polskiego Kontyngentu Wojskowego w Turcji. Informacje o kontyngentach wojskowych Polski są zwykle publikowane przez Ministerstwo Obrony Narodowej i media o wysokiej wiarygodności, jednak aktualne dane dotyczące tego tematu nie są dostępne."
         }
       ]
     },
     "techniques": [
-      "decontextualization",
-      "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "MOSTLY_TRUE": 8,
-      "UNVERIFIABLE": 18,
-      "TRUE": 10,
+      "MOSTLY_TRUE": 4,
+      "UNVERIFIABLE": 34,
+      "TRUE": 17,
       "FALSE": 2
     },
-    "total_views": 47976,
-    "total_rts": 820,
+    "total_views": 2193434,
+    "total_rts": 12121,
     "community_notes_count": 0,
-    "rank": 20
+    "rank": 56
   },
   {
     "handle": "@LeszekMiller",
@@ -935,106 +2583,19 @@
     "total_views": 356280,
     "total_rts": 1970,
     "community_notes_count": 0,
-    "rank": 21
-  },
-  {
-    "handle": "@NocnaZ",
-    "score": 17.8,
-    "sub_scores": {
-      "falsehood": 12.8,
-      "technique": 30.0,
-      "reach": 6.0,
-      "repeat": 25.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 6,
-    "flagged_posts": 1,
-    "top_fake": {
-      "text": "🇺🇦 Lwów pozyskał 2,5 mln€ wsparcia i zawarł 6 porozumień z zagranicznymi partnerami podczas Dnia Odporności Lwowa w Gdańsku organizowanym tuż przed Ukraine Recovery Conference 2026. Nie ma firm z Pols",
-      "url": "https://x.com/NocnaZ/status/2070154918145495471",
-      "views": 2546,
-      "verdicts": [
-        {
-          "claim": "Miasto Lwów otrzymało wsparcie finansowe w wysokości 2,5 miliona euro.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Do chwili obecnej nie znaleziono publicznie dostępnych wiarygodnych informacji ani komunikatów potwierdzających, że miasto Lwów otrzymało wsparcie finansowe w wysokości 2,5 miliona euro. Brak aktualnych źródeł polskich lub międzynarodowych raportujących o takim wsparciu dla Lwowa."
-        },
-        {
-          "claim": "Podczas Dnia Odporności Lwowa w Gdańsku miasto Lwów zawarło sześć porozumień z zagranicznymi partnerami.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono wiarygodnych polskich ani międzynarodowych źródeł potwierdzających, że podczas Dnia Odporności Lwowa w Gdańsku miasto Lwów podpisało sześć porozumień z zagranicznymi partnerami; brak jest oficjalnych komunikatów ani doniesień medialnych na ten temat do czerwca 2026."
-        }
-      ]
-    },
-    "techniques": [
-      "confabulation",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 2,
-      "UNVERIFIABLE": 10,
-      "FALSE": 1
-    },
-    "total_views": 22440,
-    "total_rts": 286,
-    "community_notes_count": 0,
-    "rank": 22
-  },
-  {
-    "handle": "@MorawieckiM",
-    "score": 17.4,
-    "sub_scores": {
-      "falsehood": 5.7,
-      "technique": 38.9,
-      "reach": 37.1,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 9,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "50 lat temu robotnicy w Ursusie, Radomiu i Płocku upomnieli się o godność, prawdę i sprawiedliwość.\nCześć i chwała Bohaterom Czerwca ’76! 🇵🇱 https://t.co/qCll3eTy3k",
-      "url": "https://x.com/MorawieckiM/status/2070160083175268486",
-      "views": 6209,
-      "verdicts": [
-        {
-          "claim": "Pięćdziesiąt lat temu robotnicy w Ursusie, Radomiu i Płocku podjęli protesty związane z kwestiami godności, prawdy i sprawiedliwości.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "W czerwcu 1976 roku robotnicy w Radomiu, Ursusie i Płocku (Zakłady Chemiczne w Płocku) podjęli protesty przeciw podwyżkom cen oraz pogorszeniu warunków życia, co było wyrazem sprzeciwu wobec niesprawiedliwości społecznej i braku szacunku dla ich godności. Protesty te miały charakter obrony praw pracowniczych i godności, co zostało szeroko udokumentowane w polskich źródłach historycznych."
-        },
-        {
-          "claim": "Osoby biorące udział w wydarzeniach zwanych Czerwcem '76 są określane jako bohaterowie.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "W polskich źródłach historycznych i mediach osoby uczestniczące w protestach Czerwca 1976 są często określane jako bohaterowie oporu przeciwko komunistycznemu reżimowi. Instytucje państwowe, w tym Sejm RP i prezydent, wielokrotnie podkreślały heroizm tych osób, nadając im upamiętnienia i odznaczenia. Jednakże w niektórych środowiskach mogą być postrzegani różnorodnie, ale dominująca narracja jest pozytywna i uznająca ich za bohaterów."
-        }
-      ]
-    },
-    "techniques": [
-      "straw_man",
-      "confabulation",
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "TRUE": 4,
-      "MOSTLY_TRUE": 5,
-      "UNVERIFIABLE": 2
-    },
-    "total_views": 93434,
-    "total_rts": 1518,
-    "community_notes_count": 0,
-    "rank": 23
+    "rank": 57
   },
   {
     "handle": "@adamSzlapka",
-    "score": 16.8,
+    "score": 16.7,
     "sub_scores": {
-      "falsehood": 12.4,
-      "technique": 10.5,
-      "reach": 72.3,
-      "repeat": 13.6,
+      "falsehood": 12.0,
+      "technique": 10.4,
+      "reach": 75.1,
+      "repeat": 12.5,
       "community_notes": 0.0
     },
-    "total_posts": 22,
+    "total_posts": 24,
     "flagged_posts": 2,
     "top_fake": {
       "text": "Premier @DonaldTusk i Premier Albanii Edi Rama 🇵🇱🤝🇦🇱\n\n#URC2026 https://t.co/Q9UzxMMXan",
@@ -1053,15 +2614,15 @@
     ],
     "verdicts_summary": {
       "MOSTLY_TRUE": 2,
-      "UNVERIFIABLE": 16,
+      "UNVERIFIABLE": 18,
       "FALSE": 1,
       "TRUE": 5,
       "MOSTLY_FALSE": 1
     },
-    "total_views": 229942,
-    "total_rts": 3068,
+    "total_views": 273368,
+    "total_rts": 3668,
     "community_notes_count": 0,
-    "rank": 24
+    "rank": 58
   },
   {
     "handle": "@JanMencwel",
@@ -1103,51 +2664,88 @@
     "total_views": 151768,
     "total_rts": 852,
     "community_notes_count": 0,
-    "rank": 25
+    "rank": 59
   },
   {
     "handle": "@GodekKajaU",
-    "score": 15.3,
+    "score": 15.9,
     "sub_scores": {
-      "falsehood": 6.0,
-      "technique": 43.3,
-      "reach": 1.9,
+      "falsehood": 6.8,
+      "technique": 43.8,
+      "reach": 4.1,
       "repeat": 0.0,
       "community_notes": 0.0
     },
-    "total_posts": 6,
+    "total_posts": 8,
     "flagged_posts": 0,
     "top_fake": {
-      "text": "Senat przepuścił ustawę o legalizacji zwiazków homo - ukrytej pod określeniem \"status osoby najbliższej\".\n\nUstawa ta jest krokiem do osłabienia instytucji małzeństwa w polskim prawie.\n\nW obronie norma",
-      "url": "https://x.com/GodekKajaU/status/2070170703639298304",
-      "views": 1025,
+      "text": "Torturowali, gwałcili, zabili.\n\nW mediach cisza.\n\nDlaczego?\n\nBo to geje.\n\nWięc żeby nie dostać łatki nietolerancyjnego...\n\nŚciągnijmy z tej historii zasłonę ciszy.\n\nPomóż finansowo w wydruku banerów: ",
+      "url": "https://x.com/GodekKajaU/status/2068959010934456750",
+      "views": 3312,
       "verdicts": [
         {
-          "claim": "Senat przyjął ustawę dotyczącą statusu osoby najbliższej, która obejmuje pary tego samego płci.",
+          "claim": "Osoby określone w poście dopuściły się tortur, gwałtów i zabójstwa.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Do czerwca 2026 roku brak jest oficjalnych informacji i potwierdzonych źródeł polskich dotyczących przyjęcia przez Senat ustawy legalizującej związki osób tej samej płci pod nazwą 'status osoby najbliższej'. Nie odnaleziono wiarygodnych, publicznie dostępnych doniesień potwierdzających tę informację."
+          "evidence_summary": "Nie znaleziono publicznie dostępnych, wiarygodnych źródeł potwierdzających, że osoby wskazane w poście dopuściły się tortur, gwałtów i zabójstwa. Brak szczegółów dotyczących miejsca, czasu i osób uniemożliwia weryfikację tych zarzutów."
         },
         {
-          "claim": "Ustawa zmienia dotychczasowe regulacje dotyczące instytucji małżeństwa w polskim prawie.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Projekt ustawy faktycznie zawiera zmiany w przepisach dotyczących małżeństwa w Polsce, co potwierdzają dostępne informacje w polskich źródłach prawnych; jednakże ocena, że jest to krok do osłabienia instytucji małżeństwa, jest subiektywna i wymaga interpretacji politycznej."
+          "claim": "Media nie relacjonują tego zdarzenia.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Bez informacji, o jakim konkretnie zdarzeniu mowa, nie jest możliwe sprawdzenie, czy media je relacjonują czy nie. Brak wskazania tematu, czasu i szczegółów zdarzenia uniemożliwia zweryfikowanie tej tezy w dostępnych źródłach."
         }
       ]
     },
     "techniques": [
       "false_dichotomy",
+      "cherry_picking",
+      "confabulation"
+    ],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 15,
+      "TRUE": 2,
+      "MOSTLY_TRUE": 3
+    },
+    "total_views": 15340,
+    "total_rts": 834,
+    "community_notes_count": 0,
+    "rank": 60
+  },
+  {
+    "handle": "@JanGrabiec",
+    "score": 14.8,
+    "sub_scores": {
+      "falsehood": 4.7,
+      "technique": 30.0,
+      "reach": 41.1,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 3,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Kiedyś prezydent Nawrocki chwalił się, że jest ścigany przez Rosjan. Dziś przyjęliby go na Kremlu z honorami.",
+      "url": "https://x.com/JanGrabiec/status/2068228500784373992",
+      "views": 97762,
+      "verdicts": [
+        {
+          "claim": "Prezydent Nawrocki kiedyś powiedział, że jest ścigany przez Rosjan.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych polskich lub międzynarodowych źródeł potwierdzających, że osoba o nazwisku Prezydent Nawrocki kiedykolwiek deklarowała, iż jest ścigana przez Rosjan. Nie ma informacji o istnieniu prezydenta o nazwisku Nawrocki w dostępnym rejestrze urzędników ani mediów."
+        }
+      ]
+    },
+    "techniques": [
       "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 10,
       "TRUE": 2,
-      "MOSTLY_TRUE": 3
+      "UNVERIFIABLE": 5
     },
-    "total_views": 8716,
-    "total_rts": 380,
+    "total_views": 102494,
+    "total_rts": 662,
     "community_notes_count": 0,
-    "rank": 26
+    "rank": 61
   },
   {
     "handle": "@D_Tarczynski",
@@ -1188,82 +2786,50 @@
     "total_views": 553358,
     "total_rts": 5340,
     "community_notes_count": 0,
-    "rank": 27
+    "rank": 62
   },
   {
-    "handle": "@jciesz",
-    "score": 14.5,
+    "handle": "@jakubiak_marek",
+    "score": 13.1,
     "sub_scores": {
-      "falsehood": 6.2,
-      "technique": 32.5,
-      "reach": 25.7,
-      "repeat": 0.0,
+      "falsehood": 7.4,
+      "technique": 13.3,
+      "reach": 27.1,
+      "repeat": 25.0,
       "community_notes": 0.0
     },
-    "total_posts": 4,
-    "flagged_posts": 0,
+    "total_posts": 6,
+    "flagged_posts": 1,
     "top_fake": {
-      "text": "Ustawa o sygnalistach dla ludzi władzy takich jak Trzaskowski i Cienkowska to tylko świstek papieru.\n\nDlatego zapraszam do wysyłania informacji o aferach na janusz.cieszynski@sejm.pl - razem możemy co",
-      "url": "https://x.com/jciesz/status/2070397944671457310",
-      "views": 1613,
+      "text": "Zadam pytanie @AndrzejDuda\nile jeszcze nadał tak cennych odznaczeń ludziom którzy od dwóch lat reprezentują rząd ukraiński nie przychylny Polsce. Proszę przekonać innych aby też zwrócili wszystko co o",
+      "url": "https://x.com/jakubiak_marek/status/2068330005784936674",
+      "views": 20908,
       "verdicts": [
         {
-          "claim": "Ustawa o sygnalistach obowiązuje wobec osób pełniących funkcje publiczne, takich jak Trzaskowski i Cienkowska.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Ustawa o ochronie sygnalistów reguluje prawa i obowiązki osób zgłaszających naruszenia, w tym osób pełniących funkcje publiczne, takie jak prezydent miasta lub radni. Zarówno Rafał Trzaskowski jako prezydent Warszawy, jak i Agnieszka Cienkowska jako radna, podlegają przepisom tej ustawy. Jednakże, ocena skuteczności i egzekwowania tych przepisów może być różna i zależy od kontekstu praktycznego, nie negując formalnej obowiązywalności ustawy."
+          "claim": "Od dwóch lat osoby reprezentujące rząd ukraiński mają rzekomo negatywne nastawienie do Polski.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Relacje między Polską a Ukrainą, szczególnie na poziomie rządowym, są złożone i obejmują zarówno współpracę, jak i spory. Chociaż pojawiły się krytyczne wypowiedzi ukraińskich polityków dotyczące Polski, to nie można jednoznacznie stwierdzić, że cały rząd ukraiński od dwóch lat ma negatywne nastawienie do Polski. Polskie i ukraińskie źródła medialne wskazują na zarówno pozytywne, jak i napięte momenty w relacjach między państwami, co czyni takie uogólnienie nieprecyzyjnym."
+        },
+        {
+          "claim": "Prezydent Andrzej Duda nadał cenne odznaczenia osobom reprezentującym ukraiński rząd w ostatnich dwóch latach.",
+          "verdict": "TRUE",
+          "evidence_summary": "Prezydent Andrzej Duda wielokrotnie honorował przedstawicieli rządu ukraińskiego przez ostatnie dwa lata, przyznając im różne odznaczenia i wyróżnienia, co potwierdzają oficjalne komunikaty Kancelarii Prezydenta RP oraz wiadomości medialne. Odznaczenia te były przyznawane w celu docenienia współpracy i wsparcia dla Ukrainy."
         }
       ]
     },
     "techniques": [
-      "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
       "MOSTLY_TRUE": 1,
-      "UNVERIFIABLE": 6,
-      "TRUE": 1
+      "UNVERIFIABLE": 4,
+      "TRUE": 3,
+      "MISLEADING": 1
     },
-    "total_views": 71872,
-    "total_rts": 1132,
+    "total_views": 74280,
+    "total_rts": 758,
     "community_notes_count": 0,
-    "rank": 28
-  },
-  {
-    "handle": "@SlawomirMentzen",
-    "score": 13.8,
-    "sub_scores": {
-      "falsehood": 4.3,
-      "technique": 18.0,
-      "reach": 69.5,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 5,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Kiedy cały świat rozwija sztuczną inteligencję, my jedynie rozwijamy dyrektywy regulujące sztuczną inteligencję https://t.co/daXPvMvP6j",
-      "url": "https://x.com/SlawomirMentzen/status/2070181567561978099",
-      "views": 16678,
-      "verdicts": [
-        {
-          "claim": "Obecnie różne kraje rozwijają technologie sztucznej inteligencji, a Polska opracowuje dyrektywy regulujące sztuczną inteligencję.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Wiele krajów, w tym Stany Zjednoczone, Chiny i kraje Unii Europejskiej, prowadzi intensywne prace nad rozwojem technologii sztucznej inteligencji. Polska, będąc członkiem UE, uczestniczy głównie w tworzeniu i wdrażaniu regulacji na poziomie unijnym, takich jak projekt rozporządzenia AI (Artificial Intelligence Act). Równocześnie w Polsce trwają prace nad krajowymi dyrektywami i zasadami regulującymi AI, jednak nie są one głównymi twórcami technologii AI na światową skalę."
-        }
-      ]
-    },
-    "techniques": [
-      "false_dichotomy"
-    ],
-    "verdicts_summary": {
-      "TRUE": 4,
-      "UNVERIFIABLE": 2,
-      "MOSTLY_TRUE": 1
-    },
-    "total_views": 197529,
-    "total_rts": 225,
-    "community_notes_count": 0,
-    "rank": 29
+    "rank": 63
   },
   {
     "handle": "@Bart_Wielinski",
@@ -1307,92 +2873,133 @@
     "total_views": 33162,
     "total_rts": 1062,
     "community_notes_count": 0,
-    "rank": 30
+    "rank": 64
   },
   {
-    "handle": "@JanSpiewak",
-    "score": 12.5,
+    "handle": "@KotulaKat",
+    "score": 12.3,
     "sub_scores": {
-      "falsehood": 6.7,
-      "technique": 28.0,
-      "reach": 17.6,
-      "repeat": 0.0,
+      "falsehood": 6.0,
+      "technique": 14.5,
+      "reach": 37.5,
+      "repeat": 13.6,
       "community_notes": 0.0
     },
-    "total_posts": 5,
-    "flagged_posts": 0,
+    "total_posts": 11,
+    "flagged_posts": 1,
     "top_fake": {
-      "text": "CBA zatrzymało w ostatnim czasie prezydenta Częstochowy, wiceprezydenta, szefa rady miejskiej i partnerkę kolejnego wiceprezydenta. Gdy władze są zajęte braniem w łapę Częstochowa wyludnia się w kosmi",
-      "url": "https://x.com/JanSpiewak/status/2070100854011462131",
-      "views": 11186,
+      "text": "Problemy systemu ochrony zdrowia tak długo pozostaną niezałatwione, jak długo uprzywilejowanej grupie polityków będzie się wydawało, że „to nie jest dobry moment ” na odważne, odkładane na wieczne nig",
+      "url": "https://x.com/KotulaKat/status/2067604043057230115",
+      "views": 7085,
       "verdicts": [
         {
-          "claim": "Centralne Biuro Antykorupcyjne zatrzymało prezydenta Częstochowy w niedawnym czasie.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień 26 czerwca 2026 roku brak publicznie dostępnych informacji w polskich mediach i oficjalnych źródłach potwierdzających zatrzymanie prezydenta Częstochowy przez CBA. Brak komunikatów prasowych czy wiarygodnych doniesień w tym zakresie uniemożliwia potwierdzenie prawdziwości tego twierdzenia."
+          "claim": "Niektórzy politycy mają możliwość omijania lub przyspieszania kolejek w systemie ochrony zdrowia.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "W Polsce istnieją doniesienia medialne i raporty dotyczące uprzywilejowania osób publicznych, w tym polityków, którzy korzystają z dostępu do leczenia poza kolejnością lub w ramach specjalnych programów. Choć prawo formalnie nie daje takich uprawnień, rzeczywistość funkcjonowania systemu pozwala na pewne nadużycia i korzystanie z prywatnych kontaktów, co jest potwierdzane przez źródła dziennikarskie i organizacje zajmujące się prawami pacjenta."
         },
         {
-          "claim": "Centralne Biuro Antykorupcyjne zatrzymało wiceprezydenta Częstochowy w niedawnym czasie.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Na dzień dzisiejszy (lipiec 2026) nie ma publicznie dostępnych wiarygodnych źródeł potwierdzających zatrzymanie wiceprezydenta Częstochowy przez CBA. Brak informacji w największych polskich mediach oraz oficjalnych komunikatach CBA uniemożliwia potwierdzenie tego zdarzenia."
+          "claim": "Obecnie nie ma określonego limitu wysokości stawki godzinowej dla lekarzy finansowanej przez NFZ.",
+          "verdict": "TRUE",
+          "evidence_summary": "Aktualne regulacje NFZ nie przewidują ustawowego górnego limitu godzinowej stawki wynagrodzenia lekarzy za świadczenia udzielane w ramach publicznego systemu opieki zdrowotnej. Ceny świadczeń są ustalane na podstawie negocjacji umów i katalogów świadczeń, nie wprowadzając sztywnej maksymalnej stawki godzinowej. W efekcie, nie istnieje formalny limit maksymalnej stawki godzinowej dla lekarzy finansowanych ze środków NFZ."
         }
       ]
     },
     "techniques": [
-      "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 6,
-      "TRUE": 1,
-      "MOSTLY_TRUE": 3
+      "UNVERIFIABLE": 21,
+      "TRUE": 21,
+      "MOSTLY_TRUE": 9,
+      "MOSTLY_FALSE": 1
     },
-    "total_views": 59617,
-    "total_rts": 364,
+    "total_views": 94438,
+    "total_rts": 295,
     "community_notes_count": 0,
-    "rank": 31
+    "rank": 65
   },
   {
-    "handle": "@waldemar_buda",
-    "score": 12.1,
+    "handle": "@trzaskowski_",
+    "score": 12.0,
     "sub_scores": {
-      "falsehood": 6.1,
-      "technique": 30.0,
-      "reach": 9.2,
+      "falsehood": 5.8,
+      "technique": 0.0,
+      "reach": 100.0,
       "repeat": 0.0,
       "community_notes": 0.0
     },
-    "total_posts": 5,
+    "total_posts": 26,
     "flagged_posts": 0,
     "top_fake": {
-      "text": "Mieli się spotkać w Gdańsku, żeby uzyskać od Ukrainy zobowiązania do odbudowy kraju przez europejskie firmy, skończyło się na przekazywaniu kolejnych pieniędzy, komedia.",
-      "url": "https://x.com/waldemar_buda/status/2070081347905851498",
-      "views": 2555,
+      "text": "Na mój wniosek cały zarząd Warszawskiego Szpitala Południowego właśnie został odwołany.\n\nNową prezeską zarządu placówki zostanie Aneta Gomółka-Siembora - specjalistka z zakresu audytów i kontroli zarz",
+      "url": "https://x.com/trzaskowski_/status/2067614865783435333",
+      "views": 359399,
       "verdicts": [
         {
-          "claim": "Planowano spotkanie w Gdańsku w celu uzyskania od Ukrainy zobowiązań dotyczących odbudowy kraju przez europejskie firmy",
+          "claim": "Zarząd Warszawskiego Szpitala Południowego został odwołany.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Do czerwca 2026 roku brak jest publicznie dostępnych, wiarygodnych źródeł potwierdzających planowanie spotkania w Gdańsku o takim charakterze; ani polskie, ani międzynarodowe media oraz oficjalne komunikaty ukraińskie i polskie nie informują o takich planach. W efekcie nie można potwierdzić prawdziwości tego twierdzenia na podstawie dostępnych informacji."
+          "evidence_summary": "Brak dostępnych publicznie informacji potwierdzających lub obalających odwołanie całego zarządu Warszawskiego Szpitala Południowego na dzień 18 czerwca 2026 roku. W polskich źródłach prasowych i oficjalnych komunikatach wojewódzkiego lub miejskiego brak wzmianki o takim zdarzeniu."
         },
         {
-          "claim": "W spotkaniu doszło do przekazania kolejnych środków finansowych",
+          "claim": "Nową prezeską zarządu Warszawskiego Szpitala Południowego zostanie Aneta Gomółka-Siembora, która specjalizuje się w audytach i kontroli zarządczej w ochronie zdrowia oraz zamówieniach publicznych.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych, zweryfikowanych źródeł potwierdzających, że podczas konkretnego spotkania doszło do przekazania kolejnych środków finansowych. Informacja podana jest w formie nieprecyzyjnej i bez kontekstu dotyczącego uczestników lub celu przekazania."
+          "evidence_summary": "Brak dostępnych w publicznych, zweryfikowanych polskich źródłach informacji dotyczących powołania Anety Gomółka-Siembora na prezeskę zarządu Warszawskiego Szpitala Południowego oraz jej specjalizacji. Nie znaleziono oficjalnych komunikatów ani wiarygodnych artykułów potwierdzających te dane."
+        }
+      ]
+    },
+    "techniques": [],
+    "verdicts_summary": {
+      "UNVERIFIABLE": 70,
+      "TRUE": 17,
+      "MOSTLY_TRUE": 12
+    },
+    "total_views": 9736304,
+    "total_rts": 7686,
+    "community_notes_count": 0,
+    "rank": 66
+  },
+  {
+    "handle": "@KownackiBartosz",
+    "score": 11.5,
+    "sub_scores": {
+      "falsehood": 7.8,
+      "technique": 15.0,
+      "reach": 5.3,
+      "repeat": 25.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 6,
+    "flagged_posts": 1,
+    "top_fake": {
+      "text": "Złożyłem zawiadomienie do prokuratury na R. Trzaskowskiego! Powód? Zmuszanie urzędników do łamania prawa i Konstytucji ws. transkrypcji aktów małżeństw jednopłciowych. https://t.co/HLsaQya9uC",
+      "url": "https://x.com/KownackiBartosz/status/2069482964304506937",
+      "views": 8263,
+      "verdicts": [
+        {
+          "claim": "Bartosz Kownacki złożył zawiadomienie do prokuratury przeciwko Rafałowi Trzaskowskiemu.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak publicznie dostępnych informacji w wiarygodnych źródłach (polskich mediach, oficjalnych komunikatach prokuratury) potwierdzających, że Bartosz Kownacki złożył zawiadomienie do prokuratury przeciwko Rafałowi Trzaskowskiemu. Nie znaleziono potwierdzenia w mediach ani oficjalnych rejestrach do dnia dzisiejszego."
+        },
+        {
+          "claim": "Bartosz Kownacki twierdzi, że Rafał Trzaskowski zmusza urzędników do naruszania prawa i Konstytucji w sprawie transkrypcji aktów małżeństw jednopłciowych.",
+          "verdict": "MISLEADING",
+          "evidence_summary": "Rafał Trzaskowski, jako prezydent Warszawy, podejmował decyzje administracyjne dotyczące możliwości transkrypcji zagranicznych aktów małżeństw jednopłciowych, co wywołało spory prawne i interpretacyjne. Jednak sądy i Ministerstwo Spraw Wewnętrznych oraz Administracji podkreślają, że polskie prawo nie przewiduje uznania takich małżeństw, a działania samorządów są przedmiotem sporów prawnych, lecz nie ma jednoznacznych dowodów na przymuszanie do łamania prawa czy Konstytucji."
         }
       ]
     },
     "techniques": [
-      "confabulation",
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 13,
-      "TRUE": 1
+      "UNVERIFIABLE": 7,
+      "MISLEADING": 1,
+      "TRUE": 2,
+      "MOSTLY_TRUE": 2
     },
-    "total_views": 42540,
-    "total_rts": 875,
+    "total_views": 19384,
+    "total_rts": 784,
     "community_notes_count": 0,
-    "rank": 32
+    "rank": 67
   },
   {
     "handle": "@okiemtomkaw",
@@ -1435,7 +3042,7 @@
     "total_views": 10137,
     "total_rts": 437,
     "community_notes_count": 0,
-    "rank": 33
+    "rank": 68
   },
   {
     "handle": "@RepublikaTV",
@@ -1467,8 +3074,8 @@
       ]
     },
     "techniques": [
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 14,
@@ -1478,7 +3085,7 @@
     "total_views": 8848,
     "total_rts": 62,
     "community_notes_count": 0,
-    "rank": 34
+    "rank": 69
   },
   {
     "handle": "@Morgenstern616",
@@ -1510,8 +3117,8 @@
       ]
     },
     "techniques": [
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 5,
@@ -1520,34 +3127,34 @@
     "total_views": 14217,
     "total_rts": 221,
     "community_notes_count": 0,
-    "rank": 35
+    "rank": 70
   },
   {
-    "handle": "@K_Smiszek",
-    "score": 11.1,
+    "handle": "@WojSadurski",
+    "score": 10.4,
     "sub_scores": {
       "falsehood": 5.5,
-      "technique": 13.3,
-      "reach": 52.1,
-      "repeat": 0.0,
+      "technique": 11.2,
+      "reach": 22.6,
+      "repeat": 18.8,
       "community_notes": 0.0
     },
-    "total_posts": 6,
-    "flagged_posts": 0,
+    "total_posts": 8,
+    "flagged_posts": 1,
     "top_fake": {
-      "text": "Kolejne pobite ukraińskie dzieciaki na ulicach Warszawy. \nKolejne przypadki ataków na cudzoziemców na Podkarpaciu.\nPaństwo marzeń w wersji patoprawicy…",
-      "url": "https://x.com/K_Smiszek/status/2070115980869570865",
-      "views": 58158,
+      "text": "UWAGA: DŁUGIE ALE WAŻNE!\nW ostatnią sobotę Komisja Wenecka przyjęła Opinię nt prezydenckiego projektu ustawy z lutego 2026 w sprawie sądownictwa. Projekt ten został przysłany do nas do zaopiniowania p",
+      "url": "https://x.com/WojSadurski/status/2066984978207191510",
+      "views": 13669,
       "verdicts": [
         {
-          "claim": "Na ulicach Warszawy zgłaszano kolejne przypadki pobicia ukraińskich dzieci.",
+          "claim": "Komisja Wenecka przyjęła opinię dotyczącą prezydenckiego projektu ustawy z lutego 2026 roku w sprawie sądownictwa.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak publicznie dostępnych, wiarygodnych informacji lub oficjalnych raportów z jednostek ścigania dotyczących konkretnych, kolejnych przypadków pobicia ukraińskich dzieci w Warszawie w dniu lub okolicach daty 25 czerwca 2026. Media oraz służby nie potwierdzają występowania tego rodzaju incydentów w podanym czasie."
+          "evidence_summary": "Brak dostępnych publicznie źródeł potwierdzających, że Komisja Wenecka przyjęła opinię nt. prezydenckiego projektu ustawy z lutego 2026 roku dotyczącej sądownictwa w ostatnią sobotę. Informacje o działaniach Komisji Weneckiej z 2026 roku nie są jeszcze upublicznione lub nie istnieją w dostępnych zasobach."
         },
         {
-          "claim": "Na Podkarpaciu zgłaszano kolejne przypadki ataków na cudzoziemców.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "W mediach lokalnych oraz raportach organizacji zajmujących się prawami człowieka pojawiają się doniesienia o incydentach przemocy wobec cudzoziemców na Podkarpaciu w ostatnim czasie, co potwierdza istnienie kolejnych przypadków. Jednakże informacje nie są jeszcze pełne i weryfikowane przez oficjalne źródła policyjne i samorządowe, przez co nie można mówić o jednoznacznym potwierdzeniu liczby i charakteru wszystkich zdarzeń."
+          "claim": "Prezydencki projekt ustawy został przesłany do Komisji Weneckiej do zaopiniowania przez marszałka W. Czarzastego.",
+          "verdict": "UNVERIFIABLE",
+          "evidence_summary": "Brak dostępnych publicznie źródeł polskich ani międzynarodowych potwierdzających, że marszałek W. Czarzasty przesłał prezydencki projekt ustawy do Komisji Weneckiej celem opinii. Oficjalne komunikaty ani wiarygodne media nie odnotowały takiego faktu do chwili obecnej."
         }
       ]
     },
@@ -1555,14 +3162,15 @@
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 9,
-      "TRUE": 2,
-      "MOSTLY_TRUE": 1
+      "UNVERIFIABLE": 14,
+      "MOSTLY_TRUE": 13,
+      "TRUE": 17,
+      "MISLEADING": 1
     },
-    "total_views": 132150,
-    "total_rts": 368,
+    "total_views": 66922,
+    "total_rts": 890,
     "community_notes_count": 0,
-    "rank": 36
+    "rank": 71
   },
   {
     "handle": "@XKubiak",
@@ -1594,8 +3202,8 @@
       ]
     },
     "techniques": [
-      "confabulation",
-      "cherry_picking"
+      "cherry_picking",
+      "confabulation"
     ],
     "verdicts_summary": {
       "UNVERIFIABLE": 6,
@@ -1604,34 +3212,72 @@
     "total_views": 20429,
     "total_rts": 158,
     "community_notes_count": 0,
-    "rank": 37
+    "rank": 72
   },
   {
-    "handle": "@kuba_w",
-    "score": 10.0,
+    "handle": "@gajewska_kinga",
+    "score": 10.1,
     "sub_scores": {
-      "falsehood": 6.6,
+      "falsehood": 5.9,
+      "technique": 23.7,
+      "reach": 9.0,
+      "repeat": 0.0,
+      "community_notes": 0.0
+    },
+    "total_posts": 16,
+    "flagged_posts": 0,
+    "top_fake": {
+      "text": "Panie Antoni, zburz pan pomnik Zygmunta III Wazy, bo to był Szwed-@donaldtusk",
+      "url": "https://x.com/gajewska_kinga/status/2064805782944629148",
+      "views": 5206,
+      "verdicts": [
+        {
+          "claim": "Zygmunt III Waza był królem Szwecji.",
+          "verdict": "MOSTLY_TRUE",
+          "evidence_summary": "Zygmunt III Waza był królem Szwecji od 1592 do 1599 roku oraz jednocześnie królem Polski i wielkim księciem litewskim w latach 1587–1632. Został obalony ze szwedzkiego tronu w 1599 roku, co sprawia, że można powiedzieć, że był królem Szwecji, choć panował tam stosunkowo krótko i jego władza została później zerwana."
+        }
+      ]
+    },
+    "techniques": [
+      "straw_man",
+      "cherry_picking"
+    ],
+    "verdicts_summary": {
+      "TRUE": 6,
+      "MOSTLY_TRUE": 13,
+      "UNVERIFIABLE": 14
+    },
+    "total_views": 41038,
+    "total_rts": 186,
+    "community_notes_count": 0,
+    "rank": 73
+  },
+  {
+    "handle": "@AnnaSiarkowska",
+    "score": 9.1,
+    "sub_scores": {
+      "falsehood": 1.8,
       "technique": 25.0,
-      "reach": 1.7,
+      "reach": 9.7,
       "repeat": 0.0,
       "community_notes": 0.0
     },
     "total_posts": 4,
     "flagged_posts": 0,
     "top_fake": {
-      "text": "Czyli wynagrodzenie miało być w starych złotych, ale zaszła pomyłka i wypłacono w nowych",
-      "url": "https://x.com/kuba_w/status/2070254537609212351",
-      "views": 2393,
+      "text": "@krzysztofbosak @RuchNarodowy .@krzysztofbosak:Potrzebujemy kontroli napływu imigracji,selekcji i określenia warunków,na jakich zgadzamy się kogokolwiek przyjąć.Mamy tutaj gości.Ale nie możemy stawiać",
+      "url": "https://x.com/AnnaSiarkowska/status/1933866946719621243",
+      "views": 1931,
       "verdicts": [
         {
-          "claim": "Wynagrodzenie miało być wypłacone w jednostce określanej jako stare złote.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie istnieją wiarygodne publicznie dostępne źródła potwierdzające, że wynagrodzenie było planowane do wypłaty w jednostce określanej jako \"stare złote\". Termin \"stare złote\" jest potocznym odniesieniem historycznym do polskiej waluty przed denominacją z 1995 roku i nie jest obecnie ani oficjalną jednostką rozliczeniową, ani stosowaną w wynagrodzeniach. Brak danych w oficjalnych i renomowanych źródłach prasowych lub finansowych dotyczących takiego sposobu wypłaty wynagrodzeń."
+          "claim": "Krzysztof Bosak wypowiedział się na temat potrzeby kontroli napływu imigracji, selekcji oraz określenia warunków przyjmowania imigrantów.",
+          "verdict": "TRUE",
+          "evidence_summary": "Krzysztof Bosak, jako polityk znany z partii Konfederacja, wielokrotnie w mediach i publicznych wystąpieniach wyrażał potrzebę kontroli napływu imigrantów, w tym selekcji oraz określenia warunków przyjmowania cudzoziemców. Jego stanowisko jest dobrze udokumentowane w licznych wywiadach i materiałach medialnych."
         },
         {
-          "claim": "Wypłacono wynagrodzenie w jednostce określanej jako nowe złote, co było pomyłką.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono publicznie dostępnych informacji w polskich źródłach potwierdzających, że doszło do wypłaty wynagrodzeń w jednostce zwanej 'nowe złote' będącej pomyłką. Nie istnieją oficjalne raporty ani doniesienia medialne dotyczące takiego zdarzenia do czerwca 2026 roku."
+          "claim": "W Polsce przebywają osoby określane jako goście.",
+          "verdict": "TRUE",
+          "evidence_summary": "W Polsce, zwłaszcza w kontekście migracji czy wydarzeń społecznych, czasem używa się określenia 'goście' na osoby przybywające tymczasowo czy na zaproszenie, co można potwierdzić w mediach oraz wypowiedziach publicznych. Termin ten jest stosunkowo szeroki i odnosi się w różnych kontekstach do osób przebywających czasowo lub odwiedzających Polskę."
         }
       ]
     },
@@ -1640,46 +3286,14 @@
       "cherry_picking"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 5
+      "TRUE": 8,
+      "UNVERIFIABLE": 2,
+      "MOSTLY_TRUE": 1
     },
-    "total_views": 7456,
-    "total_rts": 0,
+    "total_views": 47264,
+    "total_rts": 14,
     "community_notes_count": 0,
-    "rank": 38
-  },
-  {
-    "handle": "@donaldtusk",
-    "score": 9.8,
-    "sub_scores": {
-      "falsehood": 3.3,
-      "technique": 0.0,
-      "reach": 86.3,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 4,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Setki liderów i tysiące szans dla polskich firm. Trwa #URC2026. https://t.co/fbyzd7HDln",
-      "url": "https://x.com/donaldtusk/status/2070077535077982454",
-      "views": 200104,
-      "verdicts": [
-        {
-          "claim": "W trakcie #URC2026 uczestniczy setki liderów oraz istnieje tysiące możliwości dla polskich firm.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie znaleziono dostępnych publicznie, szczegółowych danych ani oficjalnych raportów potwierdzających liczbę uczestniczących liderów ani dokładną liczbę możliwości dla polskich firm podczas wydarzenia #URC2026, prawdopodobnie ze względu na niedawny termin wydarzenia (czerwiec 2026)."
-        }
-      ]
-    },
-    "techniques": [],
-    "verdicts_summary": {
-      "TRUE": 2,
-      "UNVERIFIABLE": 2
-    },
-    "total_views": 568605,
-    "total_rts": 4740,
-    "community_notes_count": 0,
-    "rank": 39
+    "rank": 74
   },
   {
     "handle": "@szachmad",
@@ -1719,60 +3333,19 @@
     "total_views": 60675,
     "total_rts": 326,
     "community_notes_count": 0,
-    "rank": 40
-  },
-  {
-    "handle": "@KotulaKat",
-    "score": 8.1,
-    "sub_scores": {
-      "falsehood": 7.5,
-      "technique": 15.0,
-      "reach": 9.8,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 4,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Przyjęte ‼️\n\nSenat właśnie przegłosował ustawę o statusie osoby najbliższej w związku wraz z przepisami wprowadzającymi!\n\nPierwszy raz w historii ustawa dot. formalizacji związków par jednopłciowych z",
-      "url": "https://x.com/KotulaKat/status/2070110705471115366",
-      "views": 19064,
-      "verdicts": [
-        {
-          "claim": "Senat przegłosował ustawę o statusie osoby najbliższej w związku wraz z przepisami wprowadzającymi.",
-          "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych informacji z polskich źródeł publicznych dotyczących przegłosowania przez Senat ustawy o statusie osoby najbliższej w związku wraz z przepisami wprowadzającymi na dzień 25 czerwca 2026. W związku z datą przyszłą, brak potwierdzenia lub zaprzeczenia tej informacji jest możliwy."
-        },
-        {
-          "claim": "Po raz pierwszy w historii ustawa dotycząca formalizacji związków par jednopłciowych została przyjęta przez Rząd, Sejm i Senat.",
-          "verdict": "TRUE",
-          "evidence_summary": "Do tej pory w Polsce nie została uchwalona żadna ustawa formalizująca związki jednopłciowe na poziomie Rządu, Sejmu i Senatu. Propozycje związane z formalizacją związków jednopłciowych były zgłaszane, ale nie przechodziły pełnej procedury ustawodawczej. W 2026 roku po raz pierwszy taka ustawa została przyjęta przez wszystkie trzy instytucje."
-        }
-      ]
-    },
-    "techniques": [
-      "cherry_picking"
-    ],
-    "verdicts_summary": {
-      "UNVERIFIABLE": 13,
-      "TRUE": 2
-    },
-    "total_views": 47614,
-    "total_rts": 172,
-    "community_notes_count": 0,
-    "rank": 41
+    "rank": 75
   },
   {
     "handle": "@RBakiewicz",
-    "score": 8.1,
+    "score": 7.7,
     "sub_scores": {
-      "falsehood": 7.5,
-      "technique": 15.0,
-      "reach": 9.6,
+      "falsehood": 6.9,
+      "technique": 14.0,
+      "reach": 10.6,
       "repeat": 0.0,
       "community_notes": 0.0
     },
-    "total_posts": 4,
+    "total_posts": 5,
     "flagged_posts": 0,
     "top_fake": {
       "text": "Składamy zawiadomienie do prokuratury na władze Zamościa! To odpowiedź na bezprawne wyrzucenie z sesji Rady Miasta (26.05.2925 r.) posła, radnych i mieszkańców. Władza przekroczyła uprawnienia wobec o",
@@ -1795,93 +3368,55 @@
       "confabulation"
     ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 8,
-      "TRUE": 2,
+      "UNVERIFIABLE": 9,
+      "TRUE": 3,
       "MOSTLY_TRUE": 1
     },
-    "total_views": 45780,
-    "total_rts": 1206,
+    "total_views": 50690,
+    "total_rts": 1317,
     "community_notes_count": 0,
-    "rank": 42
+    "rank": 76
   },
   {
-    "handle": "@JSaryuszWolski",
-    "score": 2.6,
+    "handle": "@a_dziemianowicz",
+    "score": 6.8,
     "sub_scores": {
-      "falsehood": 6.6,
-      "technique": 0.0,
-      "reach": 2.5,
+      "falsehood": 5.3,
+      "technique": 13.3,
+      "reach": 9.6,
       "repeat": 0.0,
       "community_notes": 0.0
     },
-    "total_posts": 4,
+    "total_posts": 6,
     "flagged_posts": 0,
     "top_fake": {
-      "text": "„Czy Ukraina powinna wejść do UE? Polacy zabrali głos [SONDAŻ]\n\n35,3 proc. ankietowanych w sondażu IBRiS na zlecenie Radia Zet opowiada się za wejściem Ukrainy do UE,\n\n59,7 proc. jest temu przeciwna,\n",
-      "url": "https://x.com/JSaryuszWolski/status/2070053146601181305",
-      "views": 2661,
+      "text": "16 dni 🗓️\nZegar tyka, a do wejścia w życie ustawy o Państwowej Inspekcji Pracy i walce ze śmieciówkami zostało niewiele czasu. Warto, by wiedziało o niej jak najwięcej osób, ale jak pokazał dzisiejszy",
+      "url": "https://x.com/a_dziemianowicz/status/2069137219307045269",
+      "views": 2329,
       "verdicts": [
         {
-          "claim": "W sondażu IBRiS przeprowadzonym na zlecenie Radia Zet, 35,3% ankietowanych opowiedziało się za wejściem Ukrainy do UE.",
+          "claim": "Wejście w życie ustawy o Państwowej Inspekcji Pracy i walce ze śmieciówkami jest planowane niebawem.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Brak dostępnych publicznie wyników sondażu IBRiS na zlecenie Radia Zet z czerwca 2026 roku, które potwierdzałyby, że 35,3% ankietowanych popiera wejście Ukrainy do UE. Nie znaleziono wiarygodnych polskich źródeł ani archiwów sondażowych potwierdzających to konkretne dane i datę."
+          "evidence_summary": "Nie znaleziono publicznie dostępnych aktualnych źródeł potwierdzających istnienie konkretnej ustawy dotyczącej Państwowej Inspekcji Pracy i walce ze śmieciówkami, której wejście w życie jest planowane niebawem. Informacje o takich przepisach i ich harmonogramach nie są dostępne w oficjalnych komunikatach rządowych ani w serwisach informacyjnych do czerwca 2026."
         },
         {
-          "claim": "W badaniu opinii publicznej 59,7% respondentów było przeciwnych wejściu Ukrainy do Unii Europejskiej.",
+          "claim": "W Płocku w danym dniu odbyły się wydarzenia związane z ustawą o Państwowej Inspekcji Pracy.",
           "verdict": "UNVERIFIABLE",
-          "evidence_summary": "Nie udało się znaleźć aktualnych, polskich, wiarygodnych sondaży z dokładną wartością 59,7% przeciwnych wejściu Ukrainy do UE w dostępnych źródłach publicznych. Niektóre wcześniejsze sondaże różniły się znacznie wartościami poparcia i sprzeciwu dotyczącego Ukrainy i UE, ale brak potwierdzenia dla dokładnej liczby 59,7%."
+          "evidence_summary": "Brak dostępnych publicznie informacji lub doniesień medialnych o wydarzeniach dotyczących ustawy o Państwowej Inspekcji Pracy, które miałyby miejsce w Płocku w dniu 22 czerwca 2026 roku. Nie odnaleziono polskich źródeł potwierdzających taką aktywność w tym dniu i miejscu."
         }
       ]
     },
-    "techniques": [],
+    "techniques": [
+      "cherry_picking"
+    ],
     "verdicts_summary": {
-      "UNVERIFIABLE": 12,
-      "TRUE": 2,
-      "MOSTLY_TRUE": 2
+      "UNVERIFIABLE": 15,
+      "TRUE": 7,
+      "MOSTLY_TRUE": 11
     },
-    "total_views": 11046,
-    "total_rts": 226,
+    "total_views": 46216,
+    "total_rts": 96,
     "community_notes_count": 0,
-    "rank": 43
-  },
-  {
-    "handle": "@motykamilosz",
-    "score": 1.0,
-    "sub_scores": {
-      "falsehood": 2.7,
-      "technique": 0.0,
-      "reach": 1.1,
-      "repeat": 0.0,
-      "community_notes": 0.0
-    },
-    "total_posts": 3,
-    "flagged_posts": 0,
-    "top_fake": {
-      "text": "Podczas spotkania z pierwszym Wicepremierem i Ministrem Energii Ukrainy @Denys_Shmyhal rozmawialiśmy o współpracy w sektorze energii, bezpieczeństwie infrastruktury krytycznej oraz nowych projektach, ",
-      "url": "https://x.com/motykamilosz/status/2070040536782631121",
-      "views": 1566,
-      "verdicts": [
-        {
-          "claim": "Odbyło się spotkanie, na którym rozmawiano o współpracy między Polską a Ukrainą w sektorze energii.",
-          "verdict": "TRUE",
-          "evidence_summary": "Według dostępnych publicznie informacji i komunikatów rządowych z czerwca 2026 roku, faktycznie miało miejsce spotkanie przedstawicieli Polski oraz pierwszego Wicepremiera i Ministra Energii Ukrainy Denysa Szmyhala, podczas którego omawiano współpracę w sektorze energii. Oficjalne źródła polskie oraz ukraińskie potwierdzają takie rozmowy w kontekście geopolityki i energetyki."
-        },
-        {
-          "claim": "Odbyła się rozmowa dotycząca bezpieczeństwa infrastruktury krytycznej między przedstawicielami Polski i Ukrainy.",
-          "verdict": "MOSTLY_TRUE",
-          "evidence_summary": "Publiczne komunikaty i raporty z czerwca 2026 wskazują na serię spotkań dyplomatycznych między Polską a Ukrainą, w trakcie których poruszano kwestie bezpieczeństwa, w tym aspekty dotyczące infrastruktury krytycznej. Brak jednak szczegółowych, jawnych raportów potwierdzających konkretną rozmowę z dokładną datą wskazaną w twierdzeniu."
-        }
-      ]
-    },
-    "techniques": [],
-    "verdicts_summary": {
-      "TRUE": 9,
-      "UNVERIFIABLE": 3,
-      "MOSTLY_TRUE": 3
-    },
-    "total_views": 3567,
-    "total_rts": 47,
-    "community_notes_count": 0,
-    "rank": 44
+    "rank": 77
   }
 ]
